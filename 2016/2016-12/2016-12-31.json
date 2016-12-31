@@ -1,0 +1,56 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20161230", 
+                "urlbase": "/az/hprichbg/rb/WinterOwls_ZH-CN11633542284", 
+                "fullstartdate": "201612301600", 
+                "copyright": "北海道的一对长尾林鸮，日本 (© JTB Media Creation, Inc./Alamy Stock Photo)", 
+                "url": "/az/hprichbg/rb/WinterOwls_ZH-CN11633542284_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ac9d67dfa30004369403ada3963eca1e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20161230_WinterOwls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%95%BF%E5%B0%BE%E6%9E%97%E9%B8%AE&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20161231", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20161230", 
+                "urlbase": "/az/hprichbg/rb/ZellerHorn_EN-US7500162477", 
+                "fullstartdate": "201612300800", 
+                "copyright": "Hohenzollern Castle near Stuttgart, Germany (© Jürgen Eisele/500px)", 
+                "url": "/az/hprichbg/rb/ZellerHorn_EN-US7500162477_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fe7c08877c8c87039cd363b36ea0e2d4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20161230_ZellerHorn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Hohenzollern+Castle&form=hpcapt&filters=HpDate:%2220161230_0800%22", 
+                "wp": true, 
+                "enddate": "20161231", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "previous": "Previous image"
+        }
+    }
+}
