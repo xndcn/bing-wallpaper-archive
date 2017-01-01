@@ -1,0 +1,56 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20161231", 
+                "urlbase": "/az/hprichbg/rb/HongKongEye_ZH-CN12285832688", 
+                "fullstartdate": "201612311600", 
+                "copyright": "【今日元旦】在“香港眼”摩天轮上跨年，香港 (© Garan Jay/500px)", 
+                "url": "/az/hprichbg/rb/HongKongEye_ZH-CN12285832688_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c2e007c9174a4edb55b0f58b35a2446c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20161231_HongKongEye%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%85%83%E6%97%A6&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170101", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20161231", 
+                "urlbase": "/az/hprichbg/rb/SydneyHarbourFireworks_EN-US10474110680", 
+                "fullstartdate": "201612310800", 
+                "copyright": "New Year’s Eve fireworks above the Sydney Harbour Bridge in Sydney, Australia (© James D. Morgan/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/SydneyHarbourFireworks_EN-US10474110680_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "76e351465e22f635f9023e19ebe83b57", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20161231_SydneyHarbourFireworks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Sydney+Harbour+Bridge+Australia&form=hpcapt&filters=HpDate:%2220161231_0800%22", 
+                "wp": false, 
+                "enddate": "20170101", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "previous": "Previous image"
+        }
+    }
+}
