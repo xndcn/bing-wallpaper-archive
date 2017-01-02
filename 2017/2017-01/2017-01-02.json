@@ -1,0 +1,56 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170101", 
+                "urlbase": "/az/hprichbg/rb/CabinetClimber_ZH-CN8091149480", 
+                "fullstartdate": "201701011600", 
+                "copyright": "一位登山爱好者正在征服Cabinet山峰，蒙大拿州 (© Steven Gnam/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/CabinetClimber_ZH-CN8091149480_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d9f599608daeaf3e2d8b31639bd95bfc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170101_CabinetClimber%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Cabinet+Mountains&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170102", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170101", 
+                "urlbase": "/az/hprichbg/rb/WinterOwls_EN-US11633542284", 
+                "fullstartdate": "201701010800", 
+                "copyright": "Pair of Ural owls in Hokkaido, Japan (© JTB Media Creation, Inc./Alamy)", 
+                "url": "/az/hprichbg/rb/WinterOwls_EN-US11633542284_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ec4c73416e2864c600124d0f3dcb8641", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170101_WinterOwls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Ural+owl&form=hpcapt&filters=HpDate:%2220170101_0800%22", 
+                "wp": false, 
+                "enddate": "20170102", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "previous": "Previous image"
+        }
+    }
+}
