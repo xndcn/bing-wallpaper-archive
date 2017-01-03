@@ -1,0 +1,56 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170102", 
+                "urlbase": "/az/hprichbg/rb/CarWash_ZH-CN12705750866", 
+                "fullstartdate": "201701021600", 
+                "copyright": "图卢姆附近的Aktun Ha 水井的水底视角，金塔纳罗奥，墨西哥 (© Christian Vizl/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/CarWash_ZH-CN12705750866_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "040b7e23c0c5b84a20ab59fe73a50225", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170102_CarWash%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Aktun+Ha+cenote&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170103", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170102", 
+                "urlbase": "/az/hprichbg/rb/CabinetClimber_EN-US9427872819", 
+                "fullstartdate": "201701020800", 
+                "copyright": "A climber in the Cabinet Mountains Wilderness in Montana (© Steven Gnam/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/CabinetClimber_EN-US9427872819_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b8945e9a1911085c747daeda9235693b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170102_CabinetClimber%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Cabinet+Mountains+Wilderness&form=hpcapt&filters=HpDate:%2220170102_0800%22", 
+                "wp": true, 
+                "enddate": "20170103", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "previous": "Previous image"
+        }
+    }
+}
