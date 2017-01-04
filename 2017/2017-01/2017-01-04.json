@@ -1,0 +1,56 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170103", 
+                "urlbase": "/az/hprichbg/rb/LakeWakapitu_ZH-CN11335950566", 
+                "fullstartdate": "201701031600", 
+                "copyright": "皇后镇附近的瓦卡蒂普湖，新西兰 (© Raimondo Restelli/500px)", 
+                "url": "/az/hprichbg/rb/LakeWakapitu_ZH-CN11335950566_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7bb1010551c1249bade6c21b64f5d14b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170103_LakeWakapitu%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%93%A6%E5%8D%A1%E8%92%82%E6%99%AE%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170104", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170103", 
+                "urlbase": "/az/hprichbg/rb/CarWash_EN-US12345682830", 
+                "fullstartdate": "201701030800", 
+                "copyright": "An underwater view of Aktun Ha cenote near Tulum, Quintana Roo, Mexico (© Christian Vizl/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/CarWash_EN-US12345682830_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fd36579628ecd2145b8c4399776e5c9e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170103_CarWash%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=aktun+ha+cenote&form=hpcapt&filters=HpDate:%2220170103_0800%22", 
+                "wp": true, 
+                "enddate": "20170104", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "previous": "Previous image"
+        }
+    }
+}
