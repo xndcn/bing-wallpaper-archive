@@ -1,0 +1,56 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170104", 
+                "urlbase": "/az/hprichbg/rb/MacawFlight_ZH-CN10427294606", 
+                "fullstartdate": "201701041600", 
+                "copyright": "蓝黄相间的金刚鹦鹉在亚马逊雨林上空飞行， 巴西 (© Nicky van Veenendaal/500px)", 
+                "url": "/az/hprichbg/rb/MacawFlight_ZH-CN10427294606_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "465651bd112f2d3aace7623b3616866e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170104_MacawFlight%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BA%9A%E9%A9%AC%E9%80%8A%E9%9B%A8%E6%9E%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170105", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170104", 
+                "urlbase": "/az/hprichbg/rb/LakeWakapitu_EN-US11634817642", 
+                "fullstartdate": "201701040800", 
+                "copyright": "Lake Wakatipu near Queenstown, New Zealand (© Raimondo Restelli/500px)", 
+                "url": "/az/hprichbg/rb/LakeWakapitu_EN-US11634817642_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c78d96b3fa81156014014e6d99d18ebe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170104_LakeWakapitu%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=lake+wakatipu+new+zealand&form=hpcapt&filters=HpDate:%2220170104_0800%22", 
+                "wp": true, 
+                "enddate": "20170105", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "previous": "Previous image"
+        }
+    }
+}
