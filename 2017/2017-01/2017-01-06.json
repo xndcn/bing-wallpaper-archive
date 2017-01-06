@@ -1,0 +1,56 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170105", 
+                "urlbase": "/az/hprichbg/rb/RoyalBarge_ZH-CN8556739705", 
+                "fullstartdate": "201701051600", 
+                "copyright": "大湖上的卡拉威宫驳船，仰光，缅甸 (© Etakundoy/Shutterstock)", 
+                "url": "/az/hprichbg/rb/RoyalBarge_ZH-CN8556739705_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "aca4ee9406da4963dc6c7c5fcb8aaf87", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170105_RoyalBarge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8D%A1%E6%8B%89%E5%A8%81%E5%AE%AB&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170106", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170105", 
+                "urlbase": "/az/hprichbg/rb/MacawFlight_EN-US9275204017", 
+                "fullstartdate": "201701050800", 
+                "copyright": "Blue-and-yellow macaws flying over the Amazon rainforest in Brazil (© Nicky van Veenendaal/500px)", 
+                "url": "/az/hprichbg/rb/MacawFlight_EN-US9275204017_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "791a86d5b792015effc20ef0208a2989", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170105_MacawFlight%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=blue-and-yellow+macaw&form=hpcapt&filters=HpDate:%2220170105_0800%22", 
+                "wp": true, 
+                "enddate": "20170106", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "previous": "Previous image"
+        }
+    }
+}
