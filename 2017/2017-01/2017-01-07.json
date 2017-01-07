@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170106", 
+                "urlbase": "/az/hprichbg/rb/CalevCoyote_ZH-CN8657167059", 
+                "fullstartdate": "201701061600", 
+                "copyright": "Marymoor国家公园的一匹土狼，雷德蒙德，华盛顿州 (© Joseph Calev)", 
+                "url": "/az/hprichbg/rb/CalevCoyote_ZH-CN8657167059_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8939a5585e6ab0d6fc3aec3c004f2ad4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170106_CalevCoyote%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Marymoor+Park&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170107", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170106", 
+                "urlbase": "/az/hprichbg/rb/RoyalBarge_EN-US7484780716", 
+                "fullstartdate": "201701060800", 
+                "copyright": "Karaweik Palace on Kandawgyi Lake, Yangon, Myanmar (© Etakundoy/Shutterstock)", 
+                "url": "/az/hprichbg/rb/RoyalBarge_EN-US7484780716_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c9c22cdd5e4d9a791e0cbba00339323a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170106_RoyalBarge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Karaweik&form=hpcapt&filters=HpDate:%2220170106_0800%22", 
+                "wp": true, 
+                "enddate": "20170107", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
