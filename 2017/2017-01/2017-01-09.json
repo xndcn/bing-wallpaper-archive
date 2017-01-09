@@ -1,0 +1,84 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170108", 
+                "urlbase": "/az/hprichbg/rb/RossFountain_ZH-CN11490955168", 
+                "fullstartdate": "201701081600", 
+                "vid": {
+                    "caption": "视频：维多利亚宝翠花园的罗斯喷泉，不列颠哥伦比亚省，加拿大 (© Eileen Seto/Tandem Stills + Motion)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/RossFountain_ButchartGardens_TandemStockRM_74975064_FF_768_HD_ZH-CN1817381851.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/RossFountain_ButchartGardens_TandemStockRM_74975064_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/RossFountain_ButchartGardens_TandemStockRM_74975064_1080_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/RossFountain_ButchartGardens_TandemStockRM_74975064_mobile_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": true
+                }, 
+                "copyright": "维多利亚宝翠花园的罗斯喷泉，不列颠哥伦比亚省，加拿大 (© Reimar 8/Alamy)", 
+                "url": "/az/hprichbg/rb/RossFountain_ZH-CN11490955168_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f1105760e385671f84ab4fedaec6f8b2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170108_RossFountain%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%AE%9D%E7%BF%A0%E8%8A%B1%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170108", 
+                "urlbase": "/az/hprichbg/rb/TrakaiIslandCastle_EN-US13260881447", 
+                "fullstartdate": "201701080800", 
+                "copyright": "Trakai Island Castle in Trakai, Lithuania (© Conor MacNeill/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/TrakaiIslandCastle_EN-US13260881447_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "818205cf0926c015999d9c7d141f2759", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170108_TrakaiIslandCastle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Trakai+Island+Castle&form=hpcapt&filters=HpDate:%2220170108_0800%22", 
+                "wp": true, 
+                "enddate": "20170109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
