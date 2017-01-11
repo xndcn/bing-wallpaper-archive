@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170110", 
+                "urlbase": "/az/hprichbg/rb/NASAEgypt_ZH-CN10985844646", 
+                "fullstartdate": "201701101600", 
+                "copyright": "埃及南部的灌溉系统 (© NASA Images)", 
+                "url": "/az/hprichbg/rb/NASAEgypt_ZH-CN10985844646_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c7649023ab0bf7d6b13fd0ba72b9703c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170110_NASAEgypt%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9F%83%E5%8F%8A%E7%9A%84%E7%81%8C%E6%BA%89%E5%86%9C%E4%B8%9A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170111", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170110", 
+                "urlbase": "/az/hprichbg/rb/EifelNPBelgium_EN-US13320978952", 
+                "fullstartdate": "201701100800", 
+                "copyright": "Eifel National Park, North Rhine-Westphalia, Germany (© Danny Laps/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/EifelNPBelgium_EN-US13320978952_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9d34afda76035bf2d16361863442de25", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170110_EifelNPBelgium%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=eifel+national+park&form=hpcapt&filters=HpDate:%2220170110_0800%22", 
+                "wp": true, 
+                "enddate": "20170111", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
