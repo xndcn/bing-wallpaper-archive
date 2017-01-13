@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170112", 
+                "urlbase": "/az/hprichbg/rb/MacaquesWulingyuan_ZH-CN8705472129", 
+                "fullstartdate": "201701121600", 
+                "copyright": "张家界附近武陵源旷野里的几只恒河猴，中国 (© Xinhua News Agency/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/MacaquesWulingyuan_ZH-CN8705472129_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8064f27352f8db6862304cbb713d78b0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170112_MacaquesWulingyuan%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%81%92%E6%B2%B3%E7%8C%B4&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170113", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170112", 
+                "urlbase": "/az/hprichbg/rb/TempleOfValadier_EN-US13731018326", 
+                "fullstartdate": "201701120800", 
+                "copyright": "Temple of Valadier, Genga, Italy (© Westend61/Getty Images)", 
+                "url": "/az/hprichbg/rb/TempleOfValadier_EN-US13731018326_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b9acd5de68b9f65113d9659feba55aa5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170112_TempleOfValadier%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Sanctuary+of+Santa+Maria+infra+Saxa,+Genga&form=hpcapt&filters=HpDate:%2220170112_0800%22", 
+                "wp": true, 
+                "enddate": "20170113", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
