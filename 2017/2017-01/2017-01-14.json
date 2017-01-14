@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170113", 
+                "urlbase": "/az/hprichbg/rb/KongdeRi_ZH-CN11743396085", 
+                "fullstartdate": "201701131600", 
+                "copyright": "在南崎巴札小镇上方矗立的Kongde Ri山峰，萨加玛塔国家公园，尼泊尔 (© Andrew Peacock/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/KongdeRi_ZH-CN11743396085_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "579516fef1ed7eac2f1d1a6d80b2cc6f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170113_KongdeRi%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%90%A8%E5%8A%A0%E7%8E%9B%E5%A1%94%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170114", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170113", 
+                "urlbase": "/az/hprichbg/rb/MacaquesWulingyuan_EN-US8705472129", 
+                "fullstartdate": "201701130800", 
+                "copyright": "Rhesus macaques in the Wulingyuan wilderness near Zhangjiajie, China (© Xinhua News Agency/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/MacaquesWulingyuan_EN-US8705472129_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2dc9cf46dedcfcc368fdeacecb8020ae", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170113_MacaquesWulingyuan%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=rhesus+macaque&form=hpcapt&filters=HpDate:%2220170113_0800%22", 
+                "wp": false, 
+                "enddate": "20170114", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
