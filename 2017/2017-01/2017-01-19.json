@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170118", 
+                "urlbase": "/az/hprichbg/rb/MinervaTerrace_ZH-CN10705203937", 
+                "fullstartdate": "201701181600", 
+                "copyright": "猛犸热泉的密涅瓦梯田，黄石国家公园，怀俄明州 (© Tim Fitzharris/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/MinervaTerrace_ZH-CN10705203937_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bcd128d8691dc02752f1b0e15783f3a3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170118_MinervaTerrace%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%8C%9B%E7%8A%B8%E7%83%AD%E6%B3%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170119", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170118", 
+                "urlbase": "/az/hprichbg/rb/MountOTemanu_EN-US11058551524", 
+                "fullstartdate": "201701180800", 
+                "copyright": "Bora Bora in the Leeward Islands of French Polynesia (© Frans Lanting/Getty Images)", 
+                "url": "/az/hprichbg/rb/MountOTemanu_EN-US11058551524_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8c94fdd4c4060ab281c6ef0e706a899a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170118_MountOTemanu%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Bora+Bora&form=hpcapt&filters=HpDate:%2220170118_0800%22", 
+                "wp": true, 
+                "enddate": "20170119", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
