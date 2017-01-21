@@ -1,0 +1,110 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170120", 
+                "urlbase": "/az/hprichbg/rb/GentooPenguinVideo_ZH-CN9979103072", 
+                "fullstartdate": "201701201600", 
+                "vid": {
+                    "caption": "视频：南极洲的一只巴布亚企鹅 (© Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/Gentoo_Penguin_Ant_GettyRM_457842164_FF_768_HD_ZH-CN302290565.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Gentoo_Penguin_Ant_GettyRM_457842164_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Gentoo_Penguin_Ant_GettyRM_457842164_1080_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Gentoo_Penguin_Ant_GettyRM_457842164_mobile_360_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": true
+                }, 
+                "copyright": "库佛维尔岛的巴布亚企鹅，南极洲 (© Ben Cranke/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/GentooPenguinVideo_ZH-CN9979103072_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "af2caae3e0176ce3e1cc7e95b3a03e41", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170120_GentooPenguinVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B7%B4%E5%B8%83%E4%BA%9A%E4%BC%81%E9%B9%85&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170121", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170120", 
+                "urlbase": "/az/hprichbg/rb/MontBlancVideo_EN-US9230432404", 
+                "fullstartdate": "201701200800", 
+                "vid": {
+                    "caption": "The Mont Blanc massif, photographed from Mont Salève, France (© Niggli/Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/Mont_Blanc_Massif_nimia_336200_FF_768_HD_EN-US861318584.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Mont_Blanc_Massif_nimia_336200_4K_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Mont_Blanc_Massif_nimia_336200_4K_1080_HD_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Mont_Blanc_Massif_nimia_336200_mobile_360_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=Mont+Blanc+Massif&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "The Mont Blanc massif, seen from Mont Salève, France (© Niggli/Nimia)", 
+                "url": "/az/hprichbg/rb/MontBlancVideo_EN-US9230432404_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2f01ee2fe6e2c5decd5caf3167b818b6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170120_MontBlancVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Mont+Blanc+Massif&form=hpcapt&filters=HpDate:%2220170120_0800%22", 
+                "wp": false, 
+                "enddate": "20170121", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
