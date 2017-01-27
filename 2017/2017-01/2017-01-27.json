@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170126", 
+                "urlbase": "/az/hprichbg/rb/Chopstics_ZH-CN11978203109", 
+                "fullstartdate": "201701261600", 
+                "copyright": "红筷子和蒸笼，中国 (© Dudley Wood/Alamy Stock Photo)", 
+                "url": "/az/hprichbg/rb/Chopstics_ZH-CN11978203109_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8e9f237a00eba3168380ff8f9d779298", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170126_Chopstics%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E7%AD%B7%E5%AD%90&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170127", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170126", 
+                "urlbase": "/az/hprichbg/rb/GBRISS_EN-US8432887380", 
+                "fullstartdate": "201701260800", 
+                "copyright": "The Great Barrier Reef photographed from the International Space Station (© NASA)", 
+                "url": "/az/hprichbg/rb/GBRISS_EN-US8432887380_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2cc9a34ac9139f1c9f8d8f06525688ca", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170126_GBRISS%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Great+Barrier+Reef&form=hpcapt&filters=HpDate:%2220170126_0800%22", 
+                "wp": true, 
+                "enddate": "20170127", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
