@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170127", 
+                "urlbase": "/az/hprichbg/rb/ChineseGoldenPheasant_ZH-CN12693021758", 
+                "fullstartdate": "201701271600", 
+                "copyright": "一只雄性红腹锦鸡 (© Darlyne A. Murawski/Getty Images)", 
+                "url": "/az/hprichbg/rb/ChineseGoldenPheasant_ZH-CN12693021758_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cae742fada078f68460387f5752c98ed", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170127_ChineseGoldenPheasant%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BA%A2%E8%85%B9%E9%94%A6%E9%B8%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170128", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170127", 
+                "urlbase": "/az/hprichbg/rb/VillersAbbey_EN-US10350783163", 
+                "fullstartdate": "201701270800", 
+                "copyright": "Villers Abbey in Villers-la-Ville, Belgium (© Patty Piturlea/500px)", 
+                "url": "/az/hprichbg/rb/VillersAbbey_EN-US10350783163_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5dac5e50c604da7569eb752067b18e8d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170127_VillersAbbey%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Villers+Abbey&form=hpcapt&filters=HpDate:%2220170127_0800%22", 
+                "wp": true, 
+                "enddate": "20170128", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
