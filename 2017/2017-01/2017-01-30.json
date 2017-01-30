@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170129", 
+                "urlbase": "/az/hprichbg/rb/SpringCouplet_ZH-CN16366435588", 
+                "fullstartdate": "201701291600", 
+                "copyright": "中国传统木门上的对联 (© Keren Su/Getty Images)", 
+                "url": "/az/hprichbg/rb/SpringCouplet_ZH-CN16366435588_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fe4da80135a3ef8520eda7234262f744", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170129_SpringCouplet%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%AF%B9%E6%98%A5%E8%81%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170130", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170129", 
+                "urlbase": "/az/hprichbg/rb/BarrelCactus_EN-US10497409936", 
+                "fullstartdate": "201701290800", 
+                "copyright": "A giant barrel cactus and yucca plants in the Chihuahuan Desert, Mexico (© Patricio Robles Gil/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/BarrelCactus_EN-US10497409936_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0b036da547bfa1bb4aad547ddddba4d7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170129_BarrelCactus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=echinocactus+platyacanthus&form=hpcapt&filters=HpDate:%2220170129_0800%22", 
+                "wp": true, 
+                "enddate": "20170130", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
