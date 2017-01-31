@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170130", 
+                "urlbase": "/az/hprichbg/rb/FlameTowers_ZH-CN10904980589", 
+                "fullstartdate": "201701301600", 
+                "copyright": "火焰大厦和它的轮廓线，阿塞拜疆巴库 (© railelectropower/Getty Images)", 
+                "url": "/az/hprichbg/rb/FlameTowers_ZH-CN10904980589_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d02446e50e9c6c3d4e6f26314e33058d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170130_FlameTowers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Aktun+Ha+cenote&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170131", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170130", 
+                "urlbase": "/az/hprichbg/rb/DovrefjellMuskox_EN-US13957674933", 
+                "fullstartdate": "201701300800", 
+                "copyright": "A muskox and her calf in Dovrefjell-Sunndalsfjella National Park, Norway (© Christina Krutz/Getty Images)", 
+                "url": "/az/hprichbg/rb/DovrefjellMuskox_EN-US13957674933_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2b22e5518f9e0f72c400c524e328efd1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170130_DovrefjellMuskox%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=muskox&form=hpcapt&filters=HpDate:%2220170130_0800%22", 
+                "wp": true, 
+                "enddate": "20170131", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
