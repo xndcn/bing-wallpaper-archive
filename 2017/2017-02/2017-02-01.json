@@ -1,0 +1,85 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170131", 
+                "urlbase": "/az/hprichbg/rb/GBRISS_ZH-CN10195808313", 
+                "fullstartdate": "201701311600", 
+                "copyright": "从国际空间站拍摄的大堡礁 (© NASA)", 
+                "url": "/az/hprichbg/rb/GBRISS_ZH-CN10195808313_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b724d74ad48a23b474ccaa46fc0421b4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170131_GBRISS%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%A7%E5%A0%A1%E7%A4%81&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170201", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170131", 
+                "urlbase": "/az/hprichbg/rb/GentooPenguinVideo_EN-US9979103072", 
+                "fullstartdate": "201701310800", 
+                "vid": {
+                    "caption": "Gentoo penguins in Antarctica (© Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/Gentoo_Penguin_Ant_GettyRM_457842164_FF_768_HD_EN-US388870469.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Gentoo_Penguin_Ant_GettyRM_457842164_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Gentoo_Penguin_Ant_GettyRM_457842164_1080_HD_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Gentoo_Penguin_Ant_GettyRM_457842164_mobile_360_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=Gentoo+penguin+&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Gentoo penguin on Cuverville Island, Antarctica (© Ben Cranke/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/GentooPenguinVideo_EN-US9979103072_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2986290439181d921dee315e9d1c1619", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170131_GentooPenguinVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Gentoo+penguin+&form=hpcapt&filters=HpDate:%2220170131_0800%22", 
+                "wp": false, 
+                "enddate": "20170201", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
