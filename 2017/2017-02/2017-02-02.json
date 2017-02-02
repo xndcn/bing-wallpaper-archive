@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170201", 
+                "urlbase": "/az/hprichbg/rb/ScottishSquirrel_ZH-CN11794261635", 
+                "fullstartdate": "201702011600", 
+                "copyright": "苏格兰凯恩戈姆国家公园里的一只欧亚红松鼠，苏格兰 (© Sue Demetriou/Offset)", 
+                "url": "/az/hprichbg/rb/ScottishSquirrel_ZH-CN11794261635_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3278ed9cd501d59702a7995c62f712bc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170201_ScottishSquirrel%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E7%BA%A2%E6%9D%BE%E9%BC%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170202", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170201", 
+                "urlbase": "/az/hprichbg/rb/NMAAHC_EN-US11886970780", 
+                "fullstartdate": "201702010800", 
+                "copyright": "The Smithsonian Institution's National Museum of African American History and Culture in Washington, DC (© Jahi Chikwendiu/The Washington Post via Getty Images)", 
+                "url": "/az/hprichbg/rb/NMAAHC_EN-US11886970780_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ea836dfc6f0fd0f41250eb5b2576cc4f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170201_NMAAHC%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=national+museum+of+african+american+history+and+culture&form=hpcapt&filters=HpDate:%2220170201_0800%22", 
+                "wp": false, 
+                "enddate": "20170202", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
