@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170205", 
+                "urlbase": "/az/hprichbg/rb/TowerofLight_ZH-CN11745498179", 
+                "fullstartdate": "201702051600", 
+                "copyright": "纽约大学哲学系大楼的楼梯，美国纽约 (© Alex Fradkin/Gallery Stock)", 
+                "url": "/az/hprichbg/rb/TowerofLight_ZH-CN11745498179_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d0489ea73667508fbdae2332d6fedf01", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170205_TowerofLight%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BA%BD%E7%BA%A6%E5%A4%A7%E5%AD%A6&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170206", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170205", 
+                "urlbase": "/az/hprichbg/rb/VolunteerPoint_EN-US6724349323", 
+                "fullstartdate": "201702050800", 
+                "copyright": "King penguins at Volunteer Point, Falkland Islands (© Luciano Candisani/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/VolunteerPoint_EN-US6724349323_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8ca681e897fa335f00910250557d294a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170205_VolunteerPoint%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=king+penguin&form=hpcapt&filters=HpDate:%2220170205_0800%22", 
+                "wp": true, 
+                "enddate": "20170206", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
