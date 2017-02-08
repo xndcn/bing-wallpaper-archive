@@ -1,0 +1,81 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170207", 
+                "urlbase": "/az/hprichbg/rb/ItapuaLighthouse_ZH-CN10867280946", 
+                "fullstartdate": "201702071600", 
+                "copyright": "萨尔瓦多的Itapuã 灯塔，巴西巴伊亚州 (© Uiler Costa/Offset)", 
+                "url": "/az/hprichbg/rb/ItapuaLighthouse_ZH-CN10867280946_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d480f4646e4502a47573d74e0a5d9b7f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170207_ItapuaLighthouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Itapu%C3%A3+Lighthouse&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170207", 
+                "urlbase": "/az/hprichbg/rb/UtahLakeSunrise_EN-US7904195051", 
+                "fullstartdate": "201702070800", 
+                "vid": {
+                    "caption": "Sunrise over Utah Lake, near Provo, Utah (© Wesley Aston Photography/Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/UtahLake_Sunrise_FF_768_HD_EN-US240948621.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/mobiletest_Mobile_EN-US624728452.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/UtahLake_Sunrise_nimiaRF_510819_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/UtahLake_Sunrise_nimiaRF_510819_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=Utah+Lake&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Sunrise over Utah Lake, near Provo, Utah (© Wesley Aston Photography/Nimia)", 
+                "url": "/az/hprichbg/rb/UtahLakeSunrise_EN-US7904195051_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "86186b545ba995b28f0305f72636ac6a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170207_UtahLakeSunrise%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Utah+Lake&form=hpcapt&filters=HpDate:%2220170207_0800%22", 
+                "wp": false, 
+                "enddate": "20170208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
