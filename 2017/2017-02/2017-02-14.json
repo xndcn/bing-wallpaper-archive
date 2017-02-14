@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170213", 
+                "urlbase": "/az/hprichbg/rb/JavaSparrow_ZH-CN10576911084", 
+                "fullstartdate": "201702131600", 
+                "copyright": "一片叶子上的热带爪哇麻雀 (© CREATISTA/Getty Images)", 
+                "url": "/az/hprichbg/rb/JavaSparrow_ZH-CN10576911084_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a159da3cb2ada8860e33018a1b94878f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170213_JavaSparrow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%83%85%E4%BA%BA%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170214", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170213", 
+                "urlbase": "/az/hprichbg/rb/HallwylfjelletSunset_EN-US9423796363", 
+                "fullstartdate": "201702130800", 
+                "copyright": "Hallwylfjellet at Adventdalen, Norway (© Ethan Welty/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/HallwylfjelletSunset_EN-US9423796363_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "82ce25fb5ced7b38b4b287dd9a0ed30c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170213_HallwylfjelletSunset%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Adventdalen+Norway&form=hpcapt&filters=HpDate:%2220170213_0800%22", 
+                "wp": true, 
+                "enddate": "20170214", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
