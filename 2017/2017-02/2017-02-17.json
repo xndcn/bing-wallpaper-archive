@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170216", 
+                "urlbase": "/az/hprichbg/rb/PutoranaPlateau_ZH-CN11394761356", 
+                "fullstartdate": "201702161600", 
+                "copyright": "普托拉纳高原大峡谷里的瀑布，俄罗斯 (© Sergey Gorshkov/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/PutoranaPlateau_ZH-CN11394761356_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b69989c2b63230f6a5d75234692743ac", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170216_PutoranaPlateau%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%99%AE%E6%89%98%E6%8B%89%E7%BA%B3%E9%AB%98%E5%8E%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170217", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170216", 
+                "urlbase": "/az/hprichbg/rb/TwilightEpiphany_EN-US11612238738", 
+                "fullstartdate": "201702160800", 
+                "copyright": "James Turrell’s ‘Twilight Epiphany’ Skyspace at Rice University, Houston, Texas (© Alex Fradkin/Gallery Stock)", 
+                "url": "/az/hprichbg/rb/TwilightEpiphany_EN-US11612238738_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "41aa99c63fdb23165e0a0e9b255ea6b9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170216_TwilightEpiphany%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=james+turrell+artist&form=hpcapt&filters=HpDate:%2220170216_0800%22", 
+                "wp": false, 
+                "enddate": "20170217", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
