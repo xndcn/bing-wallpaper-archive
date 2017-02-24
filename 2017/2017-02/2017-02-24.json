@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170223", 
+                "urlbase": "/az/hprichbg/rb/ShengshanIsland_ZH-CN14229927013", 
+                "fullstartdate": "201702231600", 
+                "copyright": "浙江嵊山岛被遗弃的渔村 (© VCG/Getty Images)", 
+                "url": "/az/hprichbg/rb/ShengshanIsland_ZH-CN14229927013_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "afc114b2604fefccad514121c3de1b33", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170223_ShengshanIsland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%A2%AB%E9%81%97%E5%BC%83%E7%9A%84%E7%BB%9D%E7%BE%8E%E6%99%AF%E7%82%B9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170224", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170223", 
+                "urlbase": "/az/hprichbg/rb/ViennaOperaBall_EN-US10790748867", 
+                "fullstartdate": "201702230800", 
+                "copyright": "The Opera Ball at the Vienna State Opera, Austria (© APA-PictureDesk GmbH/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/ViennaOperaBall_EN-US10790748867_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "106576474d39ef53178e9cbab9951931", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170223_ViennaOperaBall%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Vienna+Opera+Ball&form=hpcapt&filters=HpDate:%2220170223_0800%22", 
+                "wp": false, 
+                "enddate": "20170224", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
