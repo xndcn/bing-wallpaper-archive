@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170224", 
+                "urlbase": "/az/hprichbg/rb/Hoatzin_ZH-CN6642664963", 
+                "fullstartdate": "201702241600", 
+                "copyright": "两只麝雉栖息枝头，巴西 (© Morten Ross/500px)", 
+                "url": "/az/hprichbg/rb/Hoatzin_ZH-CN6642664963_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fe1371a1dcc3167b54e28a5c5556874d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170224_Hoatzin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%BA%9D%E9%9B%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170225", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170224", 
+                "urlbase": "/az/hprichbg/rb/ShengshanIsland_EN-US13597723185", 
+                "fullstartdate": "201702240800", 
+                "copyright": "The abandoned village of Houtouwan on Shengshan Island, China (© VCG/Getty Images)", 
+                "url": "/az/hprichbg/rb/ShengshanIsland_EN-US13597723185_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "37f55e178f81e06a0b0443e9c8b9ad41", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170224_ShengshanIsland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Houtouwan+China&form=hpcapt&filters=HpDate:%2220170224_0800%22", 
+                "wp": true, 
+                "enddate": "20170225", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
