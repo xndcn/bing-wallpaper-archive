@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170225", 
+                "urlbase": "/az/hprichbg/rb/GriffithPark_ZH-CN9871772537", 
+                "fullstartdate": "201702251600", 
+                "copyright": "加利福尼亚州洛杉矶格里菲斯天文台，美国 (© Walter Bibikow/Getty Images)", 
+                "url": "/az/hprichbg/rb/GriffithPark_ZH-CN9871772537_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "05951cee899cb75f4f465710d1824b85", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170225_GriffithPark%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%A0%BC%E9%87%8C%E8%8F%B2%E6%96%AF%E5%A4%A9%E6%96%87%E5%8F%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170226", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170225", 
+                "urlbase": "/az/hprichbg/rb/Hoatzin_EN-US7399160373", 
+                "fullstartdate": "201702250800", 
+                "copyright": "Two hoatzins, perched in Brazil (© Morten Ross/500px)", 
+                "url": "/az/hprichbg/rb/Hoatzin_EN-US7399160373_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ff7f680b2b62e4f975f3cf3c607d0c01", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170225_Hoatzin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=hoatzin&FORM=hpcapt&filters=HpDate:%2220170225_0800%22", 
+                "wp": true, 
+                "enddate": "20170226", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
