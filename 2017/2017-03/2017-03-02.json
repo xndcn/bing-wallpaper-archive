@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170301", 
+                "urlbase": "/az/hprichbg/rb/Shiprock_ZH-CN11237156651", 
+                "fullstartdate": "201703011600", 
+                "copyright": "纳瓦霍族保留地内的船岩，新墨西哥州 (© Wild Horizon/Getty Images)", 
+                "url": "/az/hprichbg/rb/Shiprock_ZH-CN11237156651_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "29502c464d6552ef862b911fbf0480f4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170301_Shiprock%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%88%B9%E5%B2%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170302", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170301", 
+                "urlbase": "/az/hprichbg/rb/SommeBay_EN-US11634874194", 
+                "fullstartdate": "201703010800", 
+                "copyright": "Somme River estuary, France (© Philippe Frutier/plainpicture)", 
+                "url": "/az/hprichbg/rb/SommeBay_EN-US11634874194_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0a5997de7f1de96b0335533d50ae22f3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170301_SommeBay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Somme+River+estuary&form=hpcapt&filters=HpDate:%2220170301_0800%22", 
+                "wp": true, 
+                "enddate": "20170302", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
