@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170302", 
+                "urlbase": "/az/hprichbg/rb/SpringbokHerd_ZH-CN11603112082", 
+                "fullstartdate": "201703021600", 
+                "copyright": "在南非卡拉哈里沙漠地区的一群雄性跳羚(© Minden Pictures/Masterfile)", 
+                "url": "/az/hprichbg/rb/SpringbokHerd_ZH-CN11603112082_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5dd7d323df4e79f5f1c383876d027bb1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170302_SpringbokHerd%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%B7%B3%E7%BE%9A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170303", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170302", 
+                "urlbase": "/az/hprichbg/rb/Shiprock_EN-US11357211356", 
+                "fullstartdate": "201703020800", 
+                "copyright": "Shiprock in the Navajo Nation of New Mexico (© Wild Horizon/Getty Images)", 
+                "url": "/az/hprichbg/rb/Shiprock_EN-US11357211356_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2f654743fa37f9d2a3ad702f76d17afc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170302_Shiprock%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=shiprock+rock+formation&form=hpcapt&filters=HpDate:%2220170302_0800%22", 
+                "wp": true, 
+                "enddate": "20170303", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
