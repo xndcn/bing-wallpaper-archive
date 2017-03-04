@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170303", 
+                "urlbase": "/az/hprichbg/rb/Aoraki_ZH-CN7776353328", 
+                "fullstartdate": "201703031600", 
+                "copyright": "新西兰南岛的塔斯曼湖 (© UpdogDesigns/iStock/Getty Images Plus)", 
+                "url": "/az/hprichbg/rb/Aoraki_ZH-CN7776353328_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "712c1b49080febf5812665d9e9cf9edf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170303_Aoraki%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A1%94%E6%96%AF%E6%9B%BC%E6%B9%96+&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170304", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170303", 
+                "urlbase": "/az/hprichbg/rb/SpringbokHerd_EN-US11335457199", 
+                "fullstartdate": "201703030800", 
+                "copyright": "A herd of male springboks in the Kalahari region of South Africa (© Minden Pictures/Masterfile)", 
+                "url": "/az/hprichbg/rb/SpringbokHerd_EN-US11335457199_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "42acd155ebe2561500138b9429f8b367", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170303_SpringbokHerd%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=springbok+animal&form=hpcapt&filters=HpDate:%2220170303_0800%22", 
+                "wp": true, 
+                "enddate": "20170304", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
