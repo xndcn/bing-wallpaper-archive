@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170305", 
+                "urlbase": "/az/hprichbg/rb/SteepSheep_ZH-CN8716398488", 
+                "fullstartdate": "201703051600", 
+                "copyright": "瓦莱黑鼻羊，瑞士瓦莱州 (© Alessandra Meniconzi/Solent News/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/SteepSheep_ZH-CN8716398488_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c737af458c5e07aa3fc472220d828ec9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170305_SteepSheep%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%BB%91%E9%BC%BB%E7%BE%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170306", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170305", 
+                "urlbase": "/az/hprichbg/rb/ButterflyWorld_EN-US12789617252", 
+                "fullstartdate": "201703050800", 
+                "copyright": "A glasswing butterfly perched on a leaf (© Corianna Heise/Alamy)", 
+                "url": "/az/hprichbg/rb/ButterflyWorld_EN-US12789617252_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ac206c442842cc43bd7f3f5156a73b3f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170305_ButterflyWorld%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=glasswing+butterfly&form=hpcapt&filters=HpDate:%2220170305_0800%22", 
+                "wp": true, 
+                "enddate": "20170306", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
