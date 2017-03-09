@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170308", 
+                "urlbase": "/az/hprichbg/rb/SvalbardSatellite_ZH-CN11710008487", 
+                "fullstartdate": "201703081600", 
+                "copyright": "斯瓦尔巴群岛的斯瓦尔巴卫星站，挪威 (© Tim E White/Getty Images)", 
+                "url": "/az/hprichbg/rb/SvalbardSatellite_ZH-CN11710008487_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "71521f00d14253ebac8a25cafeb2d9fc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170308_SvalbardSatellite%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Svalbard+Satellite+Station&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170309", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170308", 
+                "urlbase": "/az/hprichbg/rb/WomanSuffrageProcession_EN-US8975749843", 
+                "fullstartdate": "201703080800", 
+                "copyright": "Women suffragists marching down Pennsylvania Avenue on March 3, 1913, Washington, DC (© Library of Congress)", 
+                "url": "/az/hprichbg/rb/WomanSuffrageProcession_EN-US8975749843_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "367abd68b61657c8cabcba1827b12345", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170308_WomanSuffrageProcession%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=woman+suffrage+parade+of+1913&form=hpcapt&filters=HpDate:%2220170308_0800%22", 
+                "wp": false, 
+                "enddate": "20170309", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
