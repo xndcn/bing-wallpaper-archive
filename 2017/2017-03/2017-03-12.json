@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170311", 
+                "urlbase": "/az/hprichbg/rb/PlungeDiving_ZH-CN11143756334", 
+                "fullstartdate": "201703111600", 
+                "copyright": "一只在圣克里斯托巴尔岛潜水的蓝脚鲣鸟，厄瓜多尔 (© Tui De Roy/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/PlungeDiving_ZH-CN11143756334_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5495b14985f22873e7a8af728b423b8c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170311_PlungeDiving%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%93%9D%E8%84%9A%E9%B2%A3%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170312", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170311", 
+                "urlbase": "/az/hprichbg/rb/BlanchardSprings_EN-US10953949469", 
+                "fullstartdate": "201703110800", 
+                "copyright": "Blanchard Springs Caverns in Arkansas (© Garret Suhrie/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/BlanchardSprings_EN-US10953949469_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "37cda66d2bd4974ee0d5caae716da0c0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170311_BlanchardSprings%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Blanchard+Springs+Caverns&form=hpcapt&filters=HpDate:%2220170311_0800%22", 
+                "wp": true, 
+                "enddate": "20170312", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
