@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170313", 
+                "urlbase": "/az/hprichbg/rb/EnhancedPinus_ZH-CN11908142325", 
+                "fullstartdate": "201703131600", 
+                "copyright": "松树杆的截面增强图像 (© Garry DeLong/Getty Images)", 
+                "url": "/az/hprichbg/rb/EnhancedPinus_ZH-CN11908142325_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7ceef54d83ca1e04b7ab1f26d13ea951", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170313_EnhancedPinus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%9D%BE%E6%A0%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170314", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170313", 
+                "urlbase": "/az/hprichbg/rb/GermanyHoli_EN-US11044211710", 
+                "fullstartdate": "201703130700", 
+                "copyright": "A Holi festival in Washington, DC (© Devesh Tripathi/500px)", 
+                "url": "/az/hprichbg/rb/GermanyHoli_EN-US11044211710_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fb8d1f7b69ed14129610e9bda545436e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170313_GermanyHoli%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=holi+festival&form=hpcapt&filters=HpDate:%2220170313_0700%22", 
+                "wp": true, 
+                "enddate": "20170314", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
