@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170317", 
+                "urlbase": "/az/hprichbg/rb/RiverofLife_ZH-CN8454523790", 
+                "fullstartdate": "201703171600", 
+                "copyright": "沐浴在春光中的索尔克生物研究所，圣地亚哥，美国加利福尼亚州 (© Sameer Mundkur/500px)", 
+                "url": "/az/hprichbg/rb/RiverofLife_ZH-CN8454523790_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7ec5334cc99eb20d506968239fe8983a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170317_RiverofLife%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%B4%A2%E5%B0%94%E5%85%8B%E7%94%9F%E7%89%A9%E7%A0%94%E7%A9%B6%E6%89%80&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170318", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170317", 
+                "urlbase": "/az/hprichbg/rb/FiveFingersStrand_EN-US9666045254", 
+                "fullstartdate": "201703170700", 
+                "copyright": "Five Fingers Strand near Malin Head, Ireland (© Cahir Davitt/age fotostock)", 
+                "url": "/az/hprichbg/rb/FiveFingersStrand_EN-US9666045254_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f16066b7f4cc38794ccb6dfd81cab7ad", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170317_FiveFingersStrand%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=malin+head+ireland&form=hpcapt&filters=HpDate:%2220170317_0700%22", 
+                "wp": true, 
+                "enddate": "20170318", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
