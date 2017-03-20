@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170319", 
+                "urlbase": "/az/hprichbg/rb/TingSakura_ZH-CN14945610051", 
+                "fullstartdate": "201703191600", 
+                "copyright": "一只在樱花树上嬉戏的绿绣眼（© Reece Cheng/500px）", 
+                "url": "/az/hprichbg/rb/TingSakura_ZH-CN14945610051_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c4afb61170efde716ed371c02f8db13f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170319_TingSakura%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%98%A5%E5%88%86&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170320", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170319", 
+                "urlbase": "/az/hprichbg/rb/MatunuskaGlacier_EN-US13029296169", 
+                "fullstartdate": "201703190700", 
+                "copyright": "An ice tunnel inside Matanuska Glacier, Alaska (© Lynn Wegener/Offset)", 
+                "url": "/az/hprichbg/rb/MatunuskaGlacier_EN-US13029296169_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b4480e48f7b5a532134889913a5e52b4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170319_MatunuskaGlacier%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=matanuska+glacier&form=hpcapt&filters=HpDate:%2220170319_0700%22", 
+                "wp": true, 
+                "enddate": "20170320", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
