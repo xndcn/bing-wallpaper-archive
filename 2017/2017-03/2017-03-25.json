@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170324", 
+                "urlbase": "/az/hprichbg/rb/SpainSpring_ZH-CN9613370360", 
+                "fullstartdate": "201703241600", 
+                "copyright": "沐浴在春光中的AÃnsa-Sobrarbe村庄，西班牙 (© Hans Kruse/500px)", 
+                "url": "/az/hprichbg/rb/SpainSpring_ZH-CN9613370360_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4f266fba8939a967a11df265f2b4d989", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170324_SpainSpring%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%88%A9%E7%89%9B%E6%96%AF%E5%B1%B1%E8%84%89%E7%9A%84%E6%98%A5%E6%99%AF&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170325", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170324", 
+                "urlbase": "/az/hprichbg/rb/GrebesChick_EN-US11292928738", 
+                "fullstartdate": "201703240700", 
+                "copyright": "Great crested grebes with chick in Vlaardingen, Netherlands (© Jasper Doest/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/GrebesChick_EN-US11292928738_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4de1bd006954ad799b751fbf18255e79", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170324_GrebesChick%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Great+crested+grebe&form=hpcapt&filters=HpDate:%2220170324_0700%22", 
+                "wp": true, 
+                "enddate": "20170325", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
