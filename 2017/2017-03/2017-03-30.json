@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170329", 
+                "urlbase": "/az/hprichbg/rb/CMLSCNP_ZH-CN12089840072", 
+                "fullstartdate": "201703291600", 
+                "copyright": "摇篮山-圣克莱尔湖国家公园中的林间步道，澳大利亚塔斯马尼亚州 (© Sean Crane/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/CMLSCNP_ZH-CN12089840072_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ae5c2de243c7312b8972a70c4b5e3586", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170329_CMLSCNP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%91%87%E7%AF%AE%E5%B1%B1%E6%B9%96%E5%9C%A3%E5%85%8B%E8%8E%B1%E5%B0%94%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170330", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170329", 
+                "urlbase": "/az/hprichbg/rb/BellasArtes_EN-US10189612756", 
+                "fullstartdate": "201703290700", 
+                "copyright": "Palacio de Bellas Artes in Mexico City (© Torresigner/Getty Images)", 
+                "url": "/az/hprichbg/rb/BellasArtes_EN-US10189612756_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "54523f2ef50965c37ffa7618f2ae3f33", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170329_BellasArtes%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Palacio+de+Bellas+Artes+&form=hpcapt&filters=HpDate:%2220170329_0700%22", 
+                "wp": true, 
+                "enddate": "20170330", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
