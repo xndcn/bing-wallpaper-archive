@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170331", 
+                "urlbase": "/az/hprichbg/rb/MeerkatAmuck_ZH-CN5734433814", 
+                "fullstartdate": "201703311600", 
+                "vid": {
+                    "caption": "视频：“森林”中的一只猫鼬 (© Video: pzAxe/Shutterstock | @ Sound effects: Getty)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/AprilFools_FF_768_HD_ZH-CN1113016218.jpg", 
+                    "audiopresent": true, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/AprilFools_2017_Reaction_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/AprilFools_2017_Reaction_1080_HD_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": false
+                }, 
+                "copyright": "“森林”中的一只猫鼬 (© pzAxe/Shutterstock)", 
+                "url": "/az/hprichbg/rb/MeerkatAmuck_ZH-CN5734433814_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3ccb6dee35661c2e08032b0f47fd5e5f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170331_MeerkatAmuck%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%84%9A%E4%BA%BA%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170401", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170331", 
+                "urlbase": "/az/hprichbg/rb/EarthArt_EN-US7715783871", 
+                "fullstartdate": "201703310700", 
+                "copyright": "‘Spiral Jetty’ at Great Salt Lake, Utah (© Cameron Davidson/Gallery Stock)", 
+                "url": "/az/hprichbg/rb/EarthArt_EN-US7715783871_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ee2d2274ec7eaf8f4b92efe98bc15379", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170331_EarthArt%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=spiral+jetty&form=hpcapt&filters=HpDate:%2220170331_0700%22", 
+                "wp": false, 
+                "enddate": "20170401", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
