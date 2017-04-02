@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170401", 
+                "urlbase": "/az/hprichbg/rb/LavaTubeIce_ZH-CN12266785340", 
+                "fullstartdate": "201704011600", 
+                "copyright": "熔岩床国家纪念碑中熔岩管里的冰，加利福尼亚州 (© Floris van Breugel/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/LavaTubeIce_ZH-CN12266785340_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3870afbcf3fa5c0e038d547aec3f94af", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170401_LavaTubeIce%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%86%94%E5%B2%A9%E5%BA%8A%E5%9B%BD%E5%AE%B6%E7%BA%AA%E5%BF%B5%E7%A2%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170402", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170401", 
+                "urlbase": "/az/hprichbg/rb/MeerkatAmuck_EN-US5734433814", 
+                "fullstartdate": "201704010700", 
+                "vid": {
+                    "caption": "A meerkat in its natural environment (© Video: pzAxe/Shutterstock | @ Sound effects: Getty)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/AprilFools_FF_768_HD_EN-US1113016218.jpg", 
+                    "audiopresent": true, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/AprilFools_2017_EN-VO_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/AprilFools_2017_EN-VO_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=April+Fools'+Day&form=hpcapt", 
+                    "loop": false
+                }, 
+                "copyright": "A meerkat in its natural environment (© pzAxe/Shutterstock)", 
+                "url": "/az/hprichbg/rb/MeerkatAmuck_EN-US5734433814_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "076a1322a624fc70b2bb32d99e4de89e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170401_MeerkatAmuck%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=April+Fools'+Day&form=hpcapt&filters=HpDate:%2220170401_0700%22", 
+                "wp": false, 
+                "enddate": "20170402", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
