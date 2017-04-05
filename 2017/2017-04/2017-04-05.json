@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170404", 
+                "urlbase": "/az/hprichbg/rb/JulianAlps_ZH-CN11764181030", 
+                "fullstartdate": "201704041600", 
+                "copyright": "在斯洛文尼亚侧面的朱利安阿尔卑斯山 (© Nino Marcutti/Alamy)", 
+                "url": "/az/hprichbg/rb/JulianAlps_ZH-CN11764181030_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "db2beed58e682b73b7ac9be0fb231237", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170404_JulianAlps%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%9C%B1%E5%88%A9%E5%AE%89%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170405", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170404", 
+                "urlbase": "/az/hprichbg/rb/ChobeChick_EN-US10273456098", 
+                "fullstartdate": "201704040700", 
+                "copyright": "African jacana chick in Chobe National Park, Botswana (© Brendon Cremer/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/ChobeChick_EN-US10273456098_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "287044120157be3184d7857037c75738", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170404_ChobeChick%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=African+jacana&form=hpcapt&filters=HpDate:%2220170404_0700%22", 
+                "wp": true, 
+                "enddate": "20170405", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
