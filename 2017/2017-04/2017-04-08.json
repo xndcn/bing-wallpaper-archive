@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170407", 
+                "urlbase": "/az/hprichbg/rb/KalsoyIsland_ZH-CN11586790825", 
+                "fullstartdate": "201704071600", 
+                "copyright": "卡尔斯岛上的Kallur灯塔，法罗群岛 (© Janne Kahila/500px)", 
+                "url": "/az/hprichbg/rb/KalsoyIsland_ZH-CN11586790825_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f4843ca15dbd58355ee78a6d47733abf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170407_KalsoyIsland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Kallur+lighthouse&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170408", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170407", 
+                "urlbase": "/az/hprichbg/rb/PhrayaNakhonCave_EN-US10144143703", 
+                "fullstartdate": "201704070700", 
+                "copyright": "Kuha Karuhas pavilion in Phraya Nakhon Cave, Thailand (© Bule Sky Studio/Shutterstock)", 
+                "url": "/az/hprichbg/rb/PhrayaNakhonCave_EN-US10144143703_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "70d498a36f3af50876258839be5444c1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170407_PhrayaNakhonCave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Phraya+Nakhon+Cave&form=hpcapt&filters=HpDate:%2220170407_0700%22", 
+                "wp": true, 
+                "enddate": "20170408", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
