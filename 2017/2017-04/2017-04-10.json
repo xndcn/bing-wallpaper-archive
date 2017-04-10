@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170409", 
+                "urlbase": "/az/hprichbg/rb/ArcticFoxSibs_ZH-CN7417451993", 
+                "fullstartdate": "201704091600", 
+                "vid": {
+                    "caption": "视频：弗兰格尔岛上的北极狐，俄罗斯 (© Framepool)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/ArcticFoxPups_FF_768_HD_ZH-CN259221340.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/ArcticFoxPups_FramepoolRM_372-581-588_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/ArcticFoxPups_FramepoolRM_372-581-588_1080_HD_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": true
+                }, 
+                "copyright": "弗兰格尔岛上的北极狐，俄罗斯 (© Owen Newman/Getty Images)", 
+                "url": "/az/hprichbg/rb/ArcticFoxSibs_ZH-CN7417451993_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "faacad1474cf10a8d5f6f5faf75f037e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170409_ArcticFoxSibs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E7%8B%90%E7%8B%B8&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170410", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170409", 
+                "urlbase": "/az/hprichbg/rb/TulipFestival_EN-US8173850763", 
+                "fullstartdate": "201704090700", 
+                "copyright": "Tulip fields in bloom at Mount Vernon, Washington (© Pete Saloutos/plainpicture)", 
+                "url": "/az/hprichbg/rb/TulipFestival_EN-US8173850763_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "be8fb19027fb3c21c4195b1f0e2318a9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170409_TulipFestival%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=tulip+(flower)&form=hpcapt&filters=HpDate:%2220170409_0700%22", 
+                "wp": true, 
+                "enddate": "20170410", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
