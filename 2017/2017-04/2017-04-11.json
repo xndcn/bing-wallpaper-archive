@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170410", 
+                "urlbase": "/az/hprichbg/rb/WindmillLighthouse_ZH-CN12870536851", 
+                "fullstartdate": "201704101600", 
+                "copyright": "Świnoujście上的Stawa Młyny灯塔，波兰 (© Maciej Bledowski/Alamy)", 
+                "url": "/az/hprichbg/rb/WindmillLighthouse_ZH-CN12870536851_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "97b6afecf5c769a88965876607ce6fed", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170410_WindmillLighthouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Stawa+M%C5%82yny&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170411", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170410", 
+                "urlbase": "/az/hprichbg/rb/ArcticFoxSibs_EN-US7417451993", 
+                "fullstartdate": "201704100700", 
+                "vid": {
+                    "caption": "Arctic fox kits on Wrangel Island, Russia (© Framepool)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/ArcticFoxPups_FF_768_HD_EN-US259221340.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/ArcticFoxPups_FramepoolRM_372-581-588_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/ArcticFoxPups_FramepoolRM_372-581-588_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=Arctic+fox&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Arctic fox kits on Wrangel Island, Russia (© Owen Newman/Getty Images)", 
+                "url": "/az/hprichbg/rb/ArcticFoxSibs_EN-US7417451993_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "24687e930f98d8dc0e612748e48730e9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170410_ArcticFoxSibs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Arctic+fox+(Vulpes+lagopus)&form=hpcapt&filters=HpDate:%2220170410_0700%22", 
+                "wp": false, 
+                "enddate": "20170411", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
