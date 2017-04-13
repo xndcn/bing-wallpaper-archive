@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170412", 
+                "urlbase": "/az/hprichbg/rb/MVAU_ZH-CN9430011383", 
+                "fullstartdate": "201704121600", 
+                "copyright": "亚利桑那州和犹他州的纪念碑山谷 (© Ronnybas/Shutterstock)", 
+                "url": "/az/hprichbg/rb/MVAU_ZH-CN9430011383_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "29c75f7554c9f8b96bb3232f7c07c35f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170412_MVAU%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BA%AA%E5%BF%B5%E7%A2%91%E5%B1%B1%E8%B0%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170413", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170412", 
+                "urlbase": "/az/hprichbg/rb/SpacewalkSelfie_EN-US10118363891", 
+                "fullstartdate": "201704120700", 
+                "copyright": "Astronaut Terry Virts takes a selfie in space (© NASA)", 
+                "url": "/az/hprichbg/rb/SpacewalkSelfie_EN-US10118363891_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ac87e4edf0b217c35facf2e5efc15acd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170412_SpacewalkSelfie%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=space+selfie&form=hpcapt&filters=HpDate:%2220170412_0700%22", 
+                "wp": false, 
+                "enddate": "20170413", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
