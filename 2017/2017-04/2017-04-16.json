@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170415", 
+                "urlbase": "/az/hprichbg/rb/GroundNest_ZH-CN8953105132", 
+                "fullstartdate": "201704151600", 
+                "copyright": "北极国家野生动物保护区内地面上的巢穴，美国阿拉斯加州 (© Mint Images/Offset)", 
+                "url": "/az/hprichbg/rb/GroundNest_ZH-CN8953105132_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ec0076de829360e8834e41c5e7509861", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170415_GroundNest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E5%9B%BD%E5%AE%B6%E9%87%8E%E7%94%9F%E7%94%9F%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170416", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170415", 
+                "urlbase": "/az/hprichbg/rb/BoothsAmphitheater_EN-US9133164739", 
+                "fullstartdate": "201704150700", 
+                "copyright": "A tour of Booth's Amphitheater in Mammoth Cave National Park, Kentucky (© David S. Boyer and Arlan R. Wiker/Getty Images)", 
+                "url": "/az/hprichbg/rb/BoothsAmphitheater_EN-US9133164739_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "22e96c11b6659b8ee4318b9a28406d0c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170415_BoothsAmphitheater%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Mammoth+Cave+National+Park&FORM=hpcapt&filters=HpDate:%2220170415_0700%22", 
+                "wp": false, 
+                "enddate": "20170416", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
