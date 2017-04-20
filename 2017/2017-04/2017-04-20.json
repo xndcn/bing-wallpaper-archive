@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170419", 
+                "urlbase": "/az/hprichbg/rb/Farmers_ZH-CN10322126112", 
+                "fullstartdate": "201704191600", 
+                "copyright": "【今日谷雨】插秧的妇女，中国云南省大理市 (© Ingo Oeland/Alamy)", 
+                "url": "/az/hprichbg/rb/Farmers_ZH-CN10322126112_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "76cd57c18049cfd28ca45f07c90a9fc6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170419_Farmers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%B0%B7%E9%9B%A8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170420", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170419", 
+                "urlbase": "/az/hprichbg/rb/BristleconePine_EN-US9234523201", 
+                "fullstartdate": "201704190700", 
+                "copyright": "Star trails and a bristlecone pine at Bryce Canyon National Park, Utah (© roycebair/RooM/Getty Images)", 
+                "url": "/az/hprichbg/rb/BristleconePine_EN-US9234523201_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "11d00ade6949ccc8813b2d2a3de57675", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170419_BristleconePine%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Bryce+Canyon+National+Park+Utah&form=hpcapt&filters=HpDate:%2220170419_0700%22", 
+                "wp": true, 
+                "enddate": "20170420", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
