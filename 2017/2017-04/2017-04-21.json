@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170420", 
+                "urlbase": "/az/hprichbg/rb/SolarFarm_ZH-CN4853771923", 
+                "fullstartdate": "201704201600", 
+                "copyright": "托诺帕附近的新月沙丘太阳能项目，美国内华达州 (© Jassen Todorov/Solent News/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/SolarFarm_ZH-CN4853771923_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a6e2f8468ee4ed68c574f0fb5f438eb1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170420_SolarFarm%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%96%B0%E6%9C%88%E5%BD%A2%E6%B2%99%E4%B8%98%E5%A4%AA%E9%98%B3%E8%83%BD%E8%83%BD%E6%BA%90&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170421", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170420", 
+                "urlbase": "/az/hprichbg/rb/GrayWolf_EN-US10344926106", 
+                "fullstartdate": "201704200700", 
+                "copyright": "A gray wolf in Yellowstone National Park, Wyoming (© Meril Darees & Manon Moulis/Biosphoto/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/GrayWolf_EN-US10344926106_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b00cab2c5392d19f456f5b850e12b38b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170420_GrayWolf%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=gray+wolf&form=hpcapt&filters=HpDate:%2220170420_0700%22", 
+                "wp": true, 
+                "enddate": "20170421", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
