@@ -1,0 +1,86 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170421", 
+                "urlbase": "/az/hprichbg/rb/ZoomOut_ZH-CN4471982075", 
+                "fullstartdate": "201704211600", 
+                "vid": {
+                    "caption": "视频：从太空中拍摄到的地球 (© NOAA)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/EarthDay_2017_FF_768_HD_ZH-CN1190113803.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/EarthDay_mobile_FF_1334_Mobile_ZH-CN526542422.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/EarthDay_2017_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/EarthDay_2017_1080_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/EarthDay_mobile_1334_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": false
+                }, 
+                "copyright": "从太空中拍摄到的地球 (© NOAA)", 
+                "url": "/az/hprichbg/rb/ZoomOut_ZH-CN4471982075_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "682c0f130d6a9a91db1c6ff7c2c6d792", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170421_ZoomOut%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%B0%E7%90%83&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170422", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170421", 
+                "urlbase": "/az/hprichbg/rb/SolarFarm_EN-US5419977179", 
+                "fullstartdate": "201704210700", 
+                "copyright": "The Crescent Dunes Solar Energy Project near Tonopah, Nevada (© Jassen Todorov/Solent News/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/SolarFarm_EN-US5419977179_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c26734ac71237e3e86fc351545ca7b86", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170421_SolarFarm%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=crescent+dunes+solar+energy+project&form=hpcapt&filters=HpDate:%2220170421_0700%22", 
+                "wp": true, 
+                "enddate": "20170422", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
