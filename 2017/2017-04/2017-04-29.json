@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170428", 
+                "urlbase": "/az/hprichbg/rb/SoundSuits_ZH-CN11561095548", 
+                "fullstartdate": "201704281600", 
+                "copyright": "2016年于悉尼火车制造厂展出的艺术家尼克·凯夫的系列作品“Soundsuits”，澳大利亚 (© Don Arnold/WireImage/Getty Images)", 
+                "url": "/az/hprichbg/rb/SoundSuits_ZH-CN11561095548_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "63adeae545f647a6d8c78c0168591ce0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170428_SoundSuits%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E2%80%9CSoundsuits%E2%80%9D%E7%B3%BB%E5%88%97%E4%BD%9C%E5%93%81&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170429", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170428", 
+                "urlbase": "/az/hprichbg/rb/SproutVideo_EN-US11890393462", 
+                "fullstartdate": "201704280700", 
+                "vid": {
+                    "caption": "Time-lapse video of an oak tree seedling in Oxford, England (© Video: Neil Bromhall | © Sound Effects: Getty)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/ArborDay_Acorn-To-Oak_NeilBromhall_FF_768_HD_EN-US1330096400.jpg", 
+                    "audiopresent": true, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/ArborDay_Acorn-To-Oak_NeilBromhall_FF_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/ArborDay_Acorn-To-Oak_NeilBromhall_FF_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=oak+tree+(Quercus)&form=hpcapt", 
+                    "loop": false
+                }, 
+                "copyright": "An oak tree seedling (© plusphoto/Getty Images)", 
+                "url": "/az/hprichbg/rb/SproutVideo_EN-US11890393462_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "eddd96bbc1710f6872a2ad92dc8490cc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170428_SproutVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=oak+tree+(Quercus)&form=hpcapt&filters=HpDate:%2220170428_0700%22", 
+                "wp": false, 
+                "enddate": "20170429", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
