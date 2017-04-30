@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170429", 
+                "urlbase": "/az/hprichbg/rb/SouthMoravian_ZH-CN13384331455", 
+                "fullstartdate": "201704291600", 
+                "copyright": "基约夫附近的南摩拉维亚风景，捷克共和国  (© Tomas Vocelka/500px)", 
+                "url": "/az/hprichbg/rb/SouthMoravian_ZH-CN13384331455_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e1b992b185bf29fb1958237344ad0192", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170429_SouthMoravian%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8D%97%E6%91%A9%E6%8B%89%E7%BB%B4%E4%BA%9A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170430", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170429", 
+                "urlbase": "/az/hprichbg/rb/SoundSuits_EN-US11561095548", 
+                "fullstartdate": "201704290700", 
+                "copyright": "Soundsuits by artist Nick Cave at Carriageworks in Sydney, Australia, in 2016 (© Don Arnold/WireImage/Getty Images)", 
+                "url": "/az/hprichbg/rb/SoundSuits_EN-US11561095548_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d4ef62d4bdd86a94572b40fbcaf0c628", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170429_SoundSuits%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=nick+cave+soundsuits&form=hpcapt&filters=HpDate:%2220170429_0700%22", 
+                "wp": false, 
+                "enddate": "20170430", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
