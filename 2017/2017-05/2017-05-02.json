@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170501", 
+                "urlbase": "/az/hprichbg/rb/QueensParkGlasshouse_ZH-CN11893975642", 
+                "fullstartdate": "201705011600", 
+                "copyright": "格拉斯哥女王公园玻璃温室内的景象，英国 (© Allan Baxter/Gallery Stock)", 
+                "url": "/az/hprichbg/rb/QueensParkGlasshouse_ZH-CN11893975642_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d18fa48c62d3ca959b44930c391e427f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170501_QueensParkGlasshouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=The+Queen's+Park&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170502", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170501", 
+                "urlbase": "/az/hprichbg/rb/QueensParkGlasshouse_EN-US12334827410", 
+                "fullstartdate": "201705010700", 
+                "copyright": "Inside the Kibble Palace at Glasgow Botanic Gardens, Scotland (© Allan Baxter/Gallery Stock)", 
+                "url": "/az/hprichbg/rb/QueensParkGlasshouse_EN-US12334827410_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "528fe44b72c1a875abf1748230c8a9ee", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170501_QueensParkGlasshouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=kibble+palace+glasgow+scotland&form=hpcapt&filters=HpDate:%2220170501_0700%22", 
+                "wp": true, 
+                "enddate": "20170502", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
