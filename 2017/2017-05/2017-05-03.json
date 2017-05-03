@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170502", 
+                "urlbase": "/az/hprichbg/rb/NavagioBeach_ZH-CN8854639142", 
+                "fullstartdate": "201705021600", 
+                "vid": {
+                    "caption": "视频：希腊扎金索斯的沉船湾 (© Maciej Tomków/Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/Navagio_Shipwreck_nimia_588263_FF_768_HD_ZH-CN1096993174.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Navagio_Shipwreck_Beach_Zakynthos_nimia_4K_588263_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Navagio_Shipwreck_Beach_Zakynthos_nimia_4K_588263_1080_HD_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": true
+                }, 
+                "copyright": "希腊扎金索斯的沉船湾 (© Maciej Tomków/Nimia)", 
+                "url": "/az/hprichbg/rb/NavagioBeach_ZH-CN8854639142_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b8d03f0742a583d02726d51cff4179b6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170502_NavagioBeach%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B2%89%E8%88%B9%E6%B9%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170503", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170502", 
+                "urlbase": "/az/hprichbg/rb/NHMElephants_EN-US9810396474", 
+                "fullstartdate": "201705020700", 
+                "copyright": "Cleaning the elephant specimens at the Natural History Museum of Los Angeles County, California (© Brian Doben/Gallery Stock)", 
+                "url": "/az/hprichbg/rb/NHMElephants_EN-US9810396474_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e35232c2fbe597e888cdbb304d32d5a2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170502_NHMElephants%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=National+History+Museum+of+Los+Angeles+County&form=hpcapt&filters=HpDate:%2220170502_0700%22", 
+                "wp": false, 
+                "enddate": "20170503", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
