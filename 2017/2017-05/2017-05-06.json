@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170505", 
+                "urlbase": "/az/hprichbg/rb/MorskieOko_ZH-CN8809175725", 
+                "fullstartdate": "201705051600", 
+                "copyright": "通往Morskie Oko的林间小路，波兰塔特拉国家公园 (© Blake Parker/Tandem Still + Motion)", 
+                "url": "/az/hprichbg/rb/MorskieOko_ZH-CN8809175725_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a155d11edef2aa2e673c39e604a5194e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170505_MorskieOko%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Tatra+National+Park&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170506", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170505", 
+                "urlbase": "/az/hprichbg/rb/HenequenCactus_EN-US11064780489", 
+                "fullstartdate": "201705050700", 
+                "copyright": "Henequen agave, Yucatán Peninsula, Mexico (© Brian Overcast/Alamy)", 
+                "url": "/az/hprichbg/rb/HenequenCactus_EN-US11064780489_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3d0e47bd231d5992ea14acad45109c26", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170505_HenequenCactus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Agave+fourcroydes&form=hpcapt&filters=HpDate:%2220170505_0700%22", 
+                "wp": true, 
+                "enddate": "20170506", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
