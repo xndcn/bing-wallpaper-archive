@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170506", 
+                "urlbase": "/az/hprichbg/rb/HenequenCactus_ZH-CN11794616839", 
+                "fullstartdate": "201705061600", 
+                "copyright": "尤卡坦半岛上的龙舌兰，墨西哥 (© Brian Overcast/Alamy)", 
+                "url": "/az/hprichbg/rb/HenequenCactus_ZH-CN11794616839_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ead2d565c58f325e7449bf599de560be", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170506_HenequenCactus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%BE%99%E8%88%8C%E5%85%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170507", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170506", 
+                "urlbase": "/az/hprichbg/rb/MorskieOko_EN-US9982151528", 
+                "fullstartdate": "201705060700", 
+                "copyright": "The path to Morskie Oko, Tatra National Park, Poland (© Blake Parker/Tandem Still + Motion)", 
+                "url": "/az/hprichbg/rb/MorskieOko_EN-US9982151528_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d5ff7a03543f2b956185cfeb7369735e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170506_MorskieOko%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Tatra+National+Park+Poland&form=hpcapt&filters=HpDate:%2220170506_0700%22", 
+                "wp": true, 
+                "enddate": "20170507", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
