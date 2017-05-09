@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170508", 
+                "urlbase": "/az/hprichbg/rb/WoodDucks_ZH-CN11650397660", 
+                "fullstartdate": "201705081600", 
+                "copyright": "阿拉帕霍县的一只雌性鸭子和一群小鸭子，美国科罗拉多州 (© Robert Harding/Alamy)", 
+                "url": "/az/hprichbg/rb/WoodDucks_ZH-CN11650397660_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "567f0642caf31d366a648776dfd7725c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170508_WoodDucks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%B8%AD%E5%AD%90&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170509", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170508", 
+                "urlbase": "/az/hprichbg/rb/TaihangMountains_EN-US6666930369", 
+                "fullstartdate": "201705080700", 
+                "copyright": "Guoliang Tunnel in the Taihang Mountains in Henan Province, China (© View Stock/Offset)", 
+                "url": "/az/hprichbg/rb/TaihangMountains_EN-US6666930369_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "01e042d96b22b7a914bba2cdaf1388da", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170508_TaihangMountains%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Guoliang+Tunnel&form=hpcapt&filters=HpDate:%2220170508_0700%22", 
+                "wp": true, 
+                "enddate": "20170509", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
