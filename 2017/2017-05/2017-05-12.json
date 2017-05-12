@@ -1,0 +1,86 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170511", 
+                "urlbase": "/az/hprichbg/rb/VernalFall_ZH-CN10631212377", 
+                "fullstartdate": "201705111600", 
+                "vid": {
+                    "caption": "视频：优胜美地国家公园内的春天瀑布，美国加利福尼亚州 (© Framepool)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/VernalFall_Yosemite_FF_1080_v2_HD_ZH-CN432625769.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/VernalFall_Yosemite_FF_1334_v2_Mobile_ZH-CN693921769.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/VernalFall_Yosemite_FP_229-991-600_768_v2_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/VernalFall_Yosemite_FP_229-991-600_1080_v2_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/VernalFall_Yosemite_FP_229-991-600_1334_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": true
+                }, 
+                "copyright": "优胜美地国家公园内的春天瀑布，美国加利福尼亚州 (© Framepool)", 
+                "url": "/az/hprichbg/rb/VernalFall_ZH-CN10631212377_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "add45b772f57788d096a96cff221fcfc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170511_VernalFall%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BC%98%E8%83%9C%E7%BE%8E%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170512", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170511", 
+                "urlbase": "/az/hprichbg/rb/SpringGoat_EN-US7159260528", 
+                "fullstartdate": "201705110700", 
+                "copyright": "A mountain goat in Glacier National Park, Montana (© Sumio Harada/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/SpringGoat_EN-US7159260528_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2aacf29c2b17f008e2b61a6995eaeb73", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170511_SpringGoat%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=mountain+goat&form=hpcapt&filters=HpDate:%2220170511_0700%22", 
+                "wp": true, 
+                "enddate": "20170512", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
