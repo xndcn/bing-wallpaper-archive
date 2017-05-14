@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170513", 
+                "urlbase": "/az/hprichbg/rb/CheetahMom_ZH-CN9990146737", 
+                "fullstartdate": "201705131600", 
+                "copyright": "马赛马拉国家野生动物保护区内的一只雌性猎豹和她一周大的幼崽，肯尼亚 (© Suzi Eszterhas/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/CheetahMom_ZH-CN9990146737_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5d9ae1ba18e2c3f087af3b34e1f3b761", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170513_CheetahMom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%8C%8E%E8%B1%B9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170514", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170513", 
+                "urlbase": "/az/hprichbg/rb/DeltaJunction_EN-US10400798964", 
+                "fullstartdate": "201705130700", 
+                "copyright": "Sandhill cranes over barley fields near the Alaska Range, Delta Junction, Alaska (© Yva Momatiuk and John Eastcott/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/DeltaJunction_EN-US10400798964_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "592b7470273665f20afdf20c6846d8d5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170513_DeltaJunction%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=alaska+range&form=hpcapt&filters=HpDate:%2220170513_0700%22", 
+                "wp": true, 
+                "enddate": "20170514", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
