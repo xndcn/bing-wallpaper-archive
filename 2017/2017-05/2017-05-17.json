@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170516", 
+                "urlbase": "/az/hprichbg/rb/SpermophilusArmatus_ZH-CN11634149121", 
+                "fullstartdate": "201705161600", 
+                "copyright": "一群站在Tower Fall露营地上的犹因它地鼠，美国黄石国家公园 (© Shin Yoshino/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/SpermophilusArmatus_ZH-CN11634149121_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "31e2cac50dc9ebcb1f58d834d75595bb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170516_SpermophilusArmatus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%B0%E6%9D%BE%E9%BC%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170517", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170516", 
+                "urlbase": "/az/hprichbg/rb/PorthminsterBeach_EN-US9087788446", 
+                "fullstartdate": "201705160700", 
+                "copyright": "Porthminster Beach and St. Ives, Cornwall, England (© Adam Burton/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/PorthminsterBeach_EN-US9087788446_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d0b95dfa8367aa4d0209a40a0fc29b5a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170516_PorthminsterBeach%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=st.+ives+cornwall&form=hpcapt&filters=HpDate:%2220170516_0700%22", 
+                "wp": true, 
+                "enddate": "20170517", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
