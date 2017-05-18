@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170517", 
+                "urlbase": "/az/hprichbg/rb/Palaon_ZH-CN11145059144", 
+                "fullstartdate": "201705171600", 
+                "copyright": "Paläon古生物研究中心，德国舍宁根 (© WestEnd61/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/Palaon_ZH-CN11145059144_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "872faccf9bb2ab60f4b2f08f4643dded", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170517_Palaon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Pal%C3%A4on&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170518", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170517", 
+                "urlbase": "/az/hprichbg/rb/SpermophilusArmatus_EN-US12133314731", 
+                "fullstartdate": "201705170700", 
+                "copyright": "Uinta ground squirrels at Tower Fall Campground in Yellowstone National Park, Wyoming (© Shin Yoshino/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/SpermophilusArmatus_EN-US12133314731_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d68e366c3ec01f58b719feaa957e477c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170517_SpermophilusArmatus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=uinta+ground+squirrel&form=hpcapt&filters=HpDate:%2220170517_0700%22", 
+                "wp": true, 
+                "enddate": "20170518", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
