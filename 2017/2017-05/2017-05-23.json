@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170522", 
+                "urlbase": "/az/hprichbg/rb/Dipper_ZH-CN11205462091", 
+                "fullstartdate": "201705221600", 
+                "copyright": "一只站在Lathkill河Tufa坝上的白喉噪鹛，英国德比郡  (© Ben Hall/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/Dipper_ZH-CN11205462091_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2fa95d3f8a1fb86780c24575bd16da27", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170522_Dipper%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%99%BD%E5%96%89%E5%99%AA%E9%B9%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170523", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170522", 
+                "urlbase": "/az/hprichbg/rb/LakePowellStorm_EN-US6822865622", 
+                "fullstartdate": "201705220700", 
+                "vid": {
+                    "caption": "Thunderstorms over Lake Powell, Arizona (© Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/LakePowell_Thunderstorms_nimiaRM_4471864_062_1080_HD_EN-US900325174.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/LakePowell_Thunderstorms_nimiaRM_4471864_062_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/LakePowell_Thunderstorms_nimiaRM_4471864_062_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=Lake+Powell&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Thunderstorms over Lake Powell, Arizona (© Babak Tafreshi/Getty Images)", 
+                "url": "/az/hprichbg/rb/LakePowellStorm_EN-US6822865622_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e9062a07a46486b982000fee03ed967e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170522_LakePowellStorm%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Lake+Powell&form=hpcapt&filters=HpDate:%2220170522_0700%22", 
+                "wp": false, 
+                "enddate": "20170523", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
