@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170523", 
+                "urlbase": "/az/hprichbg/rb/BB1883_ZH-CN14845255336", 
+                "fullstartdate": "201705231600", 
+                "copyright": "布鲁克林大桥，美国纽约 (© Inge Johnsson/age fotostock)", 
+                "url": "/az/hprichbg/rb/BB1883_ZH-CN14845255336_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8cd01a220cf3479c642d56df7e009f54", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170523_BB1883%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170524", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170523", 
+                "urlbase": "/az/hprichbg/rb/Dipper_EN-US11520051960", 
+                "fullstartdate": "201705230700", 
+                "copyright": "White-throated dipper at Tufa Dam, on the River Lathkill in Derbyshire, England (© Ben Hall/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/Dipper_EN-US11520051960_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3eb675976770686753614f6396a38ba8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170523_Dipper%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=White-throated+dipper&form=hpcapt&filters=HpDate:%2220170523_0700%22", 
+                "wp": true, 
+                "enddate": "20170524", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
