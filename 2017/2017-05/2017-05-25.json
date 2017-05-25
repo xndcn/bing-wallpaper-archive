@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170524", 
+                "urlbase": "/az/hprichbg/rb/PyramidsOfMeroe_ZH-CN10667861825", 
+                "fullstartdate": "201705241600", 
+                "copyright": "麦罗埃遗迹中的金字塔群，苏丹 (© Andrew McConnell/Alamy)", 
+                "url": "/az/hprichbg/rb/PyramidsOfMeroe_ZH-CN10667861825_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "43be48a396492c65af353451e46f2e3e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170524_PyramidsOfMeroe%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%BA%A6%E7%BD%97%E5%9F%83&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170525", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170524", 
+                "urlbase": "/az/hprichbg/rb/BB1883_EN-US15158286681", 
+                "fullstartdate": "201705240700", 
+                "copyright": "The Brooklyn Bridge, New York (© Inge Johnsson/age fotostock)", 
+                "url": "/az/hprichbg/rb/BB1883_EN-US15158286681_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "df7af9c811849db42ce9c78aa081650a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170524_BB1883%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Brooklyn+Bridge&form=hpcapt&filters=HpDate:%2220170524_0700%22", 
+                "wp": true, 
+                "enddate": "20170525", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
