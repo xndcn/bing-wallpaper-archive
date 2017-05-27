@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170526", 
+                "urlbase": "/az/hprichbg/rb/BromoJava_ZH-CN13278140077", 
+                "fullstartdate": "201705261600", 
+                "copyright": "浓烟滚滚的布罗莫火山，印度尼西亚爪哇岛东部 (© Shutterstock)", 
+                "url": "/az/hprichbg/rb/BromoJava_ZH-CN13278140077_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "21f12433e89e97d2fb25a5ee33939303", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170526_BromoJava%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B8%83%E7%BD%97%E8%8E%AB%E7%81%AB%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170527", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170526", 
+                "urlbase": "/az/hprichbg/rb/Fiddleheads_EN-US12581425191", 
+                "fullstartdate": "201705260700", 
+                "copyright": "Fern fiddleheads at Valley Falls Park in Vernon, Connecticut (© Holcy/Getty Images)", 
+                "url": "/az/hprichbg/rb/Fiddleheads_EN-US12581425191_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7e174746b19916bb483c346576c9487f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170526_Fiddleheads%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=fiddlehead+fern&form=hpcapt&filters=HpDate:%2220170526_0700%22", 
+                "wp": true, 
+                "enddate": "20170527", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
