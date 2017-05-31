@@ -1,0 +1,86 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170530", 
+                "urlbase": "/az/hprichbg/rb/MtTamVideo_ZH-CN10798436683", 
+                "fullstartdate": "201705301600", 
+                "vid": {
+                    "caption": "视频：塔玛佩斯山州立公园上空的雾，加利福尼亚 (© Jonathan Mitchell/Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/SunsetFog-MtTam_nimiaRM_4K_617008_1080_HD_ZH-CN1344157419.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/SunsetFog_mobile_1334_Mobile_ZH-CN41121158.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SunsetFog-MtTam_nimiaRM_4K_617008_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SunsetFog-MtTam_nimiaRM_4K_617008_1080_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SunsetFog_mobile_1334_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": true
+                }, 
+                "copyright": "塔玛佩斯山州立公园上空的雾，加利福尼亚 (© Jonathan Mitchell/Nimia)", 
+                "url": "/az/hprichbg/rb/MtTamVideo_ZH-CN10798436683_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "721f801a1291c6d857c510b571f0c488", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170530_MtTamVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A1%94%E7%8E%9B%E4%BD%A9%E6%96%AF%E5%B1%B1%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170531", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170530", 
+                "urlbase": "/az/hprichbg/rb/TempleStreet_EN-US6964048300", 
+                "fullstartdate": "201705300700", 
+                "copyright": "Temple Street Night Market in Yau Ma Tei, Hong Kong (© Peter Stewart/500px)", 
+                "url": "/az/hprichbg/rb/TempleStreet_EN-US6964048300_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b328f21b94cd7d0f9f03e6b4a2663976", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170530_TempleStreet%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=temple+street+hong+kong&form=hpcapt&filters=HpDate:%2220170530_0700%22", 
+                "wp": true, 
+                "enddate": "20170531", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
