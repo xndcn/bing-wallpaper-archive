@@ -1,0 +1,86 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170531", 
+                "urlbase": "/az/hprichbg/rb/Playing_ZH-CN12541345417", 
+                "fullstartdate": "201705311600", 
+                "copyright": "儿童们正在陈经纶体育学校体育馆内参加游泳训练，中国杭州 (© REUTERS/Aly Song)", 
+                "url": "/az/hprichbg/rb/Playing_ZH-CN12541345417_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "506432c452e21025464f978e2a0e053d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170531_Playing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%84%BF%E7%AB%A5%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170601", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170531", 
+                "urlbase": "/az/hprichbg/rb/MtTamVideo_EN-US10798436683", 
+                "fullstartdate": "201705310700", 
+                "vid": {
+                    "caption": "Fog flowing over Mount Tamalpais State Park, California (© Jonathan Mitchell/Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/SunsetFog-MtTam_nimiaRM_4K_617008_1080_HD_EN-US1344157419.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/SunsetFog_mobile_1334_Mobile_EN-US41121158.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SunsetFog-MtTam_nimiaRM_4K_617008_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SunsetFog-MtTam_nimiaRM_4K_617008_1080_HD_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SunsetFog_mobile_1334_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=Mt.+Tamalpais+State+Park&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Fog over Mount Tamalpais State Park, California (© Jonathan Mitchell/Nimia)", 
+                "url": "/az/hprichbg/rb/MtTamVideo_EN-US10798436683_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "88c64f7a3fbf59594b533230aec506fe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170531_MtTamVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Mt.+Tamalpais+State+Park&form=hpcapt&filters=HpDate:%2220170531_0700%22", 
+                "wp": false, 
+                "enddate": "20170601", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
