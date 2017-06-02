@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170601", 
+                "urlbase": "/az/hprichbg/rb/PonteSantAngelo_ZH-CN15413822788", 
+                "fullstartdate": "201706011600", 
+                "copyright": "圣天使桥和圣彼得大教堂，意大利罗马 (© robertharding/Masterfile)", 
+                "url": "/az/hprichbg/rb/PonteSantAngelo_ZH-CN15413822788_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f7ccdc6e221d47981594724aa790d74e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170601_PonteSantAngelo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%A3%E5%A4%A9%E4%BD%BF%E6%A1%A5%E5%92%8C%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A4%A7%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170602", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170601", 
+                "urlbase": "/az/hprichbg/rb/EuropeanFlamingo_EN-US11283971815", 
+                "fullstartdate": "201706010700", 
+                "copyright": "Greater flamingos in Walvis Bay, Namibia (© Yva Momatiuk and John Eastcott/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/EuropeanFlamingo_EN-US11283971815_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "acc9e6d7a531c7d683714fe4619f8b9a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170601_EuropeanFlamingo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=greater+flamingo&form=hpcapt&filters=HpDate:%2220170601_0700%22", 
+                "wp": true, 
+                "enddate": "20170602", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
