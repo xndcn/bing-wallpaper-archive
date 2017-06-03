@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170602", 
+                "urlbase": "/az/hprichbg/rb/TexasBluebonnets_ZH-CN10361963785", 
+                "fullstartdate": "201706021600", 
+                "copyright": "大草原附近的矢车菊野花，美国德克萨斯州 (© dszc/E+/Getty Images)", 
+                "url": "/az/hprichbg/rb/TexasBluebonnets_ZH-CN10361963785_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e8cc19764db4a3776b2f45ae3b1a0e6b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170602_TexasBluebonnets%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%9F%A2%E8%BD%A6%E8%8F%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170603", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170602", 
+                "urlbase": "/az/hprichbg/rb/PonteSantAngelo_EN-US14642948743", 
+                "fullstartdate": "201706020700", 
+                "copyright": "Ponte Sant'Angelo and St. Peter's Basilica in Rome, Italy (© robertharding/Masterfile)", 
+                "url": "/az/hprichbg/rb/PonteSantAngelo_EN-US14642948743_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "45ae4f7c7f94af46e43b242718d93b40", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170602_PonteSantAngelo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Ponte+Sant'Angelo&form=hpcapt&filters=HpDate:%2220170602_0700%22", 
+                "wp": true, 
+                "enddate": "20170603", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
