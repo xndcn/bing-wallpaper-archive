@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170606", 
+                "urlbase": "/az/hprichbg/rb/Prayercard_ZH-CN13472871640", 
+                "fullstartdate": "201706061600", 
+                "copyright": "文庙内的祈祷牌，中国云南建水 (© Katie Garrod/Getty Images/AWL Images RM)", 
+                "url": "/az/hprichbg/rb/Prayercard_ZH-CN13472871640_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bd803c8600bac5b133c23ee6cada8131", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170606_Prayercard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%AB%98%E8%80%83&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170607", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170606", 
+                "urlbase": "/az/hprichbg/rb/JunoMemorial_EN-US11412616317", 
+                "fullstartdate": "201706060700", 
+                "copyright": "Memorial at the Juno Beach Centre in Courseulles-sur-Mer, France (© David Jones/Alamy)", 
+                "url": "/az/hprichbg/rb/JunoMemorial_EN-US11412616317_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9d7c184ed337a156f044f24f37090f61", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170606_JunoMemorial%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Juno+Beach+Centre&form=hpcapt&filters=HpDate:%2220170606_0700%22", 
+                "wp": false, 
+                "enddate": "20170607", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
