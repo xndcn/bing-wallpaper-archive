@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170612", 
+                "urlbase": "/az/hprichbg/rb/NiemeyerCenter_ZH-CN8964518609", 
+                "fullstartdate": "201706121600", 
+                "copyright": "奥斯卡·尼迈耶国际文化中心，西班牙阿维莱斯 (© Paula Sierra/Getty Images)", 
+                "url": "/az/hprichbg/rb/NiemeyerCenter_ZH-CN8964518609_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fb367861b9f34f624be70ef4e4b0a477", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170612_NiemeyerCenter%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A5%A5%E6%96%AF%E5%8D%A1%C2%B7%E5%B0%BC%E8%BF%88%E8%80%B6%E5%9B%BD%E9%99%85%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170613", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170612", 
+                "urlbase": "/az/hprichbg/rb/DinosaurPP_EN-US14141412793", 
+                "fullstartdate": "201706120700", 
+                "copyright": "Sunset at Dinosaur Provincial Park, Alberta, Canada (© Chris Greenwood/500px)", 
+                "url": "/az/hprichbg/rb/DinosaurPP_EN-US14141412793_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3f3a986233ba4f0e86aff2c7539edafe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170612_DinosaurPP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Dinosaur+Provincial+Park&FORM=hpcapt&filters=HpDate:%2220170612_0700%22", 
+                "wp": true, 
+                "enddate": "20170613", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
