@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170613", 
+                "urlbase": "/az/hprichbg/rb/WolfeCreekCrater_ZH-CN10953577427", 
+                "fullstartdate": "201706131600", 
+                "copyright": "西澳大利亚霍尔斯克里克附近的陨石撞击坑 (© Randy Olson/National Geographic Creative/Getty Images)", 
+                "url": "/az/hprichbg/rb/WolfeCreekCrater_ZH-CN10953577427_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "133561ddef7542ee034a56f644d2df0d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170613_WolfeCreekCrater%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%99%A8%E7%9F%B3%E5%9D%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170614", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170613", 
+                "urlbase": "/az/hprichbg/rb/NiemeyerCenter_EN-US8964518609", 
+                "fullstartdate": "201706130700", 
+                "copyright": "Oscar Niemeyer International Cultural Centre in Avilés, Spain (© Paula Sierra/Getty Images)", 
+                "url": "/az/hprichbg/rb/NiemeyerCenter_EN-US8964518609_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "112f1a0300e82e1e6624d7e4999b6638", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170613_NiemeyerCenter%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=oscar+niemeyer+international+cultural+centre&form=hpcapt&filters=HpDate:%2220170613_0700%22", 
+                "wp": false, 
+                "enddate": "20170614", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
