@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170614", 
+                "urlbase": "/az/hprichbg/rb/TOAD_ZH-CN7336795473", 
+                "fullstartdate": "201706141600", 
+                "copyright": "美国Dairyland自行车巡回赛的参赛手，威斯康星州丰迪拉克县附近 (© Jeffrey Phelps/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/TOAD_ZH-CN7336795473_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "52acb09cbefbf1d28d80ff8a150d9c82", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170614_TOAD%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%B7%A1%E5%9B%9E%E8%B5%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170615", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170614", 
+                "urlbase": "/az/hprichbg/rb/LadderTruckFlag_EN-US6754477338", 
+                "fullstartdate": "201706140700", 
+                "copyright": "A fire department ladder truck in Fresno, California (© Universal Images Group/Getty Images)", 
+                "url": "/az/hprichbg/rb/LadderTruckFlag_EN-US6754477338_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f993ca9babb0e489284d2f2797e37fad", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170614_LadderTruckFlag%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=flag+day&form=hpcapt&filters=HpDate:%2220170614_0700%22", 
+                "wp": false, 
+                "enddate": "20170615", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
