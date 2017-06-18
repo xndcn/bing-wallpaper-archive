@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170617", 
+                "urlbase": "/az/hprichbg/rb/TurDad_ZH-CN11748481038", 
+                "fullstartdate": "201706171600", 
+                "copyright": "雄性高加索羱羊和它的幼崽 (© John Knight/Getty Images)", 
+                "url": "/az/hprichbg/rb/TurDad_ZH-CN11748481038_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "468e4a4643b1190eb33d7c2f31fd0c3b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170617_TurDad%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%AB%98%E5%8A%A0%E7%B4%A2%E7%BE%B1%E7%BE%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170618", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170617", 
+                "urlbase": "/az/hprichbg/rb/ThufaHill_EN-US8809655435", 
+                "fullstartdate": "201706170700", 
+                "copyright": "Þúfa hill in Reykjavik, Iceland (© Associated Press)", 
+                "url": "/az/hprichbg/rb/ThufaHill_EN-US8809655435_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7c292fb2c5975a33d5202d8041cd619a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170617_ThufaHill%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=reykjavik+iceland&form=hpcapt&filters=HpDate:%2220170617_0700%22", 
+                "wp": false, 
+                "enddate": "20170618", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
