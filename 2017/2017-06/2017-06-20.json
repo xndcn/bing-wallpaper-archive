@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170619", 
+                "urlbase": "/az/hprichbg/rb/PlayaRoja_ZH-CN11120265765", 
+                "fullstartdate": "201706191600", 
+                "copyright": "帕拉卡斯国家保护区内的红海滩，秘鲁 (© Istvan Kadar Photography/Getty Images)", 
+                "url": "/az/hprichbg/rb/PlayaRoja_ZH-CN11120265765_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9323ed5e22d482b870f7c500f71f39fe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170619_PlayaRoja%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B8%95%E6%8B%89%E5%8D%A1%E6%96%AF%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170620", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170619", 
+                "urlbase": "/az/hprichbg/rb/AeoniumLeaf_EN-US7200082197", 
+                "fullstartdate": "201706190700", 
+                "copyright": "Aeonium leaf detail (© Tim Gainey/Alamy)", 
+                "url": "/az/hprichbg/rb/AeoniumLeaf_EN-US7200082197_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3970248c8690e14738bf0978cfd66d90", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170619_AeoniumLeaf%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=aeonium&form=hpcapt&filters=HpDate:%2220170619_0700%22", 
+                "wp": true, 
+                "enddate": "20170620", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
