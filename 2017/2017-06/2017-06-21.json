@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170620", 
+                "urlbase": "/az/hprichbg/rb/ChobeChick_ZH-CN9997116812", 
+                "fullstartdate": "201706201600", 
+                "copyright": "【今日夏至】丘比国家公园内的非洲水雉小鸡，博茨瓦纳 (© Brendon Cremer/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/ChobeChick_ZH-CN9997116812_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7a2be9665521a02f11149543b695d7bf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170620_ChobeChick%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%8F%E8%87%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170621", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170620", 
+                "urlbase": "/az/hprichbg/rb/PlayaRoja_EN-US9542724846", 
+                "fullstartdate": "201706200700", 
+                "copyright": "Playa Roja in Paracas National Reserve, Peru (© Istvan Kadar Photography/Getty Images)", 
+                "url": "/az/hprichbg/rb/PlayaRoja_EN-US9542724846_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "85eecb8c8a2be4a443760849e86c5af4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170620_PlayaRoja%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=paracas+national+reserve&form=hpcapt&filters=HpDate:%2220170620_0700%22", 
+                "wp": true, 
+                "enddate": "20170621", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
