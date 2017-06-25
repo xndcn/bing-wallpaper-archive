@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170624", 
+                "urlbase": "/az/hprichbg/rb/SanLorenzo_ZH-CN7625061136", 
+                "fullstartdate": "201706241600", 
+                "copyright": "圣老楞佐圆形堂，意大利曼托瓦 (© geo-select FotoArt)", 
+                "url": "/az/hprichbg/rb/SanLorenzo_ZH-CN7625061136_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "69ea06f6202ce730a65cbc4ceacbcb5b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170624_SanLorenzo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%A3%E8%80%81%E6%A5%9E%E4%BD%90%E5%9C%86%E5%BD%A2%E5%A0%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170625", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170624", 
+                "urlbase": "/az/hprichbg/rb/HawaiiSwim_EN-US7233619332", 
+                "fullstartdate": "201706240700", 
+                "copyright": "Swimmers competing in the 2016 Ironman World Championship triathlon in Kailua-Kona, Hawaii (© Tom Pennington/Getty Images)", 
+                "url": "/az/hprichbg/rb/HawaiiSwim_EN-US7233619332_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8b9393950c2439042f844f7c91571060", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170624_HawaiiSwim%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Ironman+World+Championship&form=hpcapt&filters=HpDate:%2220170624_0700%22", 
+                "wp": false, 
+                "enddate": "20170625", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
