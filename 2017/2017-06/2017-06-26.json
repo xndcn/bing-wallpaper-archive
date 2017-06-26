@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170625", 
+                "urlbase": "/az/hprichbg/rb/MadagascarLemurs_ZH-CN7754035615", 
+                "fullstartdate": "201706251600", 
+                "copyright": "马达加斯加Berenty保护区内的环尾狐猴 (© Steve Bloom Images/Alamy)", 
+                "url": "/az/hprichbg/rb/MadagascarLemurs_ZH-CN7754035615_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2b3818feda23d61cafcc98ae407dfc48", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170625_MadagascarLemurs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%8E%AF%E5%B0%BE%E7%8B%90%E7%8C%B4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170626", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170625", 
+                "urlbase": "/az/hprichbg/rb/SanLorenzo_EN-US8246045607", 
+                "fullstartdate": "201706250700", 
+                "copyright": "Rotonda di San Lorenzo in Mantua, Italy (© geo-select FotoArt)", 
+                "url": "/az/hprichbg/rb/SanLorenzo_EN-US8246045607_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "57f0744d2ef27aa6aadb9af504172f64", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170625_SanLorenzo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=rotonda+di+san+lorenzo+italy&form=hpcapt&filters=HpDate:%2220170625_0700%22", 
+                "wp": true, 
+                "enddate": "20170626", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
