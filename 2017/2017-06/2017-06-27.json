@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170626", 
+                "urlbase": "/az/hprichbg/rb/CallanishSS_ZH-CN12559903397", 
+                "fullstartdate": "201706261600", 
+                "copyright": "卡拉尼什巨石阵，苏格兰路易斯岛 (© Tomas Vrba and Lindsey Parkinson/500px)", 
+                "url": "/az/hprichbg/rb/CallanishSS_ZH-CN12559903397_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bc41a0a035bc0b038d6fb3927125cd53", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170626_CallanishSS%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8D%A1%E6%8B%89%E5%B0%BC%E4%BB%80%E5%B7%A8%E7%9F%B3%E9%98%B5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170627", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170626", 
+                "urlbase": "/az/hprichbg/rb/MadagascarLemurs_EN-US6929042654", 
+                "fullstartdate": "201706260700", 
+                "copyright": "Ring-tailed lemurs in the Berenty Reserve of Madagascar (© Steve Bloom Images/Alamy)", 
+                "url": "/az/hprichbg/rb/MadagascarLemurs_EN-US6929042654_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3b436ee97a5ad934b1927d310ebd17d4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170626_MadagascarLemurs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=ring-tailed+lemur&form=hpcapt&filters=HpDate:%2220170626_0700%22", 
+                "wp": true, 
+                "enddate": "20170627", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
