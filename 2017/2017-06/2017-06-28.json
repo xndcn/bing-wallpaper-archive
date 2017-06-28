@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170627", 
+                "urlbase": "/az/hprichbg/rb/JoshuaTrees_ZH-CN10998673288", 
+                "fullstartdate": "201706271600", 
+                "copyright": "死亡谷内的约书亚树，美国加利福尼亚州 (© Marc Adamus/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/JoshuaTrees_ZH-CN10998673288_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "933ac55fc45408665169528698fc5ef5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170627_JoshuaTrees%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BA%A6%E4%B9%A6%E4%BA%9A%E6%A0%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170628", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170627", 
+                "urlbase": "/az/hprichbg/rb/CallanishSS_EN-US12690147391", 
+                "fullstartdate": "201706270700", 
+                "copyright": "The Callanish Stones on the Isle of Lewis, Scotland (© Tomas Vrba and Lindsey Parkinson/500px)", 
+                "url": "/az/hprichbg/rb/CallanishSS_EN-US12690147391_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ef9ea54346b13a7d3bb62cea1bf424d8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170627_CallanishSS%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=callanish+stones&form=hpcapt&filters=HpDate:%2220170627_0700%22", 
+                "wp": true, 
+                "enddate": "20170628", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
