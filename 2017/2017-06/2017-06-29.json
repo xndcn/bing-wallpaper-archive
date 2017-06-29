@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170628", 
+                "urlbase": "/az/hprichbg/rb/NorddorfPath_ZH-CN10408895135", 
+                "fullstartdate": "201706281600", 
+                "copyright": "德国阿姆鲁姆岛诺尔多夫市的木板路 (© Raimund Linke/Getty Images)", 
+                "url": "/az/hprichbg/rb/NorddorfPath_ZH-CN10408895135_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2fa679aa63b705ec06035afd99a152c0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170628_NorddorfPath%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%9C%A8%E6%9D%BF%E8%B7%AF&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170629", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170628", 
+                "urlbase": "/az/hprichbg/rb/JoshuaTrees_EN-US10044021957", 
+                "fullstartdate": "201706280700", 
+                "copyright": "Joshua trees in Death Valley, California (© Marc Adamus/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/JoshuaTrees_EN-US10044021957_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d218e7560e67487ed5157c76c5fa9e84", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170628_JoshuaTrees%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=death+valley+national+park&form=hpcapt&filters=HpDate:%2220170628_0700%22", 
+                "wp": true, 
+                "enddate": "20170629", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
