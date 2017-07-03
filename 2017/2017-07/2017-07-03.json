@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170702", 
+                "urlbase": "/az/hprichbg/rb/LongTailedBushtits_ZH-CN9781684264", 
+                "fullstartdate": "201707021600", 
+                "copyright": "银喉长尾山雀，德国埃尔丁 (© H. Schmidbauer/Offset)", 
+                "url": "/az/hprichbg/rb/LongTailedBushtits_ZH-CN9781684264_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "803b9b47ab083d027ec28debec308dc3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170702_LongTailedBushtits%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%93%B6%E5%96%89%E9%95%BF%E5%B0%BE%E5%B1%B1%E9%9B%80&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170703", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170702", 
+                "urlbase": "/az/hprichbg/rb/ConeyIslandAerial_EN-US8660420119", 
+                "fullstartdate": "201707020700", 
+                "copyright": "Amusement park rides at Coney Island, New York (© New York on Air/Offset)", 
+                "url": "/az/hprichbg/rb/ConeyIslandAerial_EN-US8660420119_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b375df6bb8a52cde76f27a9177b1614c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170702_ConeyIslandAerial%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=coney+island+new+york+city&form=hpcapt&filters=HpDate:%2220170702_0700%22", 
+                "wp": false, 
+                "enddate": "20170703", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
