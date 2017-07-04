@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170703", 
+                "urlbase": "/az/hprichbg/rb/SonnenblumeHummel_ZH-CN13806822042", 
+                "fullstartdate": "201707031600", 
+                "copyright": "一只大黄蜂在菲希塔市附近的巴伐利亚森林中的向日葵上，德国巴伐利亚 (© Rüdiger Hess/geo-select FotoArt)", 
+                "url": "/az/hprichbg/rb/SonnenblumeHummel_ZH-CN13806822042_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d2e5e4c78616f2f070fcfab79ce2b827", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170703_SonnenblumeHummel%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%90%91%E6%97%A5%E8%91%B5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170704", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170703", 
+                "urlbase": "/az/hprichbg/rb/LongTailedBushtits_EN-US9123255134", 
+                "fullstartdate": "201707030700", 
+                "copyright": "Long-tailed tits in Erding, Germany (© H. Schmidbauer/Offset)", 
+                "url": "/az/hprichbg/rb/LongTailedBushtits_EN-US9123255134_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b37990e085915de20bc486b72abe2b2a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170703_LongTailedBushtits%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=long-tailed+tit&form=hpcapt&filters=HpDate:%2220170703_0700%22", 
+                "wp": true, 
+                "enddate": "20170704", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
