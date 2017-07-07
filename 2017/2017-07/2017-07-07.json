@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170706", 
+                "urlbase": "/az/hprichbg/rb/Umbrella_ZH-CN8238029705", 
+                "fullstartdate": "201707061600", 
+                "copyright": "【今日小暑】游客在枣庄市台儿庄区运河湿地公园观赏莲花，中国山东省 (Gao Qimin/Xinhua/Alamy Live News)", 
+                "url": "/az/hprichbg/rb/Umbrella_ZH-CN8238029705_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "474afac024f2a75f0874decef671f1d7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170706_Umbrella%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B0%8F%E6%9A%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170707", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170706", 
+                "urlbase": "/az/hprichbg/rb/SnailsKissing_EN-US7861942488", 
+                "fullstartdate": "201707060700", 
+                "copyright": "Snails ‘kissing’ in Sambas Regency, Indonesia (© Solent News/Rex Shutterstock)", 
+                "url": "/az/hprichbg/rb/SnailsKissing_EN-US7861942488_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c3bf8215b0d42e2d330cd4284a550e71", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170706_SnailsKissing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=snail&form=hpcapt&filters=HpDate:%2220170706_0700%22", 
+                "wp": false, 
+                "enddate": "20170707", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
