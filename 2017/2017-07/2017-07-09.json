@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170708", 
+                "urlbase": "/az/hprichbg/rb/Umbrellas_ZH-CN8739718706", 
+                "fullstartdate": "201707081600", 
+                "copyright": "马其顿当代艺术博物馆外乔治·宗古鲁普罗斯设计的“雨伞”雕塑，希腊塞萨洛尼基 (© SIAATH/Shutterstock)", 
+                "url": "/az/hprichbg/rb/Umbrellas_ZH-CN8739718706_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0a511c23e8832eaa1502cfece5742d51", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170708_Umbrellas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=George+Zongolopoulos&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170709", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170708", 
+                "urlbase": "/az/hprichbg/rb/CharcoAzul_EN-US9947089589", 
+                "fullstartdate": "201707080700", 
+                "copyright": "Cave on El Hierro Island, Canary Islands, Spain (© Huber/Sime/eStock Photo)", 
+                "url": "/az/hprichbg/rb/CharcoAzul_EN-US9947089589_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "deb5cb57a4cb1f7c53ab3c6c49e22bfd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170708_CharcoAzul%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=El+Hierro&form=hpcapt&filters=HpDate:%2220170708_0700%22", 
+                "wp": true, 
+                "enddate": "20170709", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
