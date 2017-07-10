@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170709", 
+                "urlbase": "/az/hprichbg/rb/DerbyshireSheep_ZH-CN8057416029", 
+                "fullstartdate": "201707091600", 
+                "copyright": "峰区国家公园内的绵羊，英国德比郡 (© James Mills/500px)", 
+                "url": "/az/hprichbg/rb/DerbyshireSheep_ZH-CN8057416029_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "10115625afc35b4a019c365767160a7c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170709_DerbyshireSheep%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B3%B0%E5%8C%BA%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170710", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170709", 
+                "urlbase": "/az/hprichbg/rb/Umbrellas_EN-US8739718706", 
+                "fullstartdate": "201707090700", 
+                "copyright": "‘Umbrellas,’ by George Zongolopoulos, Macedonian Museum of Contemporary Art, Thessaloniki, Greece (© SIAATH/Shutterstock)", 
+                "url": "/az/hprichbg/rb/Umbrellas_EN-US8739718706_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "49837481ba886a03e508113b117436b6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170709_Umbrellas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Macedonian+Museum+of+Contemporary+Art+Greece&form=hpcapt&filters=HpDate:%2220170709_0700%22", 
+                "wp": false, 
+                "enddate": "20170710", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
