@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170711", 
+                "urlbase": "/az/hprichbg/rb/GhostCrab_ZH-CN13597716827", 
+                "fullstartdate": "201707111600", 
+                "copyright": "大西洋鬼蟹 (© Luciano Candisani/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/GhostCrab_ZH-CN13597716827_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c0abe399c9d4819e971761d3ae7360b3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170711_GhostCrab%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%A7%E8%A5%BF%E6%B4%8B%E9%AC%BC%E8%9F%B9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170712", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170711", 
+                "urlbase": "/az/hprichbg/rb/MartapuraMarket_EN-US9502204987", 
+                "fullstartdate": "201707110700", 
+                "copyright": "Lok Baintan Floating Market on the Martapura River in Indonesia (© Fauzan Mauddin/Solent News/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/MartapuraMarket_EN-US9502204987_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "51ffad67be87f0f900f8ffb8742e6f4c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170711_MartapuraMarket%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Lok+Baintan+Floating+Market&form=hpcapt&filters=HpDate:%2220170711_0700%22", 
+                "wp": false, 
+                "enddate": "20170712", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
