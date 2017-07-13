@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170712", 
+                "urlbase": "/az/hprichbg/rb/LagazuoiRefuge_ZH-CN12532053341", 
+                "fullstartdate": "201707121600", 
+                "copyright": "从科尔蒂纳丹佩佐市附近的Lagazuoi山观看佩尔莫山，意大利 (© Olimpio Fantuz/Offset)", 
+                "url": "/az/hprichbg/rb/LagazuoiRefuge_ZH-CN12532053341_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "36d10c62cc71b00a24e926c16a3b5032", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170712_LagazuoiRefuge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Averau+and+Monte+Pelmo&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170713", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170712", 
+                "urlbase": "/az/hprichbg/rb/GhostCrab_EN-US12586461381", 
+                "fullstartdate": "201707120700", 
+                "copyright": "Atlantic ghost crab (© Luciano Candisani/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/GhostCrab_EN-US12586461381_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6ffd9ec4201ac7c26fd1553e888175dd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170712_GhostCrab%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Atlantic+ghost+crab&form=hpcapt&filters=HpDate:%2220170712_0700%22", 
+                "wp": true, 
+                "enddate": "20170713", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
