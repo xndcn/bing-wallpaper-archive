@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170713", 
+                "urlbase": "/az/hprichbg/rb/TuileriesGardenWheel_ZH-CN12655332871", 
+                "fullstartdate": "201707131600", 
+                "copyright": "杜乐丽花园内的摩天轮，法国巴黎 (© Tardy Herv/Getty Images)", 
+                "url": "/az/hprichbg/rb/TuileriesGardenWheel_ZH-CN12655332871_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4e7c75b94ed3a8fe938b91527fad8ff4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170713_TuileriesGardenWheel%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%9D%9C%E4%B9%90%E4%B8%BD%E8%8A%B1%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170714", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170713", 
+                "urlbase": "/az/hprichbg/rb/LagazuoiRefuge_EN-US12120955316", 
+                "fullstartdate": "201707130700", 
+                "copyright": "Averau and Monte Pelmo seen from Lagazuoi Mountain near Cortina d'Ampezzo, Italy (© Olimpio Fantuz/Offset)", 
+                "url": "/az/hprichbg/rb/LagazuoiRefuge_EN-US12120955316_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ac3675c8cf96af2f2c37ad5046f2eaeb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170713_LagazuoiRefuge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=dolomites&form=hpcapt&filters=HpDate:%2220170713_0700%22", 
+                "wp": true, 
+                "enddate": "20170714", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
