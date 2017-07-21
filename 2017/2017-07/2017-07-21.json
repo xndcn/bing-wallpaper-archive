@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170720", 
+                "urlbase": "/az/hprichbg/rb/EborFallsVideo_ZH-CN9972229251", 
+                "fullstartdate": "201707201600", 
+                "copyright": "Guy Fawkes River国家公园内的埃博瀑布，澳大利亚 (© Ingo Oeland/Alamy)", 
+                "url": "/az/hprichbg/rb/EborFallsVideo_ZH-CN9972229251_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4b10e9d7c7675348cc745501b1dfd294", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170720_EborFallsVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Ebor+Falls&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170721", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170720", 
+                "urlbase": "/az/hprichbg/rb/GlastonburyMoon_EN-US10251307154", 
+                "fullstartdate": "201707200700", 
+                "copyright": "The moon rises over Glastonbury Tor, England (© Matt Cardy/Getty Images)", 
+                "url": "/az/hprichbg/rb/GlastonburyMoon_EN-US10251307154_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bf2def0289b04710f8891ba11786dbdb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170720_GlastonburyMoon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=glastonbury+tor,+england&form=hpcapt&filters=HpDate:%2220170720_0700%22", 
+                "wp": false, 
+                "enddate": "20170721", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
