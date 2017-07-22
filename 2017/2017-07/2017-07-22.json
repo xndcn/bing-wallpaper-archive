@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170721", 
+                "urlbase": "/az/hprichbg/rb/Econlockhatchee_ZH-CN10577234655", 
+                "fullstartdate": "201707211600", 
+                "copyright": "【今日大暑】Econlockhatchee 河上的吊床露营，美国佛罗里达州 (© Mac Stone/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/Econlockhatchee_ZH-CN10577234655_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "71113b187e0d085460d0b5f254da0b0b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170721_Econlockhatchee%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%A7%E6%9A%91&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170722", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170721", 
+                "urlbase": "/az/hprichbg/rb/CaliforniaPoppies_EN-US12155470897", 
+                "fullstartdate": "201707210700", 
+                "vid": {
+                    "caption": "Antelope Valley California Poppy Reserve near Lancaster, California (© Robert W. Glusic/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/CA_PoppiesGettyRM-693786853_1080_HD_EN-US1677336034.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/CA_PoppiesGettyRM-693786853_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/CA_PoppiesGettyRM-693786853_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=antelope+valley+california+poppy+reserve&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Antelope Valley California Poppy Reserve near Lancaster, California (© Ron Thomas/Getty Images)", 
+                "url": "/az/hprichbg/rb/CaliforniaPoppies_EN-US12155470897_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bfb2635a8d223a9ddb70dd212891fded", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170721_CaliforniaPoppies%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=antelope+valley+California+poppy+reserve&form=hpcapt&filters=HpDate:%2220170721_0700%22", 
+                "wp": false, 
+                "enddate": "20170722", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
