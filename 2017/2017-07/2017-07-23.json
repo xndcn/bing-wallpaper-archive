@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170722", 
+                "urlbase": "/az/hprichbg/rb/LosMonegros_ZH-CN14671427222", 
+                "fullstartdate": "201707221600", 
+                "copyright": "洛斯莫内格罗斯附近的洛斯莫内格罗斯沙漠农业区，西班牙 (© Juan Carlos Muñoz/age fotostock)", 
+                "url": "/az/hprichbg/rb/LosMonegros_ZH-CN14671427222_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "221d5f785b21f206d2b175d339a9b6ca", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170722_LosMonegros%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B2%99%E6%BC%A0%E5%86%9C%E4%B8%9A&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170723", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170722", 
+                "urlbase": "/az/hprichbg/rb/Econlockhatchee_EN-US9702194142", 
+                "fullstartdate": "201707220700", 
+                "copyright": "Hammock camping on the Econlockhatchee River in Florida (© Mac Stone/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/Econlockhatchee_EN-US9702194142_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "aac27414901479ae50c13be7a9a192a9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170722_Econlockhatchee%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Econlockhatchee+River&form=hpcapt&filters=HpDate:%2220170722_0700%22", 
+                "wp": true, 
+                "enddate": "20170723", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
