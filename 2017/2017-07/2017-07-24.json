@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170723", 
+                "urlbase": "/az/hprichbg/rb/RainbowLorikeets_ZH-CN10796666125", 
+                "fullstartdate": "201707231600", 
+                "copyright": "虹彩吸蜜鹦鹉，澳大利亚威勒比  (© Roger Powell/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/RainbowLorikeets_ZH-CN10796666125_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "696370750bc987f4e7bec568ec4e41d8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170723_RainbowLorikeets%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%99%B9%E5%BD%A9%E5%90%B8%E8%9C%9C%E9%B9%A6%E9%B9%89&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170724", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170723", 
+                "urlbase": "/az/hprichbg/rb/LosMonegros_EN-US13545190344", 
+                "fullstartdate": "201707230700", 
+                "copyright": "Agricultural fields in the Monegros Desert near Los Monegros, Spain (© Juan Carlos Muñoz/age fotostock)", 
+                "url": "/az/hprichbg/rb/LosMonegros_EN-US13545190344_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e5d7fc9762a11501a40d57a95a29ea2e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170723_LosMonegros%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=monegros+desert&form=hpcapt&filters=HpDate:%2220170723_0700%22", 
+                "wp": true, 
+                "enddate": "20170724", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
