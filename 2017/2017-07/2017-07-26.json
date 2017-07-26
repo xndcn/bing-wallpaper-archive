@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170725", 
+                "urlbase": "/az/hprichbg/rb/WilsonPeakWindow_ZH-CN10363033426", 
+                "fullstartdate": "201707251600", 
+                "copyright": "从鬼城Alta看到的威尔逊峰，美国科罗拉多州 (© Grant Ordelheide/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/WilsonPeakWindow_ZH-CN10363033426_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5287e909cbbb7cf8b7b71318c8f47ab6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170725_WilsonPeakWindow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Wilson+Peak&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170726", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170725", 
+                "urlbase": "/az/hprichbg/rb/ReinebringenRidge_EN-US10023256564", 
+                "fullstartdate": "201707250700", 
+                "copyright": "Village of Reine on Moskenesøya, Norway (© David Varga/Shutterstock)", 
+                "url": "/az/hprichbg/rb/ReinebringenRidge_EN-US10023256564_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a787d6d3975322b75509b7f6747aaefe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170725_ReinebringenRidge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=reine+norway&form=hpcapt&filters=HpDate:%2220170725_0700%22", 
+                "wp": true, 
+                "enddate": "20170726", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
