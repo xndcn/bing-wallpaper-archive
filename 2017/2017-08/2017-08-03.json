@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170802", 
+                "urlbase": "/az/hprichbg/rb/LavenderProvence_ZH-CN9151247848", 
+                "fullstartdate": "201708021600", 
+                "copyright": "瓦朗索勒薰衣草田，法国普罗旺斯 (© Frank Krahmer/Panorama Stock)", 
+                "url": "/az/hprichbg/rb/LavenderProvence_ZH-CN9151247848_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8971a46b3df5565511e67996c0941ad8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170802_LavenderProvence%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%96%B0%E8%A1%A3%E8%8D%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170803", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170802", 
+                "urlbase": "/az/hprichbg/rb/WhipCoral_EN-US11006030844", 
+                "fullstartdate": "201708020700", 
+                "copyright": "Spiral whip coral off the coast of Indonesia (© WaterFrame/Alamy)", 
+                "url": "/az/hprichbg/rb/WhipCoral_EN-US11006030844_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "eb1b718ec29b30251dc51db54daa4818", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170802_WhipCoral%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Whip+coral+(Cirrhipathes+spiralis)&form=hpcapt&filters=HpDate:%2220170802_0700%22", 
+                "wp": true, 
+                "enddate": "20170803", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
