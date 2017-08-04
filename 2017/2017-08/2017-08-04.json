@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170803", 
+                "urlbase": "/az/hprichbg/rb/BodieLighthouse_ZH-CN9415388071", 
+                "fullstartdate": "201708031600", 
+                "copyright": "北卡罗来纳州外滩群岛上的鲍迪岛灯塔 (© Anthony Heflin/Shutterstock)", 
+                "url": "/az/hprichbg/rb/BodieLighthouse_ZH-CN9415388071_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "15e14003521a968613a7c2cdac71ffde", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170803_BodieLighthouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Bodie+Island+Lighthouse&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170804", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170803", 
+                "urlbase": "/az/hprichbg/rb/LavenderProvence_EN-US9659437083", 
+                "fullstartdate": "201708030700", 
+                "copyright": "Lavender fields of Valensole, Provence, France (© Frank Krahmer/Panorama Stock)", 
+                "url": "/az/hprichbg/rb/LavenderProvence_EN-US9659437083_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9ed7493d5b61790a08a23bf42f3460f3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170803_LavenderProvence%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=lavender+(Lavandula)&form=hpcapt&filters=HpDate:%2220170803_0700%22", 
+                "wp": true, 
+                "enddate": "20170804", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
