@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170804", 
+                "urlbase": "/az/hprichbg/rb/CaanaTemple_ZH-CN9714949581", 
+                "fullstartdate": "201708041600", 
+                "copyright": "卡拉科尔玛雅考古遗址，伯利兹 (© Yann Arthus-Bertrand/Getty Images)", 
+                "url": "/az/hprichbg/rb/CaanaTemple_ZH-CN9714949581_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0d73f1552c3181f09af667d0288f4f0b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170804_CaanaTemple%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8D%A1%E6%8B%89%E7%A7%91%E5%B0%94%E7%8E%9B%E9%9B%85%E9%81%97%E5%9D%80&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170805", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170804", 
+                "urlbase": "/az/hprichbg/rb/BodieLighthouse_EN-US10541981640", 
+                "fullstartdate": "201708040700", 
+                "copyright": "Bodie Island Lighthouse on North Carolina's Outer Banks (© Anthony Heflin/Shutterstock)", 
+                "url": "/az/hprichbg/rb/BodieLighthouse_EN-US10541981640_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1ac70e80c62e29a36688aef2ab4df264", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170804_BodieLighthouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=bodie+island+lighthouse&form=hpcapt&filters=HpDate:%2220170804_0700%22", 
+                "wp": true, 
+                "enddate": "20170805", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
