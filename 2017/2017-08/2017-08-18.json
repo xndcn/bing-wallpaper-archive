@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170817", 
+                "urlbase": "/az/hprichbg/rb/ChulillaSpain_ZH-CN10170248808", 
+                "fullstartdate": "201708171600", 
+                "copyright": "丘利利亚，西班牙 (© Ben Herndon/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/ChulillaSpain_ZH-CN10170248808_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "caa4a640e39c110ac44ac015478cb2a6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170817_ChulillaSpain%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%98%E5%88%A9%E5%88%A9%E4%BA%9A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170818", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170817", 
+                "urlbase": "/az/hprichbg/rb/GoldenHorn_EN-US10994437217", 
+                "fullstartdate": "201708170700", 
+                "copyright": "Zlatni Rat on Brač Island, Croatia (© mbbirdy/E+/Getty Images)", 
+                "url": "/az/hprichbg/rb/GoldenHorn_EN-US10994437217_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f917a718de8e14c5c3632c67a4465624", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170817_GoldenHorn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Zlatni+Rat&form=hpcapt&filters=HpDate:%2220170817_0700%22", 
+                "wp": true, 
+                "enddate": "20170818", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
