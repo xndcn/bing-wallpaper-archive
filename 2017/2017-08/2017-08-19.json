@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170818", 
+                "urlbase": "/az/hprichbg/rb/KingPhoto_ZH-CN13184031948", 
+                "fullstartdate": "201708181600", 
+                "copyright": "圣安德鲁斯湾的国王企鹅，南乔治亚岛 (© plainpicture/Westend61/Fotofeeling)", 
+                "url": "/az/hprichbg/rb/KingPhoto_ZH-CN13184031948_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7958c4c86d4f5e7100a645f985e6b2b9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170818_KingPhoto%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9B%BD%E7%8E%8B%E4%BC%81%E9%B9%85&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170819", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170818", 
+                "urlbase": "/az/hprichbg/rb/AtchafalayaBasin_EN-US10572172099", 
+                "fullstartdate": "201708180700", 
+                "copyright": "Interstate 10, Atchafalaya Basin, Louisiana (© Brian Sytnyk/Masterfile)", 
+                "url": "/az/hprichbg/rb/AtchafalayaBasin_EN-US10572172099_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e4d4f6db984689ce9b6924873f67481c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170818_AtchafalayaBasin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Atchafalaya+Basin&form=hpcapt&filters=HpDate:%2220170818_0700%22", 
+                "wp": true, 
+                "enddate": "20170819", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
