@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170821", 
+                "urlbase": "/az/hprichbg/rb/MausoleumLovcen_ZH-CN11630158336", 
+                "fullstartdate": "201708211600", 
+                "copyright": "洛夫琴山国家公园内的Njegoš纪念碑，黑山 (© joci03/iStock/Getty Images)", 
+                "url": "/az/hprichbg/rb/MausoleumLovcen_ZH-CN11630158336_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "506e8bb320d097a7ff958723465dfd36", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170821_MausoleumLovcen%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B4%9B%E5%A4%AB%E7%90%B4%E5%B1%B1%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170822", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170821", 
+                "urlbase": "/az/hprichbg/rb/JantarJaipur_EN-US14077542192", 
+                "fullstartdate": "201708210700", 
+                "copyright": "Part of the Jantar Mantar observatory complex in New Delhi, India (© Uniquely India/Getty Images)", 
+                "url": "/az/hprichbg/rb/JantarJaipur_EN-US14077542192_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "417a7a9139bf483419429cd38f3f5459", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170821_JantarJaipur%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=jantar+mantar,+new+delhi&form=hpcapt&filters=HpDate:%2220170821_0700%22", 
+                "wp": true, 
+                "enddate": "20170822", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
