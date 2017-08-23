@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170822", 
+                "urlbase": "/az/hprichbg/rb/AtchafalayaBasin_ZH-CN11978071492", 
+                "fullstartdate": "201708221600", 
+                "copyright": "【今日处暑】美国10号州际公路上的阿查法拉亚盆地桥，美国路易斯安那州 (© Brian Sytnyk/Masterfile)", 
+                "url": "/az/hprichbg/rb/AtchafalayaBasin_ZH-CN11978071492_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "35801e77e0075515d3a8483133d86638", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170822_AtchafalayaBasin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%84%E6%9A%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170823", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170822", 
+                "urlbase": "/az/hprichbg/rb/MausoleumLovcen_EN-US10939848150", 
+                "fullstartdate": "201708220700", 
+                "copyright": "Njegoš' Mausoleum in Lovćen National Park, Montenegro (© joci03/iStock/Getty Images)", 
+                "url": "/az/hprichbg/rb/MausoleumLovcen_EN-US10939848150_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c60fb3344ca915550e12192afe4a5be7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170822_MausoleumLovcen%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=lov%C4%87en+mountain&form=hpcapt&filters=HpDate:%2220170822_0700%22", 
+                "wp": true, 
+                "enddate": "20170823", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
