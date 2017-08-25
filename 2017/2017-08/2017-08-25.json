@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170824", 
+                "urlbase": "/az/hprichbg/rb/GustavAntiquities_ZH-CN9624291648", 
+                "fullstartdate": "201708241600", 
+                "copyright": "斯德哥尔摩王宫内的古斯塔夫三世文物馆，瑞典 (© Johnér/Offset)", 
+                "url": "/az/hprichbg/rb/GustavAntiquities_ZH-CN9624291648_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "87c94350471322ef639ba0833c14f044", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170824_GustavAntiquities%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=+%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%E4%B8%89%E4%B8%96%E6%96%87%E7%89%A9%E9%A6%86&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170825", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170824", 
+                "urlbase": "/az/hprichbg/rb/TubeAnemone_EN-US8077113499", 
+                "fullstartdate": "201708240700", 
+                "vid": {
+                    "caption": "Time-lapse of a tube anemone (© Coral Morphologic)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/anemone_coralmorphologic_1080_HD_EN-US450406449.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/anemone_coralmorphologic_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/anemone_coralmorphologic_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=cerianthus+filiformis+tube+anemone&form=hpcapt", 
+                    "loop": false
+                }, 
+                "copyright": "A tube anemone (© Coral Morphologic)", 
+                "url": "/az/hprichbg/rb/TubeAnemone_EN-US8077113499_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "78f462465facbd82b5ac7c6eb30f4742", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170824_TubeAnemone%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=cerianthus+filiformis+tube+anemone&form=hpcapt&filters=HpDate:%2220170824_0700%22", 
+                "wp": false, 
+                "enddate": "20170825", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
