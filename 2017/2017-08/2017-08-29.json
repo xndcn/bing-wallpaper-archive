@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170828", 
+                "urlbase": "/az/hprichbg/rb/OregonPainted_ZH-CN8553728911", 
+                "fullstartdate": "201708281600", 
+                "copyright": "俄勒冈州内的“彩绘山丘”，美国 (© David Henderson/plainpicture)", 
+                "url": "/az/hprichbg/rb/OregonPainted_ZH-CN8553728911_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d36cd1449012c041b43f692ea5d99ce5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170828_OregonPainted%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=The+Painted+Hills&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170829", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170828", 
+                "urlbase": "/az/hprichbg/rb/BotallackCornwall_EN-US10690493068", 
+                "fullstartdate": "201708280700", 
+                "copyright": "Botallack Mine in Cornwall, England (© Robert Harding/Masterfile)", 
+                "url": "/az/hprichbg/rb/BotallackCornwall_EN-US10690493068_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "081630542374da6a04e92d2bacc366d2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170828_BotallackCornwall%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Botallack+Mine&form=hpcapt&filters=HpDate:%2220170828_0700%22", 
+                "wp": true, 
+                "enddate": "20170829", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
