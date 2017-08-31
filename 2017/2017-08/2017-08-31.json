@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170830", 
+                "urlbase": "/az/hprichbg/rb/ChamonixClouds_ZH-CN7700889231", 
+                "fullstartdate": "201708301600", 
+                "copyright": "法国霞慕尼山谷上空的云海 (© Masterfile)", 
+                "url": "/az/hprichbg/rb/ChamonixClouds_ZH-CN7700889231_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ff166171135a8b90f33a51e36c190668", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170830_ChamonixClouds%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9C%9E%E6%85%95%E5%B0%BC%E5%B1%B1%E8%B0%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170831", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170830", 
+                "urlbase": "/az/hprichbg/rb/GoldenTrevally_EN-US9776019556", 
+                "fullstartdate": "201708300700", 
+                "copyright": "Golden trevally swim with a whale shark in Cenderawasih Bay, Indonesia (© Pete Oxford/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/GoldenTrevally_EN-US9776019556_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cd2ae30d6c6026127038227ce8aa5880", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170830_GoldenTrevally%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=whale+shark&form=hpcapt&filters=HpDate:%2220170830_0700%22", 
+                "wp": true, 
+                "enddate": "20170831", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
