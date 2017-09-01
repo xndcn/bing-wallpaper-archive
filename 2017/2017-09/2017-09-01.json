@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170831", 
+                "urlbase": "/az/hprichbg/rb/StorkCliffs_ZH-CN11006532238", 
+                "fullstartdate": "201708311600", 
+                "copyright": "一只白鹳和幼鸟在阿连特茹西南部和维森蒂娜海岸自然公园内筑巢，葡萄牙 (© Marco Bustos/Solent News/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/StorkCliffs_ZH-CN11006532238_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3a119ac17514c91d6f867e1fa04d5e1c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170831_StorkCliffs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%99%BD%E9%B9%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170901", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170831", 
+                "urlbase": "/az/hprichbg/rb/ChamonixClouds_EN-US7806783297", 
+                "fullstartdate": "201708310700", 
+                "copyright": "Sea of clouds over Chamonix Valley, France (© Masterfile)", 
+                "url": "/az/hprichbg/rb/ChamonixClouds_EN-US7806783297_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2598521792c9d992e8d70ec80be4e4d4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170831_ChamonixClouds%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=chamonix+valley&form=hpcapt&filters=HpDate:%2220170831_0700%22", 
+                "wp": true, 
+                "enddate": "20170901", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
