@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170909", 
+                "urlbase": "/az/hprichbg/rb/PuntaEspinosa_ZH-CN12752702761", 
+                "fullstartdate": "201709091600", 
+                "copyright": "海鬣蜥，厄瓜多尔加拉帕戈斯群岛 (© Tui De Roy/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/PuntaEspinosa_ZH-CN12752702761_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a7029901c1e4d2ecf1cf4bd36760d555", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170909_PuntaEspinosa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B5%B7%E9%AC%A3%E8%9C%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170910", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170909", 
+                "urlbase": "/az/hprichbg/rb/StorkCliffs_EN-US11006532238", 
+                "fullstartdate": "201709090700", 
+                "copyright": "A white stork and chicks nesting in Southwest Alentejo and Vicentine Coast Natural Park, Portugal (© Marco Bustos/Solent News/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/StorkCliffs_EN-US11006532238_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4d351fe3b67269775d4be1f13c2dfdac", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170909_StorkCliffs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=white+stork&form=hpcapt&filters=HpDate:%2220170909_0700%22", 
+                "wp": false, 
+                "enddate": "20170910", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
