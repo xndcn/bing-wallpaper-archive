@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170910", 
+                "urlbase": "/az/hprichbg/rb/LanseMeadows_ZH-CN10703907742", 
+                "fullstartdate": "201709101600", 
+                "copyright": "拉安斯欧克斯梅多国家历史遗址，纽芬兰岛圣吕奈尔-格里克特 (© Yves Marcoux/Age Fotostock)", 
+                "url": "/az/hprichbg/rb/LanseMeadows_ZH-CN10703907742_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8826d21c8c15f26f8f5a8b59495f3b66", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170910_LanseMeadows%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%8B%89%E5%AE%89%E6%96%AF%E6%AC%A7%E5%85%8B%E6%96%AF%E6%A2%85%E5%A4%9A%E5%9B%BD%E5%AE%B6%E5%8E%86%E5%8F%B2%E9%81%97%E5%9D%80&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170911", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170910", 
+                "urlbase": "/az/hprichbg/rb/PuntaEspinosa_EN-US12660083085", 
+                "fullstartdate": "201709100700", 
+                "copyright": "Marine iguanas, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/PuntaEspinosa_EN-US12660083085_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7d84a3d4e2ee34f3475ae3514e584215", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170910_PuntaEspinosa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=marine+iguanas&form=hpcapt&filters=HpDate:%2220170910_0700%22", 
+                "wp": true, 
+                "enddate": "20170911", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
