@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170915", 
+                "urlbase": "/az/hprichbg/rb/CameronFalls_ZH-CN10061329609", 
+                "fullstartdate": "201709151600", 
+                "copyright": "沃特顿湖国家公园内的卡梅伦瀑布，加拿大艾伯塔省 (© Anna Gorin/Getty Images)", 
+                "url": "/az/hprichbg/rb/CameronFalls_ZH-CN10061329609_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c1fd2c4cb7d9759870405b7dfc1b4c76", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170915_CameronFalls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8D%A1%E6%A2%85%E4%BC%A6%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170916", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170915", 
+                "urlbase": "/az/hprichbg/rb/ThamesEstuaryNASA_EN-US14188404911", 
+                "fullstartdate": "201709150700", 
+                "copyright": "The Thames Estuary and London Array wind farm, England (© NASA)", 
+                "url": "/az/hprichbg/rb/ThamesEstuaryNASA_EN-US14188404911_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6f5e43d3e564eac8198f625374207d36", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170915_ThamesEstuaryNASA%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Thames+Estuary&form=hpcapt&filters=HpDate:%2220170915_0700%22", 
+                "wp": true, 
+                "enddate": "20170916", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
