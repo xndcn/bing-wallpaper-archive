@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170918", 
+                "urlbase": "/az/hprichbg/rb/Sparrowhawk_ZH-CN9288842659", 
+                "fullstartdate": "201709181600", 
+                "copyright": "柯库布里的雀鹰，苏格兰 (© Ray Cooper/Solent News/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/Sparrowhawk_ZH-CN9288842659_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "92c8f47905d591b0cd46fef8fdf43250", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170918_Sparrowhawk%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9B%80%E9%B9%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170919", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170918", 
+                "urlbase": "/az/hprichbg/rb/AlgaeRocks_EN-US13964069883", 
+                "fullstartdate": "201709180700", 
+                "copyright": "A forest stream in Gwaii Haanas National Park Reserve and Haida Heritage Site, Haida Gwaii, British Columbia, Canada (© Robert Postma/plainpicture)", 
+                "url": "/az/hprichbg/rb/AlgaeRocks_EN-US13964069883_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bd6324173b2509580353e2408560ca82", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170918_AlgaeRocks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=haida+gwaii&form=hpcapt&filters=HpDate:%2220170918_0700%22", 
+                "wp": true, 
+                "enddate": "20170919", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
