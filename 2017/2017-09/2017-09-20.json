@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170919", 
+                "urlbase": "/az/hprichbg/rb/RotenbergVineyards_ZH-CN11483766655", 
+                "fullstartdate": "201709191600", 
+                "copyright": "罗滕伯格园内的葡萄园，德国巴登-符腾堡州 (© Werner Dieterich/plainpicture)", 
+                "url": "/az/hprichbg/rb/RotenbergVineyards_ZH-CN11483766655_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4240081b0313377f00bab36a132e671d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170919_RotenbergVineyards%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%91%A1%E8%90%84%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170920", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170919", 
+                "urlbase": "/az/hprichbg/rb/Sparrowhawk_EN-US9288842659", 
+                "fullstartdate": "201709190700", 
+                "copyright": "A sparrowhawk in Kirkcudbright, Scotland (© Ray Cooper/Solent News/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/Sparrowhawk_EN-US9288842659_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e7e0dce253a7d0d5cf2cb2ea118970fb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170919_Sparrowhawk%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=eurasian+sparrowhawk&form=hpcapt&filters=HpDate:%2220170919_0700%22", 
+                "wp": false, 
+                "enddate": "20170920", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
