@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170922", 
+                "urlbase": "/az/hprichbg/rb/Shanghai_ZH-CN10665657954", 
+                "fullstartdate": "201709221600", 
+                "copyright": "【今日秋分】清晨以风筝为伴晨跑中的人，中国上海 (© Kiszon Pascal/Getty Images)", 
+                "url": "/az/hprichbg/rb/Shanghai_ZH-CN10665657954_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5d6129d7eb5f40bf192b890b07e0b09d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170922_Shanghai%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%A7%8B%E5%88%86&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170923", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170922", 
+                "urlbase": "/az/hprichbg/rb/DollySods_EN-US9021857432", 
+                "fullstartdate": "201709220700", 
+                "copyright": "Bear Rocks Preserve, West Virginia (© Anthony Heflin/500px)", 
+                "url": "/az/hprichbg/rb/DollySods_EN-US9021857432_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f6d85fba97377d38610d9149aab29826", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170922_DollySods%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=bear+rocks+preserve&form=hpcapt&filters=HpDate:%2220170922_0700%22", 
+                "wp": true, 
+                "enddate": "20170923", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
