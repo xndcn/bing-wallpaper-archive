@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170923", 
+                "urlbase": "/az/hprichbg/rb/ErfurtOktoberfest_ZH-CN11152792740", 
+                "fullstartdate": "201709231600", 
+                "copyright": "慕尼黑啤酒节期间的摩天轮以及埃尔福特大教堂和圣西弗勒斯教堂的景象 (© Hans P. Szyszka/age fotostock)", 
+                "url": "/az/hprichbg/rb/ErfurtOktoberfest_ZH-CN11152792740_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "950e9c10e94358c8c09f2051f1463ed3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170923_ErfurtOktoberfest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9F%83%E5%B0%94%E7%A6%8F%E7%89%B9%E5%A4%A7%E6%95%99%E5%A0%82%E5%92%8C%E5%9C%A3%E8%A5%BF%E5%BC%97%E5%8B%92%E6%96%AF%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170924", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170923", 
+                "urlbase": "/az/hprichbg/rb/NestingRabbit_EN-US12646294176", 
+                "fullstartdate": "201709230700", 
+                "copyright": "Nesting rabbit (© Dave Semmens/500px)", 
+                "url": "/az/hprichbg/rb/NestingRabbit_EN-US12646294176_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3e078b49d8ab6b53794705b8b1769325", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170923_NestingRabbit%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=rabbit+animal+(mammal)&form=hpcapt&filters=HpDate:%2220170923_0700%22", 
+                "wp": true, 
+                "enddate": "20170924", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
