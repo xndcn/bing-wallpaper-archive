@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170926", 
+                "urlbase": "/az/hprichbg/rb/LakePukaki_ZH-CN9412206565", 
+                "fullstartdate": "201709261600", 
+                "vid": {
+                    "caption": "视频：普卡基湖，新西兰南岛 (© Martin Heck/Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/NZ_Lake_Pukaki_nimiaRM_685137_1080_HD_ZH-CN596618977.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/NZ_Lake_Pukaki_nimiaRM_685137_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/NZ_Lake_Pukaki_nimiaRM_685137_1080_HD_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": true
+                }, 
+                "copyright": "普卡基湖，新西兰南岛 (© Martin Heck/Nimia)", 
+                "url": "/az/hprichbg/rb/LakePukaki_ZH-CN9412206565_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bd91fc0db200f151f707538bbaee3bf1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170926_LakePukaki%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%99%AE%E5%8D%A1%E5%9F%BA%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20170927", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170926", 
+                "urlbase": "/az/hprichbg/rb/TurpanDepression_EN-US12371339737", 
+                "fullstartdate": "201709260700", 
+                "copyright": "Aerial view of the Turpan Depression, China (© NASA)", 
+                "url": "/az/hprichbg/rb/TurpanDepression_EN-US12371339737_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "78b701efe8c9a883b6b8c8887cce7e71", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170926_TurpanDepression%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=turpan+depression&form=hpcapt&filters=HpDate:%2220170926_0700%22", 
+                "wp": true, 
+                "enddate": "20170927", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
