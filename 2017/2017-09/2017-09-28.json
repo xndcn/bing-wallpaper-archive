@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170927", 
+                "urlbase": "/az/hprichbg/rb/KonikHorses_ZH-CN11260575341", 
+                "fullstartdate": "201709271600", 
+                "copyright": "奔跑中的柯尼克马，荷兰东法尔德斯普拉森自然保护区 (© Jim Brandenburg/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/KonikHorses_ZH-CN11260575341_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3f619562f8ddd7279aaa29554904a84d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170927_KonikHorses%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%9F%AF%E5%B0%BC%E5%85%8B%E9%A9%AC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170928", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170927", 
+                "urlbase": "/az/hprichbg/rb/LakePukaki_EN-US9412206565", 
+                "fullstartdate": "201709270700", 
+                "vid": {
+                    "caption": "Lake Pukaki, South Island, New Zealand (© Martin Heck/Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/NZ_Lake_Pukaki_nimiaRM_685137_1080_HD_EN-US596618977.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/NZ_Lake_Pukaki_nimiaRM_685137_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/NZ_Lake_Pukaki_nimiaRM_685137_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=Lake+Pukaki&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Lake Pukaki on South Island, New Zealand (© Martin Heck/Nimia)", 
+                "url": "/az/hprichbg/rb/LakePukaki_EN-US9412206565_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ca2e0407da645712524a6505477880ca", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170927_LakePukaki%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Lake+Pukaki&form=hpcapt&filters=HpDate:%2220170927_0700%22", 
+                "wp": false, 
+                "enddate": "20170928", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
