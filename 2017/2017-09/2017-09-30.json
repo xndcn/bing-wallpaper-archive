@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20170929", 
+                "urlbase": "/az/hprichbg/rb/SitanaPonticeriana_ZH-CN9845735476", 
+                "fullstartdate": "201709291600", 
+                "copyright": "Ghoradeshwar山的反身蜥，印度马哈拉施特拉邦浦那市 (© Abhishek Bawkar/500px)", 
+                "url": "/az/hprichbg/rb/SitanaPonticeriana_ZH-CN9845735476_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "514cddc01f57a408920a3d03e8db0773", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170929_SitanaPonticeriana%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Fan-throated+lizard&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20170930", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20170929", 
+                "urlbase": "/az/hprichbg/rb/LittleAuks_EN-US10291231387", 
+                "fullstartdate": "201709290700", 
+                "copyright": "Little auks fly past an iceberg at Spitsbergen, Norway (© Danny Green/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/LittleAuks_EN-US10291231387_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "23382ad17d20daa33c6139448f57507e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20170929_LittleAuks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=little+auk&form=hpcapt&filters=HpDate:%2220170929_0700%22", 
+                "wp": true, 
+                "enddate": "20170930", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
