@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171003", 
+                "urlbase": "/az/hprichbg/rb/Mooncake_ZH-CN10274798301", 
+                "fullstartdate": "201710031600", 
+                "copyright": "安徽糕点艺术家制作的手工徽式月饼，中国黄山 (© amy Stock Photo)", 
+                "url": "/az/hprichbg/rb/Mooncake_ZH-CN10274798301_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d252da7a7c3ca8208509a5261fd2ce36", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171003_Mooncake%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%AD%E7%A7%8B%E6%9C%88%E9%A5%BC&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20171004", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171003", 
+                "urlbase": "/az/hprichbg/rb/TimiderteKasbah_EN-US12300996987", 
+                "fullstartdate": "201710030700", 
+                "copyright": "Timiderte Kasbah, Draa Valley, Morocco (© Mauricio Abreu/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/TimiderteKasbah_EN-US12300996987_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3d3d747278b693cf062e82d725500f64", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171003_TimiderteKasbah%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Timiderte,+Draa+Valley,+Morocco&form=hpcapt&filters=HpDate:%2220171003_0700%22", 
+                "wp": true, 
+                "enddate": "20171004", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
