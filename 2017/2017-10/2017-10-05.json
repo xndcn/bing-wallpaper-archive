@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171004", 
+                "urlbase": "/az/hprichbg/rb/SXSWTelescope_ZH-CN10124722940", 
+                "fullstartdate": "201710041600", 
+                "copyright": "德克萨斯州奥斯汀展出的詹姆斯·韦伯空间望远镜的全比例模型，美国 (© NASA)", 
+                "url": "/az/hprichbg/rb/SXSWTelescope_ZH-CN10124722940_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a46d0a06f8c2601e299c72d0d68931e5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171004_SXSWTelescope%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%9F%A6%E4%BC%AF%E7%A9%BA%E9%97%B4%E6%9C%9B%E8%BF%9C%E9%95%9C&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171005", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171004", 
+                "urlbase": "/az/hprichbg/rb/AldrinsBoot_EN-US10647003933", 
+                "fullstartdate": "201710040700", 
+                "copyright": "Buzz Aldrin's boot on lunar soil, Apollo 11 mission (© NASA)", 
+                "url": "/az/hprichbg/rb/AldrinsBoot_EN-US10647003933_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b5dd15e1bd21999820596135657c6811", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171004_AldrinsBoot%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=apollo+11&form=hpcapt&filters=HpDate:%2220171004_0700%22", 
+                "wp": false, 
+                "enddate": "20171005", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
