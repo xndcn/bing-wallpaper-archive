@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171006", 
+                "urlbase": "/az/hprichbg/rb/VallesMarineris_ZH-CN10598461085", 
+                "fullstartdate": "201710061600", 
+                "copyright": "火星上的峡谷系统-水手号峡谷地区上的小行星 (© Detlev van Ravenswaay/Getty Images)", 
+                "url": "/az/hprichbg/rb/VallesMarineris_ZH-CN10598461085_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5b69b96f1ea30eb5ec187173de25ef3c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171006_VallesMarineris%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%81%AB%E6%98%9F%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171007", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171006", 
+                "urlbase": "/az/hprichbg/rb/MissionISS_EN-US14772050208", 
+                "fullstartdate": "201710060700", 
+                "copyright": "The International Space Station seen from the space shuttle Endeavour (© NASA/Alamy)", 
+                "url": "/az/hprichbg/rb/MissionISS_EN-US14772050208_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a18761e49d7e21e5b1117ff8a3ed8a31", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171006_MissionISS%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=international+space+station&form=hpcapt&filters=HpDate:%2220171006_0700%22", 
+                "wp": true, 
+                "enddate": "20171007", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
