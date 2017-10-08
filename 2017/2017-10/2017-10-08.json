@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171007", 
+                "urlbase": "/az/hprichbg/rb/Mapleleaf_ZH-CN9491310356", 
+                "fullstartdate": "201710071600", 
+                "copyright": "【今日寒露】枫叶上的露滴，中国四川华蓥 (© Jerry Tan/age Fotostock)", 
+                "url": "/az/hprichbg/rb/Mapleleaf_ZH-CN9491310356_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ce83d98e8f3f5f22abc4d5641ee2ba8b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171007_Mapleleaf%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%AF%92%E9%9C%B2&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171008", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171007", 
+                "urlbase": "/az/hprichbg/rb/MarsTattoo_EN-US9798973999", 
+                "fullstartdate": "201710070700", 
+                "copyright": "Dust devil trails on the surface of Mars (© NASA/JPL/University of Arizona)", 
+                "url": "/az/hprichbg/rb/MarsTattoo_EN-US9798973999_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cb20456af0d064f2a53e1ef6b872dee3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171007_MarsTattoo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=mars+dust+devil&form=hpcapt&filters=HpDate:%2220171007_0700%22", 
+                "wp": true, 
+                "enddate": "20171008", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
