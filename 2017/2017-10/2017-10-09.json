@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171008", 
+                "urlbase": "/az/hprichbg/rb/OrionNebula_ZH-CN10007648454", 
+                "fullstartdate": "201710081600", 
+                "copyright": "从神鹰I号望远镜拍摄到的猎户座大星云的红外图像 (© NASA)", 
+                "url": "/az/hprichbg/rb/OrionNebula_ZH-CN10007648454_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ae03486f21703f258d07de81734d928b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171008_OrionNebula%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%8C%8E%E6%88%B7%E5%BA%A7%E6%98%9F%E4%BA%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171009", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171008", 
+                "urlbase": "/az/hprichbg/rb/PlutoNorthPole_EN-US11119067437", 
+                "fullstartdate": "201710080700", 
+                "copyright": "Pluto’s north pole (© J Marshall/Alamy)", 
+                "url": "/az/hprichbg/rb/PlutoNorthPole_EN-US11119067437_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "aac6462828c7c4196a1339f7a7c83c39", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171008_PlutoNorthPole%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=pluto+dwarf+planet&form=hpcapt&filters=HpDate:%2220171008_0700%22", 
+                "wp": true, 
+                "enddate": "20171009", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
