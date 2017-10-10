@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171009", 
+                "urlbase": "/az/hprichbg/rb/SoyuzReturn_ZH-CN9848773206", 
+                "fullstartdate": "201710091600", 
+                "copyright": "联盟号航天器下降模块返回地球 (© Bill Ingalls/NASA)", 
+                "url": "/az/hprichbg/rb/SoyuzReturn_ZH-CN9848773206_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8c4989f0b54d9f847280af90f0ced6d1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171009_SoyuzReturn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%88%AA%E5%A4%A9%E5%99%A8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171010", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171009", 
+                "urlbase": "/az/hprichbg/rb/OrionNebula_EN-US10620917199", 
+                "fullstartdate": "201710090700", 
+                "copyright": "An infrared image of the Orion Nebula taken by the HAWK-I camera in Chile (© NASA)", 
+                "url": "/az/hprichbg/rb/OrionNebula_EN-US10620917199_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "765db9da04671c9b068c2332b63895c7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171009_OrionNebula%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=orion+nebula&FORM=hpcapt&filters=HpDate:%2220171009_0700%22", 
+                "wp": true, 
+                "enddate": "20171010", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
