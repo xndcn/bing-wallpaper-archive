@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171012", 
+                "urlbase": "/az/hprichbg/rb/CoastalBeech_ZH-CN8739604309", 
+                "fullstartdate": "201710121600", 
+                "copyright": "沿海的山毛榉森林，德国宁哈根 (© Sandra Bartocha/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/CoastalBeech_ZH-CN8739604309_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "85445bb7dac189493635d0b97076ca04", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171012_CoastalBeech%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%AF%9B%E6%A6%89%E6%A3%AE%E6%9E%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171013", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171012", 
+                "urlbase": "/az/hprichbg/rb/DeveshContestWinner_EN-US11393306739", 
+                "fullstartdate": "201710120700", 
+                "copyright": "Rhyolite, a ghost town near Beatty, Nevada (© Devesh V. Tripathi)", 
+                "url": "/az/hprichbg/rb/DeveshContestWinner_EN-US11393306739_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "435b67cf48f178fe882502fb3ae3bc7b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171012_DeveshContestWinner%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=rhyolite+nevada&form=hpcapt&filters=HpDate:%2220171012_0700%22", 
+                "wp": true, 
+                "enddate": "20171013", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
