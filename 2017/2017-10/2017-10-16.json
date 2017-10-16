@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171015", 
+                "urlbase": "/az/hprichbg/rb/ElandAntelope_ZH-CN15342367318", 
+                "fullstartdate": "201710151600", 
+                "copyright": "埃托沙国家公园内的伊兰羚羊和长颈鹿，纳米比亚 (© David Schultz/Mint Images/SuperStock)", 
+                "url": "/az/hprichbg/rb/ElandAntelope_ZH-CN15342367318_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "36bf10396ca4a2730827539da1462eb5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171015_ElandAntelope%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9F%83%E6%89%98%E6%B2%99%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171016", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171015", 
+                "urlbase": "/az/hprichbg/rb/DerwentDam_EN-US7618148878", 
+                "fullstartdate": "201710150700", 
+                "copyright": "Derwent Reservoir, Derbyshire, England (© R A Kearton/Getty Images)", 
+                "url": "/az/hprichbg/rb/DerwentDam_EN-US7618148878_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fa908c686abab948c3cc64151cbb65d7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171015_DerwentDam%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=derwent+reservoir+derbyshire&form=hpcapt&filters=HpDate:%2220171015_0700%22", 
+                "wp": true, 
+                "enddate": "20171016", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
