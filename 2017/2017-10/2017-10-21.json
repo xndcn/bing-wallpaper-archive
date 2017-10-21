@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171020", 
+                "urlbase": "/az/hprichbg/rb/HawaiiWave_ZH-CN13164844408", 
+                "fullstartdate": "201710201600", 
+                "copyright": "瓦胡岛的北岸的“波浪建筑”，美国夏威夷 (© Vince Cavataio/plainpicture)", 
+                "url": "/az/hprichbg/rb/HawaiiWave_ZH-CN13164844408_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ca612d3b7604d8f12c5ec9de9fa563b7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171020_HawaiiWave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B5%B7%E6%B0%B4%E6%B3%A2%E6%B5%AA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171021", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171020", 
+                "urlbase": "/az/hprichbg/rb/LaGrandeNomade_EN-US10098798714", 
+                "fullstartdate": "201710200700", 
+                "copyright": "Detail of ‘Le Nomade’ by artist Jaume Plensa in Antibes, France (© travelstock44/Alamy)", 
+                "url": "/az/hprichbg/rb/LaGrandeNomade_EN-US10098798714_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "95d5b899ce223f48c6ddf393a26effc8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171020_LaGrandeNomade%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=antibes,+france&form=hpcapt&filters=HpDate:%2220171020_0700%22", 
+                "wp": false, 
+                "enddate": "20171021", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
