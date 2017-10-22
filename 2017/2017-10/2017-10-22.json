@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171021", 
+                "urlbase": "/az/hprichbg/rb/AmalfiCathedral_ZH-CN9007250446", 
+                "fullstartdate": "201710211600", 
+                "copyright": "阿马尔菲主教座堂，意大利阿马尔菲 (© Inge Johnsson/age fotostock)", 
+                "url": "/az/hprichbg/rb/AmalfiCathedral_ZH-CN9007250446_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "261935a98b7ac4d39ab33c013afa5022", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171021_AmalfiCathedral%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%98%BF%E9%A9%AC%E5%B0%94%E8%8F%B2%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171022", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171021", 
+                "urlbase": "/az/hprichbg/rb/HawaiiWave_EN-US12324758618", 
+                "fullstartdate": "201710210700", 
+                "copyright": "A wave building on Oahu’s North Shore, Hawaii (© Vince Cavataio/plainpicture)", 
+                "url": "/az/hprichbg/rb/HawaiiWave_EN-US12324758618_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "aefaa05e5abb8a33c44f570173665cfe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171021_HawaiiWave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=North+Shore+Oahu&form=hpcapt&filters=HpDate:%2220171021_0700%22", 
+                "wp": true, 
+                "enddate": "20171022", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
