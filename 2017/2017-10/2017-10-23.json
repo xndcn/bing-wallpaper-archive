@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171022", 
+                "urlbase": "/az/hprichbg/rb/Forest_ZH-CN16430313748", 
+                "fullstartdate": "201710221600", 
+                "copyright": "【今日霜降】林芝市的云雾森林，西藏高原 (© Media Drum World/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/Forest_ZH-CN16430313748_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "91fe7cd33631e2f7faaea7d810b82ada", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171022_Forest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9C%9C%E9%99%8D&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171023", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171022", 
+                "urlbase": "/az/hprichbg/rb/AmalfiCathedral_EN-US8035963050", 
+                "fullstartdate": "201710220700", 
+                "copyright": "Amalfi Cathedral in Amalfi, Italy (© Inge Johnsson/age fotostock)", 
+                "url": "/az/hprichbg/rb/AmalfiCathedral_EN-US8035963050_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "49a95a87b0ebb4ff6192dd52ae0e50b5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171022_AmalfiCathedral%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Amalfi+Cathedral&form=hpcapt&filters=HpDate:%2220171022_0700%22", 
+                "wp": true, 
+                "enddate": "20171023", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
