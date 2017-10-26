@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171025", 
+                "urlbase": "/az/hprichbg/rb/HallstattAustria_ZH-CN10534000934", 
+                "fullstartdate": "201710251600", 
+                "copyright": "哈尔施塔特，奥地利 (© rudi1976/Alamy)", 
+                "url": "/az/hprichbg/rb/HallstattAustria_ZH-CN10534000934_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3d6fc3b83d7a1453c981c66d81bb9564", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171025_HallstattAustria%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%93%88%E5%B0%94%E6%96%BD%E5%A1%94%E7%89%B9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171026", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171025", 
+                "urlbase": "/az/hprichbg/rb/TahquamenonFalls_EN-US8966938934", 
+                "fullstartdate": "201710250700", 
+                "copyright": "Upper Tahquamenon Falls in Tahquamenon Falls State Park, Michigan (© Matt Anderson Photography/Getty Images)", 
+                "url": "/az/hprichbg/rb/TahquamenonFalls_EN-US8966938934_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f6a98a2689f974bcf5f2545bc8a5115f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171025_TahquamenonFalls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=tahquamenon+falls+state+park+michigan&form=hpcapt&filters=HpDate:%2220171025_0700%22", 
+                "wp": true, 
+                "enddate": "20171026", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
