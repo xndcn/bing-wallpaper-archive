@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171026", 
+                "urlbase": "/az/hprichbg/rb/KemeriBog_ZH-CN10588444178", 
+                "fullstartdate": "201710261600", 
+                "copyright": "凯迈里国家公园，拉脱维亚 (© Sven Zacek/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/KemeriBog_ZH-CN10588444178_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ebaf506536b9815b14283f7c7d4e0f97", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171026_KemeriBog%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%87%AF%E8%BF%88%E9%87%8C%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171027", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171026", 
+                "urlbase": "/az/hprichbg/rb/HallstattAustria_EN-US9407016733", 
+                "fullstartdate": "201710260700", 
+                "copyright": "Hallstatt, Austria (© rudi1976/Alamy)", 
+                "url": "/az/hprichbg/rb/HallstattAustria_EN-US9407016733_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "388e395c62d1c237cf241def84e335a2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171026_HallstattAustria%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Hallstatt,+Austria&form=hpcapt&filters=HpDate:%2220171026_0700%22", 
+                "wp": true, 
+                "enddate": "20171027", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
