@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171027", 
+                "urlbase": "/az/hprichbg/rb/Cotoneaster_ZH-CN13904488642", 
+                "fullstartdate": "201710271600", 
+                "copyright": "【今日重阳节】栒子属植物秋色的叶子 (© Steve Terrill/Danita Delimont)", 
+                "url": "/az/hprichbg/rb/Cotoneaster_ZH-CN13904488642_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c9e34e9702aef9a207bbd8bd4bd65fc7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171027_Cotoneaster%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%87%8D%E9%98%B3%E8%B5%8F%E7%A7%8B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171028", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171027", 
+                "urlbase": "/az/hprichbg/rb/KemeriBog_EN-US9749876935", 
+                "fullstartdate": "201710270700", 
+                "copyright": "Ķemeri National Park, Latvia (© Sven Zacek/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/KemeriBog_EN-US9749876935_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "36d83078733f51be96fae92788d57a31", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171027_KemeriBog%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Kemeri+national+park&form=hpcapt&filters=HpDate:%2220171027_0700%22", 
+                "wp": true, 
+                "enddate": "20171028", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
