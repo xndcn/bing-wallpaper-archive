@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171029", 
+                "urlbase": "/az/hprichbg/rb/InspirationPoint_ZH-CN7836594587", 
+                "fullstartdate": "201710291600", 
+                "copyright": "优胜美地国家公园灵感点附近的隧道，美国加利福尼亚州 (© Cameron MacPhail/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/InspirationPoint_ZH-CN7836594587_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "569739138e7a70fef3f7b1f38111a6ad", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171029_InspirationPoint%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B1%B1%E6%B4%9E%E9%9A%A7%E9%81%93&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171030", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171029", 
+                "urlbase": "/az/hprichbg/rb/KyrgyzstanCat_EN-US10859527245", 
+                "fullstartdate": "201710290700", 
+                "copyright": "Snow leopard in the Tian Shan, Kyrgyzstan (© Sebastian Kennerknecht/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/KyrgyzstanCat_EN-US10859527245_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0abac5d3f8d6ebeaa7631480f32c363d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171029_KyrgyzstanCat%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=snow+leopard&form=hpcapt&filters=HpDate:%2220171029_0700%22", 
+                "wp": true, 
+                "enddate": "20171030", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
