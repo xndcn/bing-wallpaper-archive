@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171103", 
+                "urlbase": "/az/hprichbg/rb/PrusikPeak_ZH-CN10980657640", 
+                "fullstartdate": "201711031600", 
+                "copyright": "高山湖泊荒野动植物自然保护区内的普斯克峰，美国华盛顿州 (© Floris van Breugel/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/PrusikPeak_ZH-CN10980657640_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "92ecc778fe9b9f2b9c6240de7798db7d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171103_PrusikPeak%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Prusik+Peak&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171104", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171103", 
+                "urlbase": "/az/hprichbg/rb/TaProhm_EN-US10906968982", 
+                "fullstartdate": "201711030700", 
+                "copyright": "Ta Prohm temple at Angkor, Cambodia (© Stefano Coltelli/Offset)", 
+                "url": "/az/hprichbg/rb/TaProhm_EN-US10906968982_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "835f37eaf1215ec85f124a52349e6e6b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171103_TaProhm%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Ta+Prohm&form=hpcapt&filters=HpDate:%2220171103_0700%22", 
+                "wp": true, 
+                "enddate": "20171104", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
