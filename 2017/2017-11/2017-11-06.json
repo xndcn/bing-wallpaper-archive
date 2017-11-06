@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171105", 
+                "urlbase": "/az/hprichbg/rb/BudaCastle_ZH-CN8740088800", 
+                "fullstartdate": "201711051600", 
+                "copyright": "从匈牙利布达佩斯的盖勒特山看到的布达城堡 (© Ionut David/Alamy)", 
+                "url": "/az/hprichbg/rb/BudaCastle_ZH-CN8740088800_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f88a52c47eee1c0a111c59d9ea92691c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171105_BudaCastle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B8%83%E8%BE%BE%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171106", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171105", 
+                "urlbase": "/az/hprichbg/rb/FoucaultPendulum_EN-US9807228543", 
+                "fullstartdate": "201711050700", 
+                "copyright": "The Foucault pendulum at the Griffith Observatory in Los Angeles (© GIPhotoStock/Science Photo Library)", 
+                "url": "/az/hprichbg/rb/FoucaultPendulum_EN-US9807228543_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "944e94403c9fa617fd21ac9ca02ed857", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171105_FoucaultPendulum%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=foucault+pendulum&form=hpcapt&filters=HpDate:%2220171105_0700%22", 
+                "wp": false, 
+                "enddate": "20171106", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
