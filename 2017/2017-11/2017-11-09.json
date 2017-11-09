@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171108", 
+                "urlbase": "/az/hprichbg/rb/HeronIslandShark_ZH-CN12565902939", 
+                "fullstartdate": "201711081600", 
+                "copyright": "避开鲨鱼追击的鱼群，澳大利亚赫伦岛 (© Scott Carr/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/HeronIslandShark_ZH-CN12565902939_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e807065cba1716e1c4d0226201c159f2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171108_HeronIslandShark%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%B2%A8%E9%B1%BC&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20171109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171108", 
+                "urlbase": "/az/hprichbg/rb/PointArenaLH_EN-US10512756450", 
+                "fullstartdate": "201711080800", 
+                "copyright": "Point Arena Light in California (© plainpicture/Westend61/Spotcatch)", 
+                "url": "/az/hprichbg/rb/PointArenaLH_EN-US10512756450_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e3984c244ab9690f4a7168b53e07e01c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171108_PointArenaLH%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Point+Arena+Light&form=hpcapt&filters=HpDate:%2220171108_0800%22", 
+                "wp": true, 
+                "enddate": "20171109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
