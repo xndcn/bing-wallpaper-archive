@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171109", 
+                "urlbase": "/az/hprichbg/rb/MudstoneBadlands_ZH-CN9863836503", 
+                "fullstartdate": "201711091600", 
+                "copyright": "恶地国家公园内的城堡步道，美国南达科他州 (© Kirkendall-Spring Photographers/NPL/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/MudstoneBadlands_ZH-CN9863836503_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f1e1f3c28a829a87037d211bba04b98f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171109_MudstoneBadlands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%81%B6%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171110", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171109", 
+                "urlbase": "/az/hprichbg/rb/HeronIslandShark_EN-US12565902939", 
+                "fullstartdate": "201711090800", 
+                "copyright": "Fish avoid a shark near Heron Island, Australia (© Scott Carr/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/HeronIslandShark_EN-US12565902939_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e8b91d26a0359a58098374bb2e1355ff", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171109_HeronIslandShark%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Heron+Island&form=hpcapt&filters=HpDate:%2220171109_0800%22", 
+                "wp": false, 
+                "enddate": "20171110", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
