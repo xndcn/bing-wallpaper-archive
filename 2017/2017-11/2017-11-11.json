@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171110", 
+                "urlbase": "/az/hprichbg/rb/LeuchtturmWarnemuende_ZH-CN8673593712", 
+                "fullstartdate": "201711101600", 
+                "copyright": "瓦尔内明德的灯塔，德国梅克伦堡-前波美拉尼亚州罗斯托克市 (© Sandra Kreuzinger/Moment Open/Getty Images)", 
+                "url": "/az/hprichbg/rb/LeuchtturmWarnemuende_ZH-CN8673593712_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0cff00b18b6a8a5bca33584018a8ec20", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171110_LeuchtturmWarnemuende%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%93%A6%E5%B0%94%E5%86%85%E6%98%8E%E5%BE%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171111", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171110", 
+                "urlbase": "/az/hprichbg/rb/MudstoneBadlands_EN-US8474724583", 
+                "fullstartdate": "201711100800", 
+                "copyright": "Castle Trail in Badlands National Park, South Dakota (© Kirkendall-Spring Photographers/NPL/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/MudstoneBadlands_EN-US8474724583_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5118b09525c5cd5c80f62a53714435a7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171110_MudstoneBadlands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=badlands+national+park,+south+dakota&form=hpcapt&filters=HpDate:%2220171110_0800%22", 
+                "wp": true, 
+                "enddate": "20171111", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
