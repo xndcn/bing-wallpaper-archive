@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171112", 
+                "urlbase": "/az/hprichbg/rb/PlanetariumBibliotheca_ZH-CN12150844356", 
+                "fullstartdate": "201711121600", 
+                "copyright": "新亚历山大图书馆的天文馆，埃及亚历山大港 (© Paul Panayiotou/SIME/eStock Photo)", 
+                "url": "/az/hprichbg/rb/PlanetariumBibliotheca_ZH-CN12150844356_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9a756621fe5569e6f762f7040971ca51", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171112_PlanetariumBibliotheca%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%96%B0%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20171113", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171112", 
+                "urlbase": "/az/hprichbg/rb/SecretaryHunt_EN-US11569265072", 
+                "fullstartdate": "201711120800", 
+                "copyright": "Secretarybird hunting for food in Rietvlei Nature Reserve, South Africa (© Richard du Toit/Getty Images)", 
+                "url": "/az/hprichbg/rb/SecretaryHunt_EN-US11569265072_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "22d28329b71c13e5a11d8ba0530547be", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171112_SecretaryHunt%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=secretarybird&form=hpcapt&filters=HpDate:%2220171112_0800%22", 
+                "wp": true, 
+                "enddate": "20171113", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
