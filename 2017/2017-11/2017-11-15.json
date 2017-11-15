@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171114", 
+                "urlbase": "/az/hprichbg/rb/OlivesTunisia_ZH-CN11038020957", 
+                "fullstartdate": "201711141600", 
+                "copyright": "新种植的橄榄园，突尼斯宰格万 (© Yann Arthus-Bertrand/Getty Images)", 
+                "url": "/az/hprichbg/rb/OlivesTunisia_ZH-CN11038020957_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "217ad65e4a0cf741e12a519bb3aa2b9f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171114_OlivesTunisia%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%A9%84%E6%A6%84%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171115", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171114", 
+                "urlbase": "/az/hprichbg/rb/RosendaleTrestle_EN-US10115503783", 
+                "fullstartdate": "201711140800", 
+                "copyright": "Rosendale Trestle, Rosendale, New York (© Greg Miller/Gallery Stock)", 
+                "url": "/az/hprichbg/rb/RosendaleTrestle_EN-US10115503783_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cb823640f4991feddb3cc12eede12f75", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171114_RosendaleTrestle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=rosendale+trestle&form=hpcapt&filters=HpDate:%2220171114_0800%22", 
+                "wp": true, 
+                "enddate": "20171115", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
