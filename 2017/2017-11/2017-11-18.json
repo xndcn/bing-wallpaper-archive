@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171117", 
+                "urlbase": "/az/hprichbg/rb/GranParadisoNP_ZH-CN10766803040", 
+                "fullstartdate": "201711171600", 
+                "copyright": "大帕拉迪索国家公园内的臆羚，意大利 (© Marco Ronconi/Offset)", 
+                "url": "/az/hprichbg/rb/GranParadisoNP_ZH-CN10766803040_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1b633120a385eb9e15316369cf2577d5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171117_GranParadisoNP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%87%86%E7%BE%9A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171118", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171117", 
+                "urlbase": "/az/hprichbg/rb/RoyalAlcazars_EN-US13378849776", 
+                "fullstartdate": "201711170800", 
+                "copyright": "Ambassador's Hall in the Alcázar of Seville, Spain (© Lucas Vallecillos/age fotostock)", 
+                "url": "/az/hprichbg/rb/RoyalAlcazars_EN-US13378849776_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "63875086d9a7d71f08f1f064fe4a94f3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171117_RoyalAlcazars%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Alc%C3%A1zar+of+Seville&form=hpcapt&filters=HpDate:%2220171117_0800%22", 
+                "wp": true, 
+                "enddate": "20171118", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
