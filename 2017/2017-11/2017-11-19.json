@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171118", 
+                "urlbase": "/az/hprichbg/rb/HeadwatersWilderness_ZH-CN9412867444", 
+                "fullstartdate": "201711181600", 
+                "copyright": "威斯康星州的水源荒野地 (© Ian Shive/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/HeadwatersWilderness_ZH-CN9412867444_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "efae1e3ca5d0a015a628ee1162670b41", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171118_HeadwatersWilderness%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8D%92%E9%87%8E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171119", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171118", 
+                "urlbase": "/az/hprichbg/rb/GranParadisoNP_EN-US11803196014", 
+                "fullstartdate": "201711180800", 
+                "copyright": "Alpine chamois in Gran Paradiso National Park, Italy (© Marco Ronconi/Offset)", 
+                "url": "/az/hprichbg/rb/GranParadisoNP_EN-US11803196014_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a52426847977689cc6a9cf98b2226557", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171118_GranParadisoNP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Chamois+species&form=hpcapt&filters=HpDate:%2220171118_0800%22", 
+                "wp": true, 
+                "enddate": "20171119", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
