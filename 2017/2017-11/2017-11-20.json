@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171119", 
+                "urlbase": "/az/hprichbg/rb/ChildrenofEarth_ZH-CN11097669458", 
+                "fullstartdate": "201711191600", 
+                "copyright": "地球上的孩子纪念碑，挪威北角 (© Cultura/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/ChildrenofEarth_ZH-CN11097669458_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a807bbf813367ddd84cd2f198671668d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171119_ChildrenofEarth%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%B0%E7%90%83%E4%B8%8A%E7%9A%84%E5%AD%A9%E5%AD%90%E7%BA%AA%E5%BF%B5%E7%A2%91&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20171120", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171119", 
+                "urlbase": "/az/hprichbg/rb/HeadwatersWilderness_EN-US9635954803", 
+                "fullstartdate": "201711190800", 
+                "copyright": "The Headwaters Wilderness in Wisconsin (© Ian Shive/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/HeadwatersWilderness_EN-US9635954803_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1fbefc2d9015b7184c25aee85c324705", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171119_HeadwatersWilderness%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Headwaters+Wilderness&form=hpcapt&filters=HpDate:%2220171119_0800%22", 
+                "wp": true, 
+                "enddate": "20171120", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
