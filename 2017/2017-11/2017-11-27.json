@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171126", 
+                "urlbase": "/az/hprichbg/rb/BFBadger_ZH-CN8490916760", 
+                "fullstartdate": "201711261600", 
+                "copyright": "狗獾在黑森林中觅食，德国 (© Klaus Echle/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/BFBadger_ZH-CN8490916760_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b053ed696c1ea4fa27620dac8e690e4b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171126_BFBadger%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%8B%97%E7%8D%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20171127", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171126", 
+                "urlbase": "/az/hprichbg/rb/RRCNCA_EN-US9010154204", 
+                "fullstartdate": "201711260800", 
+                "copyright": "Red Rock Canyon National Conservation Area, Nevada (© plainpicture/Westend61/Cameron Davidson)", 
+                "url": "/az/hprichbg/rb/RRCNCA_EN-US9010154204_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e90d3cda2320c7e6e04270ec68fde865", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171126_RRCNCA%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=red+rock+canyon+national+conservation+area&form=hpcapt&filters=HpDate:%2220171126_0800%22", 
+                "wp": true, 
+                "enddate": "20171127", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
