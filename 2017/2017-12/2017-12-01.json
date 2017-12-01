@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171130", 
+                "urlbase": "/az/hprichbg/rb/SpiralSpain_ZH-CN12059815472", 
+                "fullstartdate": "201711301600", 
+                "copyright": "索菲亚王后艺术歌剧院的内部，西班牙巴伦西亚 (© AWL Images/Masterfile)", 
+                "url": "/az/hprichbg/rb/SpiralSpain_ZH-CN12059815472_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ac6fd4985a28ad68a9d6efbd4720d7e1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171130_SpiralSpain%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%B4%A2%E8%8F%B2%E4%BA%9A%E7%8E%8B%E5%90%8E%E8%89%BA%E6%9C%AF%E6%AD%8C%E5%89%A7%E9%99%A2&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20171201", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171130", 
+                "urlbase": "/az/hprichbg/rb/Piraputanga_EN-US15054048303", 
+                "fullstartdate": "201711300800", 
+                "copyright": "Piraputanga schooling in the Cerrado, Brazil (© Luciano Candisani/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/Piraputanga_EN-US15054048303_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1d8eed0da74b046523bfc551499db064", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171130_Piraputanga%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=the+cerrado&form=hpcapt&filters=HpDate:%2220171130_0800%22", 
+                "wp": true, 
+                "enddate": "20171201", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
