@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171201", 
+                "urlbase": "/az/hprichbg/rb/PotashPonds_ZH-CN13213047688", 
+                "fullstartdate": "201712011600", 
+                "copyright": "摩押附近的沙漠中的钾蒸发池，美国犹他州 (© Jassen Todorov/Solent News/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/PotashPonds_ZH-CN13213047688_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b307f0b164a5617c2d169c154d8356c4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171201_PotashPonds%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Potash+evaporation+ponds&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20171202", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171201", 
+                "urlbase": "/az/hprichbg/rb/SpiralSpain_EN-US12059815472", 
+                "fullstartdate": "201712010800", 
+                "copyright": "Interior of the Palau de les Arts Reina Sofia in Valencia, Spain (© AWL Images/Masterfile)", 
+                "url": "/az/hprichbg/rb/SpiralSpain_EN-US12059815472_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1c81dcf6c2485da756f549ffd4c99b33", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171201_SpiralSpain%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=palau+de+les+arts+reina+sofia&form=hpcapt&filters=HpDate:%2220171201_0800%22", 
+                "wp": false, 
+                "enddate": "20171202", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
