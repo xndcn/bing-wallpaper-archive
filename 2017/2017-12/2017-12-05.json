@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171204", 
+                "urlbase": "/az/hprichbg/rb/AberystwythSeafront_ZH-CN9542789062", 
+                "fullstartdate": "201712041600", 
+                "copyright": "阿伯里斯特威斯的海滨长廊，英国威尔士锡尔迪金 (© Riccardo Spila/SIME/eStock Photo)", 
+                "url": "/az/hprichbg/rb/AberystwythSeafront_ZH-CN9542789062_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b9dbb4d9e60cf299c152a4af69b919e8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171204_AberystwythSeafront%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B5%B7%E6%BB%A8%E9%95%BF%E5%BB%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20171205", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171204", 
+                "urlbase": "/az/hprichbg/rb/Motherboard_EN-US12641512843", 
+                "fullstartdate": "201712040800", 
+                "copyright": "Motherboard of a computer (© Antonio Romero/Science Photo Library)", 
+                "url": "/az/hprichbg/rb/Motherboard_EN-US12641512843_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "dd5009b537a267da350250047622946f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171204_Motherboard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=motherboard+circuit&form=hpcapt&filters=HpDate:%2220171204_0800%22", 
+                "wp": true, 
+                "enddate": "20171205", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
