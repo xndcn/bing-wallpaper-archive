@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171206", 
+                "urlbase": "/az/hprichbg/rb/Snow_ZH-CN11178898651", 
+                "fullstartdate": "201712061600", 
+                "copyright": "【今日大雪】暴风雪中两只在树干上攀爬的大熊猫，中国四川 (© Juan Carlos Munoz/NPL/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/Snow_ZH-CN11178898651_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1be46795e16a421c8aacd93fef2d224e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171206_Snow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%A7%E9%9B%AA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171207", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171206", 
+                "urlbase": "/az/hprichbg/rb/MatusevichGlacier_EN-US13620113504", 
+                "fullstartdate": "201712060800", 
+                "copyright": "Matusevich Glacier in Antarctica (© NASA)", 
+                "url": "/az/hprichbg/rb/MatusevichGlacier_EN-US13620113504_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a1948e51f8afec01a65dcb9dca3e3911", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171206_MatusevichGlacier%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Matusevich+Glacier&form=hpcapt&filters=HpDate:%2220171206_0800%22", 
+                "wp": true, 
+                "enddate": "20171207", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
