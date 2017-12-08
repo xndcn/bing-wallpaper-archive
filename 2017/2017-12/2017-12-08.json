@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171207", 
+                "urlbase": "/az/hprichbg/rb/SibeliusMonument_ZH-CN8903164725", 
+                "fullstartdate": "201712071600", 
+                "copyright": "西贝柳斯纪念碑，芬兰赫尔辛基 (© Ville Heino/500px)", 
+                "url": "/az/hprichbg/rb/SibeliusMonument_ZH-CN8903164725_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c9a7071a8f5438b9987213fc0696d972", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171207_SibeliusMonument%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%A5%BF%E8%B4%9D%E6%9F%B3%E6%96%AF%E7%BA%AA%E5%BF%B5%E7%A2%91&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20171208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171207", 
+                "urlbase": "/az/hprichbg/rb/USSHalsey_EN-US8094323962", 
+                "fullstartdate": "201712070800", 
+                "copyright": "Enlisted personnel on the USS Halsey in 2016 commemorating the 75th anniversary of the attack on Pearl Harbor in Honolulu, Hawaii (© Kent Nishimura/Getty Images)", 
+                "url": "/az/hprichbg/rb/USSHalsey_EN-US8094323962_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4986f16026c8aa691a282dd7d3cf8477", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171207_USSHalsey%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=National+Pearl+Harbor+Remembrance+Day&form=hpcapt&filters=HpDate:%2220171207_0800%22", 
+                "wp": false, 
+                "enddate": "20171208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
