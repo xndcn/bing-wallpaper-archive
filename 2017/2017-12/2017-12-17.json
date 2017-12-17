@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171216", 
+                "urlbase": "/az/hprichbg/rb/MGRBerlin_ZH-CN6734108494", 
+                "fullstartdate": "201712161600", 
+                "copyright": "柏林圣诞集市的狂欢节秋千，德国 (© Hannibal Hanschke/Reuters)", 
+                "url": "/az/hprichbg/rb/MGRBerlin_ZH-CN6734108494_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "130ba2d37ca5050d8d37d8f17ab24d16", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171216_MGRBerlin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%A3%E8%AF%9E%E5%B8%82%E5%9C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20171217", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171216", 
+                "urlbase": "/az/hprichbg/rb/TamarackCones_EN-US12178466392", 
+                "fullstartdate": "201712160800", 
+                "copyright": "Tamarack branches with cones in Newfoundland and Labrador, Canada (© Bob Gibbons/Science Photo Library)", 
+                "url": "/az/hprichbg/rb/TamarackCones_EN-US12178466392_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d94d05bbda6af68bf997024620860b82", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171216_TamarackCones%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Tamarack+Larix+laricina&form=hpcapt&filters=HpDate:%2220171216_0800%22", 
+                "wp": true, 
+                "enddate": "20171217", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
