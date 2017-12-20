@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171219", 
+                "urlbase": "/az/hprichbg/rb/PowysCounty_ZH-CN11115693548", 
+                "fullstartdate": "201712191600", 
+                "copyright": "威尔士中部的波厄斯郡 (© Graham Lawrence/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/PowysCounty_ZH-CN11115693548_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b122b2c82f5ae86471b8b72a4bf1a300", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171219_PowysCounty%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B3%A2%E5%8E%84%E6%96%AF%E9%83%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171220", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171219", 
+                "urlbase": "/az/hprichbg/rb/ReindeerLichen_EN-US9289253828", 
+                "fullstartdate": "201712190800", 
+                "copyright": "Reindeer lichen in Dartmoor National Park, England (© Ian Redding/Getty Images Plus)", 
+                "url": "/az/hprichbg/rb/ReindeerLichen_EN-US9289253828_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d48884aacc49645f15e9de054f88c76e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171219_ReindeerLichen%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Reindeer+lichen&form=hpcapt&filters=HpDate:%2220171219_0800%22", 
+                "wp": true, 
+                "enddate": "20171220", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
