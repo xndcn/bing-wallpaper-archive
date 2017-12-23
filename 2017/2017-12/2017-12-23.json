@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171222", 
+                "urlbase": "/az/hprichbg/rb/SFSantaCon_ZH-CN11213292356", 
+                "fullstartdate": "201712221600", 
+                "copyright": "旧金山联合广场的圣诞老人大会活动，美国加利福尼亚州 (© Mint Images/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/SFSantaCon_ZH-CN11213292356_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ec5506c3297c61d5e6729c3b9183d0f5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171222_SFSantaCon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%A3%E8%AF%9E%E8%80%81%E4%BA%BA%E5%A4%A7%E4%BC%9A%E6%B4%BB%E5%8A%A8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171223", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171222", 
+                "urlbase": "/az/hprichbg/rb/RosehipRobin_EN-US10765383343", 
+                "fullstartdate": "201712220800", 
+                "copyright": "Robin perched on a rose hip branch in Norfolk, England (© Ernie Janes/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/RosehipRobin_EN-US10765383343_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "71f095b0925589d9bdf3e2c6eb73bf19", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171222_RosehipRobin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=European+robin&form=hpcapt&filters=HpDate:%2220171222_0800%22", 
+                "wp": true, 
+                "enddate": "20171223", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
