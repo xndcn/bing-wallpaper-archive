@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171223", 
+                "urlbase": "/az/hprichbg/rb/NorthPole_ZH-CN14730815128", 
+                "fullstartdate": "201712231600", 
+                "copyright": "北极 (© Sue Flood/Getty Images)", 
+                "url": "/az/hprichbg/rb/NorthPole_ZH-CN14730815128_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fb62d41bbc47ea0aae0b9ed327a53960", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171223_NorthPole%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8C%97%E6%9E%81&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171224", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171223", 
+                "urlbase": "/az/hprichbg/rb/SFSantaCon_EN-US11072721713", 
+                "fullstartdate": "201712230800", 
+                "copyright": "SantaCon gathering in Union Square, San Francisco, California (© Mint Images/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/SFSantaCon_EN-US11072721713_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0add464c16a21e6cb73ca449e49a2645", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171223_SFSantaCon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=+SantaCon&form=hpcapt&filters=HpDate:%2220171223_0800%22", 
+                "wp": true, 
+                "enddate": "20171224", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
