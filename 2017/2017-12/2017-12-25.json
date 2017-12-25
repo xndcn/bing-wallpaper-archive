@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171224", 
+                "urlbase": "/az/hprichbg/rb/LaplandAurora_ZH-CN13018939166", 
+                "fullstartdate": "201712241600", 
+                "copyright": "芬兰的北极光 (© Jorma Luhta/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/LaplandAurora_ZH-CN13018939166_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4603953a7c727c38dce0fe36be3ad2d5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171224_LaplandAurora%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E5%85%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171225", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171224", 
+                "urlbase": "/az/hprichbg/rb/NorthPole_EN-US14115177583", 
+                "fullstartdate": "201712240800", 
+                "copyright": "Marker at 90 degrees North, aka the North Pole (© Sue Flood/Getty Images)", 
+                "url": "/az/hprichbg/rb/NorthPole_EN-US14115177583_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fb71eccad2d70bc84e7f925b80062dd4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171224_NorthPole%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=The+North+Pole&form=hpcapt&filters=HpDate:%2220171224_0800%22", 
+                "wp": true, 
+                "enddate": "20171225", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
