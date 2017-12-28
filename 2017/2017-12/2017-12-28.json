@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171227", 
+                "urlbase": "/az/hprichbg/rb/HawaiiGST_ZH-CN13537794612", 
+                "fullstartdate": "201712271600", 
+                "copyright": "夏威夷的绿海龟 (© Monica & Michael Sweet/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/HawaiiGST_ZH-CN13537794612_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f15b6ae501eda7c6db9eea9f40f4f195", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171227_HawaiiGST%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BB%BF%E6%B5%B7%E9%BE%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171228", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171227", 
+                "urlbase": "/az/hprichbg/rb/CPNYSnow_EN-US14243356452", 
+                "fullstartdate": "201712270800", 
+                "copyright": "Central Park in New York City (© Nisian Hughes/Getty Images)", 
+                "url": "/az/hprichbg/rb/CPNYSnow_EN-US14243356452_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2854e5b09126e47a21890e253c7c3fb1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171227_CPNYSnow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=central+park+new+york+city+ny&form=hpcapt&filters=HpDate:%2220171227_0800%22", 
+                "wp": true, 
+                "enddate": "20171228", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
