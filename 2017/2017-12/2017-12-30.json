@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171229", 
+                "urlbase": "/az/hprichbg/rb/UKThamesBarrier_ZH-CN7996034899", 
+                "fullstartdate": "201712291600", 
+                "copyright": "泰晤士河防洪闸，英国伦敦 (© John Alexander/plainpicture)", 
+                "url": "/az/hprichbg/rb/UKThamesBarrier_ZH-CN7996034899_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "60fc077ff97f6268e830025c1e55e070", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171229_UKThamesBarrier%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B3%B0%E6%99%A4%E5%A3%AB%E6%B2%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171230", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171229", 
+                "urlbase": "/az/hprichbg/rb/PineZion_EN-US12909890750", 
+                "fullstartdate": "201712290800", 
+                "copyright": "Snow in Zion National Park, Utah (© Jeff Foott/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/PineZion_EN-US12909890750_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a46d5e9434fb1bbdc6fddfda3d512a9b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171229_PineZion%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Zion+National+Park&form=hpcapt&filters=HpDate:%2220171229_0800%22", 
+                "wp": true, 
+                "enddate": "20171230", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
