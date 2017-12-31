@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20171230", 
+                "urlbase": "/az/hprichbg/rb/NordketteNYE_ZH-CN12614598789", 
+                "fullstartdate": "201712301600", 
+                "copyright": "新年前夕的烟花，奥地利诺德凯特山脉 (© imageBROKER/Alamy)", 
+                "url": "/az/hprichbg/rb/NordketteNYE_ZH-CN12614598789_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b2d4262d9a35fe3dc8887c5fc33226bb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171230_NordketteNYE%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%83%9F%E8%8A%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20171231", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20171230", 
+                "urlbase": "/az/hprichbg/rb/UKThamesBarrier_EN-US8901255344", 
+                "fullstartdate": "201712300800", 
+                "copyright": "The Thames Barrier at London, England (© John Alexander/plainpicture)", 
+                "url": "/az/hprichbg/rb/UKThamesBarrier_EN-US8901255344_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "49cc22381f62918cc50334c851073002", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20171230_UKThamesBarrier%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Thames+Barrier&form=hpcapt&filters=HpDate:%2220171230_0800%22", 
+                "wp": true, 
+                "enddate": "20171231", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
