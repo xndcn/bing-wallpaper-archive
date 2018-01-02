@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180101", 
+                "urlbase": "/az/hprichbg/rb/TartanWeaving_ZH-CN8652723934", 
+                "fullstartdate": "201801011600", 
+                "copyright": "织布机上的花呢格纹布，苏格兰爱丁堡 (© AA World Travel Library/Alamy)", 
+                "url": "/az/hprichbg/rb/TartanWeaving_ZH-CN8652723934_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8cf0d0fdfe015ff3e74eb024f1157d9e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180101_TartanWeaving%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BB%87%E5%B8%83%E6%9C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180102", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180101", 
+                "urlbase": "/az/hprichbg/rb/ManitobaCubs_EN-US8822758349", 
+                "fullstartdate": "201801010800", 
+                "copyright": "Mama polar bear and cubs in Manitoba’s Wapusk National Park, Canada (© Matthias Breiter/plainpicture)", 
+                "url": "/az/hprichbg/rb/ManitobaCubs_EN-US8822758349_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "efe3c6c26b9c74495dbe86802f92f74a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180101_ManitobaCubs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Wapusk+National+Park&form=hpcapt&filters=HpDate:%2220180101_0800%22", 
+                "wp": true, 
+                "enddate": "20180102", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
