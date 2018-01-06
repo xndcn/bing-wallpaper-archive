@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180105", 
+                "urlbase": "/az/hprichbg/rb/PWSeaOtterPup_ZH-CN12769031922", 
+                "fullstartdate": "201801051600", 
+                "copyright": "海獭妈妈与小海獭，美国阿拉斯加威廉王子湾 (© AlaskaStock/Masterfile)", 
+                "url": "/az/hprichbg/rb/PWSeaOtterPup_ZH-CN12769031922_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1278a5211021d2316e47f26dbd41c036", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180105_PWSeaOtterPup%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B5%B7%E7%8D%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180106", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180105", 
+                "urlbase": "/az/hprichbg/rb/WaxwingFlock_EN-US6364769657", 
+                "fullstartdate": "201801050800", 
+                "copyright": "Bohemian waxwings in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/WaxwingFlock_EN-US6364769657_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "19645b9b73b5d4df352fb2cf0e5d3eea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180105_WaxwingFlock%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=bohemian+waxwing&form=hpcapt&filters=HpDate:%2220180105_0800%22", 
+                "wp": true, 
+                "enddate": "20180106", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
