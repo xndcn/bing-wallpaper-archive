@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180107", 
+                "urlbase": "/az/hprichbg/rb/CloudForest_ZH-CN9578926154", 
+                "fullstartdate": "201801071600", 
+                "copyright": "滨海湾花园，新加坡 (© Hemis/Alamy Stock Photo)", 
+                "url": "/az/hprichbg/rb/CloudForest_ZH-CN9578926154_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "138dd22fd3cd0c0ee3c0b4b20962bd15", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180107_CloudForest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%BB%A8%E6%B5%B7%E6%B9%BE%E8%8A%B1%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180108", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180107", 
+                "urlbase": "/az/hprichbg/rb/StelvioPass_EN-US13513583896", 
+                "fullstartdate": "201801070800", 
+                "copyright": "Stelvio Pass in the Italian Alps (© Sandro Bisaro/Getty Images)", 
+                "url": "/az/hprichbg/rb/StelvioPass_EN-US13513583896_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f6312c2a231ded68dac27ee222fa9238", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180107_StelvioPass%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=stelvio+pass&form=hpcapt&filters=HpDate:%2220180107_0800%22", 
+                "wp": true, 
+                "enddate": "20180108", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
