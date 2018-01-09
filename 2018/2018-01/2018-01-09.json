@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180108", 
+                "urlbase": "/az/hprichbg/rb/GreatFountainGeyer_ZH-CN11320043560", 
+                "fullstartdate": "201801081600", 
+                "copyright": "大喷泉间歇泉，美国怀俄明州黄石国家公园 (© lightpix/iStock/Getty Images Plus)", 
+                "url": "/az/hprichbg/rb/GreatFountainGeyer_ZH-CN11320043560_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "79647f79bfa89fffe172ac4ac8689bbf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180108_GreatFountainGeyer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%97%B4%E6%AD%87%E6%B3%89&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180108", 
+                "urlbase": "/az/hprichbg/rb/CloudForest_EN-US9578926154", 
+                "fullstartdate": "201801080800", 
+                "copyright": "Gardens by the Bay nature park, Singapore (© Hemis/Alamy Stock Photo)", 
+                "url": "/az/hprichbg/rb/CloudForest_EN-US9578926154_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "eb744663643d4b6a3cba24f0c6996515", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180108_CloudForest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=gardens+by+the+bay,+singapore&form=hpcapt&filters=HpDate:%2220180108_0800%22", 
+                "wp": false, 
+                "enddate": "20180109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
