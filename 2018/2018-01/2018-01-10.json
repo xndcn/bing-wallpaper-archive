@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180109", 
+                "urlbase": "/az/hprichbg/rb/SamburuNests_ZH-CN11974788746", 
+                "fullstartdate": "201801091600", 
+                "copyright": "桑布鲁国家自然保护区金合欢树上悬挂的织布鸟鸟巢，肯尼亚 (© Bernd Rohrschneider/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/SamburuNests_ZH-CN11974788746_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d7e79bfcde1ecd7d0a5ffb8f4333cbfc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180109_SamburuNests%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%B8%9F%E5%B7%A2%EF%BC%88%E5%90%84%E5%BC%8F%E5%90%84%E6%A0%B7%E7%9A%84%EF%BC%89&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180110", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180109", 
+                "urlbase": "/az/hprichbg/rb/GreatFountainGeyer_EN-US10674250728", 
+                "fullstartdate": "201801090800", 
+                "copyright": "Great Fountain Geyser, Yellowstone National Park, Wyoming (© lightpix/iStock/Getty Images Plus)", 
+                "url": "/az/hprichbg/rb/GreatFountainGeyer_EN-US10674250728_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "eb49092808c0e27fd09c921ae5af837c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180109_GreatFountainGeyer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=yellowstone+national+park&form=hpcapt&filters=HpDate:%2220180109_0800%22", 
+                "wp": true, 
+                "enddate": "20180110", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
