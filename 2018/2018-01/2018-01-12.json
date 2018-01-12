@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180111", 
+                "urlbase": "/az/hprichbg/rb/TreasuryCandles_ZH-CN9281308713", 
+                "fullstartdate": "201801111600", 
+                "copyright": "卡兹尼神殿，约旦佩特拉 (© Felix Lipov/Shutterstock)", 
+                "url": "/az/hprichbg/rb/TreasuryCandles_ZH-CN9281308713_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c3771978467c2b1336ab0446b4af1328", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180111_TreasuryCandles%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8D%A1%E5%85%B9%E5%B0%BC%E7%A5%9E%E6%AE%BF&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180112", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180111", 
+                "urlbase": "/az/hprichbg/rb/BowSnow_EN-US9208049425", 
+                "fullstartdate": "201801110800", 
+                "copyright": "Bow Bridge in Central Park, New York City (© Ultima Gaina/iStock/Getty Images Plus)", 
+                "url": "/az/hprichbg/rb/BowSnow_EN-US9208049425_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "43cb7a0cea0b25815d8440a20729be02", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180111_BowSnow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=central+park+new+york+city&form=hpcapt&filters=HpDate:%2220180111_0800%22", 
+                "wp": true, 
+                "enddate": "20180112", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
