@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180112", 
+                "urlbase": "/az/hprichbg/rb/EnglemannSpruceForest_ZH-CN11994077642", 
+                "fullstartdate": "201801121600", 
+                "copyright": "沃尔夫克里克山口附近被火灾破坏的森林，美国科罗拉多州 (© Peter Essick/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/EnglemannSpruceForest_ZH-CN11994077642_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0433abab33bbc5a3c6d7e8e3217fa750", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180112_EnglemannSpruceForest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%A3%AE%E6%9E%97%E7%81%AB%E7%81%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180113", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180112", 
+                "urlbase": "/az/hprichbg/rb/TreasuryCandles_EN-US9414027460", 
+                "fullstartdate": "201801120800", 
+                "copyright": "Al-Khazneh in Petra, Jordan (© Felix Lipov/Shutterstock)", 
+                "url": "/az/hprichbg/rb/TreasuryCandles_EN-US9414027460_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5940813398c2ab0b79decc7efed0dd08", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180112_TreasuryCandles%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Al-Khazneh&form=hpcapt&filters=HpDate:%2220180112_0800%22", 
+                "wp": true, 
+                "enddate": "20180113", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
