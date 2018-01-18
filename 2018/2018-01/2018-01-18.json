@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180117", 
+                "urlbase": "/az/hprichbg/rb/BlueMushroom_ZH-CN10091152411", 
+                "fullstartdate": "201801171600", 
+                "copyright": "马希纳普阿湖上的霍氏粉褶菌，新西兰 (© Thysje Arthur/Offset)", 
+                "url": "/az/hprichbg/rb/BlueMushroom_ZH-CN10091152411_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7feb23fa57212846452438a33f7bcae2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180117_BlueMushroom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9C%8D%E6%B0%8F%E7%B2%89%E8%A4%B6%E8%8F%8C&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180118", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180117", 
+                "urlbase": "/az/hprichbg/rb/TadamiTrain_EN-US12959954742", 
+                "fullstartdate": "201801170800", 
+                "copyright": "Train crossing the Tadami River near the village of Mishima in Japan (© Nuttapoom Amornpashara/Getty Images)", 
+                "url": "/az/hprichbg/rb/TadamiTrain_EN-US12959954742_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "16b61213318ec0fa22e7774e0a886bdc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180117_TadamiTrain%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Tadami+River&form=hpcapt&filters=HpDate:%2220180117_0800%22", 
+                "wp": true, 
+                "enddate": "20180118", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
