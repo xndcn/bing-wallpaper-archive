@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180118", 
+                "urlbase": "/az/hprichbg/rb/OldTownPrague_ZH-CN9399088386", 
+                "fullstartdate": "201801181600", 
+                "copyright": "布拉格老城，捷克共和国 (© Frank Chmura/age fotostock)", 
+                "url": "/az/hprichbg/rb/OldTownPrague_ZH-CN9399088386_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "57afa124e6570be426e212566d296c64", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180118_OldTownPrague%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B8%83%E6%8B%89%E6%A0%BC%E8%80%81%E5%9F%8E&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180119", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180118", 
+                "urlbase": "/az/hprichbg/rb/BlueMushroom_EN-US9252668987", 
+                "fullstartdate": "201801180800", 
+                "copyright": "Entoloma hochstetteri mushroom at Lake Mahinapua, New Zealand (© Thysje Arthur/Offset)", 
+                "url": "/az/hprichbg/rb/BlueMushroom_EN-US9252668987_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cad6b46d69aa3cf670f06203d4e9ff05", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180118_BlueMushroom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Entoloma+hochstetteri+mushroom&form=hpcapt&filters=HpDate:%2220180118_0800%22", 
+                "wp": true, 
+                "enddate": "20180119", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
