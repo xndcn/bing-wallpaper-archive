@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180121", 
+                "urlbase": "/az/hprichbg/rb/BirdseyeGGB_ZH-CN13809191544", 
+                "fullstartdate": "201801211600", 
+                "copyright": "旧金山金门大桥鸟瞰图，美国加利福尼亚州 (© Alex Menendez/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/BirdseyeGGB_ZH-CN13809191544_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1f7a8263f1940ee0037a937b13d11712", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180121_BirdseyeGGB%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%87%91%E9%97%A8%E5%A4%A7%E6%A1%A5%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180122", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180121", 
+                "urlbase": "/az/hprichbg/rb/ScotlandSquirrel_EN-US9009066153", 
+                "fullstartdate": "201801210800", 
+                "copyright": "Red squirrel in Cairngorms National Park, Scotland (© SCOTLAND: The Big Picture/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/ScotlandSquirrel_EN-US9009066153_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bb39434c1e6b8d3a2e89298d4194139c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180121_ScotlandSquirrel%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=sciurus+vulgaris&form=hpcapt&filters=HpDate:%2220180121_0800%22", 
+                "wp": true, 
+                "enddate": "20180122", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
