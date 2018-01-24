@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180123", 
+                "urlbase": "/az/hprichbg/rb/Fontainhas_ZH-CN10506085919", 
+                "fullstartdate": "201801231600", 
+                "copyright": "圣安唐岛上的 Fontainhas村庄，佛得角共和国 (© Guiziou Franck/Getty Images)", 
+                "url": "/az/hprichbg/rb/Fontainhas_ZH-CN10506085919_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6d7de68c29680421692199d8abc2bcec", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180123_Fontainhas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Fontainhas+village&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180124", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180123", 
+                "urlbase": "/az/hprichbg/rb/LMNP_EN-US10863507594", 
+                "fullstartdate": "201801230800", 
+                "copyright": "Lençóis Maranhenses National Park in Barreirinhas, Brazil (© Rudi Sebastian/plainpicture)", 
+                "url": "/az/hprichbg/rb/LMNP_EN-US10863507594_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "873064c0e5610c7bdbd5ae900c6269e6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180123_LMNP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=len%C3%A7%C3%B3is+maranhenses+national+park&form=hpcapt&filters=HpDate:%2220180123_0800%22", 
+                "wp": true, 
+                "enddate": "20180124", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
