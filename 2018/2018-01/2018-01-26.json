@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180125", 
+                "urlbase": "/az/hprichbg/rb/EasternGrey_ZH-CN11969577596", 
+                "fullstartdate": "201801251600", 
+                "copyright": "可西欧斯可国家公园内的东部灰袋鼠，澳大利亚 (© Jochen Schlenker/Masterfile)", 
+                "url": "/az/hprichbg/rb/EasternGrey_ZH-CN11969577596_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f6ab04e2c427d9dd43b44b3eb1eb5d09", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180125_EasternGrey%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%9C%E9%83%A8%E7%81%B0%E8%A2%8B%E9%BC%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180126", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180125", 
+                "urlbase": "/az/hprichbg/rb/SamiLavvu_EN-US10473316482", 
+                "fullstartdate": "201801250800", 
+                "copyright": "Sami lavvu structures, Finnmark, Norway (© Céleste Manet/plainpicture)", 
+                "url": "/az/hprichbg/rb/SamiLavvu_EN-US10473316482_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2360055bb7390bddc4e1c76ae88254e5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180125_SamiLavvu%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=finnmark+norway&form=hpcapt&filters=HpDate:%2220180125_0800%22", 
+                "wp": true, 
+                "enddate": "20180126", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
