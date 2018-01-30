@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180129", 
+                "urlbase": "/az/hprichbg/rb/GraniteDells_ZH-CN10095346278", 
+                "fullstartdate": "201801291600", 
+                "copyright": "花岗岩峡谷中的沃森湖，美国亚利桑那州 (© Tim Fitzharris/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/GraniteDells_ZH-CN10095346278_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0d36b74cfcd99e5f46865fe82fe50eed", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180129_GraniteDells%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B2%83%E6%A3%AE%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180130", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180129", 
+                "urlbase": "/az/hprichbg/rb/VF5NASA_EN-US11160261487", 
+                "fullstartdate": "201801290800", 
+                "copyright": "A vacuum chamber at NASA Glenn Research Center in Cleveland, Ohio (© NASA)", 
+                "url": "/az/hprichbg/rb/VF5NASA_EN-US11160261487_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2d951ea5c8adbf810a1336644c9a301e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180129_VF5NASA%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Glenn+Research+Center&form=hpcapt&filters=HpDate:%2220180129_0800%22", 
+                "wp": true, 
+                "enddate": "20180130", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
