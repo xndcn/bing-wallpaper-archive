@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180131", 
+                "urlbase": "/az/hprichbg/rb/StubenamAlberg_ZH-CN9268418169", 
+                "fullstartdate": "201801311600", 
+                "copyright": "施图本阿尔贝格，奥地利 (© 500px/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/StubenamAlberg_ZH-CN9268418169_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7c2dbde56761b4c68dc33421ee464716", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180131_StubenamAlberg%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%90%A8%E7%BD%97%E5%B0%BC%E5%85%8B%E6%B9%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180201", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180131", 
+                "urlbase": "/az/hprichbg/rb/TartumaaEstonia_EN-US13836445539", 
+                "fullstartdate": "201801310800", 
+                "copyright": "Sunbeams across Tartu County, Estonia (© Sven Zacek/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/TartumaaEstonia_EN-US13836445539_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fba4d7ec79e7bb72ac941bc552e623ce", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180131_TartumaaEstonia%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=tartu+county+estonia&form=hpcapt&filters=HpDate:%2220180131_0800%22", 
+                "wp": true, 
+                "enddate": "20180201", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
