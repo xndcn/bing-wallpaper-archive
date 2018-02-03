@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180202", 
+                "urlbase": "/az/hprichbg/rb/UrbinoRooftops_ZH-CN9076169426", 
+                "fullstartdate": "201802021600", 
+                "copyright": "城墙环绕之城乌尔比诺的屋顶，意大利 (© Andrea Pucci/Getty Images)", 
+                "url": "/az/hprichbg/rb/UrbinoRooftops_ZH-CN9076169426_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1714499571f5964e677d09792a61829c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180202_UrbinoRooftops%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B9%8C%E5%B0%94%E6%AF%94%E8%AF%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180203", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180202", 
+                "urlbase": "/az/hprichbg/rb/AustrianAlpineMarmots_EN-US9655226026", 
+                "fullstartdate": "201802020800", 
+                "copyright": "Alpine marmots at Hohe Tauern National Park, Austria (© blickwinkel/Alamy)", 
+                "url": "/az/hprichbg/rb/AustrianAlpineMarmots_EN-US9655226026_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6eef2f6b0a5da2c670dd3bd5022a65d6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180202_AustrianAlpineMarmots%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Alpine+marmot&form=hpcapt&filters=HpDate:%2220180202_0800%22", 
+                "wp": true, 
+                "enddate": "20180203", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
