@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180203", 
+                "urlbase": "/az/hprichbg/rb/MonkeyGolden1_ZH-CN12125769581", 
+                "fullstartdate": "201802031600", 
+                "copyright": "【今日立春】周至自然保护区内一只以樱花为食的金丝猴，中国陕西秦岭 (© Florian Möllers/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/MonkeyGolden1_ZH-CN12125769581_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a5d4fce99aae31dd0bdc1ce845963719", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180203_MonkeyGolden1%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%AB%8B%E6%98%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180204", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180203", 
+                "urlbase": "/az/hprichbg/rb/UrbinoRooftops_EN-US10329807146", 
+                "fullstartdate": "201802030800", 
+                "copyright": "Rooftops in the walled city of Urbino, Italy (© Andrea Pucci/Getty Images)", 
+                "url": "/az/hprichbg/rb/UrbinoRooftops_EN-US10329807146_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6acfcd2400f939a287235bbaca47cee2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180203_UrbinoRooftops%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Urbino&form=hpcapt&filters=HpDate:%2220180203_0800%22", 
+                "wp": true, 
+                "enddate": "20180204", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
