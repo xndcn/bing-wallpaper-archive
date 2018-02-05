@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180204", 
+                "urlbase": "/az/hprichbg/rb/StormySeas_ZH-CN9261044607", 
+                "fullstartdate": "201802041600", 
+                "copyright": "南极洲的浮动冰山 (© Ray Hems/Getty Images)", 
+                "url": "/az/hprichbg/rb/StormySeas_ZH-CN9261044607_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "47554a3aa15c9014149bd48f82e6f28c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180204_StormySeas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%86%B0%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180205", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180204", 
+                "urlbase": "/az/hprichbg/rb/KoriBustard_EN-US8843828523", 
+                "fullstartdate": "201802040800", 
+                "copyright": "Male kori bustard, Maasai Mara National Reserve, Kenya (© Christina Krutz/Masterfile)", 
+                "url": "/az/hprichbg/rb/KoriBustard_EN-US8843828523_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3a6ffabb98bd4aa2519ee2003e602145", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180204_KoriBustard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=kori+bustard&form=hpcapt&filters=HpDate:%2220180204_0800%22", 
+                "wp": true, 
+                "enddate": "20180205", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
