@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180207", 
+                "urlbase": "/az/hprichbg/rb/SaltMountains_ZH-CN12959138910", 
+                "fullstartdate": "201802071600", 
+                "copyright": "多梅科山脉的岩盐山麓，智利 (© Sergio Ballivian/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/SaltMountains_ZH-CN12959138910_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1015449725a9cf7ee00b6d4dfb6e80d3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180207_SaltMountains%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=The+Cordillera+de+la+Sal&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180207", 
+                "urlbase": "/az/hprichbg/rb/KelpiesFalkirk_EN-US8885510040", 
+                "fullstartdate": "201802070800", 
+                "copyright": "The Kelpies statues at The Helix, a park in Falkirk, Scotland (© Best Shot Factory/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/KelpiesFalkirk_EN-US8885510040_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "18f36fc063f41acdb29ddfcdc72dc6b5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180207_KelpiesFalkirk%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=the+kelpies&form=hpcapt&filters=HpDate:%2220180207_0800%22", 
+                "wp": false, 
+                "enddate": "20180208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
