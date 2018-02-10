@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180209", 
+                "urlbase": "/az/hprichbg/rb/BonifacioCorsica_ZH-CN12276076394", 
+                "fullstartdate": "201802091600", 
+                "copyright": "科西嘉岛上的博尼法乔城，法国 (© Hemis/Alamy)", 
+                "url": "/az/hprichbg/rb/BonifacioCorsica_ZH-CN12276076394_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4967dbea47da66a399a0a8a71e64327f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180209_BonifacioCorsica%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8D%9A%E5%B0%BC%E6%B3%95%E4%B9%94&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180210", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180209", 
+                "urlbase": "/az/hprichbg/rb/OlySpeedSkate_EN-US8336124050", 
+                "fullstartdate": "201802090800", 
+                "copyright": "Speed skaters training at the Gangneung Oval on February 4, 2018, in Pyeongchang, South Korea (© Robert Cianflone/Getty Images)", 
+                "url": "/az/hprichbg/rb/OlySpeedSkate_EN-US8336124050_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e4bcd94c63ed303fd1f058168611e52b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180209_OlySpeedSkate%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=speed+skating&form=hpcapt&filters=HpDate:%2220180209_0800%22", 
+                "wp": false, 
+                "enddate": "20180210", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
