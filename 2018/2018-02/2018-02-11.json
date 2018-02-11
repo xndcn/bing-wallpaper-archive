@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180210", 
+                "urlbase": "/az/hprichbg/rb/TeRewaRewa_ZH-CN9356115127", 
+                "fullstartdate": "201802101600", 
+                "copyright": "新普利茅斯附近的特雷瓦雷瓦桥，新西兰 (© Matthew Williams-Ellis/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/TeRewaRewa_ZH-CN9356115127_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8e387a0955ce7a647de96d96c115e7b0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180210_TeRewaRewa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=+Te+Rewa+Rewa+Bridge&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180211", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180210", 
+                "urlbase": "/az/hprichbg/rb/BonifacioCorsica_EN-US12600195218", 
+                "fullstartdate": "201802100800", 
+                "copyright": "Bonifacio on the island of Corsica, France (© Hemis/Alamy)", 
+                "url": "/az/hprichbg/rb/BonifacioCorsica_EN-US12600195218_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "91a3b6197df01ed2779df8ce4273bbda", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180210_BonifacioCorsica%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Bonifacio+Corse-Du-Sud&form=hpcapt&filters=HpDate:%2220180210_0800%22", 
+                "wp": true, 
+                "enddate": "20180211", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
