@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180211", 
+                "urlbase": "/az/hprichbg/rb/YungbulakangPalace_ZH-CN6941923546", 
+                "fullstartdate": "201802111600", 
+                "copyright": "雍布拉康，中国西藏自治区 (© Yumian Deng)", 
+                "url": "/az/hprichbg/rb/YungbulakangPalace_ZH-CN6941923546_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ec9a0e6ea422bb95e616a7c8f5caecf5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180211_YungbulakangPalace%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9B%8D%E5%B8%83%E6%8B%89%E5%BA%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180212", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180211", 
+                "urlbase": "/az/hprichbg/rb/TeRewaRewa_EN-US9716852261", 
+                "fullstartdate": "201802110800", 
+                "copyright": "Te Rewa Rewa Bridge near New Plymouth, New Zealand (© Matthew Williams-Ellis/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/TeRewaRewa_EN-US9716852261_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6a40a6e9b871f36ceffc57e27f08cd76", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180211_TeRewaRewa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Te+Rewa+Rewa+Bridge&form=hpcapt&filters=HpDate:%2220180211_0800%22", 
+                "wp": true, 
+                "enddate": "20180212", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
