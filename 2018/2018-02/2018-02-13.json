@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180212", 
+                "urlbase": "/az/hprichbg/rb/PreservationHallStage_ZH-CN8992559975", 
+                "fullstartdate": "201802121600", 
+                "copyright": "路易斯安那州新奥尔良的典藏厅，美国 (© Cosmo Condina/Alamy)", 
+                "url": "/az/hprichbg/rb/PreservationHallStage_ZH-CN8992559975_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e33de29b3345ba8d25a7768f2b6933f5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180212_PreservationHallStage%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Preservation+Hall&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180213", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180212", 
+                "urlbase": "/az/hprichbg/rb/ContemplativeCourt_EN-US9045302820", 
+                "fullstartdate": "201802120800", 
+                "copyright": "Contemplative Court fountain at the National Museum of African American History and Culture, Washington, DC (© Edwin Remsberg/Alamy)", 
+                "url": "/az/hprichbg/rb/ContemplativeCourt_EN-US9045302820_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3f6ff25486520e7147b0fa1e431eea89", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180212_ContemplativeCourt%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=National+Museum+of+African+American+History+and+Culture&form=hpcapt&filters=HpDate:%2220180212_0800%22", 
+                "wp": false, 
+                "enddate": "20180213", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
