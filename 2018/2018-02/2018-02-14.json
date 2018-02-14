@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180213", 
+                "urlbase": "/az/hprichbg/rb/AgricultureHeart_ZH-CN12475262667", 
+                "fullstartdate": "201802131600", 
+                "copyright": "【今日情人节】心形田野，德国特里陶 (© imageBROKER/Alamy)", 
+                "url": "/az/hprichbg/rb/AgricultureHeart_ZH-CN12475262667_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "199657cc63e53699110199748313c9e5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180213_AgricultureHeart%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%83%85%E4%BA%BA%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180214", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180213", 
+                "urlbase": "/az/hprichbg/rb/PreservationHallStage_EN-US8992559975", 
+                "fullstartdate": "201802130800", 
+                "copyright": "Preservation Hall in New Orleans, Louisiana (© Cosmo Condina/Alamy)", 
+                "url": "/az/hprichbg/rb/PreservationHallStage_EN-US8992559975_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "66d2351f01e24e399ebcfbab02e7d074", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180213_PreservationHallStage%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=preservation+hall+new+orleans&form=hpcapt&filters=HpDate:%2220180213_0800%22", 
+                "wp": false, 
+                "enddate": "20180214", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
