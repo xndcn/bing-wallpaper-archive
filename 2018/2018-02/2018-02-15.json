@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180214", 
+                "urlbase": "/az/hprichbg/rb/HongKongFireworks_ZH-CN13422096721", 
+                "fullstartdate": "201802141600", 
+                "copyright": "【今日除夕】璀璨烟花迎新年，中国香港 (©Thanapol Kuptanisakorn/ Alamy Stock Photo)", 
+                "url": "/az/hprichbg/rb/HongKongFireworks_ZH-CN13422096721_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "85c8b783a3d30f11b92d4630dab98bb3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180214_HongKongFireworks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%99%A4%E5%A4%95&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180215", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180214", 
+                "urlbase": "/az/hprichbg/rb/AgricultureHeart_EN-US11072776280", 
+                "fullstartdate": "201802140800", 
+                "copyright": "Aerial view of a heart-shaped field in Trittau, Germany (© imageBROKER/Alamy)", 
+                "url": "/az/hprichbg/rb/AgricultureHeart_EN-US11072776280_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "dab46df680f483a599ada9148dff3fb5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180214_AgricultureHeart%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=valentine's+day&form=hpcapt&filters=HpDate:%2220180214_0800%22", 
+                "wp": true, 
+                "enddate": "20180215", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
