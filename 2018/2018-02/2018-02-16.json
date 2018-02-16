@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180215", 
+                "urlbase": "/az/hprichbg/rb/WriteCouplets_ZH-CN11009087353", 
+                "fullstartdate": "201802151600", 
+                "copyright": "【今日春节】写春联庆新春 (© yurouguan/GettyImages)", 
+                "url": "/az/hprichbg/rb/WriteCouplets_ZH-CN11009087353_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "60c878f6477fab6dacb8ad37b07ce9d7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180215_WriteCouplets%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%AC%A2%E5%BA%A6%E6%98%A5%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180216", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180215", 
+                "urlbase": "/az/hprichbg/rb/HeadlampsVantage_EN-US11539919365", 
+                "fullstartdate": "201802150800", 
+                "copyright": "The Feathers at Frenchman Coulee near Vantage, Washington (© Dan Holz/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/HeadlampsVantage_EN-US11539919365_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f23e3f03589139abbeb80184ffd15733", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180215_HeadlampsVantage%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Vantage,+Washington&form=hpcapt&filters=HpDate:%2220180215_0800%22", 
+                "wp": true, 
+                "enddate": "20180216", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
