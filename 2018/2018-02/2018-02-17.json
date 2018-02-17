@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180216", 
+                "urlbase": "/az/hprichbg/rb/OrangutanBaby_ZH-CN9942512858", 
+                "fullstartdate": "201802161600", 
+                "copyright": "勒塞尔火山国家公园内的一只小苏门答腊猩猩，印度尼西亚 (© Cyril Ruoso/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/OrangutanBaby_ZH-CN9942512858_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "23cdefdf0b28426cd01b0412078e0a28", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180216_OrangutanBaby%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8B%8F%E9%97%A8%E7%AD%94%E8%85%8A%E7%8C%A9%E7%8C%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180217", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180216", 
+                "urlbase": "/az/hprichbg/rb/DragonDance_EN-US9991634736", 
+                "fullstartdate": "201802160800", 
+                "copyright": "Artists performing the dragon dance in Chenzhou, Hunan Province, China (© VCG/Getty Images)", 
+                "url": "/az/hprichbg/rb/DragonDance_EN-US9991634736_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "369c1cd0d999e7ed2d60d2fc8c00901d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180216_DragonDance%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Chinese+dragon+dance&form=hpcapt&filters=HpDate:%2220180216_0800%22", 
+                "wp": false, 
+                "enddate": "20180217", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
