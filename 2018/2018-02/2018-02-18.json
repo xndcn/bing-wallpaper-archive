@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180217", 
+                "urlbase": "/az/hprichbg/rb/GHOwl_ZH-CN8350803282", 
+                "fullstartdate": "201802171600", 
+                "copyright": "圣克劳德市南部托霍普卡莱加湖附近的大雕鸮，美国佛罗里达州 (© Matthew Studebaker/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/GHOwl_ZH-CN8350803282_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "425af09bd64b7c92e1973eec8326014b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180217_GHOwl%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%A7%E9%9B%95%E9%B8%AE&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180218", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180217", 
+                "urlbase": "/az/hprichbg/rb/OrangutanBaby_EN-US10532835014", 
+                "fullstartdate": "201802170800", 
+                "copyright": "An infant Sumatran orangutan in Gunung Leuser National Park, Indonesia (© Cyril Ruoso/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/OrangutanBaby_EN-US10532835014_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "44e84556e4be25a21d1c91255699fcc2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180217_OrangutanBaby%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=sumatran+orangutans&form=hpcapt&filters=HpDate:%2220180217_0800%22", 
+                "wp": true, 
+                "enddate": "20180218", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
