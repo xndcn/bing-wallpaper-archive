@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180219", 
+                "urlbase": "/az/hprichbg/rb/AyuttayaBuddha_ZH-CN8897274980", 
+                "fullstartdate": "201802191600", 
+                "copyright": "阿瑜陀耶城内的“树中佛像”，泰国 (© Garret Suhrie/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/AyuttayaBuddha_ZH-CN8897274980_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "872b1f50348463a06898ec968315b5c3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180219_AyuttayaBuddha%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%98%BF%E7%91%9C%E9%99%80%E8%80%B6%E5%9F%8E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180220", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180219", 
+                "urlbase": "/az/hprichbg/rb/TJMReflection_EN-US9347717372", 
+                "fullstartdate": "201802190800", 
+                "copyright": "Thomas Jefferson Memorial reflected in the Tidal Basin, Washington, DC (© Cvandyke/Shutterstock)", 
+                "url": "/az/hprichbg/rb/TJMReflection_EN-US9347717372_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b95dce1cc1581baa513cdf72b74df32a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180219_TJMReflection%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=jefferson+memorial&form=hpcapt&filters=HpDate:%2220180219_0800%22", 
+                "wp": true, 
+                "enddate": "20180220", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
