@@ -1,0 +1,86 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180220", 
+                "urlbase": "/az/hprichbg/rb/InnerdalsvatnaVideo_ZH-CN11002526366", 
+                "fullstartdate": "201802201600", 
+                "vid": {
+                    "caption": "视频：Innerdalsvatna 湖中两棵树倒影，挪威 (© Anders Graham/Turbin Films/Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/Innerdalsvatna_Lake_Norway_nimiaRM_709614_1080_HD_ZH-CN850417908.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/Innerdalsvatna_Lake_Norway_1334_FF_Mobile_ZH-CN1827451948.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Innerdalsvatna_Lake_Norway_nimiaRM_709614_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Innerdalsvatna_Lake_Norway_nimiaRM_709614_1080_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Innerdalsvatna_Lake_Norway_nimiaRM_709614_1334_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": true
+                }, 
+                "copyright": "Ålvundeidet村附近的Innerdalsvatna湖，挪威 (© Anders Graham/Turbin Films/Nimia)", 
+                "url": "/az/hprichbg/rb/InnerdalsvatnaVideo_ZH-CN11002526366_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2cf3e1041c7ca118e9608710d2a04ba0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180220_InnerdalsvatnaVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Innerdalsvatna+Lake&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180221", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180220", 
+                "urlbase": "/az/hprichbg/rb/AyuttayaBuddha_EN-US8837500887", 
+                "fullstartdate": "201802200800", 
+                "copyright": "A stone Buddha head in the roots of a tree, Ayutthaya, Thailand (© Garret Suhrie/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/AyuttayaBuddha_EN-US8837500887_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "62cc1f0165d3c86b2f09a4d53c5b3576", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180220_AyuttayaBuddha%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=ayutthaya+historical+park&form=hpcapt&filters=HpDate:%2220180220_0800%22", 
+                "wp": true, 
+                "enddate": "20180221", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
