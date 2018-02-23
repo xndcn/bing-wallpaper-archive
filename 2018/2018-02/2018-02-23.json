@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180222", 
+                "urlbase": "/az/hprichbg/rb/CORiverDelta_ZH-CN9758155357", 
+                "fullstartdate": "201802221600", 
+                "copyright": "科罗拉多河三角洲鸟瞰图，墨西哥 (© Peter McBride/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/CORiverDelta_ZH-CN9758155357_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e93e3b7eaf63263fae8fc7c5ce224270", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180222_CORiverDelta%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%A7%91%E7%BD%97%E6%8B%89%E5%A4%9A%E6%B2%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180223", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180222", 
+                "urlbase": "/az/hprichbg/rb/RomanTheatre_EN-US8544643859", 
+                "fullstartdate": "201802220800", 
+                "copyright": "Roman theater of Cartagena, Spain (© Luis Davilla/Getty Images)", 
+                "url": "/az/hprichbg/rb/RomanTheatre_EN-US8544643859_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7275d9d242491d7da6868e5f51535195", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180222_RomanTheatre%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=roman+theatre+of+cartagena,+spain&form=hpcapt&filters=HpDate:%2220180222_0800%22", 
+                "wp": true, 
+                "enddate": "20180223", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
