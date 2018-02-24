@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180223", 
+                "urlbase": "/az/hprichbg/rb/SwissFoxSnow_ZH-CN12291440880", 
+                "fullstartdate": "201802231600", 
+                "copyright": "侏罗山脉一侧的一只赤狐，瑞士 (© Laurent Geslin/NPL/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/SwissFoxSnow_ZH-CN12291440880_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f8413a8d71ef329ffdb87c2332e05e81", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180223_SwissFoxSnow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%B5%A4%E7%8B%90&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180224", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180223", 
+                "urlbase": "/az/hprichbg/rb/CORiverDelta_EN-US10256713484", 
+                "fullstartdate": "201802230800", 
+                "copyright": "Aerial view of the Colorado River Delta in Mexico (© Peter McBride/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/CORiverDelta_EN-US10256713484_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8f9f42928e54e067b42ba975a94b629b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180223_CORiverDelta%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Colorado+River+Delta&form=hpcapt&filters=HpDate:%2220180223_0800%22", 
+                "wp": true, 
+                "enddate": "20180224", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
