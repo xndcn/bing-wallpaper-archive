@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180224", 
+                "urlbase": "/az/hprichbg/rb/PinnaclesHoodoos_ZH-CN11336386074", 
+                "fullstartdate": "201802241600", 
+                "copyright": "布莱斯峡谷国家公园的雾中石林，美国犹他州 (© Eleanor Scriven/plainpicture)", 
+                "url": "/az/hprichbg/rb/PinnaclesHoodoos_ZH-CN11336386074_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "56f24e12e1f7907b9cf91d225f16d123", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180224_PinnaclesHoodoos%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B8%83%E8%8E%B1%E6%96%AF%E5%B3%A1%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180225", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180224", 
+                "urlbase": "/az/hprichbg/rb/SwissFoxSnow_EN-US12956141356", 
+                "fullstartdate": "201802240800", 
+                "copyright": "A red fox on the Swiss side of the Jura Mountain range (© Laurent Geslin/NPL/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/SwissFoxSnow_EN-US12956141356_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a1bbc44afcc2fe359766664c1d9298e1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180224_SwissFoxSnow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=red+fox+vulpes+vulpes&form=hpcapt&filters=HpDate:%2220180224_0800%22", 
+                "wp": true, 
+                "enddate": "20180225", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
