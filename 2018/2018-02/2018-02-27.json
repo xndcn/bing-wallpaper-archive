@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180226", 
+                "urlbase": "/az/hprichbg/rb/CactiIslaPescado_ZH-CN11317505000", 
+                "fullstartdate": "201802261600", 
+                "copyright": "玻利维亚乌尤尼盐湖的仙人掌岛 (© Alex Saberi/Getty Images)", 
+                "url": "/az/hprichbg/rb/CactiIslaPescado_ZH-CN11317505000_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a776402fda8df271e71fd7f00326d719", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180226_CactiIslaPescado%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BB%99%E4%BA%BA%E6%8E%8C%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180227", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180226", 
+                "urlbase": "/az/hprichbg/rb/WoolBaySeadragon_EN-US12559454946", 
+                "fullstartdate": "201802260800", 
+                "copyright": "A leafy seadragon in the waters off Wool Bay, Australia (© Alex Mustard/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/WoolBaySeadragon_EN-US12559454946_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "da36d645ec13b51d665c011ca4d4869f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180226_WoolBaySeadragon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=leafy+seadragon+Phycodurus+eques&form=hpcapt&filters=HpDate:%2220180226_0800%22", 
+                "wp": true, 
+                "enddate": "20180227", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
