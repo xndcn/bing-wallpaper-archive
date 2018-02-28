@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180227", 
+                "urlbase": "/az/hprichbg/rb/ChurchillPB_ZH-CN11463903457", 
+                "fullstartdate": "201802271600", 
+                "copyright": "丘吉尔小镇附近的北极熊，加拿大马尼托巴省 (© Alberto Ghizzi Panizza/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/ChurchillPB_ZH-CN11463903457_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8cebd084ebf247d7de15a2c22f911911", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180227_ChurchillPB%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%98%E5%90%89%E5%B0%94%E5%B0%8F%E9%95%87+%E5%8C%97%E6%9E%81%E7%86%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180228", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180227", 
+                "urlbase": "/az/hprichbg/rb/ChurchillPB_EN-US9374200792", 
+                "fullstartdate": "201802270800", 
+                "copyright": "A polar bear near Churchill, Manitoba, Canada (© Alberto Ghizzi Panizza/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/ChurchillPB_EN-US9374200792_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c716647d61c87d75862671341d8b65a3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180227_ChurchillPB%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=polar+bear+ursus+maritimus&form=hpcapt&filters=HpDate:%2220180227_0800%22", 
+                "wp": true, 
+                "enddate": "20180228", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
