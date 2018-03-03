@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180302", 
+                "urlbase": "/az/hprichbg/rb/MountainCougar_ZH-CN11605954810", 
+                "fullstartdate": "201803021600", 
+                "copyright": "安第斯山脉的一只美洲狮，阿根廷 (© Sebastian Kennerknecht/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/MountainCougar_ZH-CN11605954810_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b7fcb78174204bb792cb1ac76428d3f8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180302_MountainCougar%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BE%8E%E6%B4%B2%E7%8B%AE&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180303", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180302", 
+                "urlbase": "/az/hprichbg/rb/Landsat7Bahamas_EN-US7020584845", 
+                "fullstartdate": "201803020800", 
+                "copyright": "Satellite image of sand and seaweed in the Bahamas (© Serge Andrefouet/University of South Florida/NASA)", 
+                "url": "/az/hprichbg/rb/Landsat7Bahamas_EN-US7020584845_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "69a4132697045f074e6099473d6669ce", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180302_Landsat7Bahamas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=the+bahamas&form=hpcapt&filters=HpDate:%2220180302_0800%22", 
+                "wp": true, 
+                "enddate": "20180303", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
