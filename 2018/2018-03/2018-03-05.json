@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180304", 
+                "urlbase": "/az/hprichbg/rb/SeattlePublicLibrary_ZH-CN9936150641", 
+                "fullstartdate": "201803041600", 
+                "copyright": "西雅图中央图书馆，美国华盛顿 (© Sean Hemmerle/Gallery Stock)", 
+                "url": "/az/hprichbg/rb/SeattlePublicLibrary_ZH-CN9936150641_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e54387a7f1df9d837b8e7ad9e9a2bb58", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180304_SeattlePublicLibrary%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%A5%BF%E9%9B%85%E5%9B%BE%E4%B8%AD%E5%A4%AE%E5%9B%BE%E4%B9%A6%E9%A6%86&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180305", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180304", 
+                "urlbase": "/az/hprichbg/rb/AustralianBaobab_EN-US9505720984", 
+                "fullstartdate": "201803040800", 
+                "copyright": "Australian baobab tree, Kimberley region, Western Australia (© plainpicture/Cultura)", 
+                "url": "/az/hprichbg/rb/AustralianBaobab_EN-US9505720984_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "02d67dff6d64ffea54be1c501cb22399", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180304_AustralianBaobab%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=adansonia+gregorii&form=hpcapt&filters=HpDate:%2220180304_0800%22", 
+                "wp": true, 
+                "enddate": "20180305", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
