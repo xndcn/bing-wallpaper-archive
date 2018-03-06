@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180305", 
+                "urlbase": "/az/hprichbg/rb/Landsat7Bahamas_ZH-CN8824105008", 
+                "fullstartdate": "201803051600", 
+                "copyright": "巴哈马的沙滩和海藻卫星图 (© Serge Andrefouet/University of South Florida/NASA)", 
+                "url": "/az/hprichbg/rb/Landsat7Bahamas_ZH-CN8824105008_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "191ea08c56ad3fa1406a4afc4e38308c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180305_Landsat7Bahamas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B7%B4%E5%93%88%E9%A9%AC&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180306", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180305", 
+                "urlbase": "/az/hprichbg/rb/SeattlePublicLibrary_EN-US9936150641", 
+                "fullstartdate": "201803050800", 
+                "copyright": "Seattle Central Library, Seattle, Washington (© Sean Hemmerle/Gallery Stock)", 
+                "url": "/az/hprichbg/rb/SeattlePublicLibrary_EN-US9936150641_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8928b07290c210f9403b6921238960d0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180305_SeattlePublicLibrary%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=seattle+central+library&form=hpcapt&filters=HpDate:%2220180305_0800%22", 
+                "wp": false, 
+                "enddate": "20180306", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
