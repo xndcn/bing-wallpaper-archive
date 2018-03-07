@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180306", 
+                "urlbase": "/az/hprichbg/rb/NovaScotiaIce_ZH-CN11765767656", 
+                "fullstartdate": "201803061600", 
+                "copyright": "黄昏时分，厚重的冰块紧贴着新斯科舍省的大西洋海岸，加拿大 (© shaunl/Getty Images)", 
+                "url": "/az/hprichbg/rb/NovaScotiaIce_ZH-CN11765767656_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ff233c172034f1755b25873399061b4c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180306_NovaScotiaIce%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%B5%B7%E5%B2%B8%E9%A3%8E%E5%85%89&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180307", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180306", 
+                "urlbase": "/az/hprichbg/rb/LongtailedMacaque_EN-US13267702746", 
+                "fullstartdate": "201803060800", 
+                "copyright": "Crab-eating macaque in Bako National Park, Malaysia (© Anup Shah/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/LongtailedMacaque_EN-US13267702746_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fbc46b549bc0d985c524acf21a091beb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180306_LongtailedMacaque%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=crab-eating+macaque&form=hpcapt&filters=HpDate:%2220180306_0800%22", 
+                "wp": true, 
+                "enddate": "20180307", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
