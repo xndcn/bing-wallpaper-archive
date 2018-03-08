@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180307", 
+                "urlbase": "/az/hprichbg/rb/FearlessGirl_ZH-CN8770808173", 
+                "fullstartdate": "201803071600", 
+                "copyright": "【今日国际劳动妇女节】克里斯汀·维斯巴尔创作的《无畏女孩》雕像，美国纽约 (© Jeenah Moon/Bloomberg via Getty Images)", 
+                "url": "/az/hprichbg/rb/FearlessGirl_ZH-CN8770808173_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8652205ac7af49a4a17bb741a1757f72", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180307_FearlessGirl%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E5%8A%B3%E5%8A%A8%E5%A6%87%E5%A5%B3%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180308", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180307", 
+                "urlbase": "/az/hprichbg/rb/PonconFrance_EN-US9179213182", 
+                "fullstartdate": "201803070800", 
+                "copyright": "Chapel of St. Michel on Lake Serre-Ponçon, Hautes-Alpes, France (© Hemis/SuperStock)", 
+                "url": "/az/hprichbg/rb/PonconFrance_EN-US9179213182_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3396351898fc491eb969713c164797f0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180307_PonconFrance%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=serre-pon%C3%A7on+lake&form=hpcapt&filters=HpDate:%2220180307_0800%22", 
+                "wp": true, 
+                "enddate": "20180308", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
