@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180308", 
+                "urlbase": "/az/hprichbg/rb/DCCB_ZH-CN12497477745", 
+                "fullstartdate": "201803081600", 
+                "copyright": "多尔县沿海公路，美国威斯康星州 (© Krzysztof Hanusiak/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/DCCB_ZH-CN12497477745_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b0cb0c6e1b036c798e26cb23b4fde79f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180308_DCCB%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%9A%E5%B0%94%E5%8E%BF%E6%B2%BF%E6%B5%B7%E5%85%AC%E8%B7%AF&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180309", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180308", 
+                "urlbase": "/az/hprichbg/rb/FearlessGirl_EN-US8770808173", 
+                "fullstartdate": "201803080800", 
+                "copyright": "‘Fearless Girl,’ by Kristen Visbal, New York City (© Jeenah Moon/Bloomberg via Getty Images)", 
+                "url": "/az/hprichbg/rb/FearlessGirl_EN-US8770808173_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "af760581ccdb14273685592c189bdb9c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180308_FearlessGirl%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=fearless+girl&form=hpcapt&filters=HpDate:%2220180308_0800%22", 
+                "wp": false, 
+                "enddate": "20180309", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
