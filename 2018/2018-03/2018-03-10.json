@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180309", 
+                "urlbase": "/az/hprichbg/rb/JohnstonCanyon_ZH-CN13093779174", 
+                "fullstartdate": "201803091600", 
+                "copyright": "班夫国家公园内的约翰斯顿峡谷，加拿大艾伯塔省 (© Radius Images/Offset)", 
+                "url": "/az/hprichbg/rb/JohnstonCanyon_ZH-CN13093779174_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5bd83199161cb6f5616f8a682ac934c6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180309_JohnstonCanyon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Johnston+Canyon&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180310", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180309", 
+                "urlbase": "/az/hprichbg/rb/DCCB_EN-US11982634575", 
+                "fullstartdate": "201803090800", 
+                "copyright": "The Door County Coastal Byway in Wisconsin (© Krzysztof Hanusiak/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/DCCB_EN-US11982634575_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2f41eb876218c7dfd962d0eb09a8cdd6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180309_DCCB%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=door+county+wisconsin&form=hpcapt&filters=HpDate:%2220180309_0800%22", 
+                "wp": true, 
+                "enddate": "20180310", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
