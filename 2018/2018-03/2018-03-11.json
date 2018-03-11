@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180310", 
+                "urlbase": "/az/hprichbg/rb/OlomoucClock_ZH-CN14494749598", 
+                "fullstartdate": "201803101600", 
+                "copyright": "奥洛穆茨上城广场天文时钟中映出的建筑物图像，捷克 (© scubabartek/iStock/Getty Images Plus)", 
+                "url": "/az/hprichbg/rb/OlomoucClock_ZH-CN14494749598_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ff740fe3812a8733d7443cfd0f4fe6eb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180310_OlomoucClock%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A5%A5%E6%B4%9B%E7%A9%86%E8%8C%A8%EF%BC%88%E5%BB%BA%E7%AD%91%EF%BC%89&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180311", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180310", 
+                "urlbase": "/az/hprichbg/rb/JohnstonCanyon_EN-US13753864901", 
+                "fullstartdate": "201803100800", 
+                "copyright": "Johnston Canyon in Banff National Park, Alberta, Canada (© Radius Images/Offset)", 
+                "url": "/az/hprichbg/rb/JohnstonCanyon_EN-US13753864901_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2fc447a07d00a1040953a35dc47f8dfd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180310_JohnstonCanyon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Banff+National+Park&form=hpcapt&filters=HpDate:%2220180310_0800%22", 
+                "wp": true, 
+                "enddate": "20180311", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
