@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180311", 
+                "urlbase": "/az/hprichbg/rb/Sanderlings_ZH-CN9697685009", 
+                "fullstartdate": "201803111600", 
+                "copyright": "泰尔斯海灵岛上熟睡中的三趾鹬，荷兰 (© Inge van der Wulp/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/Sanderlings_ZH-CN9697685009_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b55d83a83796e2c74587ee0b85f4b2a5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180311_Sanderlings%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%89%E8%B6%BE%E9%B9%AC&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180312", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180311", 
+                "urlbase": "/az/hprichbg/rb/OlomoucClock_EN-US15652323383", 
+                "fullstartdate": "201803110700", 
+                "copyright": "Buildings reflected in the astronomical clock of Olomouc, Czech Republic (© scubabartek/iStock/Getty Images Plus)", 
+                "url": "/az/hprichbg/rb/OlomoucClock_EN-US15652323383_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "842566941727382ab6067aca761ce6f3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180311_OlomoucClock%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Olomouc+Czech+Republic&form=hpcapt&filters=HpDate:%2220180311_0700%22", 
+                "wp": true, 
+                "enddate": "20180312", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
