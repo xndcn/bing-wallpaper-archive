@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180317", 
+                "urlbase": "/az/hprichbg/rb/XmasTreeRoad_ZH-CN11556502034", 
+                "fullstartdate": "201803171600", 
+                "copyright": "圣诞树路和双子峰，美国旧金山 (© Terence Chang/Getty Images)", 
+                "url": "/az/hprichbg/rb/XmasTreeRoad_ZH-CN11556502034_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "be019c1baf8b6c2461e562c63b3cb11b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180317_XmasTreeRoad%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8F%8C%E5%B3%B0%E5%B1%B1(%E7%BE%8E%E5%9B%BD)+&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180318", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180317", 
+                "urlbase": "/az/hprichbg/rb/RossErrilly_EN-US10742524527", 
+                "fullstartdate": "201803170700", 
+                "copyright": "Ross Errilly Friary, County Galway, Ireland (© plainpicture)", 
+                "url": "/az/hprichbg/rb/RossErrilly_EN-US10742524527_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "feb8214be54aa23e0a2d3633a19ebe08", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180317_RossErrilly%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=ross+errilly+friary&form=hpcapt&filters=HpDate:%2220180317_0700%22", 
+                "wp": true, 
+                "enddate": "20180318", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
