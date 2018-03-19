@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180318", 
+                "urlbase": "/az/hprichbg/rb/DragonBridge_ZH-CN12321283639", 
+                "fullstartdate": "201803181600", 
+                "copyright": "三仙台龙桥，台湾台东县 (© Anthony Ko/Getty Images)", 
+                "url": "/az/hprichbg/rb/DragonBridge_ZH-CN12321283639_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2c1c162f934a302e90a37993b9d43599", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180318_DragonBridge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%89%E4%BB%99%E5%8F%B0%E6%99%AF%E5%8C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180319", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180318", 
+                "urlbase": "/az/hprichbg/rb/XmasTreeRoad_EN-US12038766323", 
+                "fullstartdate": "201803180700", 
+                "copyright": "Christmas Tree Point Road and the hills of Twin Peaks, San Francisco (© Terence Chang/Getty Images)", 
+                "url": "/az/hprichbg/rb/XmasTreeRoad_EN-US12038766323_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f95afd84bf2c88f3a363e6418e042102", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180318_XmasTreeRoad%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=twin+peaks,+san+francisco&form=hpcapt&filters=HpDate:%2220180318_0700%22", 
+                "wp": true, 
+                "enddate": "20180319", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
