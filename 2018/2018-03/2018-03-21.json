@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180320", 
+                "urlbase": "/az/hprichbg/rb/Sunbird1_ZH-CN12058461588", 
+                "fullstartdate": "201803201600", 
+                "copyright": "【今日春分】梅里雪山国家公园内一只以桃花为食的蓝喉太阳鸟，中国云南省 (© Dong Lei/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/Sunbird1_ZH-CN12058461588_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "489334a924dcdcce504e8159f03e4a77", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180320_Sunbird1%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%98%A5%E5%88%86&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180321", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180320", 
+                "urlbase": "/az/hprichbg/rb/TulipsEquinox_EN-US11642351862", 
+                "fullstartdate": "201803200700", 
+                "copyright": "Tulips near the village of Grolloo in Drenthe Province, Netherlands (© plainpicture/Buiten-Beeld/Karin Broekhuijsen)", 
+                "url": "/az/hprichbg/rb/TulipsEquinox_EN-US11642351862_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "abea1ee12363a7b4a8a6efcfa294d68e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180320_TulipsEquinox%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=tulips&form=hpcapt&filters=HpDate:%2220180320_0700%22", 
+                "wp": true, 
+                "enddate": "20180321", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
