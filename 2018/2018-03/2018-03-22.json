@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180321", 
+                "urlbase": "/az/hprichbg/rb/WorldWaterDay_ZH-CN11747740536", 
+                "fullstartdate": "201803211600", 
+                "vid": {
+                    "caption": "视频：2018年“世界水日”(© Images: F1online digitale Bildagentur GmbH/Alamy; Christoph Oberschneider/Tandem Stills + Motion | Video: Nimia | Audio: Getty)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/WaterDay_1080_HD_ZH-CN46683123.jpg", 
+                    "audiopresent": true, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/WaterDay_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/WaterDay_1080_HD_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": false
+                }, 
+                "copyright": "萨尔茨堡附近的阿尔卑斯山内的Eibensee湖，奥地利  (© Christoph Oberschneider/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/WorldWaterDay_ZH-CN11747740536_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e7ef4adea3f98749ee2661e6209ad2b6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180321_WorldWaterDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Lake+Eibensee&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180322", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180321", 
+                "urlbase": "/az/hprichbg/rb/RedwoodsJedediah_EN-US8575587949", 
+                "fullstartdate": "201803210700", 
+                "copyright": "Redwood trees at Jedediah Smith Redwoods State Park, California (© Cavan Images/Offset)", 
+                "url": "/az/hprichbg/rb/RedwoodsJedediah_EN-US8575587949_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "68f80bf18b80812626cd7af4b7894e33", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180321_RedwoodsJedediah%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=jedediah+smith+redwoods+state+park,+california&form=hpcapt&filters=HpDate:%2220180321_0700%22", 
+                "wp": true, 
+                "enddate": "20180322", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
