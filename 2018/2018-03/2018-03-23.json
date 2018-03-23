@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180322", 
+                "urlbase": "/az/hprichbg/rb/PeruCanyonClouds_ZH-CN10405307621", 
+                "fullstartdate": "201803221600", 
+                "copyright": "【今日世界气象日】秘鲁太平洋沿岸Yauca和Acarí河上空的云层 (© Joshua Stevens/NASA)", 
+                "url": "/az/hprichbg/rb/PeruCanyonClouds_ZH-CN10405307621_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d806a9b1210db416eeb562fa0ab3bd4d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180322_PeruCanyonClouds%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B0%94%E8%B1%A1%E6%97%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180323", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180322", 
+                "urlbase": "/az/hprichbg/rb/WorldWaterDay_EN-US11747740536", 
+                "fullstartdate": "201803220700", 
+                "vid": {
+                    "caption": "World Water Day 2018 (© Images: F1online digitale Bildagentur GmbH/Alamy; Christoph Oberschneider/Tandem Stills + Motion | Video: Nimia | Audio: Getty)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/WaterDay_1080_HD_EN-US46683123.jpg", 
+                    "audiopresent": true, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/WaterDay_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/WaterDay_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=world+water+day&form=hpcapt", 
+                    "loop": false
+                }, 
+                "copyright": "Lake Eibensee in the Austrian Alps near Salzburg (© Christoph Oberschneider/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/WorldWaterDay_EN-US11747740536_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "48ed7b7f7821d71b0aea6a6a90b40a43", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180322_WorldWaterDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=world+water+day&form=hpcapt&filters=HpDate:%2220180322_0700%22", 
+                "wp": false, 
+                "enddate": "20180323", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
