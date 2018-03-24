@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180323", 
+                "urlbase": "/az/hprichbg/rb/ToucanetEcuador_ZH-CN11298988903", 
+                "fullstartdate": "201803231600", 
+                "copyright": "厄瓜多尔的观鸟区内的绯腰巨嘴鸟，厄瓜多尔 (© Tui De Roy/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/ToucanetEcuador_ZH-CN11298988903_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "99b8bc8f0857904072ba799f08db2c39", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180323_ToucanetEcuador%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BB%AF%E8%85%B0%E5%B7%A8%E5%98%B4%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180324", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180323", 
+                "urlbase": "/az/hprichbg/rb/PeruCanyonClouds_EN-US11073245814", 
+                "fullstartdate": "201803230700", 
+                "copyright": "Clouds over the Yauca and Acarí Rivers on Peru’s Pacific coast (© Joshua Stevens/NASA)", 
+                "url": "/az/hprichbg/rb/PeruCanyonClouds_EN-US11073245814_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cc62b19497235bdfac7dfb04c6dc4f77", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180323_PeruCanyonClouds%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=world+meteorological+day&form=hpcapt&filters=HpDate:%2220180323_0700%22", 
+                "wp": true, 
+                "enddate": "20180324", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
