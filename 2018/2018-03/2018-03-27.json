@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180326", 
+                "urlbase": "/az/hprichbg/rb/DragonflyMacro_ZH-CN9950962027", 
+                "fullstartdate": "201803261600", 
+                "copyright": "一只移居蜻蜓的微距照片 (© Petar Sabol Sharpeye/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/DragonflyMacro_ZH-CN9950962027_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "05243fb059f5253f9e01b33f04b974c1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180326_DragonflyMacro%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%9C%BB%E8%9C%93+%E5%8A%A8%E7%89%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180327", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180326", 
+                "urlbase": "/az/hprichbg/rb/BrokenObelisk_EN-US11671918880", 
+                "fullstartdate": "201803260700", 
+                "copyright": "The Unfinished Obelisk near Aswan, Egypt (© George Steinmetz/Getty Images)", 
+                "url": "/az/hprichbg/rb/BrokenObelisk_EN-US11671918880_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "84ddb329834432c63806212b52a9ae5c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180326_BrokenObelisk%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=unfinished+obelisk&form=hpcapt&filters=HpDate:%2220180326_0700%22", 
+                "wp": true, 
+                "enddate": "20180327", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
