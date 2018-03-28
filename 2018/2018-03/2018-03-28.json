@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180327", 
+                "urlbase": "/az/hprichbg/rb/NCGSLShorelands_ZH-CN10992961198", 
+                "fullstartdate": "201803271600", 
+                "copyright": "大盐湖肖尔兰兹自然保护区，美国犹他州 (© Austin Cronnelly/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/NCGSLShorelands_ZH-CN10992961198_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f5aa47a741edfb12a38bb1d19fbfd877", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180327_NCGSLShorelands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%A7%E7%9B%90%E6%B9%96%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180328", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180327", 
+                "urlbase": "/az/hprichbg/rb/DragonflyMacro_EN-US9950962027", 
+                "fullstartdate": "201803270700", 
+                "copyright": "Macro photograph of a migrant hawker dragonfly (© Petar Sabol Sharpeye/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/DragonflyMacro_EN-US9950962027_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d83861c51280eca926a791147de9390f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180327_DragonflyMacro%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=migrant+hawker+dragonfly&form=hpcapt&filters=HpDate:%2220180327_0700%22", 
+                "wp": false, 
+                "enddate": "20180328", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
