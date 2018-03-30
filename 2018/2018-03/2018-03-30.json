@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180329", 
+                "urlbase": "/az/hprichbg/rb/SplitVestibule_ZH-CN14312716793", 
+                "fullstartdate": "201803291600", 
+                "copyright": "戴克里先宫的前庭，克罗地亚斯普利特 (© Dreamer4787/Shutterstock)", 
+                "url": "/az/hprichbg/rb/SplitVestibule_ZH-CN14312716793_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f1a85c9f38da45b849f578dc0882d466", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180329_SplitVestibule%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%88%B4%E5%85%8B%E9%87%8C%E5%85%88%E5%AE%AB&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180330", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180329", 
+                "urlbase": "/az/hprichbg/rb/OpeningDayBaseball_EN-US10657792356", 
+                "fullstartdate": "201803290700", 
+                "copyright": "The A’s host the Rangers at the Oakland Coliseum, Sept 23, 2017 (© Lachlan Cunningham/Getty Images)", 
+                "url": "/az/hprichbg/rb/OpeningDayBaseball_EN-US10657792356_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "21ecaa359eaa74cc4f615aa67d6ce066", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180329_OpeningDayBaseball%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=mlb+opening+day+2018&form=hpcapt&filters=HpDate:%2220180329_0700%22", 
+                "wp": false, 
+                "enddate": "20180330", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
