@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180401", 
+                "urlbase": "/az/hprichbg/rb/SevenMagicMountains_ZH-CN9207394593", 
+                "fullstartdate": "201804011600", 
+                "copyright": "琼干湖旁的七魔山装置艺术，美国内华达州 (© Renz Alfonso Dela Pena)", 
+                "url": "/az/hprichbg/rb/SevenMagicMountains_ZH-CN9207394593_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f8c2052c68e212658a2ae1e75e8e8b58", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180401_SevenMagicMountains%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%83%E9%AD%94%E5%B1%B1%E8%A3%85%E7%BD%AE%E8%89%BA%E6%9C%AF&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180402", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180401", 
+                "urlbase": "/az/hprichbg/rb/MarshmallowPeeps_EN-US7218406167", 
+                "fullstartdate": "201804010700", 
+                "copyright": "The marshmallow PEEPS® factory in Bethlehem, Pennsylvania (© Kristoffer Tripplaar/Alamy)", 
+                "url": "/az/hprichbg/rb/MarshmallowPeeps_EN-US7218406167_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "04e155cd1456b4d570c270b76e8bc111", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180401_MarshmallowPeeps%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=easter&form=hpcapt&filters=HpDate:%2220180401_0700%22", 
+                "wp": false, 
+                "enddate": "20180402", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
