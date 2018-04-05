@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180404", 
+                "urlbase": "/az/hprichbg/rb/QingmingpeakingKite_ZH-CN11010837191", 
+                "fullstartdate": "201804041600", 
+                "copyright": "【今日清明节】“京剧脸谱风筝”，中国潍坊（© Li Yangang / TAO Images Limited / Alamy Stock Photo）", 
+                "url": "/az/hprichbg/rb/QingmingpeakingKite_ZH-CN11010837191_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2ba1f13f00f52c18d2e28e07ca68a01e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180404_QingmingpeakingKite%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B8%85%E6%98%8E%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180405", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180404", 
+                "urlbase": "/az/hprichbg/rb/CardonCactus_EN-US9317815400", 
+                "fullstartdate": "201804040700", 
+                "copyright": "Mexican giant cardon cactus (© Ed Reardon/Alamy)", 
+                "url": "/az/hprichbg/rb/CardonCactus_EN-US9317815400_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "71da8c30489fc4d811ed38ca4025cda8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180404_CardonCactus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Pachycereus+pringlei&form=hpcapt&filters=HpDate:%2220180404_0700%22", 
+                "wp": true, 
+                "enddate": "20180405", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
