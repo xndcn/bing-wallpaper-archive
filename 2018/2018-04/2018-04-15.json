@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180414", 
+                "urlbase": "/az/hprichbg/rb/PaintedForest_ZH-CN5613568462", 
+                "fullstartdate": "201804141600", 
+                "copyright": "比斯开省Oma山谷的“彩色树林”，西班牙 (© Juan Carlos Munoz/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/PaintedForest_ZH-CN5613568462_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1ebc1bcba69eb7989431e2d93ebfb7c7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180414_PaintedForest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%AF%94%E6%96%AF%E5%BC%80%E7%9C%81&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180415", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180414", 
+                "urlbase": "/az/hprichbg/rb/DuskyDolphin_EN-US11918143365", 
+                "fullstartdate": "201804140700", 
+                "copyright": "A pod of dusky dolphins at Kaikoura, New Zealand (© Terry Whittaker/Alamy)", 
+                "url": "/az/hprichbg/rb/DuskyDolphin_EN-US11918143365_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9e36eb8baa229684b81f57cea168d516", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180414_DuskyDolphin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=dusky+dolphin&form=hpcapt&filters=HpDate:%2220180414_0700%22", 
+                "wp": true, 
+                "enddate": "20180415", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
