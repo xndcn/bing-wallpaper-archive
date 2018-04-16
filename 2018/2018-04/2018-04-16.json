@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180415", 
+                "urlbase": "/az/hprichbg/rb/MozambiqueSandbar_ZH-CN12673484802", 
+                "fullstartdate": "201804151600", 
+                "copyright": "巴扎鲁托群岛，莫桑比克 (© Jody MacDonald/Offset)", 
+                "url": "/az/hprichbg/rb/MozambiqueSandbar_ZH-CN12673484802_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "62f395ac51112c59a394452d507d592a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180415_MozambiqueSandbar%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B7%B4%E6%89%8E%E9%B2%81%E6%89%98%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180416", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180415", 
+                "urlbase": "/az/hprichbg/rb/PaintedForest_EN-US5613568462", 
+                "fullstartdate": "201804150700", 
+                "copyright": "The ‘Living Forest’ in the Oma Valley of Biscay, Spain (© Juan Carlos Munoz/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/PaintedForest_EN-US5613568462_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "99e2f70c0787602dfbe34d372ff08d7a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180415_PaintedForest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=biscay+spain&form=hpcapt&filters=HpDate:%2220180415_0700%22", 
+                "wp": false, 
+                "enddate": "20180416", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
