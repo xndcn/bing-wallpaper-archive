@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180416", 
+                "urlbase": "/az/hprichbg/rb/ChildrenHarpa_ZH-CN9564284589", 
+                "fullstartdate": "201804161600", 
+                "copyright": "在雷克雅未克哈帕音乐厅举办的儿童文化节，冰岛 (© Arctic-Images/Corbis Documentary/Getty Images)", 
+                "url": "/az/hprichbg/rb/ChildrenHarpa_ZH-CN9564284589_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "157cf491eb0d14832a90ea45e719e111", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180416_ChildrenHarpa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9B%B7%E5%85%8B%E9%9B%85%E6%9C%AA%E5%85%8B%E5%93%88%E5%B8%95%E9%9F%B3%E4%B9%90%E5%8E%85&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180417", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180416", 
+                "urlbase": "/az/hprichbg/rb/MozambiqueSandbar_EN-US11463522567", 
+                "fullstartdate": "201804160700", 
+                "copyright": "The Bazaruto Archipelago of Mozambique (© Jody MacDonald/Offset)", 
+                "url": "/az/hprichbg/rb/MozambiqueSandbar_EN-US11463522567_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a81c8d959034cfa88d9cc1d060330be7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180416_MozambiqueSandbar%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=bazaruto+archipelago&form=hpcapt&filters=HpDate:%2220180416_0700%22", 
+                "wp": true, 
+                "enddate": "20180417", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
