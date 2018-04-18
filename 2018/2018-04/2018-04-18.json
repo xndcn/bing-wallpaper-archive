@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180417", 
+                "urlbase": "/az/hprichbg/rb/WoodPartridge_ZH-CN11771370571", 
+                "fullstartdate": "201804171600", 
+                "copyright": "冕鹧鸪 (© Sue Demetriou/Offset)", 
+                "url": "/az/hprichbg/rb/WoodPartridge_ZH-CN11771370571_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "64d76885a7f0f16d4dc02909e5470b09", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180417_WoodPartridge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%86%95%E9%B9%A7%E9%B8%AA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180418", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180417", 
+                "urlbase": "/az/hprichbg/rb/ChildrenHarpa_EN-US9564284589", 
+                "fullstartdate": "201804170700", 
+                "copyright": "The Children's Cultural Festival at Harpa Concert Hall in Reykjavik, Iceland (© Arctic-Images/Corbis Documentary/Getty Images)", 
+                "url": "/az/hprichbg/rb/ChildrenHarpa_EN-US9564284589_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "845811b5bc5ebdeb75ec9ace6b470ed6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180417_ChildrenHarpa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=reykjavik+iceland&form=hpcapt&filters=HpDate:%2220180417_0700%22", 
+                "wp": false, 
+                "enddate": "20180418", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
