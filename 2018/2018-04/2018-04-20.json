@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180419", 
+                "urlbase": "/az/hprichbg/rb/Grainrain_ZH-CN12722742960", 
+                "fullstartdate": "201804191600", 
+                "copyright": "【今日谷雨】平安村种植节期间龙胜梯田的忙碌景象（© gary76973/Getty Images）", 
+                "url": "/az/hprichbg/rb/Grainrain_ZH-CN12722742960_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8696eaa1890f7dee1c57637e7a73bcf8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180419_Grainrain%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%B0%B7%E9%9B%A8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180420", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180419", 
+                "urlbase": "/az/hprichbg/rb/TopDam_EN-US10363924314", 
+                "fullstartdate": "201804190700", 
+                "copyright": "Garreg Ddu Dam in the Elan Valley of Wales (© Stephen Taylor/Alamy)", 
+                "url": "/az/hprichbg/rb/TopDam_EN-US10363924314_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3734d9c0d27de1094e1b87102295715b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180419_TopDam%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=elan+valley+wales&form=hpcapt&filters=HpDate:%2220180419_0700%22", 
+                "wp": true, 
+                "enddate": "20180420", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
