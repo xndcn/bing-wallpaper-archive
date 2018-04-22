@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180421", 
+                "urlbase": "/az/hprichbg/rb/TreeHugger_ZH-CN10397384095", 
+                "fullstartdate": "201804211600", 
+                "copyright": "卡特迈国家公园和自然保护区里午睡的灰熊幼崽，阿拉斯加州 (© Suzi Eszterhas/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/TreeHugger_ZH-CN10397384095_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b4de76cdd6aee850dc6541de921144eb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180421_TreeHugger%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8D%A1%E7%89%B9%E8%BF%88%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E5%92%8C%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180422", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180421", 
+                "urlbase": "/az/hprichbg/rb/GrandPrismatic_EN-US10311241592", 
+                "fullstartdate": "201804210700", 
+                "copyright": "Grand Prismatic Spring at Yellowstone National Park (© Media Drum World/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/GrandPrismatic_EN-US10311241592_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "56c8973421bcc8484f11ca5124a4ef6f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180421_GrandPrismatic%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=grand+prismatic+spring&form=hpcapt&filters=HpDate:%2220180421_0700%22", 
+                "wp": true, 
+                "enddate": "20180422", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
