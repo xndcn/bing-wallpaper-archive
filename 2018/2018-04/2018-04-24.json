@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180423", 
+                "urlbase": "/az/hprichbg/rb/SatelliteGlades_ZH-CN11389308210", 
+                "fullstartdate": "201804231600", 
+                "copyright": "大沼泽地国家公园的卫星视图，佛罗里达州 (© Satellite Earth Art/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/SatelliteGlades_ZH-CN11389308210_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9926603351c94d203e7d9e7e8d7c9518", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180423_SatelliteGlades%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%A7%E6%B2%BC%E6%B3%BD%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180424", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180423", 
+                "urlbase": "/az/hprichbg/rb/HNPVisitors_EN-US11559392254", 
+                "fullstartdate": "201804230700", 
+                "copyright": "Visitors at the summit of the Haleakalā Crater in Haleakalā National Park, Hawaii (© Alex Messenger/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/HNPVisitors_EN-US11559392254_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8f49e4a908daebc95143fed404084df1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180423_HNPVisitors%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=haleakala+national+park&form=hpcapt&filters=HpDate:%2220180423_0700%22", 
+                "wp": true, 
+                "enddate": "20180424", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
