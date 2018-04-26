@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180425", 
+                "urlbase": "/az/hprichbg/rb/ClaretCup_ZH-CN12198280078", 
+                "fullstartdate": "201804251600", 
+                "copyright": "瓜达洛普山国家公园的红葡萄酒杯仙人掌，美国德克萨斯州 (© Clint Farlinger/Alamy)", 
+                "url": "/az/hprichbg/rb/ClaretCup_ZH-CN12198280078_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1e1a556b342b54f1d1d17ba949b5927b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180425_ClaretCup%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BA%A2%E8%91%A1%E8%90%84%E9%85%92%E6%9D%AF%E4%BB%99%E4%BA%BA%E6%8E%8C&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180426", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180425", 
+                "urlbase": "/az/hprichbg/rb/WindCaveBison_EN-US7790107398", 
+                "fullstartdate": "201804250700", 
+                "copyright": "Bison at Wind Cave National Park, South Dakota (© Newman Mark/SuperStock)", 
+                "url": "/az/hprichbg/rb/WindCaveBison_EN-US7790107398_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e336a7a8fe897318dcf8ca55248141bb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180425_WindCaveBison%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=wind+cave+national+park&form=hpcapt&filters=HpDate:%2220180425_0700%22", 
+                "wp": true, 
+                "enddate": "20180426", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
