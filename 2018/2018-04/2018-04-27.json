@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180426", 
+                "urlbase": "/az/hprichbg/rb/YosemiteFog_ZH-CN8174427528", 
+                "fullstartdate": "201804261600", 
+                "copyright": "优胜美地国家公园，美国加利福尼亚州 (© Grant Ordelheide/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/YosemiteFog_ZH-CN8174427528_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "356677bea977a9aa166a92ab94848f17", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180426_YosemiteFog%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BC%98%E8%83%9C%E7%BE%8E%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180427", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180426", 
+                "urlbase": "/az/hprichbg/rb/ClaretCup_EN-US11621919077", 
+                "fullstartdate": "201804260700", 
+                "copyright": "Claret cup cactus, Guadalupe Mountains National Park, Texas (© Clint Farlinger/Alamy)", 
+                "url": "/az/hprichbg/rb/ClaretCup_EN-US11621919077_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "041bffddee248a1524856a6764e32a83", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180426_ClaretCup%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=guadalupe+mountains+national+park&form=hpcapt&filters=HpDate:%2220180426_0700%22", 
+                "wp": true, 
+                "enddate": "20180427", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
