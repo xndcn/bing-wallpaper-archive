@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180429", 
+                "urlbase": "/az/hprichbg/rb/MaryLouWilliams_ZH-CN11937645356", 
+                "fullstartdate": "201804291600", 
+                "copyright": "1943年在纽约举行的爵士即兴演出中爵士乐钢琴家玛丽·卢·威廉斯的手部特写 (© Gjon Mili/Getty Images)", 
+                "url": "/az/hprichbg/rb/MaryLouWilliams_ZH-CN11937645356_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ee4e38970481989e4ea643ed3f96e684", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180429_MaryLouWilliams%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%8E%9B%E4%B8%BD%C2%B7%E5%8D%A2%C2%B7%E5%A8%81%E5%BB%89%E6%96%AF+&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180430", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180429", 
+                "urlbase": "/az/hprichbg/rb/RubyBeach_EN-US10077444396", 
+                "fullstartdate": "201804290700", 
+                "copyright": "Ruby Beach in Olympic National Park, Washington (© Jason Savage/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/RubyBeach_EN-US10077444396_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4b9302a210f6304a2be30e1eb853fea5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180429_RubyBeach%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=olympic+national+park&form=hpcapt&filters=HpDate:%2220180429_0700%22", 
+                "wp": true, 
+                "enddate": "20180430", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
