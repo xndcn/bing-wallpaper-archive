@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180430", 
+                "urlbase": "/az/hprichbg/rb/SONC_ZH-CN9822965309", 
+                "fullstartdate": "201804301600", 
+                "copyright": "2014年威尼斯建筑双年展展出的艺术家亨氏·麦克的“天在九柱之上”作品 (© Cahir Davitt/plainpicture)", 
+                "url": "/az/hprichbg/rb/SONC_ZH-CN9822965309_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "866beb25071e689164396a66c9f6079b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180430_SONC%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A8%81%E5%B0%BC%E6%96%AF%E5%BB%BA%E7%AD%91%E5%8F%8C%E5%B9%B4%E5%B1%95&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180501", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180430", 
+                "urlbase": "/az/hprichbg/rb/MaryLouWilliams_EN-US11937645356", 
+                "fullstartdate": "201804300700", 
+                "copyright": "Close-up of the hands of jazz pianist Mary Lou Williams during a jam session held in New York City, 1943 (© Gjon Mili/Getty Images)", 
+                "url": "/az/hprichbg/rb/MaryLouWilliams_EN-US11937645356_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "af50f9803774521903066a2baab7ea04", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180430_MaryLouWilliams%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Mary+Lou+Williams&form=HPCAPT&filters=HpDate:%2220180430_0700%22", 
+                "wp": false, 
+                "enddate": "20180501", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
