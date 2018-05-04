@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180503", 
+                "urlbase": "/az/hprichbg/rb/PKUCHINA_ZH-CN12651058425", 
+                "fullstartdate": "201805031600", 
+                "copyright": "【北京大学120周年校庆】中国最有声望的学府之一北京大学日落时的鸟瞰图（© Dong Wenjie/Getty Images）", 
+                "url": "/az/hprichbg/rb/PKUCHINA_ZH-CN12651058425_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6087c7208f241b008bd462bfff0ea852", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180503_PKUCHINA%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180504", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180503", 
+                "urlbase": "/az/hprichbg/rb/Nazars_EN-US13539612789", 
+                "fullstartdate": "201805030700", 
+                "copyright": "Tree decorated with amulets called nazars, Göreme National Park, Cappadocia, Turkey (© taratata/Getty Images)", 
+                "url": "/az/hprichbg/rb/Nazars_EN-US13539612789_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "26e772b591d5b05770cb3000d1c9eb5f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180503_Nazars%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=nazar+amulets&form=hpcapt&filters=HpDate:%2220180503_0700%22", 
+                "wp": true, 
+                "enddate": "20180504", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
