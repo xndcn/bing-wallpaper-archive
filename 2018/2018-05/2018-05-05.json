@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180504", 
+                "urlbase": "/az/hprichbg/rb/Mariachis_ZH-CN12661065263", 
+                "fullstartdate": "201805041600", 
+                "copyright": "墨西哥街头乐队，墨西哥瓜纳华托州圣米格尔德阿连德市 (© Holly Wilmeth/Getty Images)", 
+                "url": "/az/hprichbg/rb/Mariachis_ZH-CN12661065263_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "08a7005db692f45ddd7be2851e77b453", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180504_Mariachis%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%A1%97%E5%A4%B4%E4%B9%90%E9%98%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180505", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180504", 
+                "urlbase": "/az/hprichbg/rb/ChottelDjerid_EN-US9315193811", 
+                "fullstartdate": "201805040700", 
+                "copyright": "Filming location for the ´Star Wars´ movies, Chott el Djerid, Tunisia (© age fotostock/Alamy)", 
+                "url": "/az/hprichbg/rb/ChottelDjerid_EN-US9315193811_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6571a8e3bfc60e96211a5bda6ba175fe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180504_ChottelDjerid%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=chott+el+djerid,+tunisia&form=hpcapt&filters=HpDate:%2220180504_0700%22", 
+                "wp": false, 
+                "enddate": "20180505", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
