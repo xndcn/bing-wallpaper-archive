@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180505", 
+                "urlbase": "/az/hprichbg/rb/NOTricentennial_ZH-CN8971649459", 
+                "fullstartdate": "201805051600", 
+                "copyright": "新奥尔良法国区的杰克逊广场，路易斯安那州 (© Edwin Remsberg/Getty Images)", 
+                "url": "/az/hprichbg/rb/NOTricentennial_ZH-CN8971649459_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bf4e79a008c8b8c1ff641da3db77e63c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180505_NOTricentennial%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%9D%B0%E5%85%8B%E9%80%8A%E5%B9%BF%E5%9C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180506", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180505", 
+                "urlbase": "/az/hprichbg/rb/Mariachis_EN-US12291226765", 
+                "fullstartdate": "201805050700", 
+                "copyright": "Mariachis, San Miguel de Allende, Guanajuato, Mexico (© Holly Wilmeth/Getty Images)", 
+                "url": "/az/hprichbg/rb/Mariachis_EN-US12291226765_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2653ab18d32f8a3bdb16748db758595a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180505_Mariachis%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=mariachi+music&form=hpcapt&filters=HpDate:%2220180505_0700%22", 
+                "wp": true, 
+                "enddate": "20180506", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
