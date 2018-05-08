@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180507", 
+                "urlbase": "/az/hprichbg/rb/LulworthCoveDorset_ZH-CN6277179800", 
+                "fullstartdate": "201805071600", 
+                "copyright": "侏罗纪海岸的拉尔沃思湾，英格兰多塞特郡 (© Brian Jannsen/Danita Delimont)", 
+                "url": "/az/hprichbg/rb/LulworthCoveDorset_ZH-CN6277179800_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9f0b0461113e8c112e98d90134b4ceb2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180507_LulworthCoveDorset%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BE%8F%E7%BD%97%E7%BA%AA%E6%B5%B7%E5%B2%B8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180508", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180507", 
+                "urlbase": "/az/hprichbg/rb/NOTricentennial_EN-US9747938022", 
+                "fullstartdate": "201805070700", 
+                "copyright": "Jackson Square in the French Quarter of New Orleans, Louisiana (© Edwin Remsberg/Getty Images)", 
+                "url": "/az/hprichbg/rb/NOTricentennial_EN-US9747938022_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "80c94e3f5eacd521e3942336641b9cac", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180507_NOTricentennial%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=jackson+square+new+orleans&form=hpcapt&filters=HpDate:%2220180507_0700%22", 
+                "wp": true, 
+                "enddate": "20180508", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
