@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180510", 
+                "urlbase": "/az/hprichbg/rb/HollowRock_ZH-CN11829527473", 
+                "fullstartdate": "201805101600", 
+                "copyright": "苏必利尔湖的北岸，美国明尼苏达州 (© Matt Anderson Photography/Getty Images)", 
+                "url": "/az/hprichbg/rb/HollowRock_ZH-CN11829527473_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "55e1161b9be5d855e7faaa291e3b5f41", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180510_HollowRock%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8B%8F%E5%BF%85%E5%88%A9%E5%B0%94%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180511", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180510", 
+                "urlbase": "/az/hprichbg/rb/Kolonihavehus_EN-US6388656996", 
+                "fullstartdate": "201805100700", 
+                "copyright": "‘Kolonihavehus, 2010’ by Tom Fruin, in Brooklyn Bridge Park, Brooklyn, New York (© Daniel Haug/Getty Images)", 
+                "url": "/az/hprichbg/rb/Kolonihavehus_EN-US6388656996_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0d6c277d771c5da5da67513b11dd0c06", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180510_Kolonihavehus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Brooklyn+Bridge+Park&form=hpcapt&filters=HpDate:%2220180510_0700%22", 
+                "wp": false, 
+                "enddate": "20180511", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
