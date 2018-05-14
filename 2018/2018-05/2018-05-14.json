@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180513", 
+                "urlbase": "/az/hprichbg/rb/DolomitesBikeRace_ZH-CN10922620742", 
+                "fullstartdate": "201805131600", 
+                "copyright": "多洛米蒂自行车马拉松比赛，意大利 (© Aurora Photos/Alamy)", 
+                "url": "/az/hprichbg/rb/DolomitesBikeRace_ZH-CN10922620742_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "89a5d6643196ad04c7bc5bea1f0ae30f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180513_DolomitesBikeRace%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%AF%94%E8%B5%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180514", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180513", 
+                "urlbase": "/az/hprichbg/rb/ManateeMom_EN-US9983570199", 
+                "fullstartdate": "201805130700", 
+                "copyright": "West Indian manatee mom and baby at Three Sisters Springs, Florida (© James R.D. Scott/Getty Images)", 
+                "url": "/az/hprichbg/rb/ManateeMom_EN-US9983570199_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5602fb34e9e7be578209e2cfc5833c81", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180513_ManateeMom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=west+indian+manatees&form=hpcapt&filters=HpDate:%2220180513_0700%22", 
+                "wp": true, 
+                "enddate": "20180514", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
