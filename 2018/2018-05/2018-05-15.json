@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180514", 
+                "urlbase": "/az/hprichbg/rb/BushHyrax_ZH-CN9145408965", 
+                "fullstartdate": "201805141600", 
+                "copyright": "马拉北部保护区的黄斑岩蹄兔，肯尼亚 (© Jonathan & Angela Scott/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/BushHyrax_ZH-CN9145408965_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6eee6e59af2ecc6312cd7d9883d4a2b2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180514_BushHyrax%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%BB%84%E6%96%91%E5%B2%A9%E8%B9%84%E5%85%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180515", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180514", 
+                "urlbase": "/az/hprichbg/rb/DolomitesBikeRace_EN-US10922620742", 
+                "fullstartdate": "201805140700", 
+                "copyright": "The Maratona dles Dolomites bicycle race in Italy (© Aurora Photos/Alamy)", 
+                "url": "/az/hprichbg/rb/DolomitesBikeRace_EN-US10922620742_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "65d1a1ebe8b514c60bc78f0487bcbcf9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180514_DolomitesBikeRace%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=maratona+dles+dolomites&form=hpcapt&filters=HpDate:%2220180514_0700%22", 
+                "wp": false, 
+                "enddate": "20180515", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
