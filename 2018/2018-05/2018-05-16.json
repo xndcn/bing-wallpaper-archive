@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180515", 
+                "urlbase": "/az/hprichbg/rb/OakTreeMaize_ZH-CN10523296117", 
+                "fullstartdate": "201805151600", 
+                "copyright": "蒙茅斯郡田地上的英国橡树，英国威尔士 (© Phil Savoie/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/OakTreeMaize_ZH-CN10523296117_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0fa8e879688b992a902319fc0a561e91", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180515_OakTreeMaize%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8B%B1%E5%9B%BD%E6%A9%A1%E6%A0%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180516", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180515", 
+                "urlbase": "/az/hprichbg/rb/BushHyrax_EN-US8373682343", 
+                "fullstartdate": "201805150700", 
+                "copyright": "Bush hyrax colony in the Mara North Conservancy, Kenya (© Jonathan & Angela Scott/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/BushHyrax_EN-US8373682343_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3fb975028f7717eb3eff4fe65348d2d5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180515_BushHyrax%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=bush+hyrax&form=hpcapt&filters=HpDate:%2220180515_0700%22", 
+                "wp": true, 
+                "enddate": "20180516", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
