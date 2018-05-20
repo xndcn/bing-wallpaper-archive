@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180519", 
+                "urlbase": "/az/hprichbg/rb/Love_ZH-CN11474763511", 
+                "fullstartdate": "201805191600", 
+                "copyright": "【520告白日】湖中深情相对的两只水雉，中国九江市（© Jie Zhao/Getty News）", 
+                "url": "/az/hprichbg/rb/Love_ZH-CN11474763511_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fb4cf892e826ab8b21381e6406c2dbef", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180519_Love%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=520%E5%91%8A%E7%99%BD%E6%97%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180520", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180519", 
+                "urlbase": "/az/hprichbg/rb/OperationToyDrop_EN-US10788574091", 
+                "fullstartdate": "201805190700", 
+                "copyright": "Paratroopers fill the skies over Fort Bragg in North Carolina, for Operation Toy Drop (© Stocktrek Images/SuperStock)", 
+                "url": "/az/hprichbg/rb/OperationToyDrop_EN-US10788574091_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9997d889ef7a9b8449dc8dd5409acab2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180519_OperationToyDrop%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=armed+forces+day&form=hpcapt&filters=HpDate:%2220180519_0700%22", 
+                "wp": true, 
+                "enddate": "20180520", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
