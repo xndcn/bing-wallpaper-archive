@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180520", 
+                "urlbase": "/az/hprichbg/rb/NamibFace_ZH-CN6782882876", 
+                "fullstartdate": "201805201600", 
+                "copyright": "纳米布沙漠，纳米比亚 (© Valerio Leone/Solent News/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/NamibFace_ZH-CN6782882876_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3e04f31a550cebbb3cf49e6f86808c39", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180520_NamibFace%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BA%B3%E7%B1%B3%E5%B8%83%E6%B2%99%E6%BC%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180521", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180520", 
+                "urlbase": "/az/hprichbg/rb/KoonsPuppy_EN-US10227110924", 
+                "fullstartdate": "201805200700", 
+                "copyright": "Jeff Koons' 'Puppy' outside the Guggenheim Museum, Bilbao, Spain (© Martin Child/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/KoonsPuppy_EN-US10227110924_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b86eda4f96f2900e53a5744c27d58059", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180520_KoonsPuppy%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=guggenheim+museum+bilbao&form=hpcapt&filters=HpDate:%2220180520_0700%22", 
+                "wp": false, 
+                "enddate": "20180521", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
