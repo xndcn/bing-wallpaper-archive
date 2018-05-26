@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180525", 
+                "urlbase": "/az/hprichbg/rb/SallyRideEarthKAM_ZH-CN12897817240", 
+                "fullstartdate": "201805251600", 
+                "copyright": "位于国际空间站的Sally Ride EarthKAM由中学生编写程序后拍摄了撒哈拉沙漠的部分图像，非洲 (© NASA)", 
+                "url": "/az/hprichbg/rb/SallyRideEarthKAM_ZH-CN12897817240_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d203ed2cf47620b5710e3849005a38f5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180525_SallyRideEarthKAM%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%92%92%E5%93%88%E6%8B%89%E6%B2%99%E6%BC%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180526", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180525", 
+                "urlbase": "/az/hprichbg/rb/WineDay_EN-US9984225481", 
+                "fullstartdate": "201805250700", 
+                "copyright": "Vineyard near Pully, Vaud, Switzerland (© Gallery Stock)", 
+                "url": "/az/hprichbg/rb/WineDay_EN-US9984225481_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e67734fff9ae4715bf08b5e36065941b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180525_WineDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Vaud,+Switzerland&form=hpcapt&filters=HpDate:%2220180525_0700%22", 
+                "wp": true, 
+                "enddate": "20180526", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
