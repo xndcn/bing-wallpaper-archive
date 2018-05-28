@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180527", 
+                "urlbase": "/az/hprichbg/rb/AsiaticElephant_ZH-CN12232084520", 
+                "fullstartdate": "201805271600", 
+                "copyright": "吉姆·科比特国家公园里的亚洲象，印度 (© Yashpal Rathore/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/AsiaticElephant_ZH-CN12232084520_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3da37eb41b2e5ea464cd81636ecc15d8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180527_AsiaticElephant%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BA%9A%E6%B4%B2%E8%B1%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180528", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180527", 
+                "urlbase": "/az/hprichbg/rb/TSSSF_EN-US11485959337", 
+                "fullstartdate": "201805270700", 
+                "copyright": "Golden Gate Bridge, San Francisco (© RICOWde/Getty Images)", 
+                "url": "/az/hprichbg/rb/TSSSF_EN-US11485959337_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2e31057bda07b0cfd78cdb3a104f3b0a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180527_TSSSF%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=san+francisco&form=hpcapt&filters=HpDate:%2220180527_0700%22", 
+                "wp": true, 
+                "enddate": "20180528", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
