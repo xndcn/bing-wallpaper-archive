@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180528", 
+                "urlbase": "/az/hprichbg/rb/KhumbuTents_ZH-CN4978109685", 
+                "fullstartdate": "201805281600", 
+                "copyright": "珠穆朗玛峰南基地营，尼泊尔 (© David Noyes/Danita Delimont)", 
+                "url": "/az/hprichbg/rb/KhumbuTents_ZH-CN4978109685_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ddf4dcf08a1a984f4370bf6f397a3d00", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180528_KhumbuTents%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%8F%A0%E7%A9%86%E6%9C%97%E7%8E%9B%E5%B3%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180529", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180528", 
+                "urlbase": "/az/hprichbg/rb/OldGuard_EN-US6442946687", 
+                "fullstartdate": "201805280700", 
+                "vid": {
+                    "caption": "The 3rd US Infantry Regiment honors America's fallen soldiers during the 'Flags In' ceremony for Memorial Day, Arlington National Cemetery, Virginia (© Kevin Lamarque/Reuters)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/MemorialDay_2018_1080_HD_EN-US299198265.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/MemorialDay_2018_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/MemorialDay_2018_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=memorial+day&form=hpcapt", 
+                    "loop": false
+                }, 
+                "copyright": "The 3rd US Infantry Regiment honors America's fallen soldiers during the 'Flags In' ceremony for Memorial Day, Arlington National Cemetery, Virginia (© Kevin Lamarque/Reuters)", 
+                "url": "/az/hprichbg/rb/OldGuard_EN-US6442946687_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7e71e1f62aa711873b4ecae353efbbe1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180528_OldGuard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=memorial+day&form=hpcapt&filters=HpDate:%2220180528_0700%22", 
+                "wp": false, 
+                "enddate": "20180529", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
