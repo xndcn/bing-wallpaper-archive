@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180529", 
+                "urlbase": "/az/hprichbg/rb/AerialPantanal_ZH-CN7580811600", 
+                "fullstartdate": "201805291600", 
+                "copyright": "潘塔纳尔湿地，巴西 (© Lucas Leuzinger/Shutterstock)", 
+                "url": "/az/hprichbg/rb/AerialPantanal_ZH-CN7580811600_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "77fdd9edb0f86130ca7a03672b9bdc26", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180529_AerialPantanal%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%BD%98%E5%A1%94%E7%BA%B3%E5%B0%94%E6%B9%BF%E5%9C%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180530", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180529", 
+                "urlbase": "/az/hprichbg/rb/KhumbuTents_EN-US5075782050", 
+                "fullstartdate": "201805290700", 
+                "copyright": "South Base Camp, Mount Everest, Nepal (© David Noyes/Danita Delimont)", 
+                "url": "/az/hprichbg/rb/KhumbuTents_EN-US5075782050_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "32e03bd5fe2053f79a88abd23e0ed8f1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180529_KhumbuTents%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Base+Camp,+Mount+Everest&form=hpcapt&filters=HpDate:%2220180529_0700%22", 
+                "wp": true, 
+                "enddate": "20180530", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
