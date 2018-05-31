@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180530", 
+                "urlbase": "/az/hprichbg/rb/MooseLakeGrass_ZH-CN12424437234", 
+                "fullstartdate": "201805301600", 
+                "copyright": "湖边的草地，美国明尼苏达州 (© Jim Brandenburg/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/MooseLakeGrass_ZH-CN12424437234_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5efba84a7f658e9a35d112aabef6d73f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180530_MooseLakeGrass%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180531", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180530", 
+                "urlbase": "/az/hprichbg/rb/SunsetLincoln_EN-US10983688040", 
+                "fullstartdate": "201805300700", 
+                "copyright": "The Lincoln Memorial, Washington, DC (© JG Photography/Alamy)", 
+                "url": "/az/hprichbg/rb/SunsetLincoln_EN-US10983688040_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0fea6bb1f0551aef0496e6e7da125677", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180530_SunsetLincoln%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=lincoln+memorial&form=hpcapt&filters=HpDate:%2220180530_0700%22", 
+                "wp": true, 
+                "enddate": "20180531", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
