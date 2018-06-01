@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180531", 
+                "urlbase": "/az/hprichbg/rb/happychildday_ZH-CN9412524114", 
+                "fullstartdate": "201805311600", 
+                "copyright": "【六一儿童节】孩子们在泳池嬉戏，中国九江（© Visual China Group/Getty）", 
+                "url": "/az/hprichbg/rb/happychildday_ZH-CN9412524114_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c78795d06bd7aad425d0cc815c6850ea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180531_happychildday%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%85%AD%E4%B8%80%E5%84%BF%E7%AB%A5%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180601", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180531", 
+                "urlbase": "/az/hprichbg/rb/MooseLakeGrass_EN-US11940305772", 
+                "fullstartdate": "201805310700", 
+                "copyright": "Grass in lakeside sedge meadow, Moose Lake, Minnesota (© Jim Brandenburg/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/MooseLakeGrass_EN-US11940305772_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "99d47b781ab377ecea273af80eb1a3a0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180531_MooseLakeGrass%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Leaves+of+Grass&form=hpcapt&filters=HpDate:%2220180531_0700%22", 
+                "wp": true, 
+                "enddate": "20180601", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
