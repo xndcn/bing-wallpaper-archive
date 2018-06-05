@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180604", 
+                "urlbase": "/az/hprichbg/rb/AuburnBalloons_ZH-CN8649124966", 
+                "fullstartdate": "201806041600", 
+                "vid": {
+                    "caption": "视频：乘坐热气球飞过奥本附近的农田，美国华盛顿州 (© Taliesin Black-Brown and Ben Cowan/Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/HotAirBalloons_AuburnWA_4K_nimia_787365_1080_HD_ZH-CN379602740.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/HotAirBalloons_AuburnWA_4K_nimia_787365_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/HotAirBalloons_AuburnWA_4K_nimia_787365_1080_HD_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": false
+                }, 
+                "copyright": "奥本上方的热气球，美国华盛顿州 (© Taliesin Black-Brown and Ben Cowan/Nimia)", 
+                "url": "/az/hprichbg/rb/AuburnBalloons_ZH-CN8649124966_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "212e45d602a978e3b51d6d3da074c8d6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180604_AuburnBalloons%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%83%AD%E6%B0%94%E7%90%83&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180605", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180604", 
+                "urlbase": "/az/hprichbg/rb/PJ_EN-US10859560585", 
+                "fullstartdate": "201806040700", 
+                "copyright": "'PJ the Port Jackson Shark' light sculpture at Taronga Zoo in Sydney, Australia (© Wendell Teodoro/REX/Shutterstock)", 
+                "url": "/az/hprichbg/rb/PJ_EN-US10859560585_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "eb37c4ea28f46f150e2b68a5c9241f23", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180604_PJ%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Vivid+Sydney&form=hpcapt&filters=HpDate:%2220180604_0700%22", 
+                "wp": false, 
+                "enddate": "20180605", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
