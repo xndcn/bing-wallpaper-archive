@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180605", 
+                "urlbase": "/az/hprichbg/rb/FlyinDrivein_ZH-CN11097970692", 
+                "fullstartdate": "201806051600", 
+                "copyright": "抵达沃尔镇Fly-in Drive-in剧场的观众，美国新泽西州 (© Martha Holmes/Time Life Pictures/Getty Images)", 
+                "url": "/az/hprichbg/rb/FlyinDrivein_ZH-CN11097970692_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "acaed58f2a64b1a4c87ddcf243b3505e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180605_FlyinDrivein%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Fly-in+Drive-in+Theater&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180606", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180605", 
+                "urlbase": "/az/hprichbg/rb/AuburnBalloons_EN-US8649124966", 
+                "fullstartdate": "201806050700", 
+                "vid": {
+                    "caption": "Hot air balloon ride over farmland near Auburn, Washington (© Taliesin Black-Brown and Ben Cowan/Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/HotAirBalloons_AuburnWA_4K_nimia_787365_1080_HD_EN-US379602740.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/HotAirBalloons_AuburnWA_4K_nimia_787365_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/HotAirBalloons_AuburnWA_4K_nimia_787365_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=hot+air+balloon&form=hpcapt", 
+                    "loop": false
+                }, 
+                "copyright": "Hot air balloon over Auburn, Washington (© Taliesin Black-Brown and Ben Cowan/Nimia)", 
+                "url": "/az/hprichbg/rb/AuburnBalloons_EN-US8649124966_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0140e637f5f2437ce875f8a30bef292b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180605_AuburnBalloons%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=hot+air+balloon&form=hpcapt&filters=HpDate:%2220180605_0700%22", 
+                "wp": false, 
+                "enddate": "20180606", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
