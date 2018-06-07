@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180606", 
+                "urlbase": "/az/hprichbg/rb/WhalePod_ZH-CN9101375608", 
+                "fullstartdate": "201806061600", 
+                "copyright": "阿拉斯加州内线航道林恩运河中的座头鲸，美国 (© John Hyde/plainpicture)", 
+                "url": "/az/hprichbg/rb/WhalePod_ZH-CN9101375608_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8b053443314efaaca8b7806e7a65325e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180606_WhalePod%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%BA%A7%E5%A4%B4%E9%B2%B8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180607", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180606", 
+                "urlbase": "/az/hprichbg/rb/FlyinDrivein_EN-US11097970692", 
+                "fullstartdate": "201806060700", 
+                "copyright": "Customers arriving at the Fly-In Drive-in Theater in Wall Township, New Jersey (© Martha Holmes/Time Life Pictures/Getty Images)", 
+                "url": "/az/hprichbg/rb/FlyinDrivein_EN-US11097970692_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "767ae66b7cadcc0803f70f5056505a59", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180606_FlyinDrivein%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=first+drive-in+theater&form=hpcapt&filters=HpDate:%2220180606_0700%22", 
+                "wp": false, 
+                "enddate": "20180607", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
