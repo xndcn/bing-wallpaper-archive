@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180608", 
+                "urlbase": "/az/hprichbg/rb/YarnBombing_ZH-CN9558012661", 
+                "fullstartdate": "201806081600", 
+                "copyright": "Gurnard村的毛线轰炸街头艺术，英格兰怀特岛 (© Kuki Waterstone/Alamy)", 
+                "url": "/az/hprichbg/rb/YarnBombing_ZH-CN9558012661_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ebcd0deb879361181f3b687b37049b2f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180608_YarnBombing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%A1%97%E5%A4%B4%E8%89%BA%E6%9C%AF&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180609", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180608", 
+                "urlbase": "/az/hprichbg/rb/WorldOceanDay_EN-US8399727104", 
+                "fullstartdate": "201806080700", 
+                "copyright": "Green sea turtle, Maui, Hawaii (© David Fleetham/Visuals Unlimited, Inc.)", 
+                "url": "/az/hprichbg/rb/WorldOceanDay_EN-US8399727104_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "116a99c6906f7709b2a76bacaec22f40", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180608_WorldOceanDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=green+sea+turtle&form=hpcapt&filters=HpDate:%2220180608_0700%22", 
+                "wp": true, 
+                "enddate": "20180609", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
