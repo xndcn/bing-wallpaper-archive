@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180609", 
+                "urlbase": "/az/hprichbg/rb/PenaNationalPalace_ZH-CN12058841312", 
+                "fullstartdate": "201806091600", 
+                "copyright": "佩纳宫，葡萄牙辛特拉市 (© Andre Vicente Goncalves/Alamy)", 
+                "url": "/az/hprichbg/rb/PenaNationalPalace_ZH-CN12058841312_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5a2f68624521ed184305650c40a1e696", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180609_PenaNationalPalace%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BD%A9%E7%BA%B3%E5%AE%AB&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180610", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180609", 
+                "urlbase": "/az/hprichbg/rb/YarnBombing_EN-US9558012661", 
+                "fullstartdate": "201806090700", 
+                "copyright": "Yarn bombing in the village of Gurnard, Isle of Wight, England (© Kuki Waterstone/Alamy)", 
+                "url": "/az/hprichbg/rb/YarnBombing_EN-US9558012661_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3aa9b54291ef852166c0541e7a2f0a37", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180609_YarnBombing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=What+is+yarn+bombing&form=hpcapt&filters=HpDate:%2220180609_0700%22", 
+                "wp": false, 
+                "enddate": "20180610", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
