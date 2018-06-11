@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180610", 
+                "urlbase": "/az/hprichbg/rb/GBRBday_ZH-CN12318325409", 
+                "fullstartdate": "201806101600", 
+                "copyright": "大堡礁，澳大利亚昆士兰州 (© Dick Sweeney/Gallery Stock)", 
+                "url": "/az/hprichbg/rb/GBRBday_ZH-CN12318325409_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2da4f9673a3913ebc1d2b347492a022d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180610_GBRBday%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%A7%E5%A0%A1%E7%A4%81&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180611", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180610", 
+                "urlbase": "/az/hprichbg/rb/PenaNationalPalace_EN-US11543993811", 
+                "fullstartdate": "201806100700", 
+                "copyright": "The Pena National Palace in Sintra, Portugal (© Andre Vicente Goncalves/Alamy)", 
+                "url": "/az/hprichbg/rb/PenaNationalPalace_EN-US11543993811_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fcd563b87ca4fa7f1598aaaf18cbd178", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180610_PenaNationalPalace%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Sintra,+Portugal&form=hpcapt&filters=HpDate:%2220180610_0700%22", 
+                "wp": true, 
+                "enddate": "20180611", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
