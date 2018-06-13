@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180612", 
+                "urlbase": "/az/hprichbg/rb/DandelionXray_ZH-CN10220788253", 
+                "fullstartdate": "201806121600", 
+                "copyright": "蒲公英花的彩色X射线 (© Arie van 't Riet/Science Photo Library)", 
+                "url": "/az/hprichbg/rb/DandelionXray_ZH-CN10220788253_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "de4f32d58a946f78299362ccbef609ee", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180612_DandelionXray%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%92%B2%E5%85%AC%E8%8B%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180613", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180612", 
+                "urlbase": "/az/hprichbg/rb/Kiasma_EN-US13083124808", 
+                "fullstartdate": "201806120700", 
+                "copyright": "Kiasma Museum of Contemporary Art in Helsinki, Finland (© Nikolaus Gruenwald/Offset)", 
+                "url": "/az/hprichbg/rb/Kiasma_EN-US13083124808_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3fa9680f3cc41b3e3e5230bdf57c14ae", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180612_Kiasma%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Kiasma+Museum+of+Contemporary+Art&form=hpcapt&filters=HpDate:%2220180612_0700%22", 
+                "wp": false, 
+                "enddate": "20180613", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
