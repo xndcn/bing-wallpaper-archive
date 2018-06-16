@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180615", 
+                "urlbase": "/az/hprichbg/rb/SpainSurfer_ZH-CN12759707713", 
+                "fullstartdate": "201806151600", 
+                "copyright": "冲浪者追逐浪潮的鸟瞰图，西班牙加那利群岛特内里费岛 (© Sergio Villalba/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/SpainSurfer_ZH-CN12759707713_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "95094ddb2b75a64958e06f1a1890580f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180615_SpainSurfer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%86%B2%E6%B5%AA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180616", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180615", 
+                "urlbase": "/az/hprichbg/rb/TinyLadybird_EN-US12806525259", 
+                "fullstartdate": "201806150700", 
+                "copyright": "Seven-spot ladybug on a mushroom in Arnhem, Netherlands (© Misja Smits/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/TinyLadybird_EN-US12806525259_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6276e9c2d39c2b0eb4435201237a38dc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180615_TinyLadybird%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=seven-spot+ladybug+coccinella+septempunctata&form=hpcapt&filters=HpDate:%2220180615_0700%22", 
+                "wp": true, 
+                "enddate": "20180616", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
