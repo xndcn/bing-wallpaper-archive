@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180616", 
+                "urlbase": "/az/hprichbg/rb/OstrichDad_ZH-CN8968242630", 
+                "fullstartdate": "201806161600", 
+                "copyright": "【今日父亲节】野外旅行的鸵鸟爸爸与孩子们，南非西开普省 (© Richard Du Toit/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/OstrichDad_ZH-CN8968242630_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "70800d29ad2276518b2302636dbd6fc3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180616_OstrichDad%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%88%B6%E4%BA%B2%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180617", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180616", 
+                "urlbase": "/az/hprichbg/rb/SpainSurfer_EN-US11271138486", 
+                "fullstartdate": "201806160700", 
+                "copyright": "Aerial view of surfer catching a wave, Tenerife, Canary Islands, Spain (© Sergio Villalba/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/SpainSurfer_EN-US11271138486_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3708a6d2ad5aa4a2a85ffd26b850602e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180616_SpainSurfer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=surfing+sport&form=hpcapt&filters=HpDate:%2220180616_0700%22", 
+                "wp": true, 
+                "enddate": "20180617", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
