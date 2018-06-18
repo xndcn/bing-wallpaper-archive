@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180617", 
+                "urlbase": "/az/hprichbg/rb/DUAN_ZH-CN9451316695", 
+                "fullstartdate": "201806171600", 
+                "copyright": "【今日端午节】参加襄阳龙舟大赛的12只龙舟，中国湖北省襄阳市（© VCG/Getty Images）", 
+                "url": "/az/hprichbg/rb/DUAN_ZH-CN9451316695_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "907d077451eaa6caf3cd49d74ff3b400", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180617_DUAN%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%AB%AF%E5%8D%88%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180618", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180617", 
+                "urlbase": "/az/hprichbg/rb/OstrichDad_EN-US10027687919", 
+                "fullstartdate": "201806170700", 
+                "copyright": "Ostrich with chicks in Western Cape, South Africa (© Richard Du Toit/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/OstrichDad_EN-US10027687919_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "aa2dfde97bb6a19c91886bdc04141eaa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180617_OstrichDad%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=ostrich&form=hpcapt&filters=HpDate:%2220180617_0700%22", 
+                "wp": true, 
+                "enddate": "20180618", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
