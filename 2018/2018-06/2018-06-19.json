@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180618", 
+                "urlbase": "/az/hprichbg/rb/CypressPygmyOwl_ZH-CN12382299143", 
+                "fullstartdate": "201806181600", 
+                "copyright": "栖息在树枝上的山鸺鹠，加拿大不列颠哥伦比亚省赛普拉斯山 (© Connor Stefanison/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/CypressPygmyOwl_ZH-CN12382299143_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c18556a06cddba1d3df26a9285ac9545", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180618_CypressPygmyOwl%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B1%B1%E9%B8%BA%E9%B9%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180619", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180618", 
+                "urlbase": "/az/hprichbg/rb/SanMiguelFishing_EN-US10852654681", 
+                "fullstartdate": "201806180700", 
+                "copyright": "Fly fishing on the San Miguel River of Colorado (© Whit Richardson/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/SanMiguelFishing_EN-US10852654681_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d63f55f6bb8a94ab911a04b5f0861051", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180618_SanMiguelFishing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=san+miguel+river+colorado&form=hpcapt&filters=HpDate:%2220180618_0700%22", 
+                "wp": true, 
+                "enddate": "20180619", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
