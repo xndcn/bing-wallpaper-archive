@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180619", 
+                "urlbase": "/az/hprichbg/rb/WorldRefugeeDay_ZH-CN5421237644", 
+                "fullstartdate": "201806191600", 
+                "vid": {
+                    "caption": "视频：2000年到2016年间全球难民的流动情况 (© Map visualization: Records from UNHCR/EarthTime visualization by Carnegie Mellon CREATE Lab | Image: © Matt Cardy/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/World_Refugee_Map_1080_HD_ZH-CN271419128.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/World_Refugee_Map_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/World_Refugee_Map_1080_HD_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "", 
+                    "loop": true
+                }, 
+                "copyright": "2000年到2016年间全球难民的流动情况 (© Map visualization: Records from UNHCR/EarthTime visualization by Carnegie Mellon CREATE Lab)", 
+                "url": "/az/hprichbg/rb/WorldRefugeeDay_ZH-CN5421237644_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c6e2c7c80b0397f5183a27efe3a1e2cf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180619_WorldRefugeeDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9A%BE%E6%B0%91&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180620", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180619", 
+                "urlbase": "/az/hprichbg/rb/AlvinAileyRevelations_EN-US9442717509", 
+                "fullstartdate": "201806190700", 
+                "copyright": "The Alvin Ailey American Dance Theater company performs ‘Revelations’ in New York City (© Rommel Demano/Getty Images)", 
+                "url": "/az/hprichbg/rb/AlvinAileyRevelations_EN-US9442717509_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ea819d6110bc2b98be03241537f76a37", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180619_AlvinAileyRevelations%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=alvin+ailey+american+dance+theater+company&form=hpcapt&filters=HpDate:%2220180619_0700%22", 
+                "wp": false, 
+                "enddate": "20180620", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
