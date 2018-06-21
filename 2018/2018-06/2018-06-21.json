@@ -1,0 +1,80 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180620", 
+                "urlbase": "/az/hprichbg/rb/lotus_ZH-CN12081917194", 
+                "fullstartdate": "201806201600", 
+                "copyright": "【今日夏至】夏至到，荷花开（© Adam Jones/DanitaDelimont.com -- All rights reserved）", 
+                "url": "/az/hprichbg/rb/lotus_ZH-CN12081917194_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c8d202dbbb579c3a6a05bdc5db7a9343", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180620_lotus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%8F%E8%87%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180621", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180620", 
+                "urlbase": "/az/hprichbg/rb/WorldRefugeeDay_EN-US5421237644", 
+                "fullstartdate": "201806200700", 
+                "vid": {
+                    "caption": "Refugee migration from 2000-2016 (© Map visualization: Records from UNHCR/EarthTime visualization by Carnegie Mellon CREATE Lab | Image: © Matt Cardy/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/World_Refugee_Map_1080_HD_EN-US271419128.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/World_Refugee_Map_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/World_Refugee_Map_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=World+Refugee+Day&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Refugee migration from 2000-2016 (© Map visualization: Records from UNHCR/EarthTime visualization by Carnegie Mellon CREATE Lab)", 
+                "url": "/az/hprichbg/rb/WorldRefugeeDay_EN-US5421237644_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9b8f8d773528222016fc33c7baae7325", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180620_WorldRefugeeDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=World+Refugee+Day&form=hpcapt&filters=HpDate:%2220180620_0700%22", 
+                "wp": false, 
+                "enddate": "20180621", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
