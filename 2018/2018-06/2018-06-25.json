@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180624", 
+                "urlbase": "/az/hprichbg/rb/MODIS_ZH-CN14242381223", 
+                "fullstartdate": "201806241600", 
+                "copyright": "太平洋上空纵横交错的船舶轨迹 (© NASA)", 
+                "url": "/az/hprichbg/rb/MODIS_ZH-CN14242381223_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0f0bed1eba833b99de3bf55498e48320", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180624_MODIS%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E5%91%98%E6%97%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180625", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180624", 
+                "urlbase": "/az/hprichbg/rb/MinneapolisPride_EN-US8577554439", 
+                "fullstartdate": "201806240700", 
+                "copyright": "I-35W Bridge over the Mississippi with rainbow colors on Pride weekend, Minneapolis (© Riddhish Chakraborty/Getty Images)", 
+                "url": "/az/hprichbg/rb/MinneapolisPride_EN-US8577554439_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "285aa61a69f862adfc954796637ca915", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180624_MinneapolisPride%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=minneapolis&form=hpcapt&filters=HpDate:%2220180624_0700%22", 
+                "wp": false, 
+                "enddate": "20180625", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
