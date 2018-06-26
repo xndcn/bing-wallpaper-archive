@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180625", 
+                "urlbase": "/az/hprichbg/rb/MorondavaBaobab_ZH-CN11131924506", 
+                "fullstartdate": "201806251600", 
+                "copyright": "猴面包树大道上的猴面包树在积水中的倒影，马达加斯加梅纳贝区 (© Gabrielle Therin-Weise/Getty Images)", 
+                "url": "/az/hprichbg/rb/MorondavaBaobab_ZH-CN11131924506_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6bfd29555802b5e711d8830b378d3e91", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180625_MorondavaBaobab%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180626", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180625", 
+                "urlbase": "/az/hprichbg/rb/MODIS_EN-US13699515239", 
+                "fullstartdate": "201806250700", 
+                "copyright": "Ship tracks over the Pacific Ocean (© NASA)", 
+                "url": "/az/hprichbg/rb/MODIS_EN-US13699515239_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4e76da5ef9883c5e9b606c956e3ebe72", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180625_MODIS%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=ship+tracks+clouds&form=hpcapt&filters=HpDate:%2220180625_0700%22", 
+                "wp": true, 
+                "enddate": "20180626", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
