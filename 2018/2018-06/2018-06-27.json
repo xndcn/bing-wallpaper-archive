@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180626", 
+                "urlbase": "/az/hprichbg/rb/ConcreteDinosaurs_ZH-CN9038296644", 
+                "fullstartdate": "201806261600", 
+                "copyright": "66号历史公路上的混凝土恐龙及其附近40号州际公路上的卡车 (© Gary Warnimont/Alamy)", 
+                "url": "/az/hprichbg/rb/ConcreteDinosaurs_ZH-CN9038296644_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c78c05f9fbf8fb47b3cb11ef0a1259c2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180626_ConcreteDinosaurs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%81%90%E9%BE%99&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180627", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180626", 
+                "urlbase": "/az/hprichbg/rb/MorondavaBaobab_EN-US11363642614", 
+                "fullstartdate": "201806260700", 
+                "copyright": "Baobab trees reflected on the Avenue of the Baobabs in the Menabe region of Madagascar (© Gabrielle Therin-Weise/Getty Images)", 
+                "url": "/az/hprichbg/rb/MorondavaBaobab_EN-US11363642614_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "dcc48f6bd9228420c6a4f22c91db91a5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180626_MorondavaBaobab%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Madagascar&form=hpcapt&filters=HpDate:%2220180626_0700%22", 
+                "wp": true, 
+                "enddate": "20180627", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
