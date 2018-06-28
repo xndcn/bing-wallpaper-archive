@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180627", 
+                "urlbase": "/az/hprichbg/rb/CompositeBeach_ZH-CN9646269492", 
+                "fullstartdate": "201806271600", 
+                "copyright": "位于利尼亚诺萨比亚多罗的海滩的合成照片，意大利 (© Rudi Sebastian/plainpicture)", 
+                "url": "/az/hprichbg/rb/CompositeBeach_ZH-CN9646269492_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "baff0adb5fbd4c58df7cfa7695bb7550", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180627_CompositeBeach%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180628", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180627", 
+                "urlbase": "/az/hprichbg/rb/ConcreteDinosaurs_EN-US9038296644", 
+                "fullstartdate": "201806270700", 
+                "copyright": "Concrete dinosaurs along Old Route 66 in Holbrook, Arizona (© Gary Warnimont/Alamy)", 
+                "url": "/az/hprichbg/rb/ConcreteDinosaurs_EN-US9038296644_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9c3a4689abc807b1fe456b150c572dfb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180627_ConcreteDinosaurs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=route+66&form=hpcapt&filters=HpDate:%2220180627_0700%22", 
+                "wp": false, 
+                "enddate": "20180628", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
