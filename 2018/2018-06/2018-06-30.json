@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180629", 
+                "urlbase": "/az/hprichbg/rb/MeteorCrater_ZH-CN10237243221", 
+                "fullstartdate": "201806291600", 
+                "copyright": "巴林杰陨石坑，美国亚利桑那州 (© Michele Falzone/Alamy)", 
+                "url": "/az/hprichbg/rb/MeteorCrater_ZH-CN10237243221_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1045fc2068b2bffc58a146bd22326c92", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180629_MeteorCrater%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=J%E9%99%A8%E7%9F%B3%E5%9D%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180630", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180629", 
+                "urlbase": "/az/hprichbg/rb/AuroraPhotographer_EN-US10752129713", 
+                "fullstartdate": "201806290700", 
+                "copyright": "Photographing the aurora borealis at Uttakleiv Beach, Norway (© David Clapp/Getty Images)", 
+                "url": "/az/hprichbg/rb/AuroraPhotographer_EN-US10752129713_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4e9b5ffa93e88d7d6679b91329ee0818", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180629_AuroraPhotographer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=aurora+borealis&FORM=hpcapt&filters=HpDate:%2220180629_0700%22", 
+                "wp": true, 
+                "enddate": "20180630", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
