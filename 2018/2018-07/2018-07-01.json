@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180630", 
+                "urlbase": "/az/hprichbg/rb/HONKONG_ZH-CN11971924406", 
+                "fullstartdate": "201806301600", 
+                "copyright": "【今日香港回归纪念日/建党节】庆祝香港回归21周年，中国（© Billy H.C. Kwok/Stringer/Getty Images）", 
+                "url": "/az/hprichbg/rb/HONKONG_ZH-CN11971924406_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "45dcc6ba8905b06f702c4a374e5d8bdf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180630_HONKONG%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%92/%E5%BB%BA%E5%85%9A%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180701", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180630", 
+                "urlbase": "/az/hprichbg/rb/MeteorCrater_EN-US9993563603", 
+                "fullstartdate": "201806300700", 
+                "copyright": "Meteor Crater, Arizona (© Michele Falzone/Alamy)", 
+                "url": "/az/hprichbg/rb/MeteorCrater_EN-US9993563603_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ca1430480af409f2669bec94d257e2e6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180630_MeteorCrater%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=meteor+crater&form=hpcapt&filters=HpDate:%2220180630_0700%22", 
+                "wp": true, 
+                "enddate": "20180701", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
