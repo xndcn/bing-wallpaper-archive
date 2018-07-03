@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180702", 
+                "urlbase": "/az/hprichbg/rb/TurtleIndianOcean_ZH-CN9256087399", 
+                "fullstartdate": "201807021600", 
+                "copyright": "黄昏时浮出水面的绿海龟，印度洋马约特 (© Gabriel Barathieu/Biosphoto/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/TurtleIndianOcean_ZH-CN9256087399_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "24d692dc9be919c2b71e4c2074da369d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180702_TurtleIndianOcean%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8D%B0%E5%BA%A6%E6%B4%8B%E9%A9%AC%E7%BA%A6%E7%89%B9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180703", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180702", 
+                "urlbase": "/az/hprichbg/rb/EtaAquarids_EN-US10944490288", 
+                "fullstartdate": "201807020700", 
+                "copyright": "The Eta Aquarids meteor shower over Devils Tower in Wyoming (© Jason Hatfield/Tandem Stills + Motion)", 
+                "url": "/az/hprichbg/rb/EtaAquarids_EN-US10944490288_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "519690452f00516a9683db08f3bd1660", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180702_EtaAquarids%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=devils+tower&form=hpcapt&filters=HpDate:%2220180702_0700%22", 
+                "wp": true, 
+                "enddate": "20180703", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
