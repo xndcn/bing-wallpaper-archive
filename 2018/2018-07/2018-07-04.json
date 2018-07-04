@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180703", 
+                "urlbase": "/az/hprichbg/rb/ButtermereLake_ZH-CN8185859566", 
+                "fullstartdate": "201807031600", 
+                "copyright": "湖区的巴特米尔湖，英国西北英格兰 (© Robert Harding/Markus Lange/plainpicture)", 
+                "url": "/az/hprichbg/rb/ButtermereLake_ZH-CN8185859566_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f04b4a1d02cf818bbf06ba125aa77e72", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180703_ButtermereLake%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B7%B4%E7%89%B9%E7%B1%B3%E5%B0%94%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180704", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180703", 
+                "urlbase": "/az/hprichbg/rb/GeorgeMeade_EN-US9381168835", 
+                "fullstartdate": "201807030700", 
+                "copyright": "The monument to the 155th Pennsylvania Infantry at Gettysburg, Pennsylvania (© Tetra Images/Getty Images)", 
+                "url": "/az/hprichbg/rb/GeorgeMeade_EN-US9381168835_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6ee6d6805957c4c494f31692cf1f97b0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180703_GeorgeMeade%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Gettysburg+National+Military+Park&form=hpcapt&filters=HpDate:%2220180703_0700%22", 
+                "wp": true, 
+                "enddate": "20180704", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
