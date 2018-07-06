@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180705", 
+                "urlbase": "/az/hprichbg/rb/KissingPandas_ZH-CN8379279685", 
+                "fullstartdate": "201807051600", 
+                "copyright": "【今日国际接吻节】两只大熊猫宝宝，中国 (© Mitsuaki Iwago/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/KissingPandas_ZH-CN8379279685_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a1b28ed50851ea1acc11305a93fbb8ac", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180705_KissingPandas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%8E%A5%E5%90%BB%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180706", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180705", 
+                "urlbase": "/az/hprichbg/rb/Pygmy3Toed_EN-US11340370698", 
+                "fullstartdate": "201807050700", 
+                "copyright": "Pygmy three-toed sloth swimming near Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/Pygmy3Toed_EN-US11340370698_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8e5915f2c48674a51d340a5cf425cefb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180705_Pygmy3Toed%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=pygmy+three-toed+sloth&form=hpcapt&filters=HpDate:%2220180705_0700%22", 
+                "wp": true, 
+                "enddate": "20180706", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
