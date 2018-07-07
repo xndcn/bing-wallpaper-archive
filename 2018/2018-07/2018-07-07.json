@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180706", 
+                "urlbase": "/az/hprichbg/rb/Peloton_ZH-CN7472605035", 
+                "fullstartdate": "201807061600", 
+                "copyright": "2016年环法自行车赛中骑在绿树成荫的道路上的选手 (© Michael Steele/Getty Images Sport)", 
+                "url": "/az/hprichbg/rb/Peloton_ZH-CN7472605035_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f4e4025f39bd7ed187dee34e042e8ee6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180706_Peloton%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%8E%AF%E6%B3%95%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%B5%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180707", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180706", 
+                "urlbase": "/az/hprichbg/rb/KissingPandas_EN-US8854909213", 
+                "fullstartdate": "201807060700", 
+                "copyright": "Giant panda cubs in the Wolong National Nature Reserve, China (© Mitsuaki Iwago/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/KissingPandas_EN-US8854909213_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fd6dc3c84df5f2ea2b7450db097145b6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180706_KissingPandas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=giant+pandas&form=hpcapt&filters=HpDate:%2220180706_0700%22", 
+                "wp": true, 
+                "enddate": "20180707", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
