@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180707", 
+                "urlbase": "/az/hprichbg/rb/Flamenco_ZH-CN12275634178", 
+                "fullstartdate": "201807071600", 
+                "copyright": "弗拉门戈舞蹈表演，西班牙安达卢西亚 (© Michelle Chaplow/Alamy)", 
+                "url": "/az/hprichbg/rb/Flamenco_ZH-CN12275634178_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "40b453c6d495c982414f8bdff3a229ea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180707_Flamenco%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%BC%97%E6%8B%89%E9%97%A8%E6%88%88%E8%88%9E%E8%B9%88%E8%A1%A8%E6%BC%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180708", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180707", 
+                "urlbase": "/az/hprichbg/rb/Peloton_EN-US7472605035", 
+                "fullstartdate": "201807070700", 
+                "copyright": "Cyclists ride along a tree-lined road during the Tour de France in 2016 (© Michael Steele/Getty Images Sport)", 
+                "url": "/az/hprichbg/rb/Peloton_EN-US7472605035_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fff0d26be4084a81cb05f06deb17f111", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180707_Peloton%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Tour+de+France&form=hpcapt&filters=HpDate:%2220180707_0700%22", 
+                "wp": false, 
+                "enddate": "20180708", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
