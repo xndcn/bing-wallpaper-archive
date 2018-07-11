@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180710", 
+                "urlbase": "/az/hprichbg/rb/zhenghe_ZH-CN9628081460", 
+                "fullstartdate": "201807101600", 
+                "copyright": "【今日中国航海节】纪念郑和下西洋 (© SMETEK/SCIENCE PHOTO LIBRARY)", 
+                "url": "/az/hprichbg/rb/zhenghe_ZH-CN9628081460_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fcad719dde4d3429a78c477a2c715799", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180710_zhenghe%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%83%91%E5%92%8C%E4%B8%8B%E8%A5%BF%E6%B4%8B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180711", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180710", 
+                "urlbase": "/az/hprichbg/rb/FremontPeak_EN-US8617183007", 
+                "fullstartdate": "201807100700", 
+                "copyright": "For Wyoming Statehood Day, this is Fremont Peak in the Bridger Wilderness of Bridger-Teton National Forest, Wyoming (© Don Paulson/Danita Delimont)", 
+                "url": "/az/hprichbg/rb/FremontPeak_EN-US8617183007_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b8e8dd38204b4dcf4042605e37eb9314", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180710_FremontPeak%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=bridger-teton+national+forest&form=hpcapt&filters=HpDate:%2220180710_0700%22", 
+                "wp": true, 
+                "enddate": "20180711", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
