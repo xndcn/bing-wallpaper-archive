@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180712", 
+                "urlbase": "/az/hprichbg/rb/PuffinWales_ZH-CN12110916089", 
+                "fullstartdate": "201807121600", 
+                "copyright": "正在检查地洞的北极海鹦，威尔士斯科莫岛 (© Danny Green/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/PuffinWales_ZH-CN12110916089_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e137e629b9c0639afd42a4bf20333867", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180712_PuffinWales%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E6%B5%B7%E9%B9%A6&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180713", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180712", 
+                "urlbase": "/az/hprichbg/rb/GordesLavender_EN-US10563684536", 
+                "fullstartdate": "201807120700", 
+                "copyright": "Blooming field of lavender at Sénanque Abbey, Gordes, Vaucluse, Provence Alpes Cote dAzur, France (© Carlos Sanchez Pereyra/plainpicture)", 
+                "url": "/az/hprichbg/rb/GordesLavender_EN-US10563684536_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "261f7d315309de3de094e0d55f4bb53e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180712_GordesLavender%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Senanque+Abbey&form=hpcapt&filters=HpDate:%2220180712_0700%22", 
+                "wp": true, 
+                "enddate": "20180713", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
