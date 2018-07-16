@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180715", 
+                "urlbase": "/az/hprichbg/rb/UrbanLight_ZH-CN6248743710", 
+                "fullstartdate": "201807151600", 
+                "copyright": "位于洛杉矶艺术博物馆的克里斯·伯登的雕像“城市之光”，加利福尼亚州洛杉矶 (© Victor Decolongon/Getty Images)", 
+                "url": "/az/hprichbg/rb/UrbanLight_ZH-CN6248743710_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c7cc614fbc5d5246495795f3af8ed35f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180715_UrbanLight%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%89%BA%E6%9C%AF%E5%8D%9A%E7%89%A9%E9%A6%86&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180716", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180715", 
+                "urlbase": "/az/hprichbg/rb/SoccerStadium_EN-US11597501512", 
+                "fullstartdate": "201807150700", 
+                "copyright": "Fish-eye view of Luzhniki Stadium in Moscow, Russia, during a 2018 World Cup match (© Simon Hofmann - FIFA/FIFA via Getty Images)", 
+                "url": "/az/hprichbg/rb/SoccerStadium_EN-US11597501512_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e2824811d1f13b37091368e2945655ed", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180715_SoccerStadium%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Luzhniki+Stadium&form=hpcapt&filters=HpDate:%2220180715_0700%22", 
+                "wp": false, 
+                "enddate": "20180716", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
