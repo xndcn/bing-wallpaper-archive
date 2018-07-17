@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180716", 
+                "urlbase": "/az/hprichbg/rb/StinkBugSmiley_ZH-CN7410309995", 
+                "fullstartdate": "201807161600", 
+                "copyright": "叶子上的臭虫的卵，马达加斯加 (© Paul Bertner/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/StinkBugSmiley_ZH-CN7410309995_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8fbb76a9aa7d66c1f48b86d6a8ddee72", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180716_StinkBugSmiley%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8F%B6%E5%AD%90&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180717", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180716", 
+                "urlbase": "/az/hprichbg/rb/UrbanLight_EN-US6248743710", 
+                "fullstartdate": "201807160700", 
+                "copyright": "At the Wilshire Boulevard entrance to the Los Angeles County Museum of Art, Los Angeles, California (© Victor Decolongon/Getty Images)", 
+                "url": "/az/hprichbg/rb/UrbanLight_EN-US6248743710_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f054de2b53795bd18364da407bde2bb6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180716_UrbanLight%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=urban+light+sculpture&form=hpcapt&filters=HpDate:%2220180716_0700%22", 
+                "wp": false, 
+                "enddate": "20180717", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
