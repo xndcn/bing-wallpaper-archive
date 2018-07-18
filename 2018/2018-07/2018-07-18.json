@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180717", 
+                "urlbase": "/az/hprichbg/rb/MandelaMonument_ZH-CN8903823453", 
+                "fullstartdate": "201807171600", 
+                "copyright": "艺术家马可·契亚法奈利设计的纳尔逊·曼德拉纪念雕塑，南非豪伊克 (© Andy Trevaskis/Alamy Stock Photo)", 
+                "url": "/az/hprichbg/rb/MandelaMonument_ZH-CN8903823453_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "82cc04027bf05377b768d0cb38ae6829", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180717_MandelaMonument%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9B%95%E5%A1%91&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180718", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180717", 
+                "urlbase": "/az/hprichbg/rb/StinkBugSmiley_EN-US7711508774", 
+                "fullstartdate": "201807170700", 
+                "copyright": "Stink bug eggs on a leaf in Madagascar (© Paul Bertner/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/StinkBugSmiley_EN-US7711508774_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7c6a181367ed1b4a70dd1c97ab80f166", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180717_StinkBugSmiley%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Stink+Bug+Pentatomidae&form=hpcapt&filters=HpDate:%2220180717_0700%22", 
+                "wp": true, 
+                "enddate": "20180718", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
