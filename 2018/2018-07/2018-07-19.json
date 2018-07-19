@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180718", 
+                "urlbase": "/az/hprichbg/rb/ComicFans_ZH-CN10352835982", 
+                "fullstartdate": "201807181600", 
+                "copyright": "参加2014年度圣迭戈国际漫画展的漫迷们 (© Sandy Huffaker/Reuters)", 
+                "url": "/az/hprichbg/rb/ComicFans_ZH-CN10352835982_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f3b3c0e35459ffc405ca4ab363db7b65", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180718_ComicFans%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%A3%E8%BF%AD%E6%88%88%E5%9B%BD%E9%99%85%E6%BC%AB%E7%94%BB%E5%B1%95&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180719", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180718", 
+                "urlbase": "/az/hprichbg/rb/MandelaMonument_EN-US8903823453", 
+                "fullstartdate": "201807180700", 
+                "copyright": "Nelson Mandela monument by artist Marco Cianfanelli near Howick, South Africa (© Andy Trevaskis/Alamy Stock Photo)", 
+                "url": "/az/hprichbg/rb/MandelaMonument_EN-US8903823453_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d16f65a79f403063b5956585d8cccd0f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180718_MandelaMonument%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=mandela+day&form=hpcapt&filters=HpDate:%2220180718_0700%22", 
+                "wp": false, 
+                "enddate": "20180719", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
