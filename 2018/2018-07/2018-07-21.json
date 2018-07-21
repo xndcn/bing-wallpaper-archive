@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180720", 
+                "urlbase": "/az/hprichbg/rb/CometMoth_ZH-CN8038549923", 
+                "fullstartdate": "201807201600", 
+                "copyright": "拉努马法纳国家公园的彗星飞蛾，马达加斯加 (© Robin Hoskyns/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/CometMoth_ZH-CN8038549923_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4e59c1d9ddc0bbff4ab49aa38d1f7b13", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180720_CometMoth%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%8B%89%E5%8A%AA%E9%A9%AC%E6%B3%95%E7%BA%B3%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180721", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180720", 
+                "urlbase": "/az/hprichbg/rb/Apollo15Composite_EN-US10046867284", 
+                "fullstartdate": "201807200700", 
+                "copyright": "Composite of photographs from the Apollo 15 moon mission, 1971 (© NASA)", 
+                "url": "/az/hprichbg/rb/Apollo15Composite_EN-US10046867284_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "59dde816e311347b6e9e77064a245031", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180720_Apollo15Composite%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=apollo+15&form=hpcapt&filters=HpDate:%2220180720_0700%22", 
+                "wp": true, 
+                "enddate": "20180721", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
