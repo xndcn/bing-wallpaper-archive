@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180724", 
+                "urlbase": "/az/hprichbg/rb/HomerWatercolor_ZH-CN11392693224", 
+                "fullstartdate": "201807241600", 
+                "copyright": "波士顿美术馆收藏的画家温斯洛·霍默的水彩画'Rocky Shore' (© Alamy)", 
+                "url": "/az/hprichbg/rb/HomerWatercolor_ZH-CN11392693224_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3e5768ef8c7bfa7363e564287bac7744", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180724_HomerWatercolor%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B3%A2%E5%A3%AB%E9%A1%BF%E7%BE%8E%E6%9C%AF%E9%A6%86&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180725", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180724", 
+                "urlbase": "/az/hprichbg/rb/FlamingoCousins_EN-US13543498875", 
+                "fullstartdate": "201807240700", 
+                "copyright": "American flamingo chicks at the Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/FlamingoCousins_EN-US13543498875_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "506b16d00abb3ab7859d2f994184a75c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180724_FlamingoCousins%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Phoenicopterus+ruber&form=hpcapt&filters=HpDate:%2220180724_0700%22", 
+                "wp": true, 
+                "enddate": "20180725", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
