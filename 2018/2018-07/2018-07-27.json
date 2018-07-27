@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180726", 
+                "urlbase": "/az/hprichbg/rb/SuperBlueBloodMoon_ZH-CN11881086623", 
+                "fullstartdate": "201807261600", 
+                "copyright": "2018年1月31日的月食的合成图像，日本东京 (© Kazuhiro Nogi/Getty Images)", 
+                "url": "/az/hprichbg/rb/SuperBlueBloodMoon_ZH-CN11881086623_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "19820cf2ded5e4b10e15a746f2df0d19", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180726_SuperBlueBloodMoon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%9C%88%E9%A3%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180727", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180726", 
+                "urlbase": "/az/hprichbg/rb/LetchworthSP_EN-US14482052774", 
+                "fullstartdate": "201807260700", 
+                "copyright": "Middle Falls at Letchworth State Park, New York, for Statehood Day (© Posnov/Moment/Getty Images)", 
+                "url": "/az/hprichbg/rb/LetchworthSP_EN-US14482052774_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a2981c2201240db7fcb186ad04746b2c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180726_LetchworthSP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=letchworth+state+park&form=hpcapt&filters=HpDate:%2220180726_0700%22", 
+                "wp": true, 
+                "enddate": "20180727", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
