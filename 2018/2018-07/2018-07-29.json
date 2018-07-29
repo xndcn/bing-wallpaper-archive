@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180728", 
+                "urlbase": "/az/hprichbg/rb/T19Krishna_ZH-CN12651112147", 
+                "fullstartdate": "201807281600", 
+                "copyright": "伦滕波尔国家公园中一只名叫‘Krishna'或者‘T19’的孟加拉虎，印度 (© Andy Rouse/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/T19Krishna_ZH-CN12651112147_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "265c603f68fe5303b0111d01935e1c6a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180728_T19Krishna%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BC%A6%E6%BB%95%E6%B3%A2%E5%B0%94%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180729", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180728", 
+                "urlbase": "/az/hprichbg/rb/FairSeason_EN-US8821036782", 
+                "fullstartdate": "201807280700", 
+                "copyright": "People on a swing ride at a carnival (© Peter Burian/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/FairSeason_EN-US8821036782_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "666ec4e4d2944b8bf61fffada73134e0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180728_FairSeason%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=swing+rides+amusement+parks&form=hpcapt&filters=HpDate:%2220180728_0700%22", 
+                "wp": false, 
+                "enddate": "20180729", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
