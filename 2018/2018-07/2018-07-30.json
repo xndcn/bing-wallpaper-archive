@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180729", 
+                "urlbase": "/az/hprichbg/rb/ChildrenPlaying_ZH-CN9664693753", 
+                "fullstartdate": "201807291600", 
+                "copyright": "【今日国际友谊日】在降落伞下玩耍的孩子们，印度加尔各答 (© Rupak De Chowdhuri/Reuters)", 
+                "url": "/az/hprichbg/rb/ChildrenPlaying_ZH-CN9664693753_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "fbdce81746a3defefc15222c504a17d9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180729_ChildrenPlaying%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E5%8F%8B%E8%B0%8A%E6%97%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180730", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180729", 
+                "urlbase": "/az/hprichbg/rb/T19Krishna_EN-US11510458805", 
+                "fullstartdate": "201807290700", 
+                "copyright": "A Bengal tiger called ‘Krishna' or ‘T19’ in Ranthambore National Park, India (© Andy Rouse/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/T19Krishna_EN-US11510458805_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3149a1e04a067b92e43cef60cecdb8d4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180729_T19Krishna%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=bengal+tiger&form=hpcapt&filters=HpDate:%2220180729_0700%22", 
+                "wp": true, 
+                "enddate": "20180730", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
