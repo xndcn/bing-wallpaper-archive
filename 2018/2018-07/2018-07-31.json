@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180730", 
+                "urlbase": "/az/hprichbg/rb/ParkRangerIsmael_ZH-CN8783805449", 
+                "fullstartdate": "201807301600", 
+                "copyright": "【今日世界护林员日】El Triunfo生物圈保护区内的护林员，墨西哥 (© Chico Sanchez/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/ParkRangerIsmael_ZH-CN8783805449_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "06b34c3f123a402389e72859be74ce9a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180730_ParkRangerIsmael%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%8A%A4%E6%9E%97%E5%91%98%E6%97%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180731", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180730", 
+                "urlbase": "/az/hprichbg/rb/ChildrenPlaying_EN-US9664693753", 
+                "fullstartdate": "201807300700", 
+                "copyright": "Children play under a parachute in Kolkata, India, for International Day of Friendship (© Rupak De Chowdhuri/Reuters)", 
+                "url": "/az/hprichbg/rb/ChildrenPlaying_EN-US9664693753_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4cfb4842a2241f392e94ef4be8ffa161", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180730_ChildrenPlaying%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Friendship+Day&form=hpcapt&filters=HpDate:%2220180730_0700%22", 
+                "wp": false, 
+                "enddate": "20180731", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
