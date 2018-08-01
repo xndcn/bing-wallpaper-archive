@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180731", 
+                "urlbase": "/az/hprichbg/rb/SwissSuspension_ZH-CN9196527618", 
+                "fullstartdate": "201807311600", 
+                "copyright": "兰达镇附近的查尔斯库纳步行吊桥，瑞士 (© Menno Boermans/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/SwissSuspension_ZH-CN9196527618_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a88327329629f3a48a9e3a11e6aff28f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180731_SwissSuspension%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%9F%A5%E5%B0%94%E6%96%AF%E5%BA%93%E7%BA%B3%E6%AD%A5%E8%A1%8C%E5%90%8A%E6%A1%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180801", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180731", 
+                "urlbase": "/az/hprichbg/rb/ParkRangerIsmael_EN-US8783805449", 
+                "fullstartdate": "201807310700", 
+                "copyright": "Park ranger Ismael Galvez in El Triunfo Biosphere Reserve in Mexico for World Ranger Day (© Chico Sanchez/Aurora Photos)", 
+                "url": "/az/hprichbg/rb/ParkRangerIsmael_EN-US8783805449_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f00b279e2ccec398f3043b943463067d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180731_ParkRangerIsmael%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=park+ranger&form=hpcapt&filters=HpDate:%2220180731_0700%22", 
+                "wp": false, 
+                "enddate": "20180801", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
