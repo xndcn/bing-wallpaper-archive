@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180803", 
+                "urlbase": "/az/hprichbg/rb/FringeFireworks_ZH-CN10750567003", 
+                "fullstartdate": "201808031600", 
+                "copyright": "节日期间爱丁堡城堡上空的烟花 (© Kevin Carr/Getty Images)", 
+                "url": "/az/hprichbg/rb/FringeFireworks_ZH-CN10750567003_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1db06b856a3bf63502604552052276e9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180803_FringeFireworks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%88%B1%E4%B8%81%E5%A0%A1%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180804", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180803", 
+                "urlbase": "/az/hprichbg/rb/BadlandsCycle_EN-US12588823059", 
+                "fullstartdate": "201808030700", 
+                "copyright": "Bikers cruise South Dakota's Badlands. The Sturgis Motorcycle Rally opens Aug 3. (© David Zimmerman/Masterfile)", 
+                "url": "/az/hprichbg/rb/BadlandsCycle_EN-US12588823059_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bc8fca5eda875fb21c529efb2f227e87", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180803_BadlandsCycle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=The+Badlands,+South+Dakota&form=hpcapt&filters=HpDate:%2220180803_0700%22", 
+                "wp": true, 
+                "enddate": "20180804", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
