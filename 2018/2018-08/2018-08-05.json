@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180804", 
+                "urlbase": "/az/hprichbg/rb/LovePark_ZH-CN10739395628", 
+                "fullstartdate": "201808041600", 
+                "copyright": "费城爱心公园内的罗伯特·印第安纳的雕塑‘Love' (© Franz Marc Frei/Getty Images)", 
+                "url": "/az/hprichbg/rb/LovePark_ZH-CN10739395628_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a974781b225975575f16e4bb549907b9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180804_LovePark%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9B%95%E5%A1%91%E4%BD%9C%E5%93%81&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180805", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180804", 
+                "urlbase": "/az/hprichbg/rb/FringeFireworks_EN-US11044516483", 
+                "fullstartdate": "201808040700", 
+                "copyright": "Fireworks above Edinburgh Castle during the city's festival season (© Kevin Carr/Getty Images)", 
+                "url": "/az/hprichbg/rb/FringeFireworks_EN-US11044516483_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bd9705c56dacfaab974ca78ae27f7b30", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180804_FringeFireworks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=edinburgh&form=hpcapt&filters=HpDate:%2220180804_0700%22", 
+                "wp": true, 
+                "enddate": "20180805", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
