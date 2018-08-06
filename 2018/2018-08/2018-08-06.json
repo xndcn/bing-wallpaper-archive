@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180805", 
+                "urlbase": "/az/hprichbg/rb/PortAntonio_ZH-CN10325538004", 
+                "fullstartdate": "201808051600", 
+                "copyright": "安东尼奥港的景色，牙买加 (© Masterfile)", 
+                "url": "/az/hprichbg/rb/PortAntonio_ZH-CN10325538004_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "35ed4ac8472552209a15907465ead18f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180805_PortAntonio%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E6%B8%AF&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180806", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180805", 
+                "urlbase": "/az/hprichbg/rb/LovePark_EN-US10739395628", 
+                "fullstartdate": "201808050700", 
+                "copyright": "'LOVE' sculpture by Robert Indiana in Philadelphia's Love Park (© Franz Marc Frei/Getty Images)", 
+                "url": "/az/hprichbg/rb/LovePark_EN-US10739395628_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9d2d26bf84f3d5fbd20b3beef4373b1a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180805_LovePark%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Philadelphia's+Love+Park&form=hpcapt&filters=HpDate:%2220180805_0700%22", 
+                "wp": false, 
+                "enddate": "20180806", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
