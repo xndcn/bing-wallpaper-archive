@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180806", 
+                "urlbase": "/az/hprichbg/rb/SchonnbrunnPark_ZH-CN8641092561", 
+                "fullstartdate": "201808061600", 
+                "copyright": "【今日立秋】美泉宫花园的秋日景色， 奥地利维也纳 (© badahos/Shutterstock)", 
+                "url": "/az/hprichbg/rb/SchonnbrunnPark_ZH-CN8641092561_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "71b1c0bf47888db52bda7c72127f867f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180806_SchonnbrunnPark%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%AB%8B%E7%A7%8B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180807", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180806", 
+                "urlbase": "/az/hprichbg/rb/PortAntonio_EN-US9246692740", 
+                "fullstartdate": "201808060700", 
+                "copyright": "View of Port Antonio in honor of Jamaica Independence Day (© Masterfile)", 
+                "url": "/az/hprichbg/rb/PortAntonio_EN-US9246692740_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "113b08078cf6f2d56a2371ddbbc7c8a4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180806_PortAntonio%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Port+Antonio,+Jamaica&form=hpcapt&filters=HpDate:%2220180806_0700%22", 
+                "wp": true, 
+                "enddate": "20180807", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
