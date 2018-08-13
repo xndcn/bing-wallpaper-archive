@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180812", 
+                "urlbase": "/az/hprichbg/rb/BulgariaPerseids_ZH-CN11638911564", 
+                "fullstartdate": "201808121600", 
+                "copyright": "锡内莫雷茨村上空的英仙座流星雨，保加利亚 (© jk78/Getty Images)", 
+                "url": "/az/hprichbg/rb/BulgariaPerseids_ZH-CN11638911564_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f236434fb8205bb7bc6e3c714980b784", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180812_BulgariaPerseids%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180813", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180812", 
+                "urlbase": "/az/hprichbg/rb/ElephantParade_EN-US11671803284", 
+                "fullstartdate": "201808120700", 
+                "copyright": "At Kruger National Park, South Africa, for World Elephant Day (© Yva Momatiuk and John Eastcott/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/ElephantParade_EN-US11671803284_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b61fac6cd3d6f777ed31967223ffaed1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180812_ElephantParade%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=kruger+national+park+elephants&form=hpcapt&filters=HpDate:%2220180812_0700%22", 
+                "wp": true, 
+                "enddate": "20180813", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
