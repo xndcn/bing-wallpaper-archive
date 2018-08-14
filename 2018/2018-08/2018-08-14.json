@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180813", 
+                "urlbase": "/az/hprichbg/rb/GrevysZebra_ZH-CN8656523429", 
+                "fullstartdate": "201808131600", 
+                "copyright": "一只濒临灭绝的细纹斑马的特写镜头 (© Edwin Giesbers/Getty Images)", 
+                "url": "/az/hprichbg/rb/GrevysZebra_ZH-CN8656523429_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "690283c1119fb874476fdf5b44c9854e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180813_GrevysZebra%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BB%86%E7%BA%B9%E6%96%91%E9%A9%AC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180814", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180813", 
+                "urlbase": "/az/hprichbg/rb/BulgariaPerseids_EN-US11585904087", 
+                "fullstartdate": "201808130700", 
+                "copyright": "The Perseids over Sinemorets, Bulgaria. The meteor shower is visible until Aug 24. (© jk78/Getty Images)", 
+                "url": "/az/hprichbg/rb/BulgariaPerseids_EN-US11585904087_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "68f8e895741ce01555211e0844bc5666", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180813_BulgariaPerseids%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=perseids&form=hpcapt&filters=HpDate:%2220180813_0700%22", 
+                "wp": true, 
+                "enddate": "20180814", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
