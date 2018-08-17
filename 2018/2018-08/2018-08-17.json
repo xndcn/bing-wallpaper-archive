@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180816", 
+                "urlbase": "/az/hprichbg/rb/Qxi_ZH-CN15613902048", 
+                "fullstartdate": "201808161600", 
+                "copyright": "【今日七夕】红色的心形烟火，中国澳门（© coolbiere photograph/Getty Images）", 
+                "url": "/az/hprichbg/rb/Qxi_ZH-CN15613902048_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c16f5c0d92079a5ba868ed40f2bb92b2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180816_Qxi%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%83%E5%A4%95&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180817", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180816", 
+                "urlbase": "/az/hprichbg/rb/SkylineparkRoller_EN-US8492771279", 
+                "fullstartdate": "201808160700", 
+                "copyright": "On Roller Coaster Day, we're at Skyline Park in Bavaria, Germany (© Karl-Josef Hildenbrand/Getty Images)", 
+                "url": "/az/hprichbg/rb/SkylineparkRoller_EN-US8492771279_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5fb0bd028084beea399a811e74ab2ad5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180816_SkylineparkRoller%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=roller+coaster&form=hpcapt&filters=HpDate:%2220180816_0700%22", 
+                "wp": false, 
+                "enddate": "20180817", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
