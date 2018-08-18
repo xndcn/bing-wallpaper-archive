@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180817", 
+                "urlbase": "/az/hprichbg/rb/CanolaBeehives_ZH-CN9545312261", 
+                "fullstartdate": "201808171600", 
+                "copyright": "彭比纳谷的蜂箱，加拿大马尼托巴省 (© Ken Gillespie Photography/Alamy)", 
+                "url": "/az/hprichbg/rb/CanolaBeehives_ZH-CN9545312261_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1e5ed0546a3127ea39e82233d20a350a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180817_CanolaBeehives%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%9C%82%E7%AE%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180818", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180817", 
+                "urlbase": "/az/hprichbg/rb/WhiteMadonna_EN-US15104896041", 
+                "fullstartdate": "201808170700", 
+                "copyright": "Every Aug 17, the village of Porto Venere, Italy, celebrates the festival of its patron saint (© Peter Sampson/Alamy)", 
+                "url": "/az/hprichbg/rb/WhiteMadonna_EN-US15104896041_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d0adade10faa7f16dd0ab8fed8508268", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180817_WhiteMadonna%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Porto+Venere+Italy&form=hpcapt&filters=HpDate:%2220180817_0700%22", 
+                "wp": true, 
+                "enddate": "20180818", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
