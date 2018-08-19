@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180818", 
+                "urlbase": "/az/hprichbg/rb/SFOTarmac_ZH-CN9823345722", 
+                "fullstartdate": "201808181600", 
+                "copyright": "旧金山国际机场的鸟瞰图 (© Michael H/Getty Images)", 
+                "url": "/az/hprichbg/rb/SFOTarmac_ZH-CN9823345722_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d227e93a360afb1e9e735a53cb36f596", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180818_SFOTarmac%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%97%A7%E9%87%91%E5%B1%B1%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180819", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180818", 
+                "urlbase": "/az/hprichbg/rb/CanolaBeehives_EN-US10699197880", 
+                "fullstartdate": "201808180700", 
+                "copyright": "Beehive boxes in the Pembina Valley Region, Manitoba, Canada, for Honey Bee Day (© Ken Gillespie Photography/Alamy)", 
+                "url": "/az/hprichbg/rb/CanolaBeehives_EN-US10699197880_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "aacee1d178cf2844cdae17493a47b142", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180818_CanolaBeehives%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=honey+bee+beehive&form=hpcapt&filters=HpDate:%2220180818_0700%22", 
+                "wp": true, 
+                "enddate": "20180819", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
