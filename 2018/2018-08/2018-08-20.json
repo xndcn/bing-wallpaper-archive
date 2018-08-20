@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180819", 
+                "urlbase": "/az/hprichbg/rb/PineMartenScotland_ZH-CN10077017107", 
+                "fullstartdate": "201808191600", 
+                "copyright": "凯恩戈姆山国家公园里的一只松貂，苏格兰 (© SCOTLAND: The Big Picture/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/PineMartenScotland_ZH-CN10077017107_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "997ecf7cb73e47b55617ce44f1097373", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180819_PineMartenScotland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%9D%BE%E8%B2%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180820", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180819", 
+                "urlbase": "/az/hprichbg/rb/SFOTarmac_EN-US10405730125", 
+                "fullstartdate": "201808190700", 
+                "copyright": "For Aviation Day, a new perspective on San Francisco International Airport (© Michael H/Getty Images)", 
+                "url": "/az/hprichbg/rb/SFOTarmac_EN-US10405730125_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d82c0c9f9d8116b68efec99b991aa194", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180819_SFOTarmac%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=San+Francisco+International+Airport&form=hpcapt&filters=HpDate:%2220180819_0700%22", 
+                "wp": true, 
+                "enddate": "20180820", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
