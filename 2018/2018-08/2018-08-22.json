@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180821", 
+                "urlbase": "/az/hprichbg/rb/ManedWolf_ZH-CN10924002958", 
+                "fullstartdate": "201808211600", 
+                "copyright": "巴西皮奥伊州的鬃狼 (© Sean Crane/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/ManedWolf_ZH-CN10924002958_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0bb1e3a528ba3225d2e33dff151ca5f0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180821_ManedWolf%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%AC%83%E7%8B%BC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180822", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180821", 
+                "urlbase": "/az/hprichbg/rb/ChrisFabregas_EN-US11299038757", 
+                "fullstartdate": "201808210700", 
+                "copyright": "Santa Monica Pier in California, taken by Bing photo contest winner Chris Fabregas (© Chris Fabregas)", 
+                "url": "/az/hprichbg/rb/ChrisFabregas_EN-US11299038757_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4ad8c9c708185c852890a9ec8fefcfe4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180821_ChrisFabregas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=santa+monica+pier+pacific+park+ferris+wheel+&form=hpcapt&filters=HpDate:%2220180821_0700%22", 
+                "wp": true, 
+                "enddate": "20180822", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
