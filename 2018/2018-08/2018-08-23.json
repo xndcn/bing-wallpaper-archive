@@ -1,0 +1,60 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180822", 
+                "urlbase": "/az/hprichbg/rb/AKSUP_ZH-CN14506867124", 
+                "fullstartdate": "201808221600", 
+                "copyright": "滑行在坦纳根海湾涌浪中的桨板冲浪运动，阿拉斯加州库克湾 (© Scott Dickerson/Tandem Motion + Stills)", 
+                "url": "/az/hprichbg/rb/AKSUP_ZH-CN14506867124_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c5ef6a91bb9e769ecd31c607081e57e4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180822_AKSUP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9D%A6%E7%BA%B3%E6%A0%B9%E6%B5%B7%E6%B9%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180823", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180822", 
+                "urlbase": "/az/hprichbg/rb/ManedWolf_EN-US10289320790", 
+                "fullstartdate": "201808220700", 
+                "copyright": "Maned wolf in Piauí State, Brazil (© Sean Crane/Minden Pictures)", 
+                "url": "/az/hprichbg/rb/ManedWolf_EN-US10289320790_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2943f116563dfee90c9a46ad61b771c2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180822_ManedWolf%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=maned+wolf&form=hpcapt&filters=HpDate:%2220180822_0700%22", 
+                "wp": true, 
+                "enddate": "20180823", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
