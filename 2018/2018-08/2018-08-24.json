@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180823", 
+                "urlbase": "/az/hprichbg/rb/FranceMenton_ZH-CN8996032014", 
+                "fullstartdate": "201808231600", 
+                "copyright": "法国芒通 (© Timo Christ/Alamy)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/FranceMenton_ZH-CN8996032014_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0732fcd085072b0db478b07ee9a45b66", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180823_FranceMenton%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8A%92%E9%80%9A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180824", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180823", 
+                "urlbase": "/az/hprichbg/rb/AKSUP_EN-US13647640593", 
+                "fullstartdate": "201808230700", 
+                "copyright": "Stand-up paddleboarders riding the bore tide in Turnagain Arm, Cook Inlet, Alaska (© Scott Dickerson/Tandem Motion + Stills)", 
+                "title": "Surf’s up in Alaska", 
+                "url": "/az/hprichbg/rb/AKSUP_EN-US13647640593_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cb9733829293c8cfac80fd5f1b839741", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180823_AKSUP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=cook+inlet+alaska&form=hpcapt&filters=HpDate:%2220180823_0700%22", 
+                "wp": true, 
+                "enddate": "20180824", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
