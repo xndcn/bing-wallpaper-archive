@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180824", 
+                "urlbase": "/az/hprichbg/rb/ZHONGYUAN_ZH-CN11622221601", 
+                "fullstartdate": "201808241600", 
+                "copyright": "【今日中元节】桂林中元节万盏河灯漂放活动，中国广西 （© VCG/Getty Images）", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/ZHONGYUAN_ZH-CN11622221601_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f687bcaf2fed9fbda8a948c41e18d79a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180824_ZHONGYUAN%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%AD%E5%85%83%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180825", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180824", 
+                "urlbase": "/az/hprichbg/rb/GatewayArchNP_EN-US13744808809", 
+                "fullstartdate": "201808240700", 
+                "copyright": "The Gateway Arch in St. Louis became a national park on Feb 22, 2018 (© STLJB/Shutterstock)", 
+                "title": "Reflections on our newest national park", 
+                "url": "/az/hprichbg/rb/GatewayArchNP_EN-US13744808809_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e79a7484162a9110f2c2110977e5adcc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180824_GatewayArchNP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=gateway+arch+national+park&form=hpcapt&filters=HpDate:%2220180824_0700%22", 
+                "wp": true, 
+                "enddate": "20180825", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
