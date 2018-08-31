@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180830", 
+                "urlbase": "/az/hprichbg/rb/LawnBowling_ZH-CN10492037230", 
+                "fullstartdate": "201808301600", 
+                "copyright": "草地滚球运动的特写镜头 (© Graham Turner/Alamy)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/LawnBowling_ZH-CN10492037230_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bfafbf9c1903abffe86bcdd3bc1ab34e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180830_LawnBowling%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8D%89%E5%9C%B0%E6%BB%9A%E7%90%83%E8%BF%90%E5%8A%A8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180831", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180830", 
+                "urlbase": "/az/hprichbg/rb/CastleFrankenstein_EN-US10077757350", 
+                "fullstartdate": "201808300700", 
+                "copyright": "Castle Frankenstein in Darmstadt, Germany, on writer Mary Shelley's birthday (© Boris Stroujko/Alamy)", 
+                "title": "Did this castle inspire a classic novel?", 
+                "url": "/az/hprichbg/rb/CastleFrankenstein_EN-US10077757350_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0fcad4c84bdf83c2c1171e322b9ec983", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180830_CastleFrankenstein%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=frankenstein+castle&form=hpcapt&filters=HpDate:%2220180830_0700%22", 
+                "wp": true, 
+                "enddate": "20180831", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
