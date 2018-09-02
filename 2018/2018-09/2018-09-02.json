@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180901", 
+                "urlbase": "/az/hprichbg/rb/VenetianRowing_ZH-CN6668445308", 
+                "fullstartdate": "201809011600", 
+                "copyright": "威尼斯赛船节 (© Alessandro Bianchi/Reuters)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/VenetianRowing_ZH-CN6668445308_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f001e858e9077976162e578443739205", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180901_VenetianRowing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A8%81%E5%B0%BC%E6%96%AF%E8%B5%9B%E8%88%B9%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180902", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180901", 
+                "urlbase": "/az/hprichbg/rb/HighlandDancers_EN-US8960479406", 
+                "fullstartdate": "201809010700", 
+                "copyright": "Dancers at the Braemar Gathering in Scotland. The festival takes place today. (© Jeff J Mitchell/Getty Images)", 
+                "title": "Kicking it in the Scottish Highlands", 
+                "url": "/az/hprichbg/rb/HighlandDancers_EN-US8960479406_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "834b1b452512fbd586172f68d9db4191", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180901_HighlandDancers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Braemar+Gathering&form=hpcapt&filters=HpDate:%2220180901_0700%22", 
+                "wp": true, 
+                "enddate": "20180902", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
