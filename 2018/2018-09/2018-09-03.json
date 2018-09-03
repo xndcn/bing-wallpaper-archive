@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180902", 
+                "urlbase": "/az/hprichbg/rb/SunFlowersStorm_ZH-CN8706728441", 
+                "fullstartdate": "201809021600", 
+                "copyright": "暴风雨下的薰衣草和向日葵花田，法国普罗旺斯 (© beboy/Shutterstock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/SunFlowersStorm_ZH-CN8706728441_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "efe286a8439ae0e2dafc1512ad78a65a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180902_SunFlowersStorm%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180903", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180902", 
+                "urlbase": "/th?id=OHR.VenetianRowing_EN-US5984019010", 
+                "fullstartdate": "201809020700", 
+                "copyright": "Boaters in historical dress row down the Grand Canal during the Regata Storica in Venice, Italy (© Alessandro Bianchi/Reuters)", 
+                "title": "Travel Sunday: Regatta in Venice", 
+                "url": "/th?id=OHR.VenetianRowing_EN-US5984019010_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "54c806d2412ecb871dfbb065aabdc67d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180902_VenetianRowing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Venice&form=hpcapt&filters=HpDate:%2220180902_0700%22", 
+                "wp": false, 
+                "enddate": "20180903", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
