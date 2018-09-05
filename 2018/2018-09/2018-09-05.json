@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180904", 
+                "urlbase": "/az/hprichbg/rb/SockeyeReturns_ZH-CN9894542410", 
+                "fullstartdate": "201809041600", 
+                "copyright": "亚当斯河里的红鲑鱼，加拿大不列颠哥伦比亚省 (© Yva Momatiuk and John Eastcott/Minden Pictures)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/SockeyeReturns_ZH-CN9894542410_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "72a48d44597698a1d57a44004643cc02", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180904_SockeyeReturns%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BA%A2%E9%B2%91%E9%B1%BC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180905", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180904", 
+                "urlbase": "/az/hprichbg/rb/RoundBales_EN-US8640987726", 
+                "fullstartdate": "201809040700", 
+                "copyright": "Hay bales in Tuscany, Italy (© Chris Ryan/plainpicture)", 
+                "title": "Time to bale on summer", 
+                "url": "/az/hprichbg/rb/RoundBales_EN-US8640987726_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e9202f3d658497fcb15f685e2b5aa772", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180904_RoundBales%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Hay&form=hpcapt&filters=HpDate:%2220180904_0700%22", 
+                "wp": true, 
+                "enddate": "20180905", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
