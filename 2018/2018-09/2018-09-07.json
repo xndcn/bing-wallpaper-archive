@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180906", 
+                "urlbase": "/az/hprichbg/rb/BrazilianPine_ZH-CN10573180887", 
+                "fullstartdate": "201809061600", 
+                "copyright": "大西洋沿岸森林的巴西松 (© Ralph Clevenger/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/BrazilianPine_ZH-CN10573180887_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a79c468150fcbfc9ec345799ac75c090", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180906_BrazilianPine%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B7%B4%E8%A5%BF%E6%9D%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180907", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180906", 
+                "urlbase": "/az/hprichbg/rb/Rockhopper_EN-US8893810132", 
+                "fullstartdate": "201809060700", 
+                "copyright": "Northern rockhopper penguin on Gough Island in the South Atlantic (© Tui De Roy/Minden Pictures)", 
+                "title": "Feeling chic on Fashion Week", 
+                "url": "/az/hprichbg/rb/Rockhopper_EN-US8893810132_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c5e8c186e17956e339ae1ffb23257b1d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180906_Rockhopper%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=northern+rockhopper+penguin&form=hpcapt&filters=HpDate:%2220180906_0700%22", 
+                "wp": true, 
+                "enddate": "20180907", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
