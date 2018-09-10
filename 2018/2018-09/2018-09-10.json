@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180909", 
+                "urlbase": "/az/hprichbg/rb/Honeycomb_ZH-CN7204448210", 
+                "fullstartdate": "201809091600", 
+                "copyright": "蜂巢 (© Heidi and Hans-Juergen Koch/Minden Pictures)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/Honeycomb_ZH-CN7204448210_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "956060a94d566e18964ea6aff9a7a2aa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180909_Honeycomb%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%9C%82%E5%B7%A2&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180910", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180909", 
+                "urlbase": "/az/hprichbg/rb/RoyalOntarioMuseum_EN-US10362892998", 
+                "fullstartdate": "201809090700", 
+                "copyright": "Toronto's Royal Ontario Museum. The Toronto International Film Festival is happening now. (© Ken Straiton/Aurora Photos)", 
+                "title": "Travel Sunday: Toronto", 
+                "url": "/az/hprichbg/rb/RoyalOntarioMuseum_EN-US10362892998_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cefa2cc18a20642d4edff8223a44a24c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180909_RoyalOntarioMuseum%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=royal+ontario+museum&form=hpcapt&filters=HpDate:%2220180909_0700%22", 
+                "wp": false, 
+                "enddate": "20180910", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
