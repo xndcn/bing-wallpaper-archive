@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180910", 
+                "urlbase": "/az/hprichbg/rb/ShinjukuKiku_ZH-CN8446848393", 
+                "fullstartdate": "201809101600", 
+                "copyright": "管物菊，日本东京都新宿区 (© I love Photo and Apple./Getty images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/ShinjukuKiku_ZH-CN8446848393_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c79ceca8823a08c1c93373f4b26c9996", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180910_ShinjukuKiku%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%AE%A1%E7%89%A9%E8%8F%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180911", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180910", 
+                "urlbase": "/az/hprichbg/rb/Honeycomb_EN-US7568111738", 
+                "fullstartdate": "201809100700", 
+                "copyright": "Honeycombs (© Heidi and Hans-Juergen Koch/Minden Pictures)", 
+                "title": "A sweet treat for the Jewish new year", 
+                "url": "/az/hprichbg/rb/Honeycomb_EN-US7568111738_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "43ba532234ffce9696e8e3f7c0523390", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180910_Honeycomb%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=rosh+hashanah&form=hpcapt&filters=HpDate:%2220180910_0700%22", 
+                "wp": true, 
+                "enddate": "20180911", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
