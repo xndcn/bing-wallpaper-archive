@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180911", 
+                "urlbase": "/az/hprichbg/rb/BlackBrowed_ZH-CN11903207028", 
+                "fullstartdate": "201809111600", 
+                "copyright": "回到福克兰群岛的黑眉信天翁 (© Cultura RM/Alamy)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/BlackBrowed_ZH-CN11903207028_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "12948b177d0c26492dcb1049700602ea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180911_BlackBrowed%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%BB%91%E7%9C%89%E4%BF%A1%E5%A4%A9%E7%BF%81&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180912", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180911", 
+                "urlbase": "/az/hprichbg/rb/Oculus_EN-US8598115732", 
+                "fullstartdate": "201809110700", 
+                "copyright": "Inside the Oculus at the World Trade Center in Lower Manhattan (© Shannon Stapleton/Reuters)", 
+                "title": "In remembrance of 9/11", 
+                "url": "/az/hprichbg/rb/Oculus_EN-US8598115732_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4f495daabdda81a2791d793a292c8c56", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180911_Oculus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=world+trade+center+transportation+hub&form=hpcapt&filters=HpDate:%2220180911_0700%22", 
+                "wp": false, 
+                "enddate": "20180912", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
