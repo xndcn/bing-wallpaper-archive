@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180912", 
+                "urlbase": "/az/hprichbg/rb/BurgundyVineyards_ZH-CN11711344803", 
+                "fullstartdate": "201809121600", 
+                "copyright": "法国勃艮第的葡萄园 (© Hans Strand/plainpicture)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/BurgundyVineyards_ZH-CN11711344803_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "318c96d4e0a8efd9de4751733ca85b7b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180912_BurgundyVineyards%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%91%A1%E8%90%84%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180913", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180912", 
+                "urlbase": "/az/hprichbg/rb/GustavKlimt_EN-US9730106413", 
+                "fullstartdate": "201809120700", 
+                "copyright": "The Gustav Klimt exhibit at the new digital art center Atelier des Lumières in Paris, France (© Thierry Chesnot/Getty Images)", 
+                "title": "The new Paris art scene", 
+                "url": "/az/hprichbg/rb/GustavKlimt_EN-US9730106413_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6a918170dfbd8c171f8cb2a11d14c2f9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180912_GustavKlimt%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Atelier+des+Lumieres+Paris&form=hpcapt&filters=HpDate:%2220180912_0700%22", 
+                "wp": false, 
+                "enddate": "20180913", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
