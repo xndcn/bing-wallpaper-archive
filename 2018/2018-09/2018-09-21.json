@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180920", 
+                "urlbase": "/az/hprichbg/rb/ImaginePeace_ZH-CN12572046001", 
+                "fullstartdate": "201809201600", 
+                "copyright": "梦想和平塔，冰岛雷克雅未克 (© Arctic Images/Alamy)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/ImaginePeace_ZH-CN12572046001_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4bed7ebf7f63b29389874ca11053c611", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180920_ImaginePeace%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E5%92%8C%E5%B9%B3%E6%97%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20180921", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180920", 
+                "urlbase": "/az/hprichbg/rb/BlackpoolTowerBallroom_EN-US8455917047", 
+                "fullstartdate": "201809200700", 
+                "copyright": "The Blackpool Tower Ballroom in Lancashire, England (© Dosfotos/Getty Images)", 
+                "title": "Blackpool’s historic ballroom still enchants", 
+                "url": "/az/hprichbg/rb/BlackpoolTowerBallroom_EN-US8455917047_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4a710ce346f2fb634bb365bb029d0693", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180920_BlackpoolTowerBallroom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=blackpool+tower+ballroom&form=hpcapt&filters=HpDate:%2220180920_0700%22", 
+                "wp": false, 
+                "enddate": "20180921", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
