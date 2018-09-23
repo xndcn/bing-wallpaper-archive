@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180922", 
+                "urlbase": "/az/hprichbg/rb/ShenandoahAutumn_ZH-CN12756614363", 
+                "fullstartdate": "201809221600", 
+                "copyright": "位于蓝岭山脉的雪兰多国家公园，美国弗吉尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/ShenandoahAutumn_ZH-CN12756614363_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a81a6f5084390e53d50922730729d8bd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180922_ShenandoahAutumn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9B%AA%E5%85%B0%E5%A4%9A%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180923", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180922", 
+                "urlbase": "/az/hprichbg/rb/MunichTuba_EN-US7797561799", 
+                "fullstartdate": "201809220700", 
+                "copyright": "A marching band is reflected in the bell of a horn during the annual festival in Munich, Germany (© Joerg Koch/Getty Images)", 
+                "title": "Oktoberfest marches in", 
+                "url": "/az/hprichbg/rb/MunichTuba_EN-US7797561799_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d6837a34cf0282ca3008a5820d247c6d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180922_MunichTuba%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=oktoberfest&form=hpcapt&filters=HpDate:%2220180922_0700%22", 
+                "wp": false, 
+                "enddate": "20180923", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
