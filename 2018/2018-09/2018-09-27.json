@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20180926", 
+                "urlbase": "/az/hprichbg/rb/Shipyard_ZH-CN13183467490", 
+                "fullstartdate": "201809261600", 
+                "copyright": "夜色下停靠在开普敦港口的轮船，南非开普敦 (© Zero Creatives/Science Photo Library)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/Shipyard_ZH-CN13183467490_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cfed7dad9ba21b5ecde576432cf0152b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180926_Shipyard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E4%BA%8B%E6%97%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20180927", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20180926", 
+                "urlbase": "/az/hprichbg/rb/JacobHashimoto_EN-US8083666733", 
+                "fullstartdate": "201809260700", 
+                "copyright": "'The Eclipse' in the St. Cornelius Chapel on Governors Island, New York (© Timothy Schenck/Jacob Hashimoto Studio)", 
+                "title": "'The Eclipse' by Jacob Hashimoto", 
+                "url": "/az/hprichbg/rb/JacobHashimoto_EN-US8083666733_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5f61549ccbd0afdc9cc5cd27d288480f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20180926_JacobHashimoto%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=St.+Cornelius+Chapel+on+Governors+Island&form=hpcapt&filters=HpDate:%2220180926_0700%22", 
+                "wp": false, 
+                "enddate": "20180927", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
