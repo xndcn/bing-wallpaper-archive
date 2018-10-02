@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181001", 
+                "urlbase": "/az/hprichbg/rb/AlpineLarches_ZH-CN10557456981", 
+                "fullstartdate": "201810011600", 
+                "copyright": "北瀑布国家公园内的Ouzel湖，美国华盛顿州 (© Ethan Welty)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/AlpineLarches_ZH-CN10557456981_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "dac227a3402dc335d92c55136e69fe8d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181001_AlpineLarches%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8C%97%E7%80%91%E5%B8%83%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181002", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181001", 
+                "urlbase": "/az/hprichbg/rb/NASABDAY_EN-US11202342207", 
+                "fullstartdate": "201810010700", 
+                "copyright": "Contrails from a 2007 Atlantis shuttle liftoff at the Kennedy Space Center in Florida (© TIM SLOAN/AFP/Getty Images)", 
+                "title": "60 years of space exploration", 
+                "url": "/az/hprichbg/rb/NASABDAY_EN-US11202342207_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "aab8b08f4d439819a322c8e295096cda", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181001_NASABDAY%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=nasa&form=hpcapt&filters=HpDate:%2220181001_0700%22", 
+                "wp": false, 
+                "enddate": "20181002", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
