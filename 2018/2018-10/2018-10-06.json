@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181005", 
+                "urlbase": "/az/hprichbg/rb/SaltApple_ZH-CN14543908140", 
+                "fullstartdate": "201810051600", 
+                "copyright": "盐泉岛上的苹果树，加拿大不列颠哥伦比亚省 (© Radius Images/Offset)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/SaltApple_ZH-CN14543908140_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8554b26e140dc3b569272d1a1a48e976", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181005_SaltApple%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8B%B9%E6%9E%9C%E6%A0%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181006", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181005", 
+                "urlbase": "/az/hprichbg/rb/SmilingOctopus_EN-US7303849274", 
+                "fullstartdate": "201810050700", 
+                "copyright": "For Smile Day, a common octopus (© blickwinkel/Alamy)", 
+                "title": "Let us sea your smile", 
+                "url": "/az/hprichbg/rb/SmilingOctopus_EN-US7303849274_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d6ef30c14e45952716b2df442f3e155f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181005_SmilingOctopus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Common+octopus&form=hpcapt&filters=HpDate:%2220181005_0700%22", 
+                "wp": true, 
+                "enddate": "20181006", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
