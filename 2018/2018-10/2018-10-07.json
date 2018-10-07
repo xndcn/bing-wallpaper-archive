@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181006", 
+                "urlbase": "/az/hprichbg/rb/HumanTower_ZH-CN8948459298", 
+                "fullstartdate": "201810061600", 
+                "copyright": "第26届叠人塔大赛的选手们， 西班牙塔拉戈纳 (© Xinhua/Pau Barrena/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/HumanTower_ZH-CN8948459298_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "457797fd6d12e3e1cd51dd791219b8f1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181006_HumanTower%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%AC%AC26%E5%B1%8A%E5%A1%94%E6%8B%89%E6%88%88%E7%BA%B3%E5%8F%A0%E4%BA%BA%E5%A1%94%E5%A4%A7%E8%B5%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181007", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181006", 
+                "urlbase": "/az/hprichbg/rb/SaltApple_EN-US13056568956", 
+                "fullstartdate": "201810060700", 
+                "copyright": "Apple tree on Salt Spring Island in British Columbia, Canada (© Radius Images/Offset)", 
+                "title": "Take your pick", 
+                "url": "/az/hprichbg/rb/SaltApple_EN-US13056568956_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "78f29b2b81afdbaa1a6527b3025bb5b4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181006_SaltApple%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Salt+Spring+Island&form=hpcapt&filters=HpDate:%2220181006_0700%22", 
+                "wp": true, 
+                "enddate": "20181007", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
