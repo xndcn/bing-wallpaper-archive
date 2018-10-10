@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181009", 
+                "urlbase": "/az/hprichbg/rb/HubbleSaturn_ZH-CN12020278371", 
+                "fullstartdate": "201810091600", 
+                "copyright": "哈勃望远镜下的土星 (© NASA)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/HubbleSaturn_ZH-CN12020278371_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1ec76218457f6c682aaee21f6312be4d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181009_HubbleSaturn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%9F%E6%98%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181010", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181009", 
+                "urlbase": "/az/hprichbg/rb/NorseBuilding_EN-US6787265759", 
+                "fullstartdate": "201810090700", 
+                "copyright": "For Leif Erikson Day, a Norse building at L'Anse aux Meadows National Historic Site in Newfoundland, Canada (© Yves Marcoux/Getty Images)", 
+                "title": "In the footsteps of Vikings", 
+                "url": "/az/hprichbg/rb/NorseBuilding_EN-US6787265759_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ff576d340d0b85a0b362549e23deb0b4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181009_NorseBuilding%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=L'Anse+aux+Meadows+National+Historic+Site&form=hpcapt&filters=HpDate:%2220181009_0700%22", 
+                "wp": true, 
+                "enddate": "20181010", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
