@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181011", 
+                "urlbase": "/az/hprichbg/rb/LascauxCavePainting_ZH-CN11733576571", 
+                "fullstartdate": "201810111600", 
+                "copyright": "史前洞窟壁画国际艺术中心内的“高仿”拉斯科洞穴壁画，法国蒙蒂尼亚克 (© Caroline Blumberg/Epa/Shutterstock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/LascauxCavePainting_ZH-CN11733576571_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "56a1629dd38c25f1d434b80bac768938", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181011_LascauxCavePainting%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%8B%89%E6%96%AF%E7%A7%91%E6%B4%9E%E7%A9%B4%E5%A3%81%E7%94%BB&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181012", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181011", 
+                "urlbase": "/az/hprichbg/rb/SchoolGirls_EN-US9806767027", 
+                "fullstartdate": "201810110700", 
+                "copyright": "Schoolgirls in Fort Kochi, Kerala, India (© imageBROKER/Alamy)", 
+                "title": "International Day of the Girl", 
+                "url": "/az/hprichbg/rb/SchoolGirls_EN-US9806767027_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9cf3bd29ebce748355efb28890a8295f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181011_SchoolGirls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=International+Day+of+the+Girl&form=hpcapt&filters=HpDate:%2220181011_0700%22", 
+                "wp": false, 
+                "enddate": "20181012", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
