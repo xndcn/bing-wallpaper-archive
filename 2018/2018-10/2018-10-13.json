@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181012", 
+                "urlbase": "/az/hprichbg/rb/ZeroDegrees_ZH-CN10117368234", 
+                "fullstartdate": "201810121600", 
+                "copyright": "激光艺术'0 Degrees'，英国格林威治 (© Norah Saudan/Getty)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/ZeroDegrees_ZH-CN10117368234_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e6c547170e866b0f8a94412937a9d4c1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181012_ZeroDegrees%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%BF%80%E5%85%89%E8%89%BA%E6%9C%AF&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181013", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181012", 
+                "urlbase": "/az/hprichbg/rb/LascauxCavePainting_EN-US11733576571", 
+                "fullstartdate": "201810120700", 
+                "copyright": "Replica of Lascaux cave paintings at the International Centre for Cave Art in Montignac, France (© Caroline Blumberg/Epa/Shutterstock)", 
+                "title": "'The Sistine Chapel of Prehistory'", 
+                "url": "/az/hprichbg/rb/LascauxCavePainting_EN-US11733576571_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8eb4f85623b102d8ff53626580029801", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181012_LascauxCavePainting%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=lascaux+cave&form=hpcapt&filters=HpDate:%2220181012_0700%22", 
+                "wp": false, 
+                "enddate": "20181013", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
