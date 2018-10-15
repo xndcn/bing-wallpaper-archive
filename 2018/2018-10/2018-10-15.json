@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181014", 
+                "urlbase": "/az/hprichbg/rb/DawnRedwoods_ZH-CN11283421324", 
+                "fullstartdate": "201810141600", 
+                "copyright": "紫马岭公园内的水杉，中国中山市 (© Yaorusheng/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/DawnRedwoods_ZH-CN11283421324_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c35176a6053c7546c6da2189fe1f0f69", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181014_DawnRedwoods%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B0%B4%E6%9D%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181015", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181014", 
+                "urlbase": "/az/hprichbg/rb/BodeBerlin_EN-US6982399462", 
+                "fullstartdate": "201810140700", 
+                "copyright": "The Bode Museum during the Festival of Lights (© fhm/Getty Images)", 
+                "title": "Art lights up Berlin", 
+                "url": "/az/hprichbg/rb/BodeBerlin_EN-US6982399462_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6a5f71b1b105cec8af7383f56891f7f6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181014_BodeBerlin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=berlin+festival+of+lights&form=hpcapt&filters=HpDate:%2220181014_0700%22", 
+                "wp": false, 
+                "enddate": "20181015", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
