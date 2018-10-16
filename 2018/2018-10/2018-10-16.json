@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181015", 
+                "urlbase": "/az/hprichbg/rb/OxpeckerBoss_ZH-CN6808077622", 
+                "fullstartdate": "201810151600", 
+                "copyright": "站在非洲水牛鼻头上的黄嘴牛椋鸟，肯尼亚 (© Susan Portnoy/Offset)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/OxpeckerBoss_ZH-CN6808077622_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "91f05444a2c49b702bc1bbad381592b6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181015_OxpeckerBoss%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%A9%AC%E8%B5%9B%E9%A9%AC%E6%8B%89%E5%9B%BD%E5%AE%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181016", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181015", 
+                "urlbase": "/az/hprichbg/rb/DawnRedwoods_EN-US11213367899", 
+                "fullstartdate": "201810150700", 
+                "copyright": "Dawn redwoods in a lake at Zimaling Park, Zhongshan, China (© Yaorusheng/Getty Images)", 
+                "title": "Giants rescued from extinction", 
+                "url": "/az/hprichbg/rb/DawnRedwoods_EN-US11213367899_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0c51b8ea6b9f4fa44eaa06c5eaba6f86", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181015_DawnRedwoods%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Dawn+redwoods&form=hpcapt&filters=HpDate:%2220181015_0700%22", 
+                "wp": true, 
+                "enddate": "20181016", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
