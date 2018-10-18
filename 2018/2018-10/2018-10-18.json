@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181017", 
+                "urlbase": "/az/hprichbg/rb/MendenhalLake_ZH-CN7598729576", 
+                "fullstartdate": "201810171600", 
+                "copyright": "门登霍尔湖上的冰山，美国阿拉斯加州 (© John Hyde/age fotostock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/MendenhalLake_ZH-CN7598729576_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "426532a9724a7269656b1c03eb952404", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181017_MendenhalLake%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%97%A8%E7%99%BB%E9%9C%8D%E5%B0%94%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181018", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181017", 
+                "urlbase": "/az/hprichbg/rb/AZDino_EN-US8671766086", 
+                "fullstartdate": "201810170700", 
+                "copyright": "Dinosaur tracks from the Jurassic Period found near Tuba City, Arizona, in the Navajo Nation (© wanderluster/Getty Images)", 
+                "title": "Dig this: It's National Fossil Day", 
+                "url": "/az/hprichbg/rb/AZDino_EN-US8671766086_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5401bd04bd1094b3722e1eab8485cfc8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181017_AZDino%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=national+fossil+day&form=hpcapt&filters=HpDate:%2220181017_0700%22", 
+                "wp": true, 
+                "enddate": "20181018", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
