@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181019", 
+                "urlbase": "/az/hprichbg/rb/VallettaMalta_ZH-CN11321825930", 
+                "fullstartdate": "201810191600", 
+                "copyright": "瓦莱塔，马耳他 (© Adrian Malanca/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/VallettaMalta_ZH-CN11321825930_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c46f18cb2230509573759701eb34ca09", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181019_VallettaMalta%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%93%A6%E8%8E%B1%E5%A1%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181020", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181019", 
+                "urlbase": "/az/hprichbg/rb/WorkingHarbor_EN-US12194027907", 
+                "fullstartdate": "201810190700", 
+                "copyright": "Portland, Maine (© CFW Photography/Getty Images)", 
+                "title": "Harvest on the harbor", 
+                "url": "/az/hprichbg/rb/WorkingHarbor_EN-US12194027907_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "93afc886e21d068cc43b3c52506e0e16", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181019_WorkingHarbor%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=portland+maine&form=hpcapt&filters=HpDate:%2220181019_0700%22", 
+                "wp": true, 
+                "enddate": "20181020", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
