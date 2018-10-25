@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181024", 
+                "urlbase": "/az/hprichbg/rb/ChateauGaillard_ZH-CN10606001857", 
+                "fullstartdate": "201810241600", 
+                "copyright": "盖亚尔城堡，法国雷安德利斯镇 (© Francis Cormon/age fotostock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/ChateauGaillard_ZH-CN10606001857_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d28b1100461608ba2b95d5b8ba9038ea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181024_ChateauGaillard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%9B%96%E4%BA%9A%E5%B0%94%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181025", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181024", 
+                "urlbase": "/az/hprichbg/rb/DovesPiazza_EN-US11041089534", 
+                "fullstartdate": "201810240700", 
+                "copyright": "Art installation above the Piazza del Duomo in Amalfi, Italy (© LatitudeStock – TTL/Getty Images)", 
+                "title": "United Nations Day", 
+                "url": "/az/hprichbg/rb/DovesPiazza_EN-US11041089534_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e843dafd84e78f055b321ff937ae5ef6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181024_DovesPiazza%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=amalfi+italy&form=hpcapt&filters=HpDate:%2220181024_0700%22", 
+                "wp": true, 
+                "enddate": "20181025", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
