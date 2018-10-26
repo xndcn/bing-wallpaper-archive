@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181025", 
+                "urlbase": "/az/hprichbg/rb/CapeBretonSunset_ZH-CN11093515734", 
+                "fullstartdate": "201810251600", 
+                "copyright": "布雷顿角岛的夕阳，加拿大新斯科舍省 (© Mike Grandmaison/Alamy Stock Photo)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/CapeBretonSunset_ZH-CN11093515734_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c4a04ac00b321d81535692ebe55d4340", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181025_CapeBretonSunset%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B8%83%E9%9B%B7%E9%A1%BF%E8%A7%92%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181026", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181025", 
+                "urlbase": "/az/hprichbg/rb/ChateauGaillard_EN-US11027430397", 
+                "fullstartdate": "201810250700", 
+                "copyright": "Château Gaillard, a 12th-century fortress in the Seine Valley, France (© Francis Cormon/age fotostock)", 
+                "title": "Ruins near Rouen", 
+                "url": "/az/hprichbg/rb/ChateauGaillard_EN-US11027430397_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e43a0413809274120d65517bf3c173cd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181025_ChateauGaillard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Ch%C3%A2teau+gaillard&form=hpcapt&filters=HpDate:%2220181025_0700%22", 
+                "wp": true, 
+                "enddate": "20181026", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
