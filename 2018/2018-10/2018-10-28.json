@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181027", 
+                "urlbase": "/az/hprichbg/rb/VersaillesGhosts_ZH-CN11794136165", 
+                "fullstartdate": "201810271600", 
+                "copyright": "凡尔赛花园，法国 (© Lindsay Daniels/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/VersaillesGhosts_ZH-CN11794136165_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ad492c8a7ba7638a44c5ee51f9cb5965", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181027_VersaillesGhosts%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%87%A1%E5%B0%94%E8%B5%9B%E8%8A%B1%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181028", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181027", 
+                "urlbase": "/az/hprichbg/rb/CornMaze_EN-US12455937800", 
+                "fullstartdate": "201810270700", 
+                "copyright": "A corn maze in Petaluma, California (© Gallery Stock)", 
+                "title": "A corny tradition returns", 
+                "url": "/az/hprichbg/rb/CornMaze_EN-US12455937800_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "46eba2dc91268f26a3e6ca332be5b5f9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181027_CornMaze%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=corn+maze+labyrinth&form=hpcapt&filters=HpDate:%2220181027_0700%22", 
+                "wp": true, 
+                "enddate": "20181028", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
