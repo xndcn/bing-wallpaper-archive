@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181028", 
+                "urlbase": "/az/hprichbg/rb/PumpkinPatch_ZH-CN13388807715", 
+                "fullstartdate": "201810281600", 
+                "copyright": "南瓜园，美国宾夕法尼亚州 (© Beck Photography/Aurora Photos)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/PumpkinPatch_ZH-CN13388807715_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8486b0c7171a1fc7e9fb413cbdb7cd9a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181028_PumpkinPatch%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8D%97%E7%93%9C%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181029", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181028", 
+                "urlbase": "/az/hprichbg/rb/VersaillesGhosts_EN-US13230111547", 
+                "fullstartdate": "201810280700", 
+                "copyright": "A statue in the Gardens of Versailles in France (© Lindsay Daniels/Tandem Stills + Motion)", 
+                "title": "The ghost of Versailles", 
+                "url": "/az/hprichbg/rb/VersaillesGhosts_EN-US13230111547_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ecae04c303f66ff16c2081f1cb2c0e4b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181028_VersaillesGhosts%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Gardens+of+Versailles&form=hpcapt&filters=HpDate:%2220181028_0700%22", 
+                "wp": true, 
+                "enddate": "20181029", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
