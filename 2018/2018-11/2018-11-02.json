@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181101", 
+                "urlbase": "/az/hprichbg/rb/DeadPhotographer_ZH-CN9480942912", 
+                "fullstartdate": "201811011600", 
+                "copyright": "卡拉维拉人偶，墨西哥亡灵节 (© PvE/Alamy)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/DeadPhotographer_ZH-CN9480942912_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "020da3097d43c3fb2a478025aa9302f6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181101_DeadPhotographer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BA%A1%E7%81%B5%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181102", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181101", 
+                "urlbase": "/az/hprichbg/rb/DeadPhotographer_EN-US9480942912", 
+                "fullstartdate": "201811010700", 
+                "copyright": "Calaca figures to celebrate the Day of the Dead (© PvE/Alamy)", 
+                "title": "A party for the departed", 
+                "url": "/az/hprichbg/rb/DeadPhotographer_EN-US9480942912_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c966d07d1771ca2085a0eb1b7a30b2fd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181101_DeadPhotographer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=day+of+the+dead&form=hpcapt&filters=HpDate:%2220181101_0700%22", 
+                "wp": false, 
+                "enddate": "20181102", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
