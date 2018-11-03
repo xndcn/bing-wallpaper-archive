@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181102", 
+                "urlbase": "/az/hprichbg/rb/BisonDay_ZH-CN9548343838", 
+                "fullstartdate": "201811021600", 
+                "copyright": "羚羊岛州立公园内的美洲野牛，美国犹他州  (© Conor Barry/Aurora Photos)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/BisonDay_ZH-CN9548343838_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c35470144d99ae21fc4551d03a411be2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181102_BisonDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BE%8E%E6%B4%B2%E9%87%8E%E7%89%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181103", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181102", 
+                "urlbase": "/az/hprichbg/rb/GourdDance_EN-US9566401396", 
+                "fullstartdate": "201811020700", 
+                "copyright": "Dancing at the Gallup Inter-Tribal Indian Ceremonial in New Mexico (© Chuck Place/Alamy)", 
+                "title": "It's Native American Heritage Month", 
+                "url": "/az/hprichbg/rb/GourdDance_EN-US9566401396_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "747b2356d01ae45c074ab5cb5eb6f69c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181102_GourdDance%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Native+American+Indian+Heritage+Month&form=hpcapt&filters=HpDate:%2220181102_0700%22", 
+                "wp": false, 
+                "enddate": "20181103", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
