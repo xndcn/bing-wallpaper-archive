@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181106", 
+                "urlbase": "/az/hprichbg/rb/lidongjieya_ZH-CN9263684179", 
+                "fullstartdate": "201811061600", 
+                "copyright": "【今日立冬】江苏兴化市老街 (© ViewStock/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/lidongjieya_ZH-CN9263684179_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c61e0920856f416caadaea6a5a1985d7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181106_lidongjieya%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%AB%8B%E5%86%AC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181107", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181106", 
+                "urlbase": "/az/hprichbg/rb/LincolnStates_EN-US11450535177", 
+                "fullstartdate": "201811060800", 
+                "copyright": "Detail of the Lincoln Memorial, Washington, DC (© Walter Bibikow/Danita Delimont)", 
+                "title": "It's Election Day", 
+                "url": "/az/hprichbg/rb/LincolnStates_EN-US11450535177_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "911209ffcca433cf445f16298a6d8909", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181106_LincolnStates%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=lincoln+memorial&form=hpcapt&filters=HpDate:%2220181106_0800%22", 
+                "wp": true, 
+                "enddate": "20181107", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
