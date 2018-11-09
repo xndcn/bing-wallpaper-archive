@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181108", 
+                "urlbase": "/az/hprichbg/rb/CupFungus_ZH-CN9348475069", 
+                "fullstartdate": "201811081600", 
+                "copyright": "科尔科瓦杜国家公园的盘菌 (© Alex Hyde/Minden Pictures)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/CupFungus_ZH-CN9348475069_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "551c0592a6467178391d4d379140d91d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181108_CupFungus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%A7%91%E5%B0%94%E7%A7%91%E7%93%A6%E6%9D%9C%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181108", 
+                "urlbase": "/az/hprichbg/rb/ManateeAwareness_EN-US8913276028", 
+                "fullstartdate": "201811080800", 
+                "copyright": "Manatees in Blue Spring State Park, Florida (© Paul Nicklen/Getty Images)", 
+                "title": "Greener pastures for the sea cow", 
+                "url": "/az/hprichbg/rb/ManateeAwareness_EN-US8913276028_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e18245e918373b5e43e62d432ece85fe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181108_ManateeAwareness%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=manatee&form=hpcapt&filters=HpDate:%2220181108_0800%22", 
+                "wp": true, 
+                "enddate": "20181109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
