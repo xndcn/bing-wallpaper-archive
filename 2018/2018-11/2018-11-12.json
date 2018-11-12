@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181111", 
+                "urlbase": "/az/hprichbg/rb/HamersleyGorge_ZH-CN6901064951", 
+                "fullstartdate": "201811111600", 
+                "copyright": "哈默斯利峡谷里的石头结构，澳大利亚 (© Frank Krahmer/Corbis Documentary/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/HamersleyGorge_ZH-CN6901064951_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bf28f268009c3edaf0e0cfc38ec47eaa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181111_HamersleyGorge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/images/search?q=%E5%93%88%E9%BB%98%E6%96%AF%E5%88%A9%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181112", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181111", 
+                "urlbase": "/az/hprichbg/rb/WavePoppy_EN-US9071800685", 
+                "fullstartdate": "201811110800", 
+                "copyright": "‘Wave,’ part of ‘Blood Swept Lands and Seas of Red,’ an art installation pictured here at the Imperial War Museum North in Manchester, England (© Christopher Furlong/Getty Images)", 
+                "title": "Armistice Day, 100 years later", 
+                "url": "/az/hprichbg/rb/WavePoppy_EN-US9071800685_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "032263fd5872f48489b2914d71ac9565", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181111_WavePoppy%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Blood+Swept+Lands+and+Seas+of+Red&form=hpcapt&filters=HpDate:%2220181111_0800%22", 
+                "wp": false, 
+                "enddate": "20181112", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
