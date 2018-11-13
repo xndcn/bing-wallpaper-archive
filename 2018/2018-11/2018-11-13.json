@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181112", 
+                "urlbase": "/az/hprichbg/rb/TundraSwanMN_ZH-CN10780647219", 
+                "fullstartdate": "201811121600", 
+                "copyright": "飞过密西西比河面的小天鹅，美国明尼苏达州 (© National Geographic Image Collection/Alamy)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/TundraSwanMN_ZH-CN10780647219_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b55f99b163e1023868bd3688960624bf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181112_TundraSwanMN%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B0%8F%E5%A4%A9%E9%B9%85&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181113", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181112", 
+                "urlbase": "/az/hprichbg/rb/DCWWIMemorial_EN-US12585625273", 
+                "fullstartdate": "201811120800", 
+                "copyright": "The DC War Memorial, honoring residents of Washington, DC, who fought in World War I (© Sean Pavone/Alamy)", 
+                "title": "Observing Veterans Day", 
+                "url": "/az/hprichbg/rb/DCWWIMemorial_EN-US12585625273_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ff4e38d872994a350f4c432a69e0925c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181112_DCWWIMemorial%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=DC+War+Memorial&form=hpcapt&filters=HpDate:%2220181112_0800%22", 
+                "wp": false, 
+                "enddate": "20181113", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
