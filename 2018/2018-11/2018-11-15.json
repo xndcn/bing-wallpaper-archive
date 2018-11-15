@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181114", 
+                "urlbase": "/az/hprichbg/rb/EcolaSP_ZH-CN10746626161", 
+                "fullstartdate": "201811141600", 
+                "copyright": "刘易斯和克拉克国家历史公园，美国俄勒冈州 (© Morey Milbradt/Alamy)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/EcolaSP_ZH-CN10746626161_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8e86d9d7d3704d658928a98d297a5768", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181114_EcolaSP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%88%98%E6%98%93%E6%96%AF%E5%92%8C%E5%85%8B%E6%8B%89%E5%85%8B%E5%9B%BD%E5%AE%B6%E5%8E%86%E5%8F%B2%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181115", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181114", 
+                "urlbase": "/az/hprichbg/rb/LeGivre_EN-US7576437900", 
+                "fullstartdate": "201811140800", 
+                "copyright": "For Monet's birthday, at the Musée d'Orsay in Paris (© VCG Wilson/Corbis via Getty Images)", 
+                "title": "'The Frost' by Claude Monet", 
+                "url": "/az/hprichbg/rb/LeGivre_EN-US7576437900_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a2dd16dfa8cdc512f5b00f238444827d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181114_LeGivre%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=the+frost+claude+monet&form=hpcapt&filters=HpDate:%2220181114_0800%22", 
+                "wp": false, 
+                "enddate": "20181115", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
