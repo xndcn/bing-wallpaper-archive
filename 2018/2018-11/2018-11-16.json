@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181115", 
+                "urlbase": "/az/hprichbg/rb/ChiribiqueteNP_ZH-CN10719426351", 
+                "fullstartdate": "201811151600", 
+                "copyright": "奇里比克特山脉国家自然公园的古代岩画，哥伦比亚 (© Steve Winter/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/ChiribiqueteNP_ZH-CN10719426351_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b7ce2cad53348d324ad8b04e30952408", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181115_ChiribiqueteNP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A5%87%E9%87%8C%E6%AF%94%E5%85%8B%E7%89%B9%E5%B1%B1%E8%84%88%E5%9B%BD%E5%AE%B6%E8%87%AA%E7%84%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181116", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181115", 
+                "urlbase": "/az/hprichbg/rb/EcolaSP_EN-US9857224001", 
+                "fullstartdate": "201811150800", 
+                "copyright": "Lewis and Clark National and State Historical Parks in Oregon on the anniversary of Lewis and Clark reaching the Pacific (© Morey Milbradt/Alamy)", 
+                "title": "A milestone in American exploration", 
+                "url": "/az/hprichbg/rb/EcolaSP_EN-US9857224001_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "85ecf968ebea08700d7ceaf5f4e28906", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181115_EcolaSP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=lewis+and+clark+national+and+state+historical+parks&form=hpcapt&filters=HpDate:%2220181115_0800%22", 
+                "wp": true, 
+                "enddate": "20181116", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
