@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181116", 
+                "urlbase": "/az/hprichbg/rb/SpiritBearSleeps_ZH-CN7690026884", 
+                "fullstartdate": "201811161600", 
+                "copyright": "沉睡的柯莫德熊，加拿大英属哥伦比亚 (© John E Marriott/SuperStock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/SpiritBearSleeps_ZH-CN7690026884_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e7fecb6452d70a84623068a512a39db6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181116_SpiritBearSleeps%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%9F%AF%E8%8E%AB%E5%BE%B7%E7%86%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181117", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181116", 
+                "urlbase": "/az/hprichbg/rb/ChiribiqueteNP_EN-US10713623298", 
+                "fullstartdate": "201811160800", 
+                "copyright": "Ancient rock art in Chiribiquete National Natural Park, Colombia (© Steve Winter/Getty Images)", 
+                "title": "A remote wonder of the world", 
+                "url": "/az/hprichbg/rb/ChiribiqueteNP_EN-US10713623298_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "573d10e6d99c140cafe1426a7f65b7c1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181116_ChiribiqueteNP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=chiribiquete+national+natural+park&form=hpcapt&filters=HpDate:%2220181116_0800%22", 
+                "wp": true, 
+                "enddate": "20181117", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
