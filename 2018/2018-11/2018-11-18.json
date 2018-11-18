@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181117", 
+                "urlbase": "/az/hprichbg/rb/GeorgiaAquarium_ZH-CN12748518316", 
+                "fullstartdate": "201811171600", 
+                "copyright": "乔治亚水族馆，美国亚特兰大 (© novikat/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/GeorgiaAquarium_ZH-CN12748518316_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cd9b7e8bcce7e3d1e13f9af64521bd1a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181117_GeorgiaAquarium%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B9%94%E6%B2%BB%E4%BA%9A%E5%B7%9E%E6%B0%B4%E6%97%8F%E9%A6%86&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181118", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181117", 
+                "urlbase": "/az/hprichbg/rb/MandarinDucksUK_EN-US10090169541", 
+                "fullstartdate": "201811170800", 
+                "copyright": "Mandarin ducks perched on a branch (© Thomas Langley/Alamy)", 
+                "title": "A rare duck from the East", 
+                "url": "/az/hprichbg/rb/MandarinDucksUK_EN-US10090169541_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1891af6b68dc53510881392e139ead50", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181117_MandarinDucksUK%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Mandarin+duck&form=hpcapt&filters=HpDate:%2220181117_0800%22", 
+                "wp": true, 
+                "enddate": "20181118", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
