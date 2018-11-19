@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181118", 
+                "urlbase": "/az/hprichbg/rb/NarrowsZion_ZH-CN9686302838", 
+                "fullstartdate": "201811181600", 
+                "copyright": "锡安国家公园内的维尔京河，美国犹他州 (© Justinreznick/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/NarrowsZion_ZH-CN9686302838_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a2d2b96a5c113e78bc7a0f8a508cbf73", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181118_NarrowsZion%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%94%A1%E5%AE%89%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181119", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181118", 
+                "urlbase": "/az/hprichbg/rb/GeorgiaAquarium_EN-US12896401074", 
+                "fullstartdate": "201811180800", 
+                "copyright": "Georgia Aquarium in Atlanta (© novikat/Getty Images)", 
+                "title": "A must-sea in Atlanta", 
+                "url": "/az/hprichbg/rb/GeorgiaAquarium_EN-US12896401074_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1cdfba5965cf7b41a2d00bdd8efd9ddb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181118_GeorgiaAquarium%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=georgia+aquarium&form=hpcapt&filters=HpDate:%2220181118_0800%22", 
+                "wp": true, 
+                "enddate": "20181119", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
