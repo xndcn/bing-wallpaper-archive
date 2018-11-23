@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181122", 
+                "urlbase": "/az/hprichbg/rb/VarennaSnow_ZH-CN7673479242", 
+                "fullstartdate": "201811221600", 
+                "copyright": "科莫湖，意大利瓦伦纳 (© Andrea Comi/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/VarennaSnow_ZH-CN7673479242_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "87245e39dac740975d8815c1a3d62c39", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181122_VarennaSnow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%A7%91%E8%8E%AB%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181123", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181122", 
+                "urlbase": "/az/hprichbg/rb/TomTurkey_EN-US7913806283", 
+                "fullstartdate": "201811220800", 
+                "copyright": "Tom Turkey, the oldest float in the Macy's Thanksgiving Day Parade, in New York City (© Shannon Stapleton/Reuters)", 
+                "title": "Happy Thanksgiving!", 
+                "url": "/az/hprichbg/rb/TomTurkey_EN-US7913806283_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d3e74f6c995a2ad22e69b8418a905f95", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181122_TomTurkey%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=macy's+thanksgiving+day+parade&form=hpcapt&filters=HpDate:%2220181122_0800%22", 
+                "wp": false, 
+                "enddate": "20181123", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
