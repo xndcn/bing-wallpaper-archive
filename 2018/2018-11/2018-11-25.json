@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181124", 
+                "urlbase": "/az/hprichbg/rb/NorsteadLights_ZH-CN9558383357", 
+                "fullstartdate": "201811241600", 
+                "copyright": "在划艇上方的北极光，加拿大纽芬兰 (© Adam Woodworth/Aurora Photos)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/NorsteadLights_ZH-CN9558383357_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "97098d35443a012363d22da27ef14273", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181124_NorsteadLights%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E5%85%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181125", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181124", 
+                "urlbase": "/az/hprichbg/rb/DarwinOrigin_EN-US14530151991", 
+                "fullstartdate": "201811240800", 
+                "copyright": "A Darwin's finch on a giant tortoise for the anniversary of 'On the Origin of Species' (© Tui De Roy/Minden Pictures)", 
+                "title": "Greetings from Galápagos", 
+                "url": "/az/hprichbg/rb/DarwinOrigin_EN-US14530151991_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "084268cb76410acf1c8dac977ca47581", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181124_DarwinOrigin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Darwin's+finches&form=hpcapt&filters=HpDate:%2220181124_0800%22", 
+                "wp": true, 
+                "enddate": "20181125", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
