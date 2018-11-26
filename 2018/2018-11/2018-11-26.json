@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181125", 
+                "urlbase": "/az/hprichbg/rb/AliceCentralPark_ZH-CN9031006021", 
+                "fullstartdate": "201811251600", 
+                "copyright": "纽约中央公园内的爱丽丝梦游仙境雕塑，美国纽约  (© Diego Grandi/Shutterstock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/AliceCentralPark_ZH-CN9031006021_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a429d19e1c5a04756c3207e24dde66dc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181125_AliceCentralPark%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%88%B1%E4%B8%BD%E4%B8%9D%E6%A2%A6%E6%B8%B8%E4%BB%99%E5%A2%83&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181126", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181125", 
+                "urlbase": "/az/hprichbg/rb/VarennaSnow_EN-US8379460546", 
+                "fullstartdate": "201811250800", 
+                "copyright": "Varenna, Italy, on the shore of Lake Como (© Andrea Comi/Getty Images)", 
+                "title": "Snow falls on Lake Como", 
+                "url": "/az/hprichbg/rb/VarennaSnow_EN-US8379460546_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c8c653cb21c8f1d51ef3ad6f3cae723b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181125_VarennaSnow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=varenna+italy&form=hpcapt&filters=HpDate:%2220181125_0800%22", 
+                "wp": true, 
+                "enddate": "20181126", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
