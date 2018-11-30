@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181129", 
+                "urlbase": "/az/hprichbg/rb/KilchurnSky_ZH-CN9305096030", 
+                "fullstartdate": "201811291600", 
+                "copyright": "基尔亨城堡，苏格兰 (© Jon Arnold/Danita Delimont)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/KilchurnSky_ZH-CN9305096030_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "84ed1ce0b213d0f46ae0f01acbfc520b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181129_KilchurnSky%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%9C%A3%E5%AE%89%E5%BE%B7%E9%B2%81%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181130", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181129", 
+                "urlbase": "/az/hprichbg/rb/FrankfurtXmas_EN-US9289866662", 
+                "fullstartdate": "201811290800", 
+                "copyright": "The Frankfurt Christmas Market in Germany is open now (© Patrice von Collani/Westend61/Offset)", 
+                "title": "625 years of holiday cheer", 
+                "url": "/az/hprichbg/rb/FrankfurtXmas_EN-US9289866662_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "25bf2988fd5e2f27d9e1dcb648d77f63", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181129_FrankfurtXmas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=frankfurt+christmas+market+2018&form=hpcapt&filters=HpDate:%2220181129_0800%22", 
+                "wp": false, 
+                "enddate": "20181130", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
