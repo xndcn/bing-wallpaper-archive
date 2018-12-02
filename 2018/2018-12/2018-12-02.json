@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181201", 
+                "urlbase": "/az/hprichbg/rb/Nuuk_ZH-CN12127666588", 
+                "fullstartdate": "201812011600", 
+                "copyright": "努克，格陵兰岛 (© nevereverro/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/Nuuk_ZH-CN12127666588_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cfe68f3e582ced22794fe85b21f7001c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181201_Nuuk%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8A%AA%E5%85%8B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181202", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181201", 
+                "urlbase": "/az/hprichbg/rb/RedAntarctica_EN-US12197122155", 
+                "fullstartdate": "201812010800", 
+                "copyright": "A view of our southernmost continent for Antarctica Day (© Jan Vermeer/Minden Pictures)", 
+                "title": "Greetings from way down under", 
+                "url": "/az/hprichbg/rb/RedAntarctica_EN-US12197122155_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f2fdd1a3c869f959e7dc7bb1dbe856ba", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181201_RedAntarctica%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Antarctic+Peninsula&FORM=hpcapt&filters=HpDate:%2220181201_0800%22", 
+                "wp": true, 
+                "enddate": "20181202", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
