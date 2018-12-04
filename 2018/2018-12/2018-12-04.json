@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181203", 
+                "urlbase": "/az/hprichbg/rb/SphinxObservatory_ZH-CN7733546261", 
+                "fullstartdate": "201812031600", 
+                "copyright": "斯芬克斯天文台，瑞士 (© Jan Greune/Alamy)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/SphinxObservatory_ZH-CN7733546261_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cedc20dce1fc64d4ca111160ac254067", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181203_SphinxObservatory%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%96%AF%E8%8A%AC%E5%85%8B%E6%96%AF%E8%A7%82%E6%99%AF%E5%8F%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181204", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181203", 
+                "urlbase": "/az/hprichbg/rb/AlanTuringNotebook_EN-US7743633207", 
+                "fullstartdate": "201812030800", 
+                "copyright": "A page of Alan Turing's notebook to kick off Computer Science Education Week (© Spencer Platt/Getty Images News)", 
+                "title": "Notes from a genius", 
+                "url": "/az/hprichbg/rb/AlanTuringNotebook_EN-US7743633207_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "384bc09be14b659d1f27fe0591cd4240", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181203_AlanTuringNotebook%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=computer+science+education+week&form=hpcapt&filters=HpDate:%2220181203_0800%22", 
+                "wp": false, 
+                "enddate": "20181204", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
