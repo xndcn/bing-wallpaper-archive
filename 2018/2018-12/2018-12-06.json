@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181205", 
+                "urlbase": "/az/hprichbg/rb/Huuhkajat_ZH-CN10089104175", 
+                "fullstartdate": "201812051600", 
+                "copyright": "在赫尔辛基的一只雕鸮 (© Markus Varesvuo/Minden Pictures)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/Huuhkajat_ZH-CN10089104175_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "57c1a1fe1e571b3cc908bfba2ce5fa57", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181205_Huuhkajat%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9B%95%E9%B8%AE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181206", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181205", 
+                "urlbase": "/az/hprichbg/rb/GHWB_EN-US0750669903", 
+                "fullstartdate": "201812050800", 
+                "copyright": "The US Capitol with flags at half-staff as former President George H.W. Bush lies in state at the Capitol rotunda, Washington, DC, on Dec 3, 2018 (© Al Drago/Bloomberg via Getty Images)", 
+                "title": "A national day of mourning", 
+                "url": "/az/hprichbg/rb/GHWB_EN-US0750669903_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "72ac2692bc584993360c239c6ba9be36", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181205_GHWB%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Capitol+Rotunda&form=hpcapt&filters=HpDate:%2220181205_0800%22", 
+                "wp": false, 
+                "enddate": "20181206", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
