@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181209", 
+                "urlbase": "/az/hprichbg/rb/ChristmasIslandCrab_ZH-CN11742198976", 
+                "fullstartdate": "201812091600", 
+                "copyright": "一只正在迁徙的圣诞岛红蟹 (© Ingo Arndt/Minden Pictures)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/ChristmasIslandCrab_ZH-CN11742198976_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4e0c43ab1b59962e4d88db2afb6d56ae", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181209_ChristmasIslandCrab%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%A3%E8%AF%9E%E7%BA%A2%E8%9F%B9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181210", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181209", 
+                "urlbase": "/az/hprichbg/rb/JohnDaySnow_EN-US9302838803", 
+                "fullstartdate": "201812090800", 
+                "copyright": "Snow covering the Painted Hills of John Day Fossil Beds National Monument in Oregon (© Floris van Breugel/Minden Pictures)", 
+                "title": "The painted hills of prehistory", 
+                "url": "/az/hprichbg/rb/JohnDaySnow_EN-US9302838803_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "188e5d86a072965e542a9a24bd0cfa8c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181209_JohnDaySnow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=John+Day+Fossil+Beds+National+Monument&form=hpcapt&filters=HpDate:%2220181209_0800%22", 
+                "wp": true, 
+                "enddate": "20181210", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
