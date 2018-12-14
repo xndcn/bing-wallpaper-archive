@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181213", 
+                "urlbase": "/az/hprichbg/rb/CardinalBerries_ZH-CN12579098505", 
+                "fullstartdate": "201812131600", 
+                "copyright": "一只雌性北美红雀 (© Matthew Studebaker/Minden Pictures)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/CardinalBerries_ZH-CN12579098505_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "beeabdef213564b0340de8665b0d5453", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181213_CardinalBerries%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8C%97%E7%BE%8E%E7%BA%A2%E9%9B%80&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181214", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181213", 
+                "urlbase": "/az/hprichbg/rb/ReykjavikYuleLads_EN-US11288116047", 
+                "fullstartdate": "201812130800", 
+                "copyright": "Reykjavik on the second night of the Yule Lads (© Arctic-Images/Corbis Documentary/Getty Images)", 
+                "title": "Yule love Reykjavik", 
+                "url": "/az/hprichbg/rb/ReykjavikYuleLads_EN-US11288116047_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bc2f5195a489c9903b8c4f2c9346b0ad", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181213_ReykjavikYuleLads%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=yule+lads&form=hpcapt&filters=HpDate:%2220181213_0800%22", 
+                "wp": true, 
+                "enddate": "20181214", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
