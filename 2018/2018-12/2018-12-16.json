@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181215", 
+                "urlbase": "/az/hprichbg/rb/MuranoChristmas_ZH-CN11783971861", 
+                "fullstartdate": "201812151600", 
+                "copyright": "运河旁的节日装饰品，意大利穆拉诺岛 (© John Warburton-Lee/DanitaDelimont.com)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/MuranoChristmas_ZH-CN11783971861_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9493f37cf93ec3ff60bab33052f49a73", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181215_MuranoChristmas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%EF%BC%8C%E7%A9%86%E6%8B%89%E8%AF%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181216", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181215", 
+                "urlbase": "/az/hprichbg/rb/YosemiteBridge_EN-US10544416282", 
+                "fullstartdate": "201812150800", 
+                "copyright": "The Stoneman Bridge on the Merced River in Yosemite National Park (© Ron_Thomas/E+/Getty Images)", 
+                "title": "Season of solitude in Yosemite", 
+                "url": "/az/hprichbg/rb/YosemiteBridge_EN-US10544416282_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "377669ddb10dba2bec701829d622c1e0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181215_YosemiteBridge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=yosemite+national+park&form=hpcapt&filters=HpDate:%2220181215_0800%22", 
+                "wp": true, 
+                "enddate": "20181216", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
