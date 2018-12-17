@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181216", 
+                "urlbase": "/az/hprichbg/rb/OsoyoosExpressway_ZH-CN12997739047", 
+                "fullstartdate": "201812161600", 
+                "copyright": "长曝光摄影下的奥索尤斯小镇车流 (© Bun Lee/Media Drum World/Aurora Photos)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/OsoyoosExpressway_ZH-CN12997739047_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1ed95a0b9026f25fd5dda0686ca14534", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181216_OsoyoosExpressway%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%EF%BC%8C%E8%8B%B1%E5%B1%9E%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A&form=HPCAPT&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20181217", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181216", 
+                "urlbase": "/az/hprichbg/rb/MuranoChristmas_EN-US10759540271", 
+                "fullstartdate": "201812160800", 
+                "copyright": "Holiday decorations on a canal in Murano, Italy (© John Warburton-Lee/DanitaDelimont.com)", 
+                "title": "Murano aglow", 
+                "url": "/az/hprichbg/rb/MuranoChristmas_EN-US10759540271_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "21784f36a5bd7cdff67425797d1d48ca", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181216_MuranoChristmas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=murano+island&form=hpcapt&filters=HpDate:%2220181216_0800%22", 
+                "wp": true, 
+                "enddate": "20181217", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
