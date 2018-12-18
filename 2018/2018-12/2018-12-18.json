@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181217", 
+                "urlbase": "/az/hprichbg/rb/NutcrackerSeason_ZH-CN8373379424", 
+                "fullstartdate": "201812171600", 
+                "copyright": "正在表演“胡桃夹子”芭蕾舞剧的莫斯科芭蕾舞团 (© Tytus Zmijewski/Epa/Shutterstock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/NutcrackerSeason_ZH-CN8373379424_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c59c69c06209d677d9d2b8284425c181", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181217_NutcrackerSeason%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8A%AD%E8%95%BE%E8%88%9E%E5%89%A7&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181218", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181217", 
+                "urlbase": "/az/hprichbg/rb/WrightGlider_EN-US10185286591", 
+                "fullstartdate": "201812170800", 
+                "copyright": "Wilbur Wright gliding down Big Kill Devil Hill in Kitty Hawk, North Carolina (© Library of Congress)", 
+                "title": "Wright brothers fly into history", 
+                "url": "/az/hprichbg/rb/WrightGlider_EN-US10185286591_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "5a132d06c5e7b66f0a1ec9f434a0dca1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181217_WrightGlider%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=wright+brothers+first+flight&form=hpcapt&filters=HpDate:%2220181217_0800%22", 
+                "wp": false, 
+                "enddate": "20181218", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
