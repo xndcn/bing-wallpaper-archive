@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181219", 
+                "urlbase": "/az/hprichbg/rb/WinterIllumination_ZH-CN9373805444", 
+                "fullstartdate": "201812191600", 
+                "copyright": "名花之里冬季彩灯展，日本桑名市 (© Julian Krakowiak/Alamy)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/WinterIllumination_ZH-CN9373805444_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a626e5fd896ca4ff82eacf03a66016e6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181219_WinterIllumination%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%90%8D%E8%8A%B1%E4%B9%8B%E9%87%8C&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181220", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181219", 
+                "urlbase": "/az/hprichbg/rb/PragueChristmas_EN-US8649790921", 
+                "fullstartdate": "201812190800", 
+                "copyright": "The Charles Bridge in Prague, Czech Republic (© borchee/E+/Getty Images)", 
+                "title": "Snow falls on Bohemia", 
+                "url": "/az/hprichbg/rb/PragueChristmas_EN-US8649790921_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "37c19c3f45952fd81c429e5e92c386e9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181219_PragueChristmas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=prague&form=hpcapt&filters=HpDate:%2220181219_0800%22", 
+                "wp": true, 
+                "enddate": "20181220", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
