@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181220", 
+                "urlbase": "/az/hprichbg/rb/AdobeSantaFe_ZH-CN2664241241", 
+                "fullstartdate": "201812201600", 
+                "copyright": "圣达菲的Farolito，美国新墨西哥州 (© Julien McRoberts/Danita Delimont)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/AdobeSantaFe_ZH-CN2664241241_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2f4ebba3bda063fc763fea0637ced35c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181220_AdobeSantaFe%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%A3%E8%BE%BE%E8%8F%B2&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181221", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181220", 
+                "urlbase": "/az/hprichbg/rb/WinterIllumination_EN-US0071328313", 
+                "fullstartdate": "201812200800", 
+                "copyright": "Nabana-no-Sato gardens at Nagashima Spa Land in Kuwana, Japan (© Julian Krakowiak/Alamy)", 
+                "title": "Winter illuminations in Nabana-no-Sato", 
+                "url": "/az/hprichbg/rb/WinterIllumination_EN-US0071328313_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "eda366ca6eee5c653a59d8f16a54ae63", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181220_WinterIllumination%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=nabana+no+sato+nagashima+spa+land&form=hpcapt&filters=HpDate:%2220181220_0800%22", 
+                "wp": false, 
+                "enddate": "20181221", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
