@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181222", 
+                "urlbase": "/az/hprichbg/rb/Ravennaschlucht_ZH-CN6473294840", 
+                "fullstartdate": "201812221600", 
+                "copyright": "拉文纳峡谷圣诞市集 ，德国 (© Daniel Schoenen/Aurora Photos)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/Ravennaschlucht_ZH-CN6473294840_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "468977d3a5caad981ea61ec21141674d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181222_Ravennaschlucht%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%8B%89%E6%96%87%E7%BA%B3%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181223", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181222", 
+                "urlbase": "/az/hprichbg/rb/ColdMoonRising_EN-US4125365696", 
+                "fullstartdate": "201812220800", 
+                "copyright": "Moonrise over Yellowstone National Park (© Tom Murphy/Getty Images)", 
+                "title": "'Cold Moon' rising", 
+                "url": "/az/hprichbg/rb/ColdMoonRising_EN-US4125365696_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "84ca43274c1a9810c790f4364a86502e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181222_ColdMoonRising%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=full+moon&form=hpcapt&filters=HpDate:%2220181222_0800%22", 
+                "wp": true, 
+                "enddate": "20181223", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
