@@ -1,0 +1,82 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181224", 
+                "urlbase": "/az/hprichbg/rb/ToyXmasTree_ZH-CN7495694130", 
+                "fullstartdate": "201812241600", 
+                "vid": {
+                    "caption": "【今日圣诞节】冬日风景 (© Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/Xmas_Tree_Lights_NimiaRF_4K_951127_1080_FF_HD_ZH-CN170829817.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Xmas_Tree_Lights_NimiaRF_4K_951127_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Xmas_Tree_Lights_NimiaRF_4K_951127_1080_HD_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=christmas+tree+history&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "【今日圣诞节】冬日风景 (© Nimia)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/ToyXmasTree_ZH-CN7495694130_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "57ea57152ef52e2da40cc4c874815055", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181224_ToyXmasTree%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%A3%E8%AF%9E%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181225", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181224", 
+                "urlbase": "/az/hprichbg/rb/SilentNight_EN-US4915938125", 
+                "fullstartdate": "201812240800", 
+                "copyright": "Salzburg, Austria, for the 200th anniversary of the classic carol (© MacEaton/Alamy)", 
+                "title": "'Silent Night' turns 200", 
+                "url": "/az/hprichbg/rb/SilentNight_EN-US4915938125_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "aa650579dbce29e503deee9453aab72f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181224_SilentNight%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=salzburg+austria&form=hpcapt&filters=HpDate:%2220181224_0800%22", 
+                "wp": true, 
+                "enddate": "20181225", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
