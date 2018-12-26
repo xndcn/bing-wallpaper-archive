@@ -1,0 +1,82 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181225", 
+                "urlbase": "/az/hprichbg/rb/OxfordBoxing_ZH-CN2854964515", 
+                "fullstartdate": "201812251600", 
+                "copyright": "伦敦牛津街的十字路口 (© Matt Cheetham/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/OxfordBoxing_ZH-CN2854964515_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "d348d781d1ca3ce01f7969b668d45a7c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181225_OxfordBoxing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BC%A6%E6%95%A6%E7%89%9B%E6%B4%A5%E8%A1%97&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181226", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181225", 
+                "urlbase": "/az/hprichbg/rb/ToyXmasTree_EN-US5514346051", 
+                "fullstartdate": "201812250800", 
+                "vid": {
+                    "caption": "A wintry scene for Christmas (© Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/Xmas_Tree_Lights_NimiaRF_4K_951127_1080_HD_EN-US1941930703.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Xmas_Tree_Lights_NimiaRF_4K_951127_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/Xmas_Tree_Lights_NimiaRF_4K_951127_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=christmas+tree+history&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "A wintry scene for Christmas (© Nimia)", 
+                "title": "Twinkle, twinkle, little tree", 
+                "url": "/az/hprichbg/rb/ToyXmasTree_EN-US5514346051_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c8e2340c25cbac5ae1c9f3fa95326f26", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181225_ToyXmasTree%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=christmas+tree+history&form=hpcapt&filters=HpDate:%2220181225_0800%22", 
+                "wp": false, 
+                "enddate": "20181226", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
