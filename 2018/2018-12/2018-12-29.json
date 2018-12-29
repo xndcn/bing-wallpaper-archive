@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181228", 
+                "urlbase": "/az/hprichbg/rb/NLNorway_ZH-CN3295729777", 
+                "fullstartdate": "201812281600", 
+                "copyright": "罗弗敦群岛上空的北极光，挪威 (© arnaudbertrande/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/NLNorway_ZH-CN3295729777_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1fc752dc79f7b510e74f7634d6f14a6b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181228_NLNorway%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BD%97%E5%BC%97%E6%95%A6%E6%8C%AA%E5%A8%81&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181229", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181228", 
+                "urlbase": "/az/hprichbg/rb/WYBaldEagle_EN-US5673845676", 
+                "fullstartdate": "201812280800", 
+                "copyright": "A bald eagle in Wyoming’s Grand Teton National Park (© Kathleen Reeder Wildlife Photography/Getty Images)", 
+                "title": "The Endangered Species Act, 45 years later", 
+                "url": "/az/hprichbg/rb/WYBaldEagle_EN-US5673845676_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2e7ab8a9fb814b7fa713f4ce384df24d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181228_WYBaldEagle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=bald+eagle&form=hpcapt&filters=HpDate:%2220181228_0800%22", 
+                "wp": true, 
+                "enddate": "20181229", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
