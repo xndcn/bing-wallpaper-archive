@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181229", 
+                "urlbase": "/az/hprichbg/rb/Shaun_ZH-CN1664802755", 
+                "fullstartdate": "201812291600", 
+                "copyright": "巴厘岛海域的一只海蛞蝓 (© Media Drum World/Alamy)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/Shaun_ZH-CN1664802755_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "80e39689c5cb6e1e2d93f95b0236733c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181229_Shaun%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%B5%B7%E5%9F%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181230", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181229", 
+                "urlbase": "/az/hprichbg/rb/NLNorway_EN-US5725558747", 
+                "fullstartdate": "201812290800", 
+                "copyright": "The aurora borealis over Lofoten, Norway (© arnaudbertrande/Getty Images)", 
+                "title": "Skies light up over Norway", 
+                "url": "/az/hprichbg/rb/NLNorway_EN-US5725558747_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8dee9da82d77263824b6ff2d26130081", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181229_NLNorway%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Lofoten+Norway+&form=hpcapt&filters=HpDate:%2220181229_0800%22", 
+                "wp": true, 
+                "enddate": "20181230", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
