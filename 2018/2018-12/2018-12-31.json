@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181230", 
+                "urlbase": "/az/hprichbg/rb/EyeFireworks_ZH-CN1712859531", 
+                "fullstartdate": "201812301600", 
+                "copyright": "跨年烟火表演，伦敦 (© Anadolu Agency/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/EyeFireworks_ZH-CN1712859531_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b09dca474cf455eadcc37ff94b2d0adb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181230_EyeFireworks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%B7%A8%E5%B9%B4%E7%83%9F%E7%81%AB%E8%A1%A8%E6%BC%94&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20181231", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181230", 
+                "urlbase": "/az/hprichbg/rb/Shaun_EN-US5782217523", 
+                "fullstartdate": "201812300800", 
+                "copyright": "A sea slug in the waters off Bali (© Media Drum World/Alamy)", 
+                "title": "Solar-powered sea slug", 
+                "url": "/az/hprichbg/rb/Shaun_EN-US5782217523_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f060ab8ebdd982683aa5af605b6880b8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181230_Shaun%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Costasiella+kuroshimae&form=hpcapt&filters=HpDate:%2220181230_0800%22", 
+                "wp": true, 
+                "enddate": "20181231", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
