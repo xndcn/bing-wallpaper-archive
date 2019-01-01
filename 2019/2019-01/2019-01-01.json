@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20181231", 
+                "urlbase": "/az/hprichbg/rb/Newyear_ZH-CN7704868471", 
+                "fullstartdate": "201812311600", 
+                "copyright": "【今日元旦】  (© The Art Archive/SuperStock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/Newyear_ZH-CN7704868471_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a1a2de3add38fbc030c7f4ee64300ac9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181231_Newyear%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%85%83%E6%97%A6&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190101", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20181231", 
+                "urlbase": "/az/hprichbg/rb/EyeFireworks_EN-US5841094095", 
+                "fullstartdate": "201812310800", 
+                "copyright": "Fireworks in London for the New Year (© Anadolu Agency/Getty Images)", 
+                "title": "So long, 2018", 
+                "url": "/az/hprichbg/rb/EyeFireworks_EN-US5841094095_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "edc29f73a3b3b34f415b9a3893c658c7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20181231_EyeFireworks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=London+Eye&form=hpcapt&filters=HpDate:%2220181231_0800%22", 
+                "wp": false, 
+                "enddate": "20190101", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
