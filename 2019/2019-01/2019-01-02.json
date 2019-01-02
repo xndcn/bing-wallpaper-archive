@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190101", 
+                "urlbase": "/az/hprichbg/rb/TeslaCoil_ZH-CN4579455505", 
+                "fullstartdate": "201901011600", 
+                "copyright": "发明家尼古拉·特斯拉和他的“放大发射机” (© Nikola Tesla Museum/Science Photo Library)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/TeslaCoil_ZH-CN4579455505_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c4ad77afe99275c036a66053c941d55e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190101_TeslaCoil%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B0%BC%E5%8F%A4%E6%8B%89%E7%89%B9%E6%96%AF%E6%8B%89&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190102", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190101", 
+                "urlbase": "/az/hprichbg/rb/FujiSunrise_EN-US5899859591", 
+                "fullstartdate": "201901010800", 
+                "copyright": "At the top of Mount Fuji in Japan (© Nopasorn Kowathanakul/Getty Images)", 
+                "title": "The sun rises on a new year", 
+                "url": "/az/hprichbg/rb/FujiSunrise_EN-US5899859591_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7d3635f24e522c9af73bbadaf764c70c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190101_FujiSunrise%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Mount+Fuji&form=hpcapt&filters=HpDate:%2220190101_0800%22", 
+                "wp": false, 
+                "enddate": "20190102", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
