@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190102", 
+                "urlbase": "/az/hprichbg/rb/LadyBugFrost_ZH-CN0796268333", 
+                "fullstartdate": "201901021600", 
+                "copyright": "一只冬眠的瓢虫，英国特温 (© James Pearce/Alamy)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/LadyBugFrost_ZH-CN0796268333_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0dc96c2be468354b1140ad09ae3022b0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190102_LadyBugFrost%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%93%A2%E8%99%AB&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190103", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190102", 
+                "urlbase": "/az/hprichbg/rb/TeslaCoil_EN-US6004505614", 
+                "fullstartdate": "201901020800", 
+                "copyright": "For Science Fiction Day, inventor Nikola Tesla and his magnifying transmitter (© Nikola Tesla Museum/Science Photo Library)", 
+                "title": "Science fiction becomes science fact", 
+                "url": "/az/hprichbg/rb/TeslaCoil_EN-US6004505614_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "023dbfc52b2fcc57310639b4b78b31a8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190102_TeslaCoil%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=nikola+tesla&form=hpcapt&filters=HpDate:%2220190102_0800%22", 
+                "wp": false, 
+                "enddate": "20190103", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
