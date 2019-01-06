@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190105", 
+                "urlbase": "/az/hprichbg/rb/TwilightHarbin_ZH-CN9418965212", 
+                "fullstartdate": "201901051600", 
+                "copyright": "哈尔滨冰雪节，中国 (© Gavin Hellier/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/TwilightHarbin_ZH-CN9418965212_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "45406ad27bfa2336698b2916445070cb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190105_TwilightHarbin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190106", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190105", 
+                "urlbase": "/az/hprichbg/rb/ParisOpera_EN-US0391204441", 
+                "fullstartdate": "201901050800", 
+                "copyright": "Marc Chagall's ceiling inside the Palais Garnier on the anniversary of its opening (© Stephane Gautier/agefotostock)", 
+                "title": "Paris opera house hits a high note", 
+                "url": "/az/hprichbg/rb/ParisOpera_EN-US0391204441_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "42a6a102b6af61026041635f169114a2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190105_ParisOpera%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www4.bing.com/search?q=palais+garnier&form=hpcapt&filters=HpDate:%2220190105_0800%22", 
+                "wp": false, 
+                "enddate": "20190106", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
