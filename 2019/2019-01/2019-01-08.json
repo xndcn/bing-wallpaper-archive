@@ -1,0 +1,82 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190107", 
+                "urlbase": "/az/hprichbg/rb/RainierDawn_ZH-CN9182470816", 
+                "fullstartdate": "201901071600", 
+                "copyright": "瑞尼尔山国家公园，美国华盛顿州 (© Stephen Matera/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/RainierDawn_ZH-CN9182470816_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c295f026b64b45e57248218481629f4e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190107_RainierDawn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190108", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190107", 
+                "urlbase": "/az/hprichbg/rb/SnowyOwlVideo_EN-US0834675446", 
+                "fullstartdate": "201901070800", 
+                "vid": {
+                    "caption": "Snowy owl (© Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/SnowyOwl_GettyRF-456992254_1080_FF_HD_EN-US489063993.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SnowyOwl_GettyRF-456992254_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SnowyOwl_GettyRF-456992254_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=snowy+owl&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Snowy owl (© Jérémie LeBlond-Fontaine/Getty Images)", 
+                "title": "Owl by myself", 
+                "url": "/az/hprichbg/rb/SnowyOwlVideo_EN-US0834675446_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "00c9fb044fc68bb1fbad813f5c81495f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190107_SnowyOwlVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=snowy+owl&form=hpcapt&filters=HpDate:%2220190107_0800%22", 
+                "wp": false, 
+                "enddate": "20190108", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
