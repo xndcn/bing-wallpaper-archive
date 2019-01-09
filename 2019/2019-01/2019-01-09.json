@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190108", 
+                "urlbase": "/az/hprichbg/rb/VietnamStairs_ZH-CN9127735514", 
+                "fullstartdate": "201901081600", 
+                "copyright": "木阿洞穴，越南宁平 (© Cavan Images/Offset)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/VietnamStairs_ZH-CN9127735514_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "65ea7c12816f5eb97d2af9b2070feaae", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190108_VietnamStairs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%9C%A8%E9%98%BF%E6%B4%9E%E7%A9%B4&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190108", 
+                "urlbase": "/az/hprichbg/rb/RainierDawn_EN-US0987432919", 
+                "fullstartdate": "201901080800", 
+                "copyright": "Mount Rainier National Park in Washington state (© Stephen Matera/Tandem Stills + Motion)", 
+                "title": "Mount Rainier peeks through", 
+                "url": "/az/hprichbg/rb/RainierDawn_EN-US0987432919_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2ccd1f7c482939600e10701be236c280", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190108_RainierDawn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=mount+rainier+national+park+washington&form=hpcapt&filters=HpDate:%2220190108_0800%22", 
+                "wp": true, 
+                "enddate": "20190109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
