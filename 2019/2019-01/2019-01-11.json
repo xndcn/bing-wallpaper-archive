@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190110", 
+                "urlbase": "/az/hprichbg/rb/NapoleonsHat_ZH-CN2968205603", 
+                "fullstartdate": "201901101600", 
+                "copyright": "泰夫劳特镇，摩洛哥 (© Doug Pearson Photography/plainpicture)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/NapoleonsHat_ZH-CN2968205603_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "17f177b692af881721a10c8aaac8f54e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190110_NapoleonsHat%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B3%B0%E5%A4%AB%E5%8A%B3%E7%89%B9%E9%95%87%E6%91%A9%E6%B4%9B%E5%93%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190111", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190110", 
+                "urlbase": "/az/hprichbg/rb/SaguenayIceFishing_EN-US1341187251", 
+                "fullstartdate": "201901100800", 
+                "copyright": "Ice-fishing village near L'Anse-Saint-Jean, Quebec, Canada (© Hemis/Alamy)", 
+                "title": "Fishing in the deep freeze", 
+                "url": "/az/hprichbg/rb/SaguenayIceFishing_EN-US1341187251_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "85de663731f47fde38f030240a92ad11", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190110_SaguenayIceFishing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=ice+fishing&form=hpcapt&filters=HpDate:%2220190110_0800%22", 
+                "wp": true, 
+                "enddate": "20190111", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
