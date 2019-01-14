@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190113", 
+                "urlbase": "/az/hprichbg/rb/LaDigue_ZH-CN2774523529", 
+                "fullstartdate": "201901131600", 
+                "copyright": "塞舌尔群岛之一的拉迪戈岛 (© Oleksandr Dibrova/Adobe Stock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/LaDigue_ZH-CN2774523529_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "310f623a5a1b845e3100dedf461b7c9a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190113_LaDigue%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%8B%89%E8%BF%AA%E6%88%88%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190114", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190113", 
+                "urlbase": "/az/hprichbg/rb/GoldenEagle_EN-US1734892344", 
+                "fullstartdate": "201901130800", 
+                "copyright": "A rider hunts with an eagle in the Altai Mountains of Mongolia (© Timothy Allen/Getty Images)", 
+                "title": "Above the Mongolian plains", 
+                "url": "/az/hprichbg/rb/GoldenEagle_EN-US1734892344_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "153e82963d39079f9c792c22e41fc9b4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190113_GoldenEagle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=hunting+with+eagles&form=hpcapt&filters=HpDate:%2220190113_0800%22", 
+                "wp": false, 
+                "enddate": "20190114", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
