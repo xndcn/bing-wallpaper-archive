@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190114", 
+                "urlbase": "/az/hprichbg/rb/BM1759_ZH-CN2713615652", 
+                "fullstartdate": "201901141600", 
+                "copyright": "大英博物馆独特的屋顶及其周边地区 (© Vladimir Zakharov/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/BM1759_ZH-CN2713615652_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "9743faa7fa3afa1dfc221c8f84a4f917", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190114_BM1759%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190115", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190114", 
+                "urlbase": "/az/hprichbg/rb/LaDigue_EN-US1859326350", 
+                "fullstartdate": "201901140800", 
+                "copyright": "La Digue, an island in the Seychelles (© Oleksandr Dibrova/Adobe Stock)", 
+                "title": "Wish you were here?", 
+                "url": "/az/hprichbg/rb/LaDigue_EN-US1859326350_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "2d0cec29ef38b66a2a5ccfa680103972", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190114_LaDigue%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=la+digue+seychelles&form=hpcapt&filters=HpDate:%2220190114_0800%22", 
+                "wp": true, 
+                "enddate": "20190115", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
