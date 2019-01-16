@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190115", 
+                "urlbase": "/az/hprichbg/rb/AthabascaCave_ZH-CN2654280175", 
+                "fullstartdate": "201901151600", 
+                "copyright": "一名登山者攀爬阿萨巴斯卡冰川时，北极光当空闪耀，加拿大贾斯珀国家公园 (© Paul Zizka/Aurora Photos)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/AthabascaCave_ZH-CN2654280175_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b551c54929073ba265ba5d3638085e5d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190115_AthabascaCave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%98%BF%E8%90%A8%E5%B7%B4%E6%96%AF%E5%8D%A1%E5%86%B0%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190116", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190115", 
+                "urlbase": "/az/hprichbg/rb/BM1759_EN-US1907236248", 
+                "fullstartdate": "201901150800", 
+                "copyright": "The distinctive roof of the British Museum and the surrounding area (© Vladimir Zakharov/Getty Images)", 
+                "title": "A London landmark turns 260", 
+                "url": "/az/hprichbg/rb/BM1759_EN-US1907236248_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "f6863e204c34f3a31f05e1696f010c76", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190115_BM1759%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=british+museum+london&form=hpcapt&filters=HpDate:%2220190115_0800%22", 
+                "wp": true, 
+                "enddate": "20190116", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
