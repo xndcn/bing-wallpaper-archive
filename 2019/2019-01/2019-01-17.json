@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190116", 
+                "urlbase": "/az/hprichbg/rb/UKSomerset_ZH-CN2587621995", 
+                "fullstartdate": "201901161600", 
+                "copyright": "英格兰，萨默塞特 (© Guy Edwardes/Minden Pictures)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/UKSomerset_ZH-CN2587621995_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cb69af32903bd4a7e77505504df90df9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190116_UKSomerset%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%90%A8%E9%BB%98%E5%A1%9E%E7%89%B9&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190117", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190116", 
+                "urlbase": "/az/hprichbg/rb/AthabascaCave_EN-US2095502368", 
+                "fullstartdate": "201901160800", 
+                "copyright": "Climbing the Athabasca Glacier in Jasper National Park, Alberta, Canada, as the aurora borealis glows (© Paul Zizka/Aurora Photos)", 
+                "title": "Ice climbing at the Athabasca", 
+                "url": "/az/hprichbg/rb/AthabascaCave_EN-US2095502368_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "ceb5f546b2104e495837a919c6d22474", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190116_AthabascaCave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=athabasca+glacier&form=hpcapt&filters=HpDate:%2220190116_0800%22", 
+                "wp": true, 
+                "enddate": "20190117", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
