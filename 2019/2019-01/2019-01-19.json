@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190118", 
+                "urlbase": "/az/hprichbg/rb/OceanDrive_ZH-CN8199064696", 
+                "fullstartdate": "201901181600", 
+                "copyright": "迈阿密滨海大道，美国佛罗里达州 (© Guido Cozzi/Offset/Shutterstock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/OceanDrive_ZH-CN8199064696_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "726d48e0acd92b84cf78aea8799f4304", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190118_OceanDrive%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%BF%88%E9%98%BF%E5%AF%86%E6%BB%A8%E6%B5%B7%E5%A4%A7%E9%81%93&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190119", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190118", 
+                "urlbase": "/az/hprichbg/rb/LatonaFountain_EN-US3711871238", 
+                "fullstartdate": "201901180800", 
+                "copyright": "Latona Fountain in the Gardens of Versailles for the 100th anniversary of the Paris Peace Conference (© Arnaud Chicurel/SuperStock)", 
+                "title": "Marking a centennial in Versailles", 
+                "url": "/az/hprichbg/rb/LatonaFountain_EN-US3711871238_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0269a0c3fcf8cb7e9274fb9bc19eed6e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190118_LatonaFountain%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Latona+Fountain&form=hpcapt&filters=HpDate:%2220190118_0800%22", 
+                "wp": true, 
+                "enddate": "20190119", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
