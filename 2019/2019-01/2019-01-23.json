@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190122", 
+                "urlbase": "/az/hprichbg/rb/ApfelTag_ZH-CN7906570680", 
+                "fullstartdate": "201901221600", 
+                "copyright": "冬天里的一棵苹果树 (© Chris Stein/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/ApfelTag_ZH-CN7906570680_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "cd0cb7fbcc87a007501fc7d77372492e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190122_ApfelTag%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8B%B9%E6%9E%9C%E6%A0%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190123", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190122", 
+                "urlbase": "/az/hprichbg/rb/BodegasYsios_EN-US4027142269", 
+                "fullstartdate": "201901220800", 
+                "copyright": "Bodegas Ysios, a winery in La Rioja, Spain (© Mike Randolph/Masterfile)", 
+                "title": "Modern architecture in classic Spain", 
+                "url": "/az/hprichbg/rb/BodegasYsios_EN-US4027142269_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "4d5d71522fad2c2bf124f640ed1ae1b2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190122_BodegasYsios%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=La+rioja+spain&form=hpcapt&filters=HpDate:%2220190122_0800%22", 
+                "wp": false, 
+                "enddate": "20190123", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
