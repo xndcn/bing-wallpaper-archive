@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190123", 
+                "urlbase": "/az/hprichbg/rb/ParkCity_ZH-CN7858135089", 
+                "fullstartdate": "201901231600", 
+                "copyright": "帕克城，美国犹他州 (© Patrick Brandenburg/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/ParkCity_ZH-CN7858135089_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8aa210bb0a6bd20242164a56ee4028f9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190123_ParkCity%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B8%95%E5%85%8B%E5%9F%8E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190124", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190123", 
+                "urlbase": "/az/hprichbg/rb/ApfelTag_EN-US4068796758", 
+                "fullstartdate": "201901230800", 
+                "copyright": "On Pie Day, an apple tree in winter (© Chris Stein/Getty Images)", 
+                "title": "Pie in the sky", 
+                "url": "/az/hprichbg/rb/ApfelTag_EN-US4068796758_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a28e1ab7431edc318defc9b9fdb26425", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190123_ApfelTag%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Apple+tree&form=hpcapt&filters=HpDate:%2220190123_0800%22", 
+                "wp": true, 
+                "enddate": "20190124", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
