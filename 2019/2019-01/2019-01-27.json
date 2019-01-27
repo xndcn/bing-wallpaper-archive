@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190126", 
+                "urlbase": "/az/hprichbg/rb/HolocaustMemorial_ZH-CN7460471446", 
+                "fullstartdate": "201901261600", 
+                "copyright": "欧洲被害犹太人纪念碑，德国柏林 (© McPHOTO/age fotostock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/HolocaustMemorial_ZH-CN7460471446_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "90ae3778291385620ea62b857515d51d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190126_HolocaustMemorial%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BA%AA%E5%BF%B5%E7%A2%91&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190127", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190126", 
+                "urlbase": "/az/hprichbg/rb/FortRajgad_EN-US4329326138", 
+                "fullstartdate": "201901260800", 
+                "copyright": "Rajgad Fort near Pune, India (© Rohit Gowaikar/Getty Images)", 
+                "title": "Ruins of Rajgad", 
+                "url": "/az/hprichbg/rb/FortRajgad_EN-US4329326138_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a687357ef566134878a0e379411bf94e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190126_FortRajgad%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Rajgad+Fort&form=hpcapt&filters=HpDate:%2220190126_0800%22", 
+                "wp": true, 
+                "enddate": "20190127", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
