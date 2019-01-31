@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190130", 
+                "urlbase": "/az/hprichbg/rb/WinterLynx_ZH-CN7158207296", 
+                "fullstartdate": "201901301600", 
+                "copyright": "波希米亚摩拉维亚高地的猞猁，捷克 (© sduben/Getty Images Plus)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/WinterLynx_ZH-CN7158207296_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1e77ebc04cc4607c9501ec28291bf997", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190130_WinterLynx%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%8C%9E%E7%8C%81&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190131", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190130", 
+                "urlbase": "/az/hprichbg/rb/IcePalaceStPaul_EN-US4513563308", 
+                "fullstartdate": "201901300800", 
+                "copyright": "Landmark Center clock tower and Winter Carnival Ice Palace, St. Paul, Minnesota (© Joe Mamer Photography/Alamy)", 
+                "title": "A midwestern winter celebration", 
+                "url": "/az/hprichbg/rb/IcePalaceStPaul_EN-US4513563308_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a48151d59e2de4cbf94a375a1d9947a5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190130_IcePalaceStPaul%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=st.+paul+winter+carnival&form=hpcapt&filters=HpDate:%2220190130_0800%22", 
+                "wp": true, 
+                "enddate": "20190131", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
