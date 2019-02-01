@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190131", 
+                "urlbase": "/az/hprichbg/rb/MinnewankaBoathouse_ZH-CN0548323518", 
+                "fullstartdate": "201901311600", 
+                "copyright": "明尼万卡湖上的船屋，加拿大阿尔伯塔省班夫国家公园 (© Wayne Simpson/All Canada Photos/Superstock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/MinnewankaBoathouse_ZH-CN0548323518_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c72d821a1752a858ee1d7e1375fc5537", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190131_MinnewankaBoathouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%88%B9%E5%B1%8B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190201", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190131", 
+                "urlbase": "/az/hprichbg/rb/WinterLynx_EN-US4573026886", 
+                "fullstartdate": "201901310800", 
+                "copyright": "Eurasian lynx in the Bohemian-Moravian Highlands of the Czech Republic (© sduben/Getty Images Plus)", 
+                "title": "Not your average cat", 
+                "url": "/az/hprichbg/rb/WinterLynx_EN-US4573026886_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1c3947fe0bedd604b9ac6f49fd9b215b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190131_WinterLynx%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=eurasian+lynx&form=hpcapt&filters=HpDate:%2220190131_0800%22", 
+                "wp": true, 
+                "enddate": "20190201", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
