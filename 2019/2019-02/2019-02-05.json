@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190204", 
+                "urlbase": "/az/hprichbg/rb/springfestival_ZH-CN6995564658", 
+                "fullstartdate": "201902041600", 
+                "copyright": "【今日春节】  (© Peter Adams/Photolibrary/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/springfestival_ZH-CN6995564658_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e2b5c91957bcae6ae4a535980c25f980", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190204_springfestival%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%98%A5%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190205", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190204", 
+                "urlbase": "/az/hprichbg/rb/RosaParks_EN-US3305378721", 
+                "fullstartdate": "201902040800", 
+                "copyright": "Sculpture at the National Civil Rights Museum in Memphis, Tennessee (© Gino Santa Maria/Shutterstock)", 
+                "title": "In celebration of Rosa Parks", 
+                "url": "/az/hprichbg/rb/RosaParks_EN-US3305378721_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b84abcf0b477ff58d49f5491f72052f6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190204_RosaParks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Rosa+Parks&form=hpcapt&filters=HpDate:%2220190204_0800%22", 
+                "wp": false, 
+                "enddate": "20190205", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
