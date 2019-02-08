@@ -1,0 +1,82 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190207", 
+                "urlbase": "/az/hprichbg/rb/YNPFirefall_ZH-CN6411148793", 
+                "fullstartdate": "201902071600", 
+                "vid": {
+                    "caption": "马尾瀑布形成的火瀑，美国加利福尼亚州优胜美地国家公园 (© Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/HorsetailFalls_Yoemite_nimiaRF_4K_506652_1080_FF_HD_ZH-CN1433631634.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/HorsetailFalls_Yoemite_nimiaRF_4K_506652_768_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/HorsetailFalls_Yoemite_nimiaRF_4K_506652_1080_HD_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=%e7%81%ab%e7%80%91&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "马尾瀑布形成的火瀑，美国加利福尼亚州优胜美地国家公园 (© Nimia)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/YNPFirefall_ZH-CN6411148793_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3d5f54fcbb630d699d59d98d8bf5dd5b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190207_YNPFirefall%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%81%AB%E7%80%91&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190207", 
+                "urlbase": "/az/hprichbg/rb/Misotsuchi_EN-US3565171827", 
+                "fullstartdate": "201902070800", 
+                "copyright": "Illuminated icicles in Chichibu, Japan (© JTB Photo/UIG/age fotostock)", 
+                "title": "The Icicles of Misotsuchi", 
+                "url": "/az/hprichbg/rb/Misotsuchi_EN-US3565171827_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "e7c0464c6b303505103281d5646c01a1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190207_Misotsuchi%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=chichibu+japan&form=hpcapt&filters=HpDate:%2220190207_0800%22", 
+                "wp": true, 
+                "enddate": "20190208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
