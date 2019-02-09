@@ -1,0 +1,82 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190208", 
+                "urlbase": "/az/hprichbg/rb/AlmondOrchard_ZH-CN6176656132", 
+                "fullstartdate": "201902081600", 
+                "copyright": "花团锦簇的扁桃果园，加利福尼亚州萨克拉门托山谷 (© Anthony Dunn/Alamy)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/AlmondOrchard_ZH-CN6176656132_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "a82f295f49f5ecc92bc653c9a49a0e94", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190208_AlmondOrchard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%89%81%E6%A1%83%E6%9E%9C%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190209", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190208", 
+                "urlbase": "/az/hprichbg/rb/YNPFirefall_EN-US3687518557", 
+                "fullstartdate": "201902080800", 
+                "vid": {
+                    "caption": "Firefall at Horsetail Fall, Yosemite National Park, California (© Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/HorsetailFalls_Yoemite_nimiaRF_4K_506652_1080_FF_HD_EN-US1433631634.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/HorsetailFalls_Yoemite_nimiaRF_4K_506652_768_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/HorsetailFalls_Yoemite_nimiaRF_4K_506652_1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=horsetail+fall+yosemite&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Firefall at Horsetail Fall, Yosemite National Park, California (© Nimia)", 
+                "title": "Firefall stuns at Yosemite", 
+                "url": "/az/hprichbg/rb/YNPFirefall_EN-US3687518557_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "6c94204a2b82d30005de5f1e81ed5df1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190208_YNPFirefall%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=horsetail+fall+yosemite&form=hpcapt&filters=HpDate:%2220190208_0800%22", 
+                "wp": false, 
+                "enddate": "20190209", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
