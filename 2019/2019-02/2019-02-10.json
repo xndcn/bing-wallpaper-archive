@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190209", 
+                "urlbase": "/az/hprichbg/rb/StylusGroove_ZH-CN6106476225", 
+                "fullstartdate": "201902091600", 
+                "copyright": "留声机指针划过唱片时的扫描电子显微图 (© Susumu Nishinaga/Science Photo Library)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/StylusGroove_ZH-CN6106476225_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "498f5e3d236dbe54b2bffc84fb6f0aad", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190209_StylusGroove%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%95%99%E5%A3%B0%E6%9C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190210", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190209", 
+                "urlbase": "/az/hprichbg/rb/AlmondOrchard_EN-US3748776057", 
+                "fullstartdate": "201902090800", 
+                "copyright": "Almond orchards in bloom, Sacramento Valley, California (© Anthony Dunn/Alamy)", 
+                "title": "Blooms in the valley", 
+                "url": "/az/hprichbg/rb/AlmondOrchard_EN-US3748776057_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "27c033376348952ea5766a8993b7e7e1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190209_AlmondOrchard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=almond+tree&form=hpcapt&filters=HpDate:%2220190209_0800%22", 
+                "wp": true, 
+                "enddate": "20190210", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
