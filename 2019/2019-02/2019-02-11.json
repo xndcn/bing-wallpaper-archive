@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190210", 
+                "urlbase": "/az/hprichbg/rb/KomondorKennel_ZH-CN6009722858", 
+                "fullstartdate": "201902101600", 
+                "copyright": "一只参加威斯敏斯特犬业俱乐部狗展的可蒙犬，纽约 (© Mike Segar/Reuters)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/KomondorKennel_ZH-CN6009722858_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "3ce83b72f3d3606e1a7a118c15aeb320", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190210_KomondorKennel%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8F%AF%E8%92%99%E7%8A%AC&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190211", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190210", 
+                "urlbase": "/az/hprichbg/rb/StylusGroove_EN-US3894393576", 
+                "fullstartdate": "201902100800", 
+                "copyright": "For the Grammy Awards, a scanning electron micrograph of a needle on a record (© Susumu Nishinaga/Science Photo Library)", 
+                "title": "Music gets a close-up", 
+                "url": "/az/hprichbg/rb/StylusGroove_EN-US3894393576_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b49beac217abc06f3ce47bed7c10bbf7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190210_StylusGroove%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=phonograph&form=hpcapt&filters=HpDate:%2220190210_0800%22", 
+                "wp": true, 
+                "enddate": "20190211", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
