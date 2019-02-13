@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190212", 
+                "urlbase": "/az/hprichbg/rb/Misotsuchi_ZH-CN5137902045", 
+                "fullstartdate": "201902121600", 
+                "copyright": "彩色灯光下的冰柱，日本秩父市 (© JTB Photo/UIG/age fotostock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/Misotsuchi_ZH-CN5137902045_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c44b0451c83047780ee434b9b4b016b3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190212_Misotsuchi%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%86%B0%E6%9F%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190213", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190212", 
+                "urlbase": "/az/hprichbg/rb/UFOMuseum_EN-US4040829577", 
+                "fullstartdate": "201902120800", 
+                "copyright": "International UFO Museum and Research Center, Roswell, New Mexico (© Walter Bibikow/Danita Delimont)", 
+                "title": "Is anybody out there?", 
+                "url": "/az/hprichbg/rb/UFOMuseum_EN-US4040829577_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "58cd34b10efe7f9e949ad26f746a5506", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190212_UFOMuseum%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=international+ufo+museum+and+research+center&form=hpcapt&filters=HpDate:%2220190212_0800%22", 
+                "wp": false, 
+                "enddate": "20190213", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
