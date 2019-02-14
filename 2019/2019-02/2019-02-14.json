@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190213", 
+                "urlbase": "/az/hprichbg/rb/HeartCranes_ZH-CN5070756418", 
+                "fullstartdate": "201902131600", 
+                "copyright": "交颈组成心形的灰冠鹤 (© Ibrahim Suha Derbent/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/HeartCranes_ZH-CN5070756418_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1aed9429d453dddf25b3073a6a8fa253", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190213_HeartCranes%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%81%B0%E5%86%A0%E9%B9%A4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190214", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190213", 
+                "urlbase": "/az/hprichbg/rb/BeatlesAshram_EN-US4100734529", 
+                "fullstartdate": "201902130800", 
+                "copyright": "Meditation domes at the Beatles Ashram in Rishikesh, India (© Sasha Bezzubov/Gallery Stock)", 
+                "title": "A transcendental place", 
+                "url": "/az/hprichbg/rb/BeatlesAshram_EN-US4100734529_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "880e234325c5047153073c250e290eea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190213_BeatlesAshram%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=beatles+ashram+in+rishikesh&form=hpcapt&filters=HpDate:%2220190213_0800%22", 
+                "wp": true, 
+                "enddate": "20190214", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
