@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190219", 
+                "urlbase": "/az/hprichbg/rb/RavenWolf_ZH-CN4544068603", 
+                "fullstartdate": "201902191600", 
+                "copyright": "雪地里的一群乌鸦与灰狼，芬兰 (© Lassi Rautiainen/Minden Pictures)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/RavenWolf_ZH-CN4544068603_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0a80e989d3c1b8088540f3898a6cc1cc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190219_RavenWolf%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%B9%8C%E9%B8%A6%E4%B8%8E%E7%81%B0%E7%8B%BC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190220", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190219", 
+                "urlbase": "/az/hprichbg/rb/PingxiSky_EN-US4395773279", 
+                "fullstartdate": "201902190800", 
+                "copyright": "Pingxi Sky Lantern Festival in Taipei, Taiwan (© Jui-Chi Chan/Alamy)", 
+                "title": "Dreams light the sky in Taipei", 
+                "url": "/az/hprichbg/rb/PingxiSky_EN-US4395773279_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "c9dc89c7c1eaf42c8cb44473f02d918f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190219_PingxiSky%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=pingxi+sky+lantern+festival+in+taipei,+taiwan&form=hpcapt&filters=HpDate:%2220190219_0800%22", 
+                "wp": true, 
+                "enddate": "20190220", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
