@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190226", 
+                "urlbase": "/az/hprichbg/rb/PolarBearDay_ZH-CN5185516722", 
+                "fullstartdate": "201902261600", 
+                "copyright": "哈德逊湾的北极熊，加拿大 (© Ralph A. Clevenger/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/PolarBearDay_ZH-CN5185516722_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "340221acd79052ebe2a53370dd8f64d8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190226_PolarBearDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E7%86%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190227", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190226", 
+                "urlbase": "/az/hprichbg/rb/WinterGrand_EN-US4797319119", 
+                "fullstartdate": "201902260800", 
+                "copyright": "Winter at Isis Temple in Grand Canyon National Park, Arizona (© Adam Schallau/Offset)", 
+                "title": "Celebrating a ‘Grand’ milestone", 
+                "url": "/az/hprichbg/rb/WinterGrand_EN-US4797319119_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "1b351b5b8f9e047db074f237f567773d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190226_WinterGrand%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=isis+temple+grand+canyon&form=hpcapt&filters=HpDate:%2220190226_0800%22", 
+                "wp": true, 
+                "enddate": "20190227", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
