@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190227", 
+                "urlbase": "/az/hprichbg/rb/HZMB_ZH-CN5238831909", 
+                "fullstartdate": "201902271600", 
+                "copyright": "港珠澳大桥，中国 (© Evocation Images/Shutterstock)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/HZMB_ZH-CN5238831909_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0685cc5a1f4332c2504499d27d6c877e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190227_HZMB%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190228", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190227", 
+                "urlbase": "/az/hprichbg/rb/PolarBearDay_EN-US4843695148", 
+                "fullstartdate": "201902270800", 
+                "copyright": "Polar bear in Hudson Bay, Canada (© Ralph A. Clevenger/Tandem Stills + Motion)", 
+                "title": "International Polar Bear Day", 
+                "url": "/az/hprichbg/rb/PolarBearDay_EN-US4843695148_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "84e91bf385ddabd2856f8b470d02f370", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190227_PolarBearDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate:%2220190227_0800%22", 
+                "wp": true, 
+                "enddate": "20190228", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
