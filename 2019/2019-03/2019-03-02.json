@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190301", 
+                "urlbase": "/az/hprichbg/rb/VinicuncaMountain_ZH-CN8884315159", 
+                "fullstartdate": "201903011600", 
+                "copyright": "彩虹山,秘鲁库斯科 (© sorincolac/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/VinicuncaMountain_ZH-CN8884315159_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b8d35bd254fc59ebf5de1e0a12a864ff", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190301_VinicuncaMountain%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%BD%A9%E8%99%B9%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190302", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190301", 
+                "urlbase": "/az/hprichbg/rb/PhillisWheatley_EN-US7012129867", 
+                "fullstartdate": "201903010800", 
+                "copyright": "Statues of Phillis Wheatley and Abigail Adams in the Boston Women’s Memorial of Massachusetts (© Education Images/UIG via Getty Images)", 
+                "title": "Boston Women’s Memorial", 
+                "url": "/az/hprichbg/rb/PhillisWheatley_EN-US7012129867_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "bfb994141554ca5f0cbeba778e1781bf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190301_PhillisWheatley%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Boston+Women's+Memorial&form=hpcapt&filters=HpDate:%2220190301_0800%22", 
+                "wp": false, 
+                "enddate": "20190302", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
