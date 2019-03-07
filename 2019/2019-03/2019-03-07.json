@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190306", 
+                "urlbase": "/az/hprichbg/rb/BrittlebushBloom_ZH-CN9198170508", 
+                "fullstartdate": "201903061600", 
+                "copyright": "迷失荷兰人国家公园里盛开的野花，亚利桑那 (© Tim Fitzharris/Minden Pictures)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/BrittlebushBloom_ZH-CN9198170508_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "b654ba442fd4d52fccb1c446320d3c7e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190306_BrittlebushBloom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%BF%B7%E5%A4%B1%E8%8D%B7%E5%85%B0%E4%BA%BA%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190307", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190306", 
+                "urlbase": "/az/hprichbg/rb/Cefalu_EN-US7490136495", 
+                "fullstartdate": "201903060800", 
+                "copyright": "Cefalù on the Tyrrhenian coast in Sicily, Italy (© Tuul & Bruno Morandi/eStock Photo)", 
+                "title": "Seas of blue in Cefalù", 
+                "url": "/az/hprichbg/rb/Cefalu_EN-US7490136495_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "8aa29ebde0a44009c5f149c935091820", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190306_Cefalu%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Cefal%C3%B9&form=hpcapt&filters=HpDate:%2220190306_0800%22", 
+                "wp": true, 
+                "enddate": "20190307", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
