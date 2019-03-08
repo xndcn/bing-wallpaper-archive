@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190307", 
+                "urlbase": "/az/hprichbg/rb/Policewomen_ZH-CN9260416327", 
+                "fullstartdate": "201903071600", 
+                "copyright": "出席2016年国际妇女节庆祝仪式的联合国海地稳定特派团的女警察 (© Hector Retamal/AFP/Getty Images)", 
+                "title": "", 
+                "url": "/az/hprichbg/rb/Policewomen_ZH-CN9260416327_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "7d3463e693dc173f72d0605a454b83eb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190307_Policewomen%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E5%A6%87%E5%A5%B3%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190308", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190307", 
+                "urlbase": "/az/hprichbg/rb/BrittlebushBloom_EN-US7635502161", 
+                "fullstartdate": "201903070800", 
+                "copyright": "Wildflowers in bloom at Lost Dutchman State Park in Arizona (© Tim Fitzharris/Minden Pictures)", 
+                "title": "The desert in bloom", 
+                "url": "/az/hprichbg/rb/BrittlebushBloom_EN-US7635502161_1920x1080.jpg", 
+                "hs": [], 
+                "hsh": "0e6b6eb52f0084165a4b31492019a770", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190307_BrittlebushBloom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Lost+Dutchman+State+Park&form=hpcapt&filters=HpDate:%2220190307_0800%22", 
+                "wp": true, 
+                "enddate": "20190308", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
