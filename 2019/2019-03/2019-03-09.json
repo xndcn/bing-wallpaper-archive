@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190308", 
+                "urlbase": "/th?id=OHR.GrapeHarvest_ZH-CN9372743517", 
+                "fullstartdate": "201903081600", 
+                "copyright": "葡萄藤上的葡萄，阿根廷门多萨 (© javarman3/iStock/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.GrapeHarvest_ZH-CN9372743517_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4fd0b76a708d072e06e79ef1213b6b01", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190308_GrapeHarvest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%91%A1%E8%90%84&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190309", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190308", 
+                "urlbase": "/th?id=OHR.Policewomen_EN-US7694110536", 
+                "fullstartdate": "201903080800", 
+                "copyright": "Policewomen from the United Nations Stabilization Mission in Haiti attend a ceremony to mark International Women's Day in 2016 (© Hector Retamal/AFP/Getty Images)", 
+                "title": "It’s International Women’s Day", 
+                "url": "/th?id=OHR.Policewomen_EN-US7694110536_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "151011bb1f4ee7511797dfd0874bdaab", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190308_Policewomen%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=International+Women's+Day+2019&form=hpcapt&filters=HpDate:%2220190308_0800%22", 
+                "wp": false, 
+                "enddate": "20190309", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
