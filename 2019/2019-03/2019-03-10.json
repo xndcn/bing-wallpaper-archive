@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190309", 
+                "urlbase": "/th?id=OHR.BagpipeOpera_ZH-CN9506207351", 
+                "fullstartdate": "201903091600", 
+                "copyright": "皇家高地燧发枪团在悉尼歌剧院屋顶演奏风笛 (© James D Morgan/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.BagpipeOpera_ZH-CN9506207351_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3401bc2ed24c31a1596afae444258ec8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190309_BagpipeOpera%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%9A%87%E5%AE%B6%E9%AB%98%E5%9C%B0%E7%87%A7%E5%8F%91%E6%9E%AA%E5%9B%A2&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190310", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190309", 
+                "urlbase": "/th?id=OHR.GrapeHarvest_EN-US9833740254", 
+                "fullstartdate": "201903090800", 
+                "copyright": "Grapes on the vine in Mendoza, Argentina, for the National Grape Harvest Festival (© javarman3/iStock/Getty Images Plus)", 
+                "title": "Harvest time in Mendoza", 
+                "url": "/th?id=OHR.GrapeHarvest_EN-US9833740254_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4256c57902a20df18a10dc49b7e005e5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190309_GrapeHarvest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=mendoza+argentina+wine&form=hpcapt&filters=HpDate:%2220190309_0800%22", 
+                "wp": true, 
+                "enddate": "20190310", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
