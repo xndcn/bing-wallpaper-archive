@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190310", 
+                "urlbase": "/th?id=OHR.LeopardNamibia_ZH-CN9585068449", 
+                "fullstartdate": "201903101600", 
+                "copyright": "一只在树上打盹的豹子，纳米比亚 (© M. Watsonantheo/SuperStock)", 
+                "title": "", 
+                "url": "/th?id=OHR.LeopardNamibia_ZH-CN9585068449_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "421560ffdf66e2d2723cf25c0161e1f2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190310_LeopardNamibia%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%B1%B9%E5%AD%90&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190311", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190310", 
+                "urlbase": "/th?id=OHR.BagpipeOpera_EN-US0030362335", 
+                "fullstartdate": "201903100700", 
+                "copyright": "Royal Highland Fusiliers playing the bagpipes on top of the Sydney Opera House (© James D Morgan/Shutterstock)", 
+                "title": "Pipes up down under", 
+                "url": "/th?id=OHR.BagpipeOpera_EN-US0030362335_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2c9f40b5ce73c41904a9e8c77576d825", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190310_BagpipeOpera%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=sydney+opera+house&form=hpcapt&filters=HpDate:%2220190310_0700%22", 
+                "wp": false, 
+                "enddate": "20190311", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
