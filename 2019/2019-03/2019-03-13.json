@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190312", 
+                "urlbase": "/th?id=OHR.Uranus_ZH-CN9689723562", 
+                "fullstartdate": "201903121600", 
+                "copyright": "1986年由太空探测器旅行者2号拍摄的天王星照片 (© NASA)", 
+                "title": "", 
+                "url": "/th?id=OHR.Uranus_ZH-CN9689723562_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "42ecd92239b57f313d749fd6e24867f6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190312_Uranus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A4%A9%E7%8E%8B%E6%98%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190313", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190312", 
+                "urlbase": "/th?id=OHR.SpainRioTinto_EN-US0146116496", 
+                "fullstartdate": "201903120700", 
+                "copyright": "Channels of the Rio Tinto in Spain (© Oscar Diez Martinez/Minden Pictures)", 
+                "title": "Treasures of the Rio Tinto", 
+                "url": "/th?id=OHR.SpainRioTinto_EN-US0146116496_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1f0c7a6d4bcf9d391463a7e30db9f4b9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190312_SpainRioTinto%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=rio+tinto+river+spain&form=hpcapt&filters=HpDate:%2220190312_0700%22", 
+                "wp": true, 
+                "enddate": "20190313", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
