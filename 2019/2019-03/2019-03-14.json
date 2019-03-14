@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190313", 
+                "urlbase": "/th?id=OHR.AgriculturalPi_ZH-CN9754138523", 
+                "fullstartdate": "201903131600", 
+                "copyright": "圆形农田，科罗拉多州摩根县 (© Jim Wark/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.AgriculturalPi_ZH-CN9754138523_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "84d6f5070a773f3aa6e2b5b5a53a3435", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190313_AgriculturalPi%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%86%E5%BD%A2%E5%86%9C%E7%94%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190314", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190313", 
+                "urlbase": "/th?id=OHR.Uranus_EN-US0218476439", 
+                "fullstartdate": "201903130700", 
+                "copyright": "A view of Uranus taken from spacecraft Voyager 2 in 1986 (© NASA)", 
+                "title": "Celestial shades of blue", 
+                "url": "/th?id=OHR.Uranus_EN-US0218476439_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "215430420f04ee314a0e343ee48a9bdd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190313_Uranus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Uranus&form=hpcapt&filters=HpDate:%2220190313_0700%22", 
+                "wp": true, 
+                "enddate": "20190314", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
