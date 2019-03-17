@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190316", 
+                "urlbase": "/th?id=OHR.TaoiseachDept_ZH-CN0902989482", 
+                "fullstartdate": "201903161600", 
+                "copyright": "为圣帕特里克节亮灯的国总理府，爱尔兰都柏林 (© David Soanes Photography/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.TaoiseachDept_ZH-CN0902989482_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9f24d7f7345d45488afc10120f08f38d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190316_TaoiseachDept%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%A3%E5%B8%95%E7%89%B9%E9%87%8C%E5%85%8B%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190317", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190316", 
+                "urlbase": "/th?id=OHR.RedandWhite_EN-US6851736062", 
+                "fullstartdate": "201903160700", 
+                "copyright": "'Infinite Variety: Three Centuries of Red and White Quilts' at the American Folk Art Museum in New York City in 2011, for National Quilting Day (© Shannon Stapleton/Reuters)", 
+                "title": "A patchwork history", 
+                "url": "/th?id=OHR.RedandWhite_EN-US6851736062_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b61ac90410b81d6082665c02e54fd60c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190316_RedandWhite%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=american+folk+art+museum&form=hpcapt&filters=HpDate:%2220190316_0700%22", 
+                "wp": false, 
+                "enddate": "20190317", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
