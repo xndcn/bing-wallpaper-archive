@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190320", 
+                "urlbase": "/th?id=OHR.springequinox_ZH-CN1099430476", 
+                "fullstartdate": "201903201600", 
+                "copyright": "【今日春分】  (© Raymond Shi/EyeEm/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.springequinox_ZH-CN1099430476_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a1b92e2234b9b39faaf53a1c285e11a1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190320_springequinox%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%98%A5%E5%88%86&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190321", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190320", 
+                "urlbase": "/th?id=OHR.EarlyBloomer_EN-US7155034826", 
+                "fullstartdate": "201903200700", 
+                "copyright": "Crocus flowers (© Lorianne Ende/Getty Images)", 
+                "title": "Spring breaks through", 
+                "url": "/th?id=OHR.EarlyBloomer_EN-US7155034826_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a51f207940cef449996d54447e5be38a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190320_EarlyBloomer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=first+day+of+spring&form=hpcapt&filters=HpDate:%2220190320_0700%22", 
+                "wp": true, 
+                "enddate": "20190321", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
