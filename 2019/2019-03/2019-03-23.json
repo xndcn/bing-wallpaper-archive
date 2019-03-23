@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190322", 
+                "urlbase": "/th?id=OHR.HolePunchClouds_ZH-CN1184083504", 
+                "fullstartdate": "201903221600", 
+                "copyright": "美国南部上空云层中出现的瀑布状空洞图像，美国国家航空航天局Terra卫星拍摄 (© NASA)", 
+                "title": "", 
+                "url": "/th?id=OHR.HolePunchClouds_ZH-CN1184083504_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9e0de6cb1538b764cdeea34a4ff66654", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190322_HolePunchClouds%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%80%91%E5%B8%83%E7%8A%B6%E7%A9%BA%E6%B4%9E%E5%9B%BE%E5%83%8F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190323", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190322", 
+                "urlbase": "/th?id=OHR.TashkurganGrasslands_EN-US7248338336", 
+                "fullstartdate": "201903220700", 
+                "copyright": "Water wheels in the Tashkurgan Grassland, Tashkurgan Tajik Autonomous County, Xinjiang, China (© Ratnakorn Piyasirisorost/Getty Images)", 
+                "title": "Water wheels on the Silk Road", 
+                "url": "/th?id=OHR.TashkurganGrasslands_EN-US7248338336_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "86ea2786d3aab25a49fe813f37d46826", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190322_TashkurganGrasslands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=tashkurgan+tajik+autonomous+county&form=hpcapt&filters=HpDate:%2220190322_0700%22", 
+                "wp": true, 
+                "enddate": "20190323", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
