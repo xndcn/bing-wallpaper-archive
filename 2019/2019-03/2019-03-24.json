@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190323", 
+                "urlbase": "/th?id=OHR.PWSRecovery_ZH-CN1234475074", 
+                "fullstartdate": "201903231600", 
+                "copyright": "埃克森瓦尔迪兹漏油事件30年后，阿拉斯加威廉王子湾的海獭 (© Patrick Endres/plainpicture)", 
+                "title": "", 
+                "url": "/th?id=OHR.PWSRecovery_ZH-CN1234475074_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "79890cf54f2831661f8915a1d8044899", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190323_PWSRecovery%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E6%B9%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190324", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190323", 
+                "urlbase": "/th?id=OHR.HolePunchClouds_EN-US7334198220", 
+                "fullstartdate": "201903230700", 
+                "copyright": "From NASA’s Terra satellite, an image of fallstreak holes in clouds over the southern United States (© NASA)", 
+                "title": "High above the clouds", 
+                "url": "/th?id=OHR.HolePunchClouds_EN-US7334198220_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c51002e95391f4d0e4e8ce7d14750dbb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190323_HolePunchClouds%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=fallstreak+hole+cavum+cloud&form=hpcapt&filters=HpDate:%2220190323_0700%22", 
+                "wp": true, 
+                "enddate": "20190324", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
