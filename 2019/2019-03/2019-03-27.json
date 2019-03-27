@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190326", 
+                "urlbase": "/th?id=OHR.SapBuckets_ZH-CN1480198637", 
+                "fullstartdate": "201903261600", 
+                "copyright": "Missisquoi的树汁收集桶，加拿大魁北克 (© Roderick Chen/SuperStock)", 
+                "title": "", 
+                "url": "/th?id=OHR.SapBuckets_ZH-CN1480198637_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cf2447a746458f5483042de733e2aeab", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190326_SapBuckets%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%A0%91%E6%B1%81%E6%94%B6%E9%9B%86%E6%A1%B6&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190327", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190326", 
+                "urlbase": "/th?id=OHR.SakuraFes_EN-US7463077645", 
+                "fullstartdate": "201903260700", 
+                "copyright": "Cherry blossoms over the Meguro River, Tokyo, Japan (© taketan/Getty Images)", 
+                "title": "It’s sakura season", 
+                "url": "/th?id=OHR.SakuraFes_EN-US7463077645_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a8d34239cbba78c1e57aa3981ed882ac", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190326_SakuraFes%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=meguro+river,+tokyo&form=hpcapt&filters=HpDate:%2220190326_0700%22", 
+                "wp": true, 
+                "enddate": "20190327", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
