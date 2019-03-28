@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190327", 
+                "urlbase": "/th?id=OHR.RufousTailed_ZH-CN1593368869", 
+                "fullstartdate": "201903271600", 
+                "copyright": "哥斯达黎加的一只棕尾蜂鸟 (© Juan Carlos Vindas/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.RufousTailed_ZH-CN1593368869_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f9fd9059199b36997135fb1cb5f259f0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190327_RufousTailed%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%A3%95%E5%B0%BE%E8%9C%82%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190328", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190327", 
+                "urlbase": "/th?id=OHR.SapBuckets_EN-US7503591641", 
+                "fullstartdate": "201903270700", 
+                "copyright": "Sap-collecting buckets in Brome-Missisquoi, Quebec, Canada (© Roderick Chen/SuperStock)", 
+                "title": "Spring comes tapping", 
+                "url": "/th?id=OHR.SapBuckets_EN-US7503591641_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "627a106e70a11fc19b829b30703a7895", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190327_SapBuckets%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=maple+syrup+tapping=season&form=hpcapt&filters=HpDate:%2220190327_0700%22", 
+                "wp": true, 
+                "enddate": "20190328", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
