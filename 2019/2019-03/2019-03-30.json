@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190329", 
+                "urlbase": "/th?id=OHR.EarthHourNYC_ZH-CN5111448023", 
+                "fullstartdate": "201903291600", 
+                "copyright": "2011年在“地球一小时”前亮灯的纽约帝国大厦 (© Eric Thayer/Reuters)", 
+                "title": "", 
+                "url": "/th?id=OHR.EarthHourNYC_ZH-CN5111448023_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "27760c0e5100fbcd241b9058bc998e3a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190329_EarthHourNYC%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%BA%BD%E7%BA%A6%E5%B8%9D%E5%9B%BD%E5%A4%A7%E5%8E%A6&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20190330", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190329", 
+                "urlbase": "/th?id=OHR.AurovilleIndia_EN-US6353298531", 
+                "fullstartdate": "201903290700", 
+                "copyright": "Auroville, India (© Vikram Ramakrishnan/Shutterstock)", 
+                "title": "Welcome to the City of Dawn", 
+                "url": "/th?id=OHR.AurovilleIndia_EN-US6353298531_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4f07cd903dfff834c36859c8142229cc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190329_AurovilleIndia%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=auroville+india&form=hpcapt&filters=HpDate:%2220190329_0700%22", 
+                "wp": true, 
+                "enddate": "20190330", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
