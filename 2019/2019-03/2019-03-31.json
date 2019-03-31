@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190330", 
+                "urlbase": "/th?id=OHR.EiffelBelow_ZH-CN5149009072", 
+                "fullstartdate": "201903301600", 
+                "copyright": "从巴黎圣母院拍摄到的埃菲尔铁塔，法国巴黎 (© Funny Solution Studio/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.EiffelBelow_ZH-CN5149009072_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "be56aff0045ef3f11edf21617bc36ec8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190330_EiffelBelow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9F%83%E8%8F%B2%E5%B0%94%E9%93%81%E5%A1%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190331", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190330", 
+                "urlbase": "/th?id=OHR.EarthHourNYC_EN-US6482203250", 
+                "fullstartdate": "201903300700", 
+                "copyright": "New York City’s Empire State Building is seen lit up before Earth Hour in 2011 (© Eric Thayer/Reuters)", 
+                "title": "Lights out for Earth Hour", 
+                "url": "/th?id=OHR.EarthHourNYC_EN-US6482203250_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7226134f842e8527fbf9ac9422ddfeed", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190330_EarthHourNYC%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Earth+Hour&form=hpcapt&filters=HpDate:%2220190330_0700%22", 
+                "wp": false, 
+                "enddate": "20190331", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
