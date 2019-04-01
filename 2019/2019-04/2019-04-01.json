@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190331", 
+                "urlbase": "/th?id=OHR.MischiefCubs_ZH-CN5217361502", 
+                "fullstartdate": "201903311600", 
+                "copyright": "湖边玩耍的小熊 (© Sergey Ivanov/Getty)", 
+                "title": "", 
+                "url": "/th?id=OHR.MischiefCubs_ZH-CN5217361502_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b257621861f81f62216af1e4df4898be", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190331_MischiefCubs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%A3%95%E7%86%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190401", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190331", 
+                "urlbase": "/th?id=OHR.EiffelBelow_EN-US6599490334", 
+                "fullstartdate": "201903310700", 
+                "copyright": "View of Paris, France, with the Eiffel Tower, taken from Notre-Dame Cathedral (© Funny Solution Studio/Shutterstock)", 
+                "title": "Joyeux anniversaire, Eiffel Tower!", 
+                "url": "/th?id=OHR.EiffelBelow_EN-US6599490334_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "02e407eba8848a86476dfbecb34ae758", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190331_EiffelBelow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Eiffel+Tower&form=hpcapt&filters=HpDate:%2220190331_0700%22", 
+                "wp": true, 
+                "enddate": "20190401", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
