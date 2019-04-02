@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190401", 
+                "urlbase": "/th?id=OHR.HCABooks_ZH-CN3645291678", 
+                "fullstartdate": "201904011600", 
+                "copyright": "安徒生的作品 (© radiokafka/Adobe Stock)", 
+                "title": "", 
+                "url": "/th?id=OHR.HCABooks_ZH-CN3645291678_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ab347086fa76db1797f24da5dbdc13d9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190401_HCABooks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%AE%89%E5%BE%92%E7%94%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190402", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190401", 
+                "urlbase": "/th?id=OHR.MischiefCubs_EN-US6733296518", 
+                "fullstartdate": "201904010700", 
+                "copyright": "Bear cubs playing by a lake (© Sergey Ivanov/Getty)", 
+                "title": "Anchors away for April Fools’", 
+                "url": "/th?id=OHR.MischiefCubs_EN-US6733296518_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "21ae93d3c577c05079dd7e4d8d9fdedd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190401_MischiefCubs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=april+fools+day&form=hpcapt&filters=HpDate:%2220190401_0700%22", 
+                "wp": true, 
+                "enddate": "20190402", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
