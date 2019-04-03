@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190402", 
+                "urlbase": "/th?id=OHR.BistiBadlands_ZH-CN5428677883", 
+                "fullstartdate": "201904021600", 
+                "copyright": "Bisti/De-Na-Zin Wilderness上空的银河，美国新墨西哥州 (© Cory Marshall/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.BistiBadlands_ZH-CN5428677883_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f2cc04d4740b8e34a9ac1566619cbb64", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190402_BistiBadlands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%93%B6%E6%B2%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190403", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190402", 
+                "urlbase": "/th?id=OHR.HCA_EN-US4986591011", 
+                "fullstartdate": "201904020700", 
+                "copyright": "Statue of Hans Christian Andersen in New York City’s Central Park (© Stuart Forster/Shutterstock)", 
+                "title": "Stepping out on Children’s Book Day", 
+                "url": "/th?id=OHR.HCA_EN-US4986591011_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "929a9609abfe94a890efc95031dc6008", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190402_HCA%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=international+children's+book+day&FORM=hpcapt&filters=HpDate:%2220190402_0700%22", 
+                "wp": true, 
+                "enddate": "20190403", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
