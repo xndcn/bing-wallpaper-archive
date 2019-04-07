@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190406", 
+                "urlbase": "/th?id=OHR.GTNPBeaver_ZH-CN3940626643", 
+                "fullstartdate": "201904061600", 
+                "copyright": "一只在大提顿国家公园里游泳的海狸 (© Charlie Hamilton James/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.GTNPBeaver_ZH-CN3940626643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3fa5e74e39aefbaf8d6a0576c7d7b87b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190406_GTNPBeaver%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B5%B7%E7%8B%B8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190407", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190406", 
+                "urlbase": "/th?id=OHR.Pepper_EN-US7943129554", 
+                "fullstartdate": "201904060700", 
+                "copyright": "Pepper, SoftBank Robotics' humanoid robot, on display in Tokyo (© Christopher Jue/EPA/Shutterstock)", 
+                "title": "National Robotics Week", 
+                "url": "/th?id=OHR.Pepper_EN-US7943129554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "43f58b545edf8e8fd22627e73aab1007", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190406_Pepper%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=pepper+robot&form=hpcapt&filters=HpDate:%2220190406_0700%22", 
+                "wp": false, 
+                "enddate": "20190407", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
