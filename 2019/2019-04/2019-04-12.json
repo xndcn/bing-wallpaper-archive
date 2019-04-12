@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190411", 
+                "urlbase": "/th?id=OHR.BigWindDay_ZH-CN1837859776", 
+                "fullstartdate": "201904111600", 
+                "copyright": "华盛顿山天文台，新罕布什尔州 (© Mike Theiss/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.BigWindDay_ZH-CN1837859776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fc3c120511c7ecd89f14c73f2ba715da", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190411_BigWindDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B1%B1%E5%A4%A9%E6%96%87%E5%8F%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190412", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190411", 
+                "urlbase": "/th?id=OHR.Bollenstreek_EN-US8530148470", 
+                "fullstartdate": "201904110700", 
+                "copyright": "Tulip fields in the Duin- en Bollenstreek region for the Amsterdam Tulip Festival (© Frans Sellies/Getty Images)", 
+                "title": "Tulip fields show off Dutch 'Flower Power'", 
+                "url": "/th?id=OHR.Bollenstreek_EN-US8530148470_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bff2bf3d9b0d2be3464e396270f39f42", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190411_Bollenstreek%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=tulips&form=hpcapt&filters=HpDate:%2220190411_0700%22", 
+                "wp": true, 
+                "enddate": "20190412", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
