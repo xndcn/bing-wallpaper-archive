@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190413", 
+                "urlbase": "/th?id=OHR.GOTPath_ZH-CN1955635212", 
+                "fullstartdate": "201904131600", 
+                "copyright": "通往圣胡安·加兹特鲁加特的道路，西班牙巴斯克 (© Anton Petrus/Moment/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.GOTPath_ZH-CN1955635212_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0e79b508e0c14df4f0cea78f3dab904c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190413_GOTPath%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B7%B4%E6%96%AF%E5%85%8B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190414", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190413", 
+                "urlbase": "/th?id=OHR.RecordStoreDay_EN-US5640323268", 
+                "fullstartdate": "201904130700", 
+                "copyright": "Vinyl records in Rosmalen, Netherlands (© DutchScenery/Shutterstock)", 
+                "title": "Turn it up for Record Store Day", 
+                "url": "/th?id=OHR.RecordStoreDay_EN-US5640323268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ba88f34cdf2b628dfe34bbfa1a175c87", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190413_RecordStoreDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=record+store+day&form=hpcapt&filters=HpDate:%2220190413_0700%22", 
+                "wp": false, 
+                "enddate": "20190414", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
