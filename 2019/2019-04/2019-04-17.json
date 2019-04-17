@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190416", 
+                "urlbase": "/th?id=OHR.HopeValley_ZH-CN2208363231", 
+                "fullstartdate": "201904161600", 
+                "copyright": "希望谷，英格兰峰区 (© Daniel_Kay/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.HopeValley_ZH-CN2208363231_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f6afca4cdef1916901b9d492983fa379", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190416_HopeValley%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B8%8C%E6%9C%9B%E8%B0%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190417", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190416", 
+                "urlbase": "/th?id=OHR.BauhausArchive_EN-US6406056252", 
+                "fullstartdate": "201904160700", 
+                "copyright": "Bauhaus Archive/Museum of Design in Berlin, Germany (© Juergen Henkelmann Photography/Alamy)", 
+                "title": "A modern century—Bauhaus turns 100", 
+                "url": "/th?id=OHR.BauhausArchive_EN-US6406056252_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "53e8737a5c2d0b191727f18e86081c90", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190416_BauhausArchive%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=bauhaus+archive+museum+of+design&form=hpcapt&filters=HpDate:%2220190416_0700%22", 
+                "wp": false, 
+                "enddate": "20190417", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
