@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190417", 
+                "urlbase": "/th?id=OHR.ChipmunkCheeks_ZH-CN2370754946", 
+                "fullstartdate": "201904171600", 
+                "copyright": "往脸颊中储存食物的花栗鼠 (© mlorenzphotography/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.ChipmunkCheeks_ZH-CN2370754946_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c965bcbfd8b63001aea5790199d82f39", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190417_ChipmunkCheeks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%8A%B1%E6%A0%97%E9%BC%A0&form=HPCAPT&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190418", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190417", 
+                "urlbase": "/th?id=OHR.HopeValley_EN-US6541382933", 
+                "fullstartdate": "201904170700", 
+                "copyright": "Hope Valley, Peak District, England (© Daniel_Kay/Getty Images Plus)", 
+                "title": "Peak District: The UK's first what?", 
+                "url": "/th?id=OHR.HopeValley_EN-US6541382933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1e1b4ec3af82fed4c69da7becebf608f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190417_HopeValley%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=peak+district+national+park&form=hpcapt&filters=HpDate:%2220190417_0700%22", 
+                "wp": true, 
+                "enddate": "20190418", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
