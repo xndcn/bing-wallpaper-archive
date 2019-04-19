@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190418", 
+                "urlbase": "/th?id=OHR.Paepalanthus_ZH-CN2626725103", 
+                "fullstartdate": "201904181600", 
+                "copyright": "日落时的Paepalanthus花，巴西Chapada dos Veadeiros国家公园 (© Marcio Cabral/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Paepalanthus_ZH-CN2626725103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "692ffa01bd367311544ddb377e9898d4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190418_Paepalanthus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Paepalanthus%E8%8A%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190419", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190418", 
+                "urlbase": "/th?id=OHR.MiracleGarden_EN-US6684216813", 
+                "fullstartdate": "201904180700", 
+                "copyright": "Dubai Miracle Garden, United Arab Emirates (© Amazing Aerial/Offset)", 
+                "title": "Miracle Garden blossoms in Dubai", 
+                "url": "/th?id=OHR.MiracleGarden_EN-US6684216813_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "81d50cd7825b37b07cf2a6623d160507", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190418_MiracleGarden%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Dubai+Miracle+Garden&form=hpcapt&filters=HpDate:%2220190418_0700%22", 
+                "wp": false, 
+                "enddate": "20190419", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
