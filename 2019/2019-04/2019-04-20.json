@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190419", 
+                "urlbase": "/th?id=OHR.CoveSpires_ZH-CN2680932006", 
+                "fullstartdate": "201904191600", 
+                "copyright": "西沃德附近基奈峡湾国家公园里的尖顶湾，阿拉斯加 (© Grant Ordelheide/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.CoveSpires_ZH-CN2680932006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "03b1b0934e5081f938ba3e8d6868ce00", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190419_CoveSpires%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B0%96%E9%A1%B6%E6%B9%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190420", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190419", 
+                "urlbase": "/th?id=OHR.Paepalanthus_EN-US6799393102", 
+                "fullstartdate": "201904190700", 
+                "copyright": "Paepalanthus flowers at sunset, Chapada dos Veadeiros National Park, Brazil (© Marcio Cabral/Getty Images)", 
+                "title": "Sunset over the Cerrado", 
+                "url": "/th?id=OHR.Paepalanthus_EN-US6799393102_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "15eb27d89d72bf4c5a2a025c63dcfb50", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190419_Paepalanthus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Chapada+dos+Veadeiros+National+Park&form=hpcapt&filters=HpDate:%2220190419_0700%22", 
+                "wp": true, 
+                "enddate": "20190420", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
