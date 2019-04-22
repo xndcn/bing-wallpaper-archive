@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190421", 
+                "urlbase": "/th?id=OHR.LaysanAlbatross_ZH-CN2784683590", 
+                "fullstartdate": "201904211600", 
+                "copyright": "西北夏威夷群岛中途岛环礁上的黑背信天翁雏鸟 (© Jaymi Heimbuch/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.LaysanAlbatross_ZH-CN2784683590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8c826b201b83cb53438b539634f1eef5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190421_LaysanAlbatross%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BF%A1%E5%A4%A9%E7%BF%81%E9%9B%8F%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190422", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190421", 
+                "urlbase": "/th?id=OHR.HidingEggs_EN-US7020088020", 
+                "fullstartdate": "201904210700", 
+                "copyright": "A rabbit in the grass (© wisan224/Getty Images Plus)", 
+                "title": "Hop into spring", 
+                "url": "/th?id=OHR.HidingEggs_EN-US7020088020_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "307480bdaef3982705eaa7536295348d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190421_HidingEggs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=rabbit+animal&form=hpcapt&filters=HpDate:%2220190421_0700%22", 
+                "wp": true, 
+                "enddate": "20190422", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
