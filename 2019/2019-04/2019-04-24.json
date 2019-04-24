@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190423", 
+                "urlbase": "/th?id=OHR.RainforestMoss_ZH-CN2878951870", 
+                "fullstartdate": "201904231600", 
+                "copyright": "华盛顿奥林匹克国家公园里的奎诺雨林 (© Jason Savage/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.RainforestMoss_ZH-CN2878951870_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "732d0c1833df39db5af1476e8c1fee3d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190423_RainforestMoss%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%A5%8E%E8%AF%BA%E9%9B%A8%E6%9E%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190424", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190423", 
+                "urlbase": "/th?id=OHR.CasaBatllo_EN-US7267777877", 
+                "fullstartdate": "201904230700", 
+                "copyright": "At Casa Batlló for Sant Jordi’s Day in Barcelona, Spain (© Jon Arnold Images Ltd/Alamy)", 
+                "title": "A house of dragons and roses", 
+                "url": "/th?id=OHR.CasaBatllo_EN-US7267777877_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "936ab0f69697db172375447611fc5f48", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190423_CasaBatllo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Casa+Batll%C3%B3&FORM=hpcapt&filters=HpDate:%2220190423_0700%22", 
+                "wp": true, 
+                "enddate": "20190424", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
