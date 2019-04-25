@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190424", 
+                "urlbase": "/th?id=OHR.FireIce_ZH-CN2924097132", 
+                "fullstartdate": "201904241600", 
+                "copyright": "日落时瓦特纳冰川上的冰洞，冰岛 (© Johnathan Ampersand Esper/Aurora Photos)", 
+                "title": "", 
+                "url": "/th?id=OHR.FireIce_ZH-CN2924097132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5583b6cd086a3c48837d10d800cbfaa0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190424_FireIce%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%86%B0%E6%B4%9E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190425", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190424", 
+                "urlbase": "/th?id=OHR.RainforestMoss_EN-US7387327683", 
+                "fullstartdate": "201904240700", 
+                "copyright": "The Quinault Rainforest in Olympic National Park, Washington (© Jason Savage/Tandem Stills + Motion)", 
+                "title": "In the rainforest", 
+                "url": "/th?id=OHR.RainforestMoss_EN-US7387327683_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c90c9e5f2c5cb4efaef406f09a80e549", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190424_RainforestMoss%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=quinault+rainforest+olympic+national+park&form=hpcapt&filters=HpDate:%2220190424_0700%22", 
+                "wp": true, 
+                "enddate": "20190425", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
