@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190425", 
+                "urlbase": "/th?id=OHR.CoastalFog_ZH-CN8104406852", 
+                "fullstartdate": "201904251600", 
+                "copyright": "亨利考威尔红杉州立公园中的海岸红杉，加利福尼亚 (© Gallery Stock)", 
+                "title": "", 
+                "url": "/th?id=OHR.CoastalFog_ZH-CN8104406852_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2c6f266a93785f19c6aa2f56b67cbfdb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190425_CoastalFog%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B5%B7%E5%B2%B8%E7%BA%A2%E6%9D%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190426", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190425", 
+                "urlbase": "/th?id=OHR.FireIce_EN-US7588914690", 
+                "fullstartdate": "201904250700", 
+                "copyright": "Ice cave at sunset in Vatnajökull National Park, Iceland (© Johnathan Ampersand Esper/Aurora Photos)", 
+                "title": "Summer in the land of fire and ice", 
+                "url": "/th?id=OHR.FireIce_EN-US7588914690_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b679bf8daa2d796caed46d49e45495c6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190425_FireIce%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=vatnaj%C3%B6kull&form=hpcapt&filters=HpDate:%2220190425_0700%22", 
+                "wp": true, 
+                "enddate": "20190426", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
