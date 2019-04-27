@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190426", 
+                "urlbase": "/th?id=OHR.BloomingAloe_ZH-CN8209855003", 
+                "fullstartdate": "201904261600", 
+                "copyright": "一只蜂鸟盘旋在盛开的芦荟花丛中，加利福尼亚拉古纳海滩 (© Aurora Photos/Offset)", 
+                "title": "", 
+                "url": "/th?id=OHR.BloomingAloe_ZH-CN8209855003_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cec721702de2f153be9c2d7fe498d430", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190426_BloomingAloe%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E8%9C%82%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190427", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190426", 
+                "urlbase": "/th?id=OHR.CoastalFog_EN-US7921291267", 
+                "fullstartdate": "201904260700", 
+                "copyright": "Coast redwoods in Henry Cowell Redwoods State Park, California (© Gallery Stock)", 
+                "title": "A tree-mendous holiday", 
+                "url": "/th?id=OHR.CoastalFog_EN-US7921291267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6b04f387650bcd69392cffcc84700eba", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190426_CoastalFog%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=coast+redwood&form=hpcapt&filters=HpDate:%2220190426_0700%22", 
+                "wp": true, 
+                "enddate": "20190427", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
