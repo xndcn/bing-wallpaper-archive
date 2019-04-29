@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190428", 
+                "urlbase": "/th?id=OHR.BabySloth_ZH-CN8329403615", 
+                "fullstartdate": "201904281600", 
+                "copyright": "棕色褐喉树懒幼崽与妈妈，哥斯达黎加树懒保护区 (© Suzi Eszterhas/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.BabySloth_ZH-CN8329403615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bf21ce5e063d35e9e4a7afdd9cf2a7ae", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190428_BabySloth%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%A3%95%E8%89%B2%E8%A4%90%E5%96%89%E6%A0%91%E6%87%92&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190429", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190428", 
+                "urlbase": "/th?id=OHR.SpringBadlands_EN-US8349424568", 
+                "fullstartdate": "201904280700", 
+                "copyright": "Prairie and pinnacles near Castle Trail in Badlands National Park, South Dakota (© Danita Delimont/Getty Images)", 
+                "title": "Life on the prairie", 
+                "url": "/th?id=OHR.SpringBadlands_EN-US8349424568_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ca35300dd5dff174547598550b48a627", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190428_SpringBadlands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=badlands+national+park&form=hpcapt&filters=HpDate:%2220190428_0700%22", 
+                "wp": true, 
+                "enddate": "20190429", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
