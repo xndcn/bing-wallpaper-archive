@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190429", 
+                "urlbase": "/th?id=OHR.GlenfinnanViaduct_ZH-CN8400951216", 
+                "fullstartdate": "201904291600", 
+                "copyright": "苏格兰格伦芬南高架桥 (© Jon Arnold/DanitaDelimont.com)", 
+                "title": "", 
+                "url": "/th?id=OHR.GlenfinnanViaduct_ZH-CN8400951216_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a3c5bf90e843e6de4c248b99e8a4edac", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190429_GlenfinnanViaduct%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%A0%BC%E4%BC%A6%E8%8A%AC%E5%8D%97%E9%AB%98%E6%9E%B6%E6%A1%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190430", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190429", 
+                "urlbase": "/th?id=OHR.BabySloth_EN-US8463078273", 
+                "fullstartdate": "201904290700", 
+                "copyright": "Newborn brown-throated sloth with mother, Sloth Sanctuary of Costa Rica (© Suzi Eszterhas/Minden Pictures)", 
+                "title": "Hello, World!", 
+                "url": "/th?id=OHR.BabySloth_EN-US8463078273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "93c54e3161666e077e0de7e3db07fecf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190429_BabySloth%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=brown-throated+sloth&form=hpcapt&filters=HpDate:%2220190429_0700%22", 
+                "wp": true, 
+                "enddate": "20190430", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
