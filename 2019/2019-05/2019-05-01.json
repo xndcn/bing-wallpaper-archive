@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190430", 
+                "urlbase": "/th?id=OHR.may1_ZH-CN8582006115", 
+                "fullstartdate": "201904301600", 
+                "copyright": "【今日劳动节】 (© Katvic/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.may1_ZH-CN8582006115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5fad973870717d3ec13d2e8c5fbc81fa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190430_may1%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8A%B3%E5%8A%A8%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190501", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190430", 
+                "urlbase": "/th?id=OHR.LouisVienna_EN-US2422346599", 
+                "fullstartdate": "201904300700", 
+                "copyright": "Louis Armstrong performs with bandmates in Vienna, Austria, on February 22, 1959 (© Franz Hubmann/Getty Images)", 
+                "title": "Jumpin' for Jazz Day", 
+                "url": "/th?id=OHR.LouisVienna_EN-US2422346599_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6aae41dcb337641668306a0ea7a25d0e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190430_LouisVienna%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=international+jazz+day&form=hpcapt&filters=HpDate:%2220190430_0700%22", 
+                "wp": false, 
+                "enddate": "20190501", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
