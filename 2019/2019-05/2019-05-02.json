@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190501", 
+                "urlbase": "/th?id=OHR.RuffLek_ZH-CN8485019267", 
+                "fullstartdate": "201905011600", 
+                "copyright": "挪威瓦朗厄尔半岛上一只展示翎颌的雄性涉禽 (© Winfried Wisniewski/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.RuffLek_ZH-CN8485019267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b27386d37f46c35a5ca86af8b706cc36", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190501_RuffLek%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9B%84%E6%80%A7%E6%B6%89%E7%A6%BD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190502", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190501", 
+                "urlbase": "/th?id=OHR.WisteriaTunnel_EN-US5042367365", 
+                "fullstartdate": "201905010700", 
+                "copyright": "Wisteria blooms at Kawachi Fuji Gardens in Kitakyushu, Japan (© Wibowo Rusli/Alamy)", 
+                "title": "Tunnel of blooms", 
+                "url": "/th?id=OHR.WisteriaTunnel_EN-US5042367365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fb05ae3913fa3f2d267fd08dcf54ef0a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190501_WisteriaTunnel%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Kitakyushu,+Japan&form=hpcapt&filters=HpDate:%2220190501_0700%22", 
+                "wp": true, 
+                "enddate": "20190502", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
