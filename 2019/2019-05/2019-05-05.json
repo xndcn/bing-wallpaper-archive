@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190504", 
+                "urlbase": "/th?id=OHR.AmericanCulturalCapital_ZH-CN8717487767", 
+                "fullstartdate": "201905041600", 
+                "copyright": "圣米格尔·德阿连德，墨西哥 (© ferrantraite/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.AmericanCulturalCapital_ZH-CN8717487767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3bf07f89ae9cf06e7cf1a0c4261e4474", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190504_AmericanCulturalCapital%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%9C%A3%E7%B1%B3%E6%A0%BC%E5%B0%94%C2%B7%E5%BE%B7%E9%98%BF%E8%BF%9E%E5%BE%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190505", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190504", 
+                "urlbase": "/th?id=OHR.SkelligMichael_EN-US5274283608", 
+                "fullstartdate": "201905040700", 
+                "copyright": "The Skellig Islands, Skellig Michael and Little Skellig, in Ireland (© Design Pics/DanitaDelimont.com)", 
+                "title": "May the Fourth be with you", 
+                "url": "/th?id=OHR.SkelligMichael_EN-US5274283608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "89da1b0bec7eb09f198f94861469e72d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190504_SkelligMichael%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Skellig+Michael&form=hpcapt&filters=HpDate:%2220190504_0700%22", 
+                "wp": true, 
+                "enddate": "20190505", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
