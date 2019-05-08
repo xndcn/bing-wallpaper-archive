@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190507", 
+                "urlbase": "/th?id=OHR.LightHouseNS_ZH-CN9060766128", 
+                "fullstartdate": "201905071600", 
+                "copyright": "黄昏时佩吉海湾的灯塔，加拿大新斯科舍省 (© Darwin Wiggett/Offset)", 
+                "title": "", 
+                "url": "/th?id=OHR.LightHouseNS_ZH-CN9060766128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9d15e2cd4784441af6b203a2dd5f7412", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190507_LightHouseNS%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BD%A9%E5%90%89%E6%B5%B7%E6%B9%BE%E7%9A%84%E7%81%AF%E5%A1%94&form=HPCAPT&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190508", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190507", 
+                "urlbase": "/th?id=OHR.StMaryFalls_EN-US5506199151", 
+                "fullstartdate": "201905070700", 
+                "copyright": "St. Mary Falls in Glacier National Park, Montana (© Pung/Shutterstock)", 
+                "title": "Chasing waterfalls", 
+                "url": "/th?id=OHR.StMaryFalls_EN-US5506199151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "680ca9b2609054b7828a518c5eb7141c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190507_StMaryFalls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=st.+mary+falls+glacier+national+park&form=hpcapt&filters=HpDate:%2220190507_0700%22", 
+                "wp": true, 
+                "enddate": "20190508", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
