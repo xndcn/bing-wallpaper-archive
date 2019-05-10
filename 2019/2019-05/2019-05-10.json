@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190509", 
+                "urlbase": "/th?id=OHR.ChannelIslandFox_ZH-CN5568101953", 
+                "fullstartdate": "201905091600", 
+                "copyright": "圣克鲁斯岛上的一只岛屿灰狐，加利福尼亚州海峡群岛国家公园 (© Ian Shive/Tandem Motion + Stills)", 
+                "title": "", 
+                "url": "/th?id=OHR.ChannelIslandFox_ZH-CN5568101953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f8076dd1307869b575a6388afe42a7c5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190509_ChannelIslandFox%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B2%9B%E5%B1%BF%E7%81%B0%E7%8B%90&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190510", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190509", 
+                "urlbase": "/th?id=OHR.SerengetiZebra_EN-US5631881768", 
+                "fullstartdate": "201905090700", 
+                "copyright": "Zebras in Serengeti National Park, Tanzania (© pchoui/Getty Images)", 
+                "title": "The herd heads north", 
+                "url": "/th?id=OHR.SerengetiZebra_EN-US5631881768_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f5dd604c097a616cde21ecd62e156d97", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190509_SerengetiZebra%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=zebra+(animal)&form=hpcapt&filters=HpDate:%2220190509_0700%22", 
+                "wp": true, 
+                "enddate": "20190510", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
