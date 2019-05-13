@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190512", 
+                "urlbase": "/th?id=OHR.PineLogSP_ZH-CN1105763820", 
+                "fullstartdate": "201905121600", 
+                "copyright": "松木国家森林，佛罗里达州 (© plainpicture/Cavan Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.PineLogSP_ZH-CN1105763820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "aebedcd4eec1b8f7d3d256fbbc5a3a16", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190512_PineLogSP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%9D%BE%E6%9C%A8%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190513", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190512", 
+                "urlbase": "/th?id=OHR.PipingPlover_EN-US7445293078", 
+                "fullstartdate": "201905120700", 
+                "copyright": "Piping plover and its chick on Jones Beach Island, New York (© Vicki Jauron/Getty Images)", 
+                "title": "Hooray for mom!", 
+                "url": "/th?id=OHR.PipingPlover_EN-US7445293078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "67bbd50b0a43c2a657093ee7ee5941c0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190512_PipingPlover%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=piping+plover&form=hpcapt&filters=HpDate:%2220190512_0700%22", 
+                "wp": true, 
+                "enddate": "20190513", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
