@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190515", 
+                "urlbase": "/th?id=OHR.xiaoicepainting_ZH-CN8581660984", 
+                "fullstartdate": "201905151600", 
+                "copyright": "来自人工智能的画作《思念》 (© 微软小冰)", 
+                "title": "", 
+                "url": "/th?id=OHR.xiaoicepainting_ZH-CN8581660984_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6a5c3ea885e56eb29e0303906ec0cb86", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190515_xiaoicepainting%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%BF%85%E5%BA%94%E7%BE%8E%E5%9B%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190516", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190515", 
+                "urlbase": "/th?id=OHR.NordkappSun_EN-US7949875280", 
+                "fullstartdate": "201905150700", 
+                "copyright": "Midnight sun at North Cape, Norway (© Ron Bennett/Shutterstock)", 
+                "title": "Midnight sun returns to the Arctic Circle", 
+                "url": "/th?id=OHR.NordkappSun_EN-US7949875280_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "69bb40cd357dd694fac2ced6bb25ee8d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190515_NordkappSun%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=North+Cape+Norway&form=hpcapt&filters=HpDate:%2220190515_0700%22", 
+                "wp": false, 
+                "enddate": "20190516", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
