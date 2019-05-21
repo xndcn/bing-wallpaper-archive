@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190520", 
+                "urlbase": "/th?id=OHR.CRDelta_ZH-CN5088201492", 
+                "fullstartdate": "201905201600", 
+                "copyright": "圣伊莱亚斯国家公园中的铜河三角洲，阿拉斯加 (© Frans Lanting/plainpicture)", 
+                "title": "", 
+                "url": "/th?id=OHR.CRDelta_ZH-CN5088201492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e740bbcb91fd76154c36d6d315c07033", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190520_CRDelta%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%93%9C%E6%B2%B3%E4%B8%89%E8%A7%92%E6%B4%B2&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190521", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190520", 
+                "urlbase": "/th?id=OHR.ChannelIslandFox_EN-US8681899783", 
+                "fullstartdate": "201905200700", 
+                "copyright": "Island fox on Santa Cruz Island, Channel Islands National Park, California (© Ian Shive/Tandem Motion + Stills)", 
+                "title": "A keystone species", 
+                "url": "/th?id=OHR.ChannelIslandFox_EN-US8681899783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "18c177fb93a63b80ebed14eae6601e25", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190520_ChannelIslandFox%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Island+fox&form=hpcapt&filters=HpDate:%2220190520_0700%22", 
+                "wp": true, 
+                "enddate": "20190521", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
