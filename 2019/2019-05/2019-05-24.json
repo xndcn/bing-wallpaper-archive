@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190523", 
+                "urlbase": "/th?id=OHR.MacmillanForest_ZH-CN5295176479", 
+                "fullstartdate": "201905231600", 
+                "copyright": "麦克米伦省级公园里的神殿林，加拿大不列颠哥伦比亚省 (© Robert Postma/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.MacmillanForest_ZH-CN5295176479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4d4017a00ec9c50789f7fc1b4c268d4b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190523_MacmillanForest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E7%A5%9E%E6%AE%BF%E6%9E%97&form=HPCAPT&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190524", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190523", 
+                "urlbase": "/th?id=OHR.CuracaoTurtle_EN-US8979541301", 
+                "fullstartdate": "201905230700", 
+                "copyright": "Green sea turtle with sardines near Playa Grandi, Curaçao (© yfhishinuma/Getty Images Plus)", 
+                "title": "Move over fish—it’s World Turtle Day", 
+                "url": "/th?id=OHR.CuracaoTurtle_EN-US8979541301_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ee4f34571b8d36182a586489fa8e13af", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190523_CuracaoTurtle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=World+Turtle+Day&form=hpcapt&filters=HpDate:%2220190523_0700%22", 
+                "wp": true, 
+                "enddate": "20190524", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
