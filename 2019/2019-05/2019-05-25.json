@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190524", 
+                "urlbase": "/th?id=OHR.CapeMayWarbler_ZH-CN5148312890", 
+                "fullstartdate": "201905241600", 
+                "copyright": "春天里的一只雄性开普梅莺 (© JZHunt/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.CapeMayWarbler_ZH-CN5148312890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f699d8ae4b3fcee7ff3798933cd9cbe9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190524_CapeMayWarbler%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%BC%80%E6%99%AE%E6%A2%85%E8%8E%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190525", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190524", 
+                "urlbase": "/th?id=OHR.MalvarrosaSandSculpture_EN-US3310429769", 
+                "fullstartdate": "201905240700", 
+                "copyright": "Sandcastle on Malvarrosa Beach in Valencia, Spain (© Tony French/Alamy)", 
+                "title": "Grand sand", 
+                "url": "/th?id=OHR.MalvarrosaSandSculpture_EN-US3310429769_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fa8125e380ffc877955d3dffa73f475d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190524_MalvarrosaSandSculpture%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=malvarrosa+beach+valencia&form=hpcapt&filters=HpDate:%2220190524_0700%22", 
+                "wp": false, 
+                "enddate": "20190525", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
