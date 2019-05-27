@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190526", 
+                "urlbase": "/th?id=OHR.PittingGalesPoint_ZH-CN4893591142", 
+                "fullstartdate": "201905261600", 
+                "copyright": "彭布鲁克郡海岸国家公园中的Pitting Gales Point，西威尔士 (© Sebastian Wasek/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.PittingGalesPoint_ZH-CN4893591142_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "12ec215a06f6350d13cae9974a391977", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190526_PittingGalesPoint%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Pitting+Gales+Point&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190527", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190526", 
+                "urlbase": "/th?id=OHR.MarathonduMont_EN-US3655902624", 
+                "fullstartdate": "201905260700", 
+                "copyright": "Mont Saint-Michel, France, for its annual marathon (© Leroy Francis/Getty Images)", 
+                "title": "26.2 miles to Mont Saint-Michel", 
+                "url": "/th?id=OHR.MarathonduMont_EN-US3655902624_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "53ab1007817769f2507af407091e1188", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190526_MarathonduMont%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=mont+saint-michel&form=hpcapt&filters=HpDate:%2220190526_0700%22", 
+                "wp": true, 
+                "enddate": "20190527", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
