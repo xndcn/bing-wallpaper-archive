@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190527", 
+                "urlbase": "/th?id=OHR.NFLDfog_ZH-CN4846953507", 
+                "fullstartdate": "201905271600", 
+                "copyright": "沿海的雾，加拿大纽芬兰 (© Scott Leslie/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.NFLDfog_ZH-CN4846953507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4da7aef47a7ec3a542ba3aa0bcc589be", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190527_NFLDfog%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E9%9B%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190528", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190527", 
+                "urlbase": "/th?id=OHR.VVMWDC_EN-US3757796732", 
+                "fullstartdate": "201905270700", 
+                "copyright": "Visitors at the Vietnam Veterans Memorial in Washington, DC (© Nikki Kahn/Getty Images)", 
+                "title": "A wall for the fallen", 
+                "url": "/th?id=OHR.VVMWDC_EN-US3757796732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "02057ecee4dbc8968a9925773f9afe6f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190527_VVMWDC%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=vietnam+veterans+memorial&form=hpcapt&filters=HpDate:%2220190527_0700%22", 
+                "wp": false, 
+                "enddate": "20190528", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
