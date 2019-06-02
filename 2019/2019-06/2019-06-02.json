@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190601", 
+                "urlbase": "/th?id=OHR.BassRock_ZH-CN4418828352", 
+                "fullstartdate": "201906011600", 
+                "copyright": "苏格兰福斯湾的巴斯岩 (© Richard Shucksmith/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.BassRock_ZH-CN4418828352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fed032e80dedbe19d2d0d364559ab93e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190601_BassRock%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%B7%B4%E6%96%AF%E5%B2%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190602", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190601", 
+                "urlbase": "/th?id=OHR.HighTrestleTrail_EN-US4329190913", 
+                "fullstartdate": "201906010700", 
+                "copyright": "The High Trestle Trail Bridge in central Iowa (© Kelly van Dellen/Getty Images Plus)", 
+                "title": "Take a hike for Trails Day", 
+                "url": "/th?id=OHR.HighTrestleTrail_EN-US4329190913_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "247d716a107a727b78636bc99ea8cb3f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190601_HighTrestleTrail%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=high+trestle+trail+bridge&form=hpcapt&filters=HpDate:%2220190601_0700%22", 
+                "wp": true, 
+                "enddate": "20190602", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
