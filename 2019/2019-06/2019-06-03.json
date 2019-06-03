@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190602", 
+                "urlbase": "/th?id=OHR.HeligolandSealPup_ZH-CN4217382978", 
+                "fullstartdate": "201906021600", 
+                "copyright": "一只躺在沙滩上的港海豹幼崽，德国黑尔戈兰岛 (© Fotofeeling/Westend61/Offset)", 
+                "title": "", 
+                "url": "/th?id=OHR.HeligolandSealPup_ZH-CN4217382978_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "89bb412a795f6b820901894b7cffcb98", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190602_HeligolandSealPup%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%B8%AF%E6%B5%B7%E8%B1%B9%E5%B9%BC%E5%B4%BD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190603", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190602", 
+                "urlbase": "/th?id=OHR.BassRock_EN-US4445778616", 
+                "fullstartdate": "201906020700", 
+                "copyright": "The Bass Rock in Scotland’s Firth of Forth (© Richard Shucksmith/Minden Pictures)", 
+                "title": "Nesting on the  Bass Rock", 
+                "url": "/th?id=OHR.BassRock_EN-US4445778616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b9f7477060489569d94bdea0b9235ec3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190602_BassRock%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Bass+Rock+Scotland&form=hpcapt&filters=HpDate:%2220190602_0700%22", 
+                "wp": true, 
+                "enddate": "20190603", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
