@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190604", 
+                "urlbase": "/th?id=OHR.PeruvianRainforest_ZH-CN4066508593", 
+                "fullstartdate": "201906041600", 
+                "copyright": "秘鲁亚马逊坦博帕塔国家保护区中的树冠 (© Patrick Brandenburg/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.PeruvianRainforest_ZH-CN4066508593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "73a0f621c340498bb1abbfb4abf79258", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190604_PeruvianRainforest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%A0%91%E5%86%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190605", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190604", 
+                "urlbase": "/th?id=OHR.VastPalmGrove_EN-US4704093653", 
+                "fullstartdate": "201906040700", 
+                "copyright": "Date palm groves near Zagora, Morocco (© Frans Lemmens/Getty Images)", 
+                "title": "Desert groves", 
+                "url": "/th?id=OHR.VastPalmGrove_EN-US4704093653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "69bcd02637196206f4ef92fe930981bf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190604_VastPalmGrove%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=zagora+morocco&form=hpcapt&filters=HpDate:%2220190604_0700%22", 
+                "wp": true, 
+                "enddate": "20190605", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
