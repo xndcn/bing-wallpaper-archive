@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190605", 
+                "urlbase": "/th?id=OHR.MulberryArtificialHarbour_ZH-CN3973249802", 
+                "fullstartdate": "201906051600", 
+                "copyright": "诺曼底入侵后的桑树港遗址，法国诺曼底Arromanches les Bains (© Javier Gil/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.MulberryArtificialHarbour_ZH-CN3973249802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "322f403bcc2f26ce656e9dd2d74856ea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190605_MulberryArtificialHarbour%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%A1%91%E6%A0%91%E6%B8%AF%E9%81%97%E5%9D%80&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190606", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190605", 
+                "urlbase": "/th?id=OHR.PeruvianRainforest_EN-US4826244876", 
+                "fullstartdate": "201906050700", 
+                "copyright": "The tree canopy in the Tambopata National Reserve of the Peruvian Amazon (© Patrick Brandenburg/Tandem Stills + Motion)", 
+                "title": "Under the canopy for World Environment Day", 
+                "url": "/th?id=OHR.PeruvianRainforest_EN-US4826244876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8d04ef4ebe0f3e220ab8ffdd52fe0a54", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190605_PeruvianRainforest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=peruvian+amazon&form=hpcapt&filters=HpDate:%2220190605_0700%22", 
+                "wp": true, 
+                "enddate": "20190606", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
