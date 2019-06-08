@@ -1,0 +1,82 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190607", 
+                "urlbase": "/th?id=OHR.Biorocks_ZH-CN7851264095", 
+                "fullstartdate": "201906071600", 
+                "copyright": "吉利群岛上生长着珊瑚的人工珊瑚礁，印度尼西亚 (© fenkieandreas/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.Biorocks_ZH-CN7851264095_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bd387e698721119c5d71eb9f1ee89b5b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190607_Biorocks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E4%BA%BA%E5%B7%A5%E7%8F%8A%E7%91%9A%E7%A4%81&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190608", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190607", 
+                "urlbase": "/th?id=OHR.DoughnutDay_EN-US0218386243", 
+                "fullstartdate": "201906070700", 
+                "vid": {
+                    "caption": "A glazed doughnut with sprinkles (© viafilms/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/DonutDay_684826598_Still_1920x1080_UPDATED_HD_EN-US687565519.jpg", 
+                    "audiopresent": false, 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/DonutDay_GettyImages_684826598_1920x1080_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/DonutDay_GettyImages_684826598_1920x1080_HD_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=National+Doughnut+Day&form=hpcapt", 
+                    "loop": false
+                }, 
+                "copyright": "A glazed doughnut with sprinkles (© viafilms/Getty Images)", 
+                "title": "Donut Worry, Be Happy!", 
+                "url": "/th?id=OHR.DoughnutDay_EN-US0218386243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3e25b3375d090732a53cd134904102c4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190607_DoughnutDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=National+Doughnut+Day&form=hpcapt&filters=HpDate:%2220190607_0700%22", 
+                "wp": false, 
+                "enddate": "20190608", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
