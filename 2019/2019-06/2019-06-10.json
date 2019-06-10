@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190609", 
+                "urlbase": "/th?id=OHR.PontadaPiedade_ZH-CN7717691454", 
+                "fullstartdate": "201906091600", 
+                "copyright": "阿尔加维海岸附近的Ponta da Piedade岩层，葡萄牙 (© David Santiago Garcia/Offset)", 
+                "title": "", 
+                "url": "/th?id=OHR.PontadaPiedade_ZH-CN7717691454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b865628909776e619b211f03bcb84daf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190609_PontadaPiedade%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=Ponta+da+Piedade%E5%B2%A9%E5%B1%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190610", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190609", 
+                "urlbase": "/th?id=OHR.CrownFountain_EN-US2176724041", 
+                "fullstartdate": "201906090700", 
+                "copyright": "Crown Fountain by Catalan artist Jaume Plensa, Millennium Park, Chicago (© imageBROKER/Alamy)", 
+                "title": "Sweet Home, Chicago", 
+                "url": "/th?id=OHR.CrownFountain_EN-US2176724041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fcb9d4d605334c98478f367042ebeb21", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190609_CrownFountain%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=millennium+park+chicago&form=hpcapt&filters=HpDate:%2220190609_0700%22", 
+                "wp": false, 
+                "enddate": "20190610", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
