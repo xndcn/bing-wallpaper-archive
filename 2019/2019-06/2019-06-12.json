@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190611", 
+                "urlbase": "/th?id=OHR.RioGrande_ZH-CN8091224199", 
+                "fullstartdate": "201906111600", 
+                "copyright": "位于大本德国家公园的格兰德河和卡门山脉，得克萨斯州 (© Grant Ordelheide/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.RioGrande_ZH-CN8091224199_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e08c0c281d920f345863de00fcdbb33b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190611_RioGrande%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E6%A0%BC%E5%85%B0%E5%BE%B7%E6%B2%B3%E5%92%8C%E5%8D%A1%E9%97%A8%E5%B1%B1%E8%84%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190612", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190611", 
+                "urlbase": "/th?id=OHR.CrackingArt_EN-US2386428540", 
+                "fullstartdate": "201906110700", 
+                "copyright": "Cracking Art installation at Le Mans Cathedral in 2015, France (© Michel GILE/Gamma-Rapho via Getty Images)", 
+                "title": "A meerkat invasion", 
+                "url": "/th?id=OHR.CrackingArt_EN-US2386428540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1b74d2027eacc4deaccf2fee5226e207", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190611_CrackingArt%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=cracking+art&form=hpcapt&filters=HpDate:%2220190611_0700%22", 
+                "wp": false, 
+                "enddate": "20190612", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
