@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190617", 
+                "urlbase": "/th?id=OHR.HelixPomatia_ZH-CN9785223494", 
+                "fullstartdate": "201906171600", 
+                "copyright": "勃艮第蜗牛，也称为食用蜗牛 (© Heidi and Hans-Juergen Koch/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.HelixPomatia_ZH-CN9785223494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a727978a2a93fcff07b5f68194efd057", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190617_HelixPomatia%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=%E5%8B%83%E8%89%AE%E7%AC%AC%E8%9C%97%E7%89%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190618", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190617", 
+                "urlbase": "/th?id=OHR.CrystalBridges_EN-US3284594131", 
+                "fullstartdate": "201906170700", 
+                "copyright": "Crystal Bridges Museum of American Art in Bentonville, Arkansas (© Eddie Brady/Getty Images)", 
+                "title": "A ‘Crystal’ in the Ozarks", 
+                "url": "/th?id=OHR.CrystalBridges_EN-US3284594131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ac388527c360b52e46f88abefdc18901", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190617_CrystalBridges%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "http://www.bing.com/search?q=crystal+bridges+museum&form=hpcapt&filters=HpDate%253a%2220190617_0700%22", 
+                "wp": false, 
+                "enddate": "20190618", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
