@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190618", 
+                "urlbase": "/th?id=OHR.CherryLaurelMaze_ZH-CN9887470516", 
+                "fullstartdate": "201906181600", 
+                "copyright": "格伦德根花园的樱桃月桂树迷宫鸟瞰图，英国康沃尔 (© Richard Cooke/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.CherryLaurelMaze_ZH-CN9887470516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "65541888b6f533552d8e83f382d9e301", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190618_CherryLaurelMaze%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A8%B1%E6%A1%83%E6%9C%88%E6%A1%82%E6%A0%91%E8%BF%B7%E5%AE%AB%E9%B8%9F%E7%9E%B0%E5%9B%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190619", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190618", 
+                "urlbase": "/th?id=OHR.HelixPomatia_EN-US3386213495", 
+                "fullstartdate": "201906180700", 
+                "copyright": "Burgundy snails, also called edible snails (© Heidi and Hans-Juergen Koch/Minden Pictures)", 
+                "title": "Snail season", 
+                "url": "/th?id=OHR.HelixPomatia_EN-US3386213495_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "37d828ffce3e40a1bd4d702b135bfc39", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190618_HelixPomatia%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Helix+pomatia&form=hpcapt&filters=HpDate%3a%2220190618_0700%22", 
+                "wp": true, 
+                "enddate": "20190619", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
