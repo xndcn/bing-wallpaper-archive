@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190620", 
+                "urlbase": "/th?id=OHR.HawksbillCrag_ZH-CN4429681235", 
+                "fullstartdate": "201906201600", 
+                "copyright": "从上布法罗荒野地区的惠特克顶小道向东看，阿肯色州奥沙克国家森林 (© Jens Lambert Photography/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.HawksbillCrag_ZH-CN4429681235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3ea6a3f125f8143436e96454d08ed76d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190620_HawksbillCrag%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A5%A5%E6%B2%99%E5%85%8B%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190621", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190620", 
+                "urlbase": "/th?id=OHR.AlaskaEagle_EN-US3628054504", 
+                "fullstartdate": "201906200700", 
+                "copyright": "Bald eagles in Anchorage, Alaska (© Ron Niebrugge/Alamy)", 
+                "title": "An eagle for the ages", 
+                "url": "/th?id=OHR.AlaskaEagle_EN-US3628054504_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "dd72c04836230a449946b7f6bf66a9db", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190620_AlaskaEagle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Bald+eagle&form=hpcapt&filters=HpDate%3a%2220190620_0700%22", 
+                "wp": true, 
+                "enddate": "20190621", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
