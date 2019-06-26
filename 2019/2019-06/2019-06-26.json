@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190625", 
+                "urlbase": "/th?id=OHR.GlastonburyTor_ZH-CN4673691420", 
+                "fullstartdate": "201906251600", 
+                "copyright": "格拉斯顿伯里托尔和圣迈克尔塔，英格兰 (© Spraggon Photography/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.GlastonburyTor_ZH-CN4673691420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "57988f6bd0e853e18a3c37857e3ca3d8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190625_GlastonburyTor%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A0%BC%E6%8B%89%E6%96%AF%E9%A1%BF%E4%BC%AF%E9%87%8C%E6%89%98%E5%B0%94%E5%92%8C%E5%9C%A3%E8%BF%88%E5%85%8B%E5%B0%94%E5%A1%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190626", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190625", 
+                "urlbase": "/th?id=OHR.SutherlandFalls_EN-US5254268111", 
+                "fullstartdate": "201906250700", 
+                "copyright": "Sutherland Falls and Lake Quill in New Zealand (© Michael Rathmayr/plainpicture)", 
+                "title": "Winter on South Island", 
+                "url": "/th?id=OHR.SutherlandFalls_EN-US5254268111_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d910a542bb71b9fe217b90cbe5d2d290", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190625_SutherlandFalls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Sutherland+Falls&form=hpcapt&filters=HpDate%3a%2220190625_0700%22", 
+                "wp": true, 
+                "enddate": "20190626", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
