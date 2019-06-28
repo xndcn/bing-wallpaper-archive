@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190627", 
+                "urlbase": "/th?id=OHR.Montreux_ZH-CN5485205583", 
+                "fullstartdate": "201906271600", 
+                "copyright": "蒙特勒和日内瓦湖，瑞士 (© Westend61/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Montreux_ZH-CN5485205583_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e6d89752d84c03f4007d22ea2a9ce260", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190627_Montreux%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%92%99%E7%89%B9%E5%8B%92%E5%92%8C%E6%97%A5%E5%86%85%E7%93%A6%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190628", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190627", 
+                "urlbase": "/th?id=OHR.RootBridge_EN-US5546496960", 
+                "fullstartdate": "201906270700", 
+                "copyright": "Living root bridge in Meghalaya, India (© dhritipurna/Shutterstock)", 
+                "title": "This bridge is alive", 
+                "url": "/th?id=OHR.RootBridge_EN-US5546496960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d2564068d06d14bcb3ef166dd7f61da6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190627_RootBridge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=living+root+bridges+india&form=hpcapt&filters=HpDate%3a%2220190627_0700%22", 
+                "wp": true, 
+                "enddate": "20190628", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
