@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190628", 
+                "urlbase": "/th?id=OHR.BurrowingOwlet_ZH-CN5583013899", 
+                "fullstartdate": "201906281600", 
+                "copyright": "一只正在摆姿势的穴鸮，佛罗里达州开普科勒尔 (© mlorenzphotography/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.BurrowingOwlet_ZH-CN5583013899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4d1389702124f5739bffd2fe1d360ad5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190628_BurrowingOwlet%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%A9%B4%E9%B8%AE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190629", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190628", 
+                "urlbase": "/th?id=OHR.Montreux_EN-US5652122855", 
+                "fullstartdate": "201906280700", 
+                "copyright": "Montreux and Lake Geneva in Switzerland (© Westend61/Getty Images)", 
+                "title": "More than jazz in Montreux", 
+                "url": "/th?id=OHR.Montreux_EN-US5652122855_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b242316284a188487397d13cc2537d23", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190628_Montreux%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Montreux+Jazz+Festival&form=hpcapt&filters=HpDate%3a%2220190628_0700%22", 
+                "wp": true, 
+                "enddate": "20190629", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
