@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190629", 
+                "urlbase": "/th?id=OHR.RedAnthiasCoralMayotte_ZH-CN5646370533", 
+                "fullstartdate": "201906291600", 
+                "copyright": "金拟花鮨鱼群游过珊瑚，印度洋马约特岛 (© Gabriel Barathieu/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.RedAnthiasCoralMayotte_ZH-CN5646370533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "064711c281b985078f49867cdb87d387", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190629_RedAnthiasCoralMayotte%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%87%91%E6%8B%9F%E8%8A%B1%E9%AE%A8%E9%B1%BC%E7%BE%A4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190630", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190629", 
+                "urlbase": "/th?id=OHR.BurrowingOwlet_EN-US5825222069", 
+                "fullstartdate": "201906290700", 
+                "copyright": "Burrowing owlet posing in Cape Coral, Florida (© mlorenzphotography/Getty Images)", 
+                "title": "Oh snap! It's National Camera Day", 
+                "url": "/th?id=OHR.BurrowingOwlet_EN-US5825222069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "86e5565bb2955acf4d4ac113fe021195", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190629_BurrowingOwlet%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=national+camera+day&form=hpcapt&filters=HpDate%3a%2220190629_0700%22", 
+                "wp": true, 
+                "enddate": "20190630", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
