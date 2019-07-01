@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190630", 
+                "urlbase": "/th?id=OHR.HKreuni_ZH-CN5683726370", 
+                "fullstartdate": "201906301600", 
+                "copyright": "【香港回归22周年】 (© ViewStock/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.HKreuni_ZH-CN5683726370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2cef6f5d8102a757036a8cedd01c4488", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190630_HKreuni%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%9222%E5%91%A8%E5%B9%B4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190701", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190630", 
+                "urlbase": "/th?id=OHR.Pride2019_EN-US5957966998", 
+                "fullstartdate": "201906300700", 
+                "copyright": "San Francisco City Hall lit with rainbow lights for Pride (© Wonwoo Lee/Getty Images)", 
+                "title": "Historic Pride", 
+                "url": "/th?id=OHR.Pride2019_EN-US5957966998_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4941791cc6606134731e413855742c02", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190630_Pride2019%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=san+francisco+pride+parade&form=hpcapt&filters=HpDate%3a%2220190630_0700%22", 
+                "wp": true, 
+                "enddate": "20190701", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
