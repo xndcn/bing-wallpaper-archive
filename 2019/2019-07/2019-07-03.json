@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190702", 
+                "urlbase": "/th?id=OHR.Transfagarasan_ZH-CN5760731327", 
+                "fullstartdate": "201907021600", 
+                "copyright": "特兰西瓦尼亚的川斯发格拉山公路，罗马尼亚 (© Calin Stan/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.Transfagarasan_ZH-CN5760731327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bb378965e1840e0c9b9748501ea06cc8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190702_Transfagarasan%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B7%9D%E6%96%AF%E5%8F%91%E6%A0%BC%E6%8B%89%E5%B1%B1%E5%85%AC%E8%B7%AF&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190703", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190702", 
+                "urlbase": "/th?id=OHR.BailysBeads_EN-US6110016716", 
+                "fullstartdate": "201907020700", 
+                "copyright": "Solar eclipse sequence from August 21, 2017 (© Lindsay Daniels/Tandem Stills + Motion)", 
+                "title": "A diamond ring around the moon", 
+                "url": "/th?id=OHR.BailysBeads_EN-US6110016716_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a4d4676edf581e8b687b8fd7c3279580", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190702_BailysBeads%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=solar+eclipse&form=hpcapt&filters=HpDate%3a%2220190702_0700%22", 
+                "wp": true, 
+                "enddate": "20190703", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
