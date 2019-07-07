@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190706", 
+                "urlbase": "/th?id=OHR.WesternArcticHerd_ZH-CN6254887608", 
+                "fullstartdate": "201907061600", 
+                "copyright": "科伯克谷国家公园里的驯鹿，阿拉斯加 (© Staffan Widstrand/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.WesternArcticHerd_ZH-CN6254887608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5f9511edf5c27da98488e01d10d59940", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190706_WesternArcticHerd%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AF%E9%B9%BF&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190707", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190706", 
+                "urlbase": "/th?id=OHR.PelotonSunflowers_EN-US6580114020", 
+                "fullstartdate": "201907060700", 
+                "copyright": "Peloton during the 2018 Tour de France in Valence, France (© Justin Setterfield/Getty Images)", 
+                "title": "Flower pedals", 
+                "url": "/th?id=OHR.PelotonSunflowers_EN-US6580114020_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "411791ac137e05ec30e06f7d85474b63", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190706_PelotonSunflowers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=tour+de+france&form=hpcapt&filters=HpDate%3a%2220190706_0700%22", 
+                "wp": false, 
+                "enddate": "20190707", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
