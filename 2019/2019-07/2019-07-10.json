@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190709", 
+                "urlbase": "/th?id=OHR.KingsWalkway_ZH-CN5988888672", 
+                "fullstartdate": "201907091600", 
+                "copyright": "\"国王的小路\"上的游客，西班牙马拉加 (© Ken Welsh/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.KingsWalkway_ZH-CN5988888672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "67b96870a7959e068c071327ca769444", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190709_KingsWalkway%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E7%8E%8B%E7%9A%84%E5%B0%8F%E8%B7%AF&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190710", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190709", 
+                "urlbase": "/th?id=OHR.JaguarPantanal_EN-US7334347066", 
+                "fullstartdate": "201907090700", 
+                "copyright": "Jaguar in the Pantanal wetlands, Brazil (© Andy Rouse/Minden Pictures)", 
+                "title": "The best spot for jaguars", 
+                "url": "/th?id=OHR.JaguarPantanal_EN-US7334347066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8d5b13c07649de09f9318d211d16e81d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190709_JaguarPantanal%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=jaguar+animal&form=hpcapt&filters=HpDate%3a%2220190709_0700%22", 
+                "wp": true, 
+                "enddate": "20190710", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
