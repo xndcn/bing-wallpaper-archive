@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190711", 
+                "urlbase": "/th?id=OHR.NightofNights_ZH-CN5872572560", 
+                "fullstartdate": "201907111600", 
+                "copyright": "加利福尼亚州雷斯岬国家海岸上的柏树隧道 (© Rachid Dahnoun/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.NightofNights_ZH-CN5872572560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "058f5ebefc11cbe0f3f2aded23664c84", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190711_NightofNights%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%9F%8F%E6%A0%91%E9%9A%A7%E9%81%93&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190712", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190711", 
+                "urlbase": "/th?id=OHR.IndiaLitSpace_EN-US7080723789", 
+                "fullstartdate": "201907110700", 
+                "copyright": "Artificial light from Earth (© NASA)", 
+                "title": "It’s World Population Day", 
+                "url": "/th?id=OHR.IndiaLitSpace_EN-US7080723789_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "82fe5f36cbf662aa455585ae6e6550cb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190711_IndiaLitSpace%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www2.bing.com/search?q=world+population+day&form=hpcapt&filters=HpDate%3a%2220190711_0700%22", 
+                "wp": true, 
+                "enddate": "20190712", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
