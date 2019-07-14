@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190713", 
+                "urlbase": "/th?id=OHR.WaterperryGardens_ZH-CN5767279278", 
+                "fullstartdate": "201907131600", 
+                "copyright": "Waterperry花园，英国牛津郡 (© Lauren Hibbit/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.WaterperryGardens_ZH-CN5767279278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "953d19c4766f0192f0cd0f8df299c87b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190713_WaterperryGardens%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Waterperry%E8%8A%B1%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190714", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190713", 
+                "urlbase": "/th?id=OHR.TheMac_EN-US7670367637", 
+                "fullstartdate": "201907130700", 
+                "copyright": "Sailors begin their journey from Chicago to Mackinac Island, Michigan, during the Race to Mackinac (© Karen I. Hirsch/Alamy)", 
+                "title": "Ahoy! It’s time for the ‘Mac’", 
+                "url": "/th?id=OHR.TheMac_EN-US7670367637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b43cf32b93b0834d4d57e564fcdae03a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190713_TheMac%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www4.bing.com/search?q=chicago+race+to+mackinac&form=hpcapt&filters=HpDate%3a%2220190713_0700%22", 
+                "wp": false, 
+                "enddate": "20190714", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
