@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190714", 
+                "urlbase": "/th?id=OHR.Ushitukiiwa_ZH-CN5710944706", 
+                "fullstartdate": "201907141600", 
+                "copyright": "富士山和双岩，日本松崎 (© Tommy Tsutsui/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Ushitukiiwa_ZH-CN5710944706_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d099a011a3bc49ed04bebdf77069b8ce", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190714_Ushitukiiwa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%AF%8C%E5%A3%AB%E5%B1%B1%E5%92%8C%E5%8F%8C%E5%B2%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190715", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190714", 
+                "urlbase": "/th?id=OHR.LeatherbackTT_EN-US7759807534", 
+                "fullstartdate": "201907140700", 
+                "copyright": "Leatherback sea turtles in Trinidad and Tobago (© Shane P. White/Minden Pictures)", 
+                "title": "In the paths of their mothers", 
+                "url": "/th?id=OHR.LeatherbackTT_EN-US7759807534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6cc226ee2a4409a7a21ad0a18f4f6d86", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190714_LeatherbackTT%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=leatherback+sea+turtles&form=hpcapt&filters=HpDate%3a%2220190714_0700%22", 
+                "wp": true, 
+                "enddate": "20190715", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
