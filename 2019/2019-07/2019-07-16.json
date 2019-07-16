@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190715", 
+                "urlbase": "/th?id=OHR.VulpesVulpes_ZH-CN5650159325", 
+                "fullstartdate": "201907151600", 
+                "copyright": "一只草丛里的狐狸 (© Frederic Desmette/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.VulpesVulpes_ZH-CN5650159325_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d862c1e863564151af176c8e728ce5ec", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190715_VulpesVulpes%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%8B%90%E7%8B%B8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190716", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190715", 
+                "urlbase": "/th?id=OHR.Ushitukiiwa_EN-US7864837707", 
+                "fullstartdate": "201907150700", 
+                "copyright": "Mount Fuji and Ushitukiiwa (Twin Rocks) in Matsuzaki, Japan (© Tommy Tsutsui/Getty Images)", 
+                "title": "Honoring the oceans", 
+                "url": "/th?id=OHR.Ushitukiiwa_EN-US7864837707_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a2b0924b9d839375f4d842eaf2df5ffe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190715_Ushitukiiwa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Matsuzaki%2c+Japan&form=hpcapt&filters=HpDate%3a%2220190715_0700%22", 
+                "wp": true, 
+                "enddate": "20190716", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
