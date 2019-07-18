@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190717", 
+                "urlbase": "/th?id=OHR.LeatherbackTT_ZH-CN5495532728", 
+                "fullstartdate": "201907171600", 
+                "copyright": "特立尼达和多巴哥的棱皮龟 (© Shane P. White/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.LeatherbackTT_ZH-CN5495532728_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "81053976d4b05419fec89577c03d6b9f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190717_LeatherbackTT%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A3%B1%E7%9A%AE%E9%BE%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190718", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190717", 
+                "urlbase": "/th?id=OHR.GobiSheep_EN-US3908203180", 
+                "fullstartdate": "201907170700", 
+                "copyright": "Sheep flock in the Gobi Desert (© Patrick Baz/Getty Images)", 
+                "title": "Wandering desert flock", 
+                "url": "/th?id=OHR.GobiSheep_EN-US3908203180_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ddc952bffb4923871c8be9b935ec43a3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190717_GobiSheep%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=gobi+desert&form=hpcapt&filters=HpDate%3a%2220190717_0700%22", 
+                "wp": false, 
+                "enddate": "20190718", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
