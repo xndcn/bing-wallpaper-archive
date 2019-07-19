@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190718", 
+                "urlbase": "/th?id=OHR.GodsGarden_ZH-CN3317703606", 
+                "fullstartdate": "201907181600", 
+                "copyright": "科罗拉多斯普林斯的上帝公园，科罗拉多州 (© lightphoto/iStock/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.GodsGarden_ZH-CN3317703606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "16a2346b43a5145cb7779d471dc30821", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190718_GodsGarden%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%B8%8A%E5%B8%9D%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190719", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190718", 
+                "urlbase": "/th?id=OHR.WaterperryGardens_EN-US8173436031", 
+                "fullstartdate": "201907180700", 
+                "copyright": "Waterperry Gardens in Oxfordshire, England (© Lauren Hibbit/Danita Delimont)", 
+                "title": "Clouds over Waterperry", 
+                "url": "/th?id=OHR.WaterperryGardens_EN-US8173436031_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b6e945d276393460c92e8d2249a8fc78", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190718_WaterperryGardens%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www2.bing.com/search?q=waterperry+gardens+oxfordshire&form=hpcapt&filters=HpDate%3a%2220190718_0700%22", 
+                "wp": true, 
+                "enddate": "20190719", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
