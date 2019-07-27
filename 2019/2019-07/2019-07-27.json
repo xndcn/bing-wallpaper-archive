@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190726", 
+                "urlbase": "/th?id=OHR.CahuitaNP_ZH-CN3985565209", 
+                "fullstartdate": "201907261600", 
+                "copyright": "卡惠塔国家公园的海岸线，哥斯达黎加 (© Greg Basco/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.CahuitaNP_ZH-CN3985565209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f82c549c08962aaff1f302fa0ff91f6c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190726_CahuitaNP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8D%A1%E6%83%A0%E5%A1%94%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E7%9A%84%E6%B5%B7%E5%B2%B8%E7%BA%BF&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190727", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190726", 
+                "urlbase": "/th?id=OHR.NendazAlpenhorn_EN-US3193438150", 
+                "fullstartdate": "201907260700", 
+                "copyright": "Alphorn musicians perform during the International Alphorn Festival in Nendaz, Switzerland (© Fabrice Coffrini/Getty Images)", 
+                "title": "Step aside yodelers, this hill’s for alphorns", 
+                "url": "/th?id=OHR.NendazAlpenhorn_EN-US3193438150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7cfa0718958a465fffcee401388cd03a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190726_NendazAlpenhorn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=alphorn&form=hpcapt&filters=HpDate%3a%2220190726_0700%22", 
+                "wp": false, 
+                "enddate": "20190727", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
