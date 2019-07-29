@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190728", 
+                "urlbase": "/th?id=OHR.TrilliumLake_ZH-CN4079462365", 
+                "fullstartdate": "201907281600", 
+                "copyright": "胡德山国家森林里的延龄草湖，俄勒冈州 (© Frank Krahmer/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.TrilliumLake_ZH-CN4079462365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "35b71ee86b55a8e534bd81baeecd60cf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190728_TrilliumLake%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%BB%B6%E9%BE%84%E8%8D%89%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190729", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190728", 
+                "urlbase": "/th?id=OHR.NebraskaCarArt_EN-US3283375378", 
+                "fullstartdate": "201907280700", 
+                "copyright": "Carhenge, created by Jim Reinders near Alliance, Nebraska (© Charlie Summers/Minden Pictures)", 
+                "title": "Kitsch collides with archaeology at Carhenge", 
+                "url": "/th?id=OHR.NebraskaCarArt_EN-US3283375378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bd9468a81db78217711eb758046ba487", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190728_NebraskaCarArt%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=carhenge&form=hpcapt&filters=HpDate%3a%2220190728_0700%22", 
+                "wp": false, 
+                "enddate": "20190729", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
