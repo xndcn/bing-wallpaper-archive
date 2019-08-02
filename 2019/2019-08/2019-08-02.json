@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190801", 
+                "urlbase": "/th?id=OHR.CrummockWater_ZH-CN9317792500", 
+                "fullstartdate": "201908011600", 
+                "copyright": "克拉莫克湖上的倒影，英国坎布里亚湖区 (© Damian Harrison/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.CrummockWater_ZH-CN9317792500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "18d2d0bfd70ef9b95aaa1a269e581ffb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190801_CrummockWater%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%85%8B%E6%8B%89%E8%8E%AB%E5%85%8B%E6%B9%96%E4%B8%8A%E7%9A%84%E5%80%92%E5%BD%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190802", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190801", 
+                "urlbase": "/th?id=OHR.LavaFlows_EN-US3642057889", 
+                "fullstartdate": "201908010700", 
+                "copyright": "Hawaii Volcanoes National Park, Hawaii (© Grant Ordelheide/Tandem Stills + Motion)", 
+                "title": "The land of laze and vog", 
+                "url": "/th?id=OHR.LavaFlows_EN-US3642057889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "790089cd0275c7de54aa285da83af4e9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190801_LavaFlows%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=hawai%27i+volcanoes+national+park&form=hpcapt&filters=HpDate%3a%2220190801_0700%22", 
+                "wp": true, 
+                "enddate": "20190802", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
