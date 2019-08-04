@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190803", 
+                "urlbase": "/th?id=OHR.SwiftFox_ZH-CN9413097062", 
+                "fullstartdate": "201908031600", 
+                "copyright": "瓦勒玛丽附近草原国家公园中的草原狐幼崽，加拿大萨斯喀彻温省 (© John E Marriott/age fotostock)", 
+                "title": "", 
+                "url": "/th?id=OHR.SwiftFox_ZH-CN9413097062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2d5a7da465ceec0a7aca210cfa0d4748", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190803_SwiftFox%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%8D%89%E5%8E%9F%E7%8B%90&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190804", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190803", 
+                "urlbase": "/th?id=OHR.HumpbackSanctuary_EN-US3889583699", 
+                "fullstartdate": "201908030700", 
+                "copyright": "A humpback whale off the coast of Maui in Hawaii (© Design Pics/Danita Delimont)", 
+                "title": "Cetacean Saturday", 
+                "url": "/th?id=OHR.HumpbackSanctuary_EN-US3889583699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7f34493e9bd82f24c8c46f817b41fd3e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190803_HumpbackSanctuary%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=humpback+whale&form=hpcapt&filters=HpDate%3a%2220190803_0700%22", 
+                "wp": true, 
+                "enddate": "20190804", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
