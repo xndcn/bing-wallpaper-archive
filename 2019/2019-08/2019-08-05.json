@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190804", 
+                "urlbase": "/th?id=OHR.ApostleIslands_ZH-CN9543695883", 
+                "fullstartdate": "201908041600", 
+                "copyright": "威斯康星州贝菲尔德附近的阿波斯特尔群岛国家湖岸，一只皮划艇正在探索砂岩海蚀洞 (© Chuck Haney/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.ApostleIslands_ZH-CN9543695883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f621b904f49ed7a02de4a2b5ba08ad08", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190804_ApostleIslands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%A0%82%E5%B2%A9%E6%B5%B7%E8%9A%80%E6%B4%9E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190805", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190804", 
+                "urlbase": "/th?id=OHR.SwiftFox_EN-US3962578167", 
+                "fullstartdate": "201908040700", 
+                "copyright": "Swift fox pups in Grasslands National Park near Val Marie in Saskatchewan, Canada (© John E Marriott/age fotostock)", 
+                "title": "Pups of the prairie", 
+                "url": "/th?id=OHR.SwiftFox_EN-US3962578167_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ad372828091122c50d567943227d779a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190804_SwiftFox%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=swift+fox&form=hpcapt&filters=HpDate%3a%2220190804_0700%22", 
+                "wp": true, 
+                "enddate": "20190805", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
