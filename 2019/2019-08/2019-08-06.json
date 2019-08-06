@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190805", 
+                "urlbase": "/th?id=OHR.WhiteStorksNest_ZH-CN9809680903", 
+                "fullstartdate": "201908051600", 
+                "copyright": "洛斯巴鲁埃科斯自然纪念碑上的白鹳，西班牙卡塞雷斯 (© Wild Wonders of Europe/Widstrand/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.WhiteStorksNest_ZH-CN9809680903_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3787328ce41a9a9fd1a545a47a6b546e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190805_WhiteStorksNest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B4%9B%E6%96%AF%E5%B7%B4%E9%B2%81%E5%9F%83%E7%A7%91%E6%96%AF%E8%87%AA%E7%84%B6%E7%BA%AA%E5%BF%B5%E7%A2%91%E4%B8%8A%E7%9A%84%E7%99%BD%E9%B9%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190806", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190805", 
+                "urlbase": "/th?id=OHR.ApostleIslands_EN-US4124601738", 
+                "fullstartdate": "201908050700", 
+                "copyright": "Kayaker exploring sandstone sea caves in Apostle Islands National Lakeshore near Bayfield, Wisconsin (© Chuck Haney/Danita Delimont)", 
+                "title": "A ‘Superior’ paddle", 
+                "url": "/th?id=OHR.ApostleIslands_EN-US4124601738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7709359b7ff1577a5ecff4923fd8bca3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190805_ApostleIslands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Apostle+Islands+National+Lakeshore&form=hpcapt&filters=HpDate%3a%2220190805_0700%22", 
+                "wp": true, 
+                "enddate": "20190806", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
