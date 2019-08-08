@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190807", 
+                "urlbase": "/th?id=OHR.LinyantiLeopard_ZH-CN9934758728", 
+                "fullstartdate": "201908071600", 
+                "copyright": "利尼扬蒂野生动物保护区中的一只雄性豹子，博茨瓦纳 (© Karine Aigner/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.LinyantiLeopard_ZH-CN9934758728_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "64b348888d928f54fae108d6252e5ccb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190807_LinyantiLeopard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%B1%B9%E5%AD%90&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190808", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190807", 
+                "urlbase": "/th?id=OHR.NubbleLight_EN-US4307721919", 
+                "fullstartdate": "201908070700", 
+                "copyright": "Cape Neddick Light in York, Maine (© Haizhan Zheng/Getty Images)", 
+                "title": "Nubble Island’s only industry", 
+                "url": "/th?id=OHR.NubbleLight_EN-US4307721919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "39f2162aff95b6f9d2b190a05cac87c2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190807_NubbleLight%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=cape+neddick+light&form=hpcapt&filters=HpDate%3a%2220190807_0700%22", 
+                "wp": true, 
+                "enddate": "20190808", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
