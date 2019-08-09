@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190808", 
+                "urlbase": "/th?id=OHR.KluaneAspen_ZH-CN0028056280", 
+                "fullstartdate": "201908081600", 
+                "copyright": "克鲁瓦尼国家公园中杨树的抽象动态模糊影像，育空 (© Don Paulson/Jaynes Gallery/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.KluaneAspen_ZH-CN0028056280_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "757d5625e0cd1584ad5a300ba4cd4a83", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190808_KluaneAspen%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%9D%A8%E6%A0%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190809", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190808", 
+                "urlbase": "/th?id=OHR.LinyantiLeopard_EN-US4417191333", 
+                "fullstartdate": "201908080700", 
+                "copyright": "Male leopard in Linyanti Wildlife Reserve, Botswana (© Karine Aigner/Tandem Stills + Motion)", 
+                "title": "Spot on for International Cat Day", 
+                "url": "/th?id=OHR.LinyantiLeopard_EN-US4417191333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f54faaf8261366815b3a3c29c0091dfd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190808_LinyantiLeopard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=southern+african+leopard&form=hpcapt&filters=HpDate%3a%2220190808_0700%22", 
+                "wp": true, 
+                "enddate": "20190809", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
