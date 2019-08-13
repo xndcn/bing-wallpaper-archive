@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190812", 
+                "urlbase": "/th?id=OHR.MartianSouthPole_ZH-CN0324422893", 
+                "fullstartdate": "201908121600", 
+                "copyright": "火星快车号传来的火星南极冰盖图像 (© ESA/DLR/FU Berlin/Bill Dunford)", 
+                "title": "", 
+                "url": "/th?id=OHR.MartianSouthPole_ZH-CN0324422893_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ec05f10e641e75dd7f18b0658411288e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190812_MartianSouthPole%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%81%AB%E6%98%9F%E5%8D%97%E6%9E%81%E5%86%B0%E7%9B%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190813", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190812", 
+                "urlbase": "/th?id=OHR.AmboseliHerd_EN-US4906595421", 
+                "fullstartdate": "201908120700", 
+                "copyright": "Elephants in Amboseli National Park, Kenya (© Adam Bannister/Offset)", 
+                "title": "Don't forget—it’s World Elephant Day", 
+                "url": "/th?id=OHR.AmboseliHerd_EN-US4906595421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9618d3b27fb90fb719edeaedfd34938e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190812_AmboseliHerd%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=world+elephant+day&form=hpcapt&filters=HpDate%3a%2220190812_0700%22", 
+                "wp": true, 
+                "enddate": "20190813", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
