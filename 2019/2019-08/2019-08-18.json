@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190817", 
+                "urlbase": "/th?id=OHR.MagdalenCave_ZH-CN6279630125", 
+                "fullstartdate": "201908171600", 
+                "copyright": "马格达伦群岛洞穴内部，加拿大魁北克 (© Virginie Fréchette/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MagdalenCave_ZH-CN6279630125_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "79f1468d424b27f3ec01ed5f00eba41c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190817_MagdalenCave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E6%A0%BC%E8%BE%BE%E4%BC%A6%E7%BE%A4%E5%B2%9B%E6%B4%9E%E7%A9%B4%E5%86%85%E9%83%A8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190818", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190817", 
+                "urlbase": "/th?id=OHR.DrinkingNectar_EN-US6159843557", 
+                "fullstartdate": "201908170700", 
+                "copyright": "Bees for National Honey Bee Day (© Angela Parker/Offset)", 
+                "title": "The buzz about bees", 
+                "url": "/th?id=OHR.DrinkingNectar_EN-US6159843557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6da2615fe017c732a20dc9a9ee4a7363", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190817_DrinkingNectar%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=national+honey+bee+day&form=hpcapt&filters=HpDate%3a%2220190817_0700%22", 
+                "wp": true, 
+                "enddate": "20190818", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
