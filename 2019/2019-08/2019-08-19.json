@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190818", 
+                "urlbase": "/th?id=OHR.Feringasee_ZH-CN6335425001", 
+                "fullstartdate": "201908181600", 
+                "copyright": "温特弗灵附近的费灵加湖，德国巴伐利亚 (© Westend61/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Feringasee_ZH-CN6335425001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1868db321773f4cf7e1967d402de59f9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190818_Feringasee%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%B4%B9%E7%81%B5%E5%8A%A0%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190819", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190818", 
+                "urlbase": "/th?id=OHR.LecadaPalmeira_EN-US6234062305", 
+                "fullstartdate": "201908180700", 
+                "copyright": "Tidal pools of Leça da Palmeira, Portugal (© Fernando Guerra/age fotostock)", 
+                "title": "A splash by the sea", 
+                "url": "/th?id=OHR.LecadaPalmeira_EN-US6234062305_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cfdd7a26aadc45f386e3fde099751dbf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190818_LecadaPalmeira%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=le%C3%A7a+da+palmeira+portugal&form=hpcapt&filters=HpDate%3a%2220190818_0700%22", 
+                "wp": false, 
+                "enddate": "20190819", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
