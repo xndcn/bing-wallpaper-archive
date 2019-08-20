@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190819", 
+                "urlbase": "/th?id=OHR.FinlandCamping_ZH-CN6418764403", 
+                "fullstartdate": "201908191600", 
+                "copyright": "芬兰东部的Muje-Oulu湖 (© Topi Ylä-Mononen/plainpicture)", 
+                "title": "", 
+                "url": "/th?id=OHR.FinlandCamping_ZH-CN6418764403_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "713534279fd640b83e051c5015bb2f6d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190819_FinlandCamping%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Muje-Oulu%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190820", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190819", 
+                "urlbase": "/th?id=OHR.ReplicaFlyer_EN-US6328727049", 
+                "fullstartdate": "201908190700", 
+                "copyright": "Replica of the Wright Flyer undergoing aerodynamic tests at NASA's Langley Research Center, Virginia (© Chuck Thomas/Science Photo Library)", 
+                "title": "On the wings of the Wright brothers", 
+                "url": "/th?id=OHR.ReplicaFlyer_EN-US6328727049_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "99e092eed11a6136fa4b53b955a18307", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190819_ReplicaFlyer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Wright+Flyer&form=hpcapt&filters=HpDate%3a%2220190819_0700%22", 
+                "wp": false, 
+                "enddate": "20190820", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
