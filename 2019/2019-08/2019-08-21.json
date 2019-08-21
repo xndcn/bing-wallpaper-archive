@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190820", 
+                "urlbase": "/th?id=OHR.MaraRiverCrossing_ZH-CN6598585392", 
+                "fullstartdate": "201908201600", 
+                "copyright": "角马群穿越在肯尼亚和坦桑尼亚之间的马拉河 (© zhengvision/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MaraRiverCrossing_ZH-CN6598585392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "14d257ede3d09c9a10bc5480e58eb450", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190820_MaraRiverCrossing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%A7%92%E9%A9%AC%E7%BE%A4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190821", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190820", 
+                "urlbase": "/th?id=OHR.FinlandCamping_EN-US6396254825", 
+                "fullstartdate": "201908200700", 
+                "copyright": "Muje-Oulu Lake in eastern Finland (© Topi Ylä-Mononen/plainpicture)", 
+                "title": "Lakeside serenity in Finland", 
+                "url": "/th?id=OHR.FinlandCamping_EN-US6396254825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "688f4fc5f3148ca68a15637878f74369", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190820_FinlandCamping%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=camping+in+finland&form=hpcapt&filters=HpDate%3a%2220190820_0700%22", 
+                "wp": true, 
+                "enddate": "20190821", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
