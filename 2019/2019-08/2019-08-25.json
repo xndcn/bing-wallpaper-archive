@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190824", 
+                "urlbase": "/th?id=OHR.WinnatsPass_ZH-CN8251326840", 
+                "fullstartdate": "201908241600", 
+                "copyright": "德比郡高峰区的Winnats山口，英格兰 (© Christopher Drabble/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.WinnatsPass_ZH-CN8251326840_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "31761204ee45dce1342d16f77f54d71f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190824_WinnatsPass%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Winnats%E5%B1%B1%E5%8F%A3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190825", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190824", 
+                "urlbase": "/th?id=OHR.AugustBears_EN-US6742425682", 
+                "fullstartdate": "201908240700", 
+                "copyright": "Brown bears in Katmai National Park and Preserve, Alaska (© imageBROKER/SuperStock)", 
+                "title": "Get the bear facts", 
+                "url": "/th?id=OHR.AugustBears_EN-US6742425682_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4f9574586d5c94a8a6d0947a06d05d9b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190824_AugustBears%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Brown+bear&form=hpcapt&filters=HpDate%3a%2220190824_0700%22", 
+                "wp": true, 
+                "enddate": "20190825", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
