@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190826", 
+                "urlbase": "/th?id=OHR.Krakatoa_ZH-CN8471800710", 
+                "fullstartdate": "201908261600", 
+                "copyright": "苏门答腊海岸正在喷发的喀拉喀托火山，印度尼西亚 (© Martin Rietze/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.Krakatoa_ZH-CN8471800710_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cfd15fe9d6df32636f037823a68c681c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190826_Krakatoa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%96%80%E6%8B%89%E5%96%80%E6%89%98%E7%81%AB%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190827", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190826", 
+                "urlbase": "/th?id=OHR.InteriorRoyalAlbertHall_EN-US6870096316", 
+                "fullstartdate": "201908260700", 
+                "copyright": "Royal Albert Hall during the annual BBC Proms festival in London (© Oli Scarff/Getty Images)", 
+                "title": "Classical music takes center stage", 
+                "url": "/th?id=OHR.InteriorRoyalAlbertHall_EN-US6870096316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "005e7bd5252ade7257a0c5df6982a7cd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190826_InteriorRoyalAlbertHall%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=bbc+proms&form=hpcapt&filters=HpDate%3a%2220190826_0700%22", 
+                "wp": false, 
+                "enddate": "20190827", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
