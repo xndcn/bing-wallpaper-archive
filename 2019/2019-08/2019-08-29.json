@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190828", 
+                "urlbase": "/th?id=OHR.HardeeCoFair_ZH-CN8647295545", 
+                "fullstartdate": "201908281600", 
+                "copyright": "沃楚拉的哈迪县集市，佛罗里达州 (© Oscar G. Davila/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.HardeeCoFair_ZH-CN8647295545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "61803fe63ca56cf0e6f66cd29f0275bc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190828_HardeeCoFair%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%93%88%E8%BF%AA%E5%8E%BF%E9%9B%86%E5%B8%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190829", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190828", 
+                "urlbase": "/th?id=OHR.CorsiniGardens_EN-US7010199576", 
+                "fullstartdate": "201908280700", 
+                "copyright": "The Garden of the Palazzo Corsini al Prato in Florence, Italy, for the New Generation Festival (© Will Perrett/Alamy)", 
+                "title": "Florentine garden brings generations together", 
+                "url": "/th?id=OHR.CorsiniGardens_EN-US7010199576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b8be400df1447a87bfef5bb9638e3310", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190828_CorsiniGardens%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=corsini+gardens+florence&form=hpcapt&filters=HpDate%3a%2220190828_0700%22", 
+                "wp": true, 
+                "enddate": "20190829", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
