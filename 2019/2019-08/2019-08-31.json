@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190830", 
+                "urlbase": "/th?id=OHR.Slackers_ZH-CN1408656264", 
+                "fullstartdate": "201908301600", 
+                "copyright": "正在巨石间走扁带的人，加利福尼亚毕晓普 (© Evgeny Vasenev/Aurora Photos)", 
+                "title": "", 
+                "url": "/th?id=OHR.Slackers_ZH-CN1408656264_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a5be924581da0972b0e943c738921d92", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190830_Slackers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%B5%B0%E6%89%81%E5%B8%A6%E7%9A%84%E4%BA%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190831", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190830", 
+                "urlbase": "/th?id=OHR.HardeeCoFair_EN-US1477332511", 
+                "fullstartdate": "201908300700", 
+                "copyright": "Hardee County Fair in Wauchula, Florida (© Oscar G. Davila/Getty Images)", 
+                "title": "It's fair season", 
+                "url": "/th?id=OHR.HardeeCoFair_EN-US1477332511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "391d0b77146ab319d93abcffa2d0be1c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190830_HardeeCoFair%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=state+fairs&form=hpcapt&filters=HpDate%3a%2220190830_0700%22", 
+                "wp": true, 
+                "enddate": "20190831", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
