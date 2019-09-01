@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190831", 
+                "urlbase": "/th?id=OHR.Castelbouc_ZH-CN1475157551", 
+                "fullstartdate": "201908311600", 
+                "copyright": "法国塔恩河沿岸的Castelbouc城堡和塔恩峡谷 (© Stefan Schurr/Westend61/Offset)", 
+                "title": "", 
+                "url": "/th?id=OHR.Castelbouc_ZH-CN1475157551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1e645e7166b94a6a5522b885613ecf8c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190831_Castelbouc%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Castelbouc%E5%9F%8E%E5%A0%A1%E5%92%8C%E5%A1%94%E6%81%A9%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190901", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190831", 
+                "urlbase": "/th?id=OHR.Slackers_EN-US7258381769", 
+                "fullstartdate": "201908310700", 
+                "copyright": "Slacklining between giant boulders in Bishop, California (© Evgeny Vasenev/Aurora Photos)", 
+                "title": "Walk the line", 
+                "url": "/th?id=OHR.Slackers_EN-US7258381769_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c5333c496325eb6e33a6fa8622b23590", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190831_Slackers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=slacklining&form=hpcapt&filters=HpDate%3a%2220190831_0700%22", 
+                "wp": true, 
+                "enddate": "20190901", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
