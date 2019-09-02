@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190901", 
+                "urlbase": "/th?id=OHR.RamsauWimbachklamm_ZH-CN1602837695", 
+                "fullstartdate": "201909011600", 
+                "copyright": "拉姆绍的Wimbachklamm峡谷，德国巴伐利亚 (© Westend61 GmbH/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.RamsauWimbachklamm_ZH-CN1602837695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9f822f5607e3cec381408303a73c1986", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190901_RamsauWimbachklamm%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Wimbachklamm%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190902", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190901", 
+                "urlbase": "/th?id=OHR.Castelbouc_EN-US7345047986", 
+                "fullstartdate": "201909010700", 
+                "copyright": "Castelbouc and the Gorges du Tarn along the Tarn River in France (© Stefan Schurr/Westend61/Offset)", 
+                "title": "Bidding summer adieu", 
+                "url": "/th?id=OHR.Castelbouc_EN-US7345047986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2538177b5dd0b9318de5a70a7d1e17a4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190901_Castelbouc%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Tarn+Gorge&form=hpcapt&filters=HpDate%3a%2220190901_0700%22", 
+                "wp": true, 
+                "enddate": "20190902", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
