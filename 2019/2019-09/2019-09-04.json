@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190903", 
+                "urlbase": "/th?id=OHR.AutumnTreesNewEngland_ZH-CN1766405773", 
+                "fullstartdate": "201909031600", 
+                "copyright": "新英格兰的杨树，澳大利亚新南威尔士州 (© ILYA GENKIN/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.AutumnTreesNewEngland_ZH-CN1766405773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2691788149a3d694daf157e0524b1553", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190903_AutumnTreesNewEngland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%96%B0%E8%8B%B1%E6%A0%BC%E5%85%B0%E7%9A%84%E6%9D%A8%E6%A0%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190904", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190903", 
+                "urlbase": "/th?id=OHR.GuaitaTower_EN-US7498727693", 
+                "fullstartdate": "201909030700", 
+                "copyright": "Guaita Tower in San Marino (© Piercarlo Abate/Shutterstock)", 
+                "title": "In the 'Most Serene Republic'", 
+                "url": "/th?id=OHR.GuaitaTower_EN-US7498727693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f44fc8bd8d0600b89e6b16deb9af2860", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190903_GuaitaTower%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=guaita+san+marino&form=hpcapt&filters=HpDate%3a%2220190903_0700%22", 
+                "wp": false, 
+                "enddate": "20190904", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
