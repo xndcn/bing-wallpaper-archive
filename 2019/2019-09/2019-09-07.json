@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190906", 
+                "urlbase": "/th?id=OHR.MountFanjing_ZH-CN1999613800", 
+                "fullstartdate": "201909061600", 
+                "copyright": "武陵山脉的最高峰梵净山，中国西南 (© Keitma/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.MountFanjing_ZH-CN1999613800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "449977af4fcb44c56b4d090354e64c76", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190906_MountFanjing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A2%B5%E5%87%80%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190907", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190906", 
+                "urlbase": "/th?id=OHR.ElMorro_EN-US7724975036", 
+                "fullstartdate": "201909060700", 
+                "copyright": "Castillo San Felipe del Morro in Old San Juan, Puerto Rico (© grandriver/Getty Images)", 
+                "title": "The old guard at Old San Juan", 
+                "url": "/th?id=OHR.ElMorro_EN-US7724975036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4c03d2d2996c50083b18646e598ffe9f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190906_ElMorro%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Castillo+del+Morro&form=hpcapt&filters=HpDate%3a%2220190906_0700%22", 
+                "wp": true, 
+                "enddate": "20190907", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
