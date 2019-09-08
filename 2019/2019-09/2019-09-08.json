@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190907", 
+                "urlbase": "/th?id=OHR.SouthernYellow_ZH-CN2055825919", 
+                "fullstartdate": "201909071600", 
+                "copyright": "克鲁格国家公园中的黄嘴犀鸟，南非 (© Ben Cranke/Getty Image)", 
+                "title": "", 
+                "url": "/th?id=OHR.SouthernYellow_ZH-CN2055825919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8c12c9ad080032d0ceebe5ee18b9a94c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190907_SouthernYellow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%BB%84%E5%98%B4%E7%8A%80%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190908", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190907", 
+                "urlbase": "/th?id=OHR.MountFanjing_EN-US7796798477", 
+                "fullstartdate": "201909070700", 
+                "copyright": "Mount Fanjing, the highest peak of the Wuling Mountains, in southwest China (© Keitma/Alamy)", 
+                "title": "Cloudy with a chance of enlightenment", 
+                "url": "/th?id=OHR.MountFanjing_EN-US7796798477_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5b82edb0ef3c48be6d1be27f777ea620", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190907_MountFanjing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=fanjingshan&form=hpcapt&filters=HpDate%3a%2220190907_0700%22", 
+                "wp": true, 
+                "enddate": "20190908", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
