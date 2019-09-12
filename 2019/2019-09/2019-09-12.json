@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190911", 
+                "urlbase": "/th?id=OHR.MilkyWayCanyonlands_ZH-CN2363274510", 
+                "fullstartdate": "201909111600", 
+                "copyright": "在犹他州峡谷地国家公园中看到的银河 (© Cavan Images/Offset)", 
+                "title": "", 
+                "url": "/th?id=OHR.MilkyWayCanyonlands_ZH-CN2363274510_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "984348a03ad08bb94a9aab1593755713", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190911_MilkyWayCanyonlands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B3%A1%E8%B0%B7%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190912", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190911", 
+                "urlbase": "/th?id=OHR.TowerofVoices_EN-US2297032194", 
+                "fullstartdate": "201909110700", 
+                "copyright": "The Tower of Voices at the Flight 93 National Memorial in Shanksville, Pennsylvania (© Amy Cicconi/Alamy)", 
+                "title": "A tower of remembrance", 
+                "url": "/th?id=OHR.TowerofVoices_EN-US2297032194_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c0487655a62c90ccdcae79a3b28eaeb0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190911_TowerofVoices%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=tower+of+voices+flight+93+memorial&form=hpcapt&filters=HpDate%3a%2220190911_0700%22", 
+                "wp": false, 
+                "enddate": "20190912", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
