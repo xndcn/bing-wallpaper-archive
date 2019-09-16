@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190915", 
+                "urlbase": "/th?id=OHR.Wachsenburg_ZH-CN5224299503", 
+                "fullstartdate": "201909151600", 
+                "copyright": "赖格莱兴的Wachsenburg城堡，德国图林根州 (© Raimund Linke/Masterfile)", 
+                "title": "", 
+                "url": "/th?id=OHR.Wachsenburg_ZH-CN5224299503_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a831c53484598d6a119284554625157f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190915_Wachsenburg%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Wachsenburg%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190916", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190915", 
+                "urlbase": "/th?id=OHR.TheVochol_EN-US8201280174", 
+                "fullstartdate": "201909150700", 
+                "copyright": "The Vochol, a Volkswagen Beetle decorated with traditional Huichol beadwork (© Helen H. Richardson/Getty Images)", 
+                "title": "A light on National Hispanic Heritage Month", 
+                "url": "/th?id=OHR.TheVochol_EN-US8201280174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2287a28ec24873a7a22d1ea3bf15e682", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190915_TheVochol%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Vochol&form=hpcapt&filters=HpDate%3a%2220190915_0700%22", 
+                "wp": false, 
+                "enddate": "20190916", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
