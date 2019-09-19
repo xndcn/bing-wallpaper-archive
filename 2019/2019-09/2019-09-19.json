@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190918", 
+                "urlbase": "/th?id=OHR.CommonLoon_ZH-CN5437917206", 
+                "fullstartdate": "201909181600", 
+                "copyright": "苏必利尔国家森林中一只常见的潜鸟，明尼苏达州 (© Jim Brandenburg/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.CommonLoon_ZH-CN5437917206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "885ca7793058b624ee69a349252bb6a9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190918_CommonLoon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%BD%9C%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190919", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190918", 
+                "urlbase": "/th?id=OHR.Villarrica_EN-US0968684000", 
+                "fullstartdate": "201909180700", 
+                "copyright": "The Villarrica volcano in Chile on September 2, 2018 (© Cristobal Saavedra Escobar/Reuters)", 
+                "title": "Celebrating Chile’s Independence Day", 
+                "url": "/th?id=OHR.Villarrica_EN-US0968684000_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1c151538aed56f965bc087956afb31c5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190918_Villarrica%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=villarrica+volcano&form=hpcapt&filters=HpDate%3a%2220190918_0700%22", 
+                "wp": false, 
+                "enddate": "20190919", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
