@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190920", 
+                "urlbase": "/th?id=OHR.WallofPeace_ZH-CN5582031878", 
+                "fullstartdate": "201909201600", 
+                "copyright": "“和平之墙”和巴黎的埃菲尔铁塔 (© Prisma by Dukas Presseagentur GmbH/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.WallofPeace_ZH-CN5582031878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2a495e0038c0cd95e95b3aa6d47710b6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190920_WallofPeace%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E2%80%9C%E5%92%8C%E5%B9%B3%E4%B9%8B%E5%A2%99%E2%80%9D%E5%92%8C%E5%B7%B4%E9%BB%8E%E7%9A%84%E5%9F%83%E8%8F%B2%E5%B0%94%E9%93%81%E5%A1%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190921", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190920", 
+                "urlbase": "/th?id=OHR.ThePando_EN-US1263045290", 
+                "fullstartdate": "201909200700", 
+                "copyright": "Quaking aspens of Pando in Fishlake National Forest, Utah (© Don Paulson/Danita Delimont)", 
+                "title": "Fall comes to Pando", 
+                "url": "/th?id=OHR.ThePando_EN-US1263045290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ab2915987f7e5072fc29ecc1006198cf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190920_ThePando%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Pando+tree&form=hpcapt&filters=HpDate%3a%2220190920_0700%22", 
+                "wp": true, 
+                "enddate": "20190921", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
