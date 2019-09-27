@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190926", 
+                "urlbase": "/th?id=OHR.BardenasDesert_ZH-CN1357611840", 
+                "fullstartdate": "201909261600", 
+                "copyright": "德纳斯雷亚尔斯自然公园Castildetierra上空绚丽的日落，西班牙纳瓦拉 (© Inigofotografia/iStock/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.BardenasDesert_ZH-CN1357611840_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b0f829de7249ec8a8b9606263159ad97", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190926_BardenasDesert%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Castildetierra%E4%B8%8A%E7%A9%BA%E7%BB%9A%E4%B8%BD%E7%9A%84%E6%97%A5%E8%90%BD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190927", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190926", 
+                "urlbase": "/th?id=OHR.KelpKeepers_EN-US5470053461", 
+                "fullstartdate": "201909260700", 
+                "copyright": "Sea otters in Alaska’s Inside Passage (© Erika Skogg/Getty Images)", 
+                "title": "Kelp buddies", 
+                "url": "/th?id=OHR.KelpKeepers_EN-US5470053461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d20de34bfc3c6bf7e02ad402d731be35", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190926_KelpKeepers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=sea+otter&form=hpcapt&filters=HpDate%3a%2220190926_0700%22", 
+                "wp": true, 
+                "enddate": "20190927", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
