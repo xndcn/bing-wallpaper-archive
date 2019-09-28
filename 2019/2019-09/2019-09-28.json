@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190927", 
+                "urlbase": "/th?id=OHR.BloomingJacaranda_ZH-CN1456780313", 
+                "fullstartdate": "201909271600", 
+                "copyright": "新农场公园内盛开的蓝花楹树，布里斯班 (© Walter Bibikow/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.BloomingJacaranda_ZH-CN1456780313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1bf86fa27bee159326e6cbd47cd43df7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190927_BloomingJacaranda%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%93%9D%E8%8A%B1%E6%A5%B9%E6%A0%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190928", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190927", 
+                "urlbase": "/th?id=OHR.NankoweapGranaries_EN-US3648853544", 
+                "fullstartdate": "201909270700", 
+                "copyright": "The Nankoweap Granaries of the Grand Canyon in Arizona (© Jack Dykinga/Minden Pictures)", 
+                "title": "Ancient storage in the Grand Canyon", 
+                "url": "/th?id=OHR.NankoweapGranaries_EN-US3648853544_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "249a5ab527a57efed88d3b0cd56d3878", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190927_NankoweapGranaries%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=grand+canyon+national+park&form=hpcapt&filters=HpDate%3a%2220190927_0700%22", 
+                "wp": true, 
+                "enddate": "20190928", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
