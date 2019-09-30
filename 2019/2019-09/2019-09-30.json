@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190929", 
+                "urlbase": "/th?id=OHR.CrimsonRosella_ZH-CN1581892400", 
+                "fullstartdate": "201909291600", 
+                "copyright": "一对深红玫瑰鹦鹉幼鸟，维多利亚州 (© Naser Alhujailan/plainpicture/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.CrimsonRosella_ZH-CN1581892400_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d2ccdeefe3c4ecc66330479e9671e106", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190929_CrimsonRosella%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B7%B1%E7%BA%A2%E7%8E%AB%E7%91%B0%E9%B9%A6%E9%B9%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20190930", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190929", 
+                "urlbase": "/th?id=OHR.ClavijoLandscape_EN-US3832864269", 
+                "fullstartdate": "201909290700", 
+                "copyright": "Autumnal landscape near the town of Clavijo in Spain's Rioja wine region (© Olimpio Fantuz/eStock Photo)", 
+                "title": "Falling for Rioja", 
+                "url": "/th?id=OHR.ClavijoLandscape_EN-US3832864269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "543baaedcf6672fc1171943e099abbbc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190929_ClavijoLandscape%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=la+rioja+province+spain&form=hpcapt&filters=HpDate%3a%2220190929_0700%22", 
+                "wp": true, 
+                "enddate": "20190930", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
