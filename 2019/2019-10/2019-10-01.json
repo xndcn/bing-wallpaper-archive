@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20190930", 
+                "urlbase": "/th?id=OHR.NationalDay70_ZH-CN1636316274", 
+                "fullstartdate": "201909301600", 
+                "copyright": "【国庆70周年】 (© Prasit Rodphan/Alamy Stock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.NationalDay70_ZH-CN1636316274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ae75194f15f0ea361fc26c1205abe4c8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190930_NationalDay70%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E5%BA%8670%E5%91%A8%E5%B9%B4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191001", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20190930", 
+                "urlbase": "/th?id=OHR.DaxingPKX_EN-US3995932442", 
+                "fullstartdate": "201909300700", 
+                "copyright": "An aerial view of Beijing Daxing International Airport, China (© Xinhua/Alamy)", 
+                "title": "Wheels up in Beijing", 
+                "url": "/th?id=OHR.DaxingPKX_EN-US3995932442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7685baf81001f63a7b368a7a0a8a8c08", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20190930_DaxingPKX%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=beijing+daxing+international+airport+terminal&form=hpcapt&filters=HpDate%3a%2220190930_0700%22", 
+                "wp": false, 
+                "enddate": "20191001", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
