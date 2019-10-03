@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191002", 
+                "urlbase": "/th?id=OHR.AdelieBreeding_ZH-CN1750945258", 
+                "fullstartdate": "201910021600", 
+                "copyright": "珀泽申群岛上的阿德利企鹅，南极洲 (© Tui De Roy/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.AdelieBreeding_ZH-CN1750945258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3cf5bf7bdec66468af77bb62612fb8ab", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191002_AdelieBreeding%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%BE%B7%E5%88%A9%E4%BC%81%E9%B9%85&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191003", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191002", 
+                "urlbase": "/th?id=OHR.MercedWild_EN-US4240414400", 
+                "fullstartdate": "201910020700", 
+                "copyright": "Merced River in Yosemite National Park, California (© Robb Hirsch/Tandem Stills + Motion)", 
+                "title": "Wild scene on the Merced River", 
+                "url": "/th?id=OHR.MercedWild_EN-US4240414400_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d00481a78c91ceb7aae2380d53e0f574", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191002_MercedWild%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=merced+river&form=hpcapt&filters=HpDate%3a%2220191002_0700%22", 
+                "wp": true, 
+                "enddate": "20191003", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
