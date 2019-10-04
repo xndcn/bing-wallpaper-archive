@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191003", 
+                "urlbase": "/th?id=OHR.JupiterJunoCam_ZH-CN1843443643", 
+                "fullstartdate": "201910031600", 
+                "copyright": "木星增强色彩后的一组镜头 (© Enhanced Image by Gerald Eichstädt and Sean Doran, CC BY-NC-SA, based on images provided Courtesy of NASA/JPL-Caltech/SwRI/MSSS)", 
+                "title": "", 
+                "url": "/th?id=OHR.JupiterJunoCam_ZH-CN1843443643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9d04295cad4baea0c5e09c100a83e98c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191003_JupiterJunoCam%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%9C%A8%E6%98%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191004", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191003", 
+                "urlbase": "/th?id=OHR.AdelieBreeding_EN-US4350897027", 
+                "fullstartdate": "201910030700", 
+                "copyright": "Adélie penguins at Possession Island, Antarctica (© Tui De Roy/Minden Pictures)", 
+                "title": "Love on ice", 
+                "url": "/th?id=OHR.AdelieBreeding_EN-US4350897027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8eca26eb9b645638b335851c0767557f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191003_AdelieBreeding%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=adelie+penguins&form=hpcapt&filters=HpDate%3a%2220191003_0700%22", 
+                "wp": true, 
+                "enddate": "20191004", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
