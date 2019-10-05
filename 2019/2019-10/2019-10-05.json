@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191004", 
+                "urlbase": "/th?id=OHR.TinternAbbey_ZH-CN1922933358", 
+                "fullstartdate": "201910041600", 
+                "copyright": "丁顿修道院，威尔士 (© Lynda Morris Photography/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.TinternAbbey_ZH-CN1922933358_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7fdc39cceffb2c3bf877508d205a49f7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191004_TinternAbbey%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%B8%81%E9%A1%BF%E4%BF%AE%E9%81%93%E9%99%A2&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191005", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191004", 
+                "urlbase": "/th?id=OHR.JupiterJunoCam_EN-US4438598282", 
+                "fullstartdate": "201910040700", 
+                "copyright": "Sequence of enhanced-color images of Jupiter (© Enhanced image by Gerald Eichstädt and Seán Doran, CC BY-NC-SA, based on images provided courtesy of NASA/JPL-Caltech/SwRI/MSSS)", 
+                "title": "World Space Week begins", 
+                "url": "/th?id=OHR.JupiterJunoCam_EN-US4438598282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7bb094550ec3a87e48a425945e4920c8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191004_JupiterJunoCam%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=jupiter&form=hpcapt&filters=HpDate%3a%2220191004_0700%22", 
+                "wp": true, 
+                "enddate": "20191005", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
