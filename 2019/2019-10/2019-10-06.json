@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191005", 
+                "urlbase": "/th?id=OHR.MarlboroughSounds_ZH-CN2539444443", 
+                "fullstartdate": "201910051600", 
+                "copyright": "马尔堡峡湾鸟瞰图，新西兰 (© Mathias Ortmann/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MarlboroughSounds_ZH-CN2539444443_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cc920e6ee91f452bb568f85acfbceac0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191005_MarlboroughSounds%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E5%B0%94%E5%A0%A1%E5%B3%A1%E6%B9%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191006", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191005", 
+                "urlbase": "/th?id=OHR.TexasStarFerrisWheel_EN-US4922387295", 
+                "fullstartdate": "201910050700", 
+                "copyright": "Texas Star, the Ferris wheel at the State Fair of Texas in Dallas (© N. Hamp/Shutterstock)", 
+                "title": "A fair that's star-studded", 
+                "url": "/th?id=OHR.TexasStarFerrisWheel_EN-US4922387295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fd0aeb58fc1e8befac317c0e52f8650e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191005_TexasStarFerrisWheel%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=texas+star+ferris+wheel&form=hpcapt&filters=HpDate%3a%2220191005_0700%22", 
+                "wp": true, 
+                "enddate": "20191006", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
