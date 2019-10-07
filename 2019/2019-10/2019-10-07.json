@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191006", 
+                "urlbase": "/th?id=OHR.GreaterFlamingo_ZH-CN2596334768", 
+                "fullstartdate": "201910061600", 
+                "copyright": "韦尔瓦奥迪尔湿地起飞的三只大红鹳，西班牙安达卢西亚 (© Óscar Díez/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.GreaterFlamingo_ZH-CN2596334768_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "818e90ee5e7d01c050f6bc84d3fd321d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191006_GreaterFlamingo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E7%BA%A2%E9%B9%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191007", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191006", 
+                "urlbase": "/th?id=OHR.MarlboroughSounds_EN-US4987811847", 
+                "fullstartdate": "201910060700", 
+                "copyright": "Aerial view of Marlborough Sounds, New Zealand (© Mathias Ortmann/Getty Images)", 
+                "title": "Land ho in New Zealand 250 years ago", 
+                "url": "/th?id=OHR.MarlboroughSounds_EN-US4987811847_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ee606327bb24d90117c6296adc9b8cad", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191006_MarlboroughSounds%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=marlborough+sounds+new+zealand&form=hpcapt&filters=HpDate%3a%2220191006_0700%22", 
+                "wp": true, 
+                "enddate": "20191007", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
