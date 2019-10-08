@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191007", 
+                "urlbase": "/th?id=OHR.WorldOctopus_ZH-CN2670477302", 
+                "fullstartdate": "201910071600", 
+                "copyright": "夜间潜水时发现的章鱼，夏威夷科纳附近 (© Jeff Milisen/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.WorldOctopus_ZH-CN2670477302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7af24b82285ca0370f9e6e1f1f63fb9b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191007_WorldOctopus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%AB%A0%E9%B1%BC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191008", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191007", 
+                "urlbase": "/th?id=OHR.LouRuvo_EN-US5107027570", 
+                "fullstartdate": "201910070700", 
+                "copyright": "Cleveland Clinic Lou Ruvo Center for Brain Health in Las Vegas, Nevada (© Garry Belinsky/Offset)", 
+                "title": "From the mind of Frank Gehry", 
+                "url": "/th?id=OHR.LouRuvo_EN-US5107027570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3c6d05c7eb86d3cc5cc8b74df77afe69", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191007_LouRuvo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=cleveland+clinic+lou+ruvo+center+for+brain+health+las+vegas&form=hpcapt&filters=HpDate%3a%2220191007_0700%22", 
+                "wp": false, 
+                "enddate": "20191008", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
