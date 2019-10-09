@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191008", 
+                "urlbase": "/th?id=OHR.GrandCanyonEast_ZH-CN2721062078", 
+                "fullstartdate": "201910081600", 
+                "copyright": "莱奇沃思州立公园，纽约 (© Jay O'Brien/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.GrandCanyonEast_ZH-CN2721062078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7e80e12ad8f0bc66e42c7d45c42588ba", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191008_GrandCanyonEast%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%8E%B1%E5%A5%87%E6%B2%83%E6%80%9D%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191009", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191008", 
+                "urlbase": "/th?id=OHR.WorldOctopus_EN-US5192068372", 
+                "fullstartdate": "201910080700", 
+                "copyright": "Octopus spotted during a night dive near Kona, Hawaii (© Jeff Milisen/Alamy)", 
+                "title": "Let's celebrate cephalopods", 
+                "url": "/th?id=OHR.WorldOctopus_EN-US5192068372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "aad71210bead2d18f8dd974bbb806dcf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191008_WorldOctopus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=octopus&form=hpcapt&filters=HpDate%3a%2220191008_0700%22", 
+                "wp": true, 
+                "enddate": "20191009", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
