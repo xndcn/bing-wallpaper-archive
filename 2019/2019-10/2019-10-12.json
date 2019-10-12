@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191011", 
+                "urlbase": "/th?id=OHR.BarcolanaTrieste_ZH-CN5745744257", 
+                "fullstartdate": "201910111600", 
+                "copyright": "巴克拉纳帆船赛百舸争流，意大利的里雅斯特港 (© Ababsolutum/E+/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.BarcolanaTrieste_ZH-CN5745744257_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1d2da68f18e2e5a9c41d5fd8fa6439f1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191011_BarcolanaTrieste%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E5%85%8B%E6%8B%89%E7%BA%B3%E5%B8%86%E8%88%B9%E8%B5%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191012", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191011", 
+                "urlbase": "/th?id=OHR.RedRocksArches_EN-US9933358778", 
+                "fullstartdate": "201910110700", 
+                "copyright": "Arches National Park, Moab, Utah (© Whit Richardson/Alamy Stock Photo)", 
+                "title": "Art in the high desert", 
+                "url": "/th?id=OHR.RedRocksArches_EN-US9933358778_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "473b4d32ebef0ba44f0247161add3401", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191011_RedRocksArches%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Arches+National+Park&form=hpcapt&filters=HpDate%3a%2220191011_0700%22", 
+                "wp": true, 
+                "enddate": "20191012", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
