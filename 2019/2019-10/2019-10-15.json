@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191014", 
+                "urlbase": "/th?id=OHR.MaldivesDragonfly_ZH-CN5949519396", 
+                "fullstartdate": "201910141600", 
+                "copyright": "蜻蜓翅膀特写 (© Azwar Thaufeeq/500px/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MaldivesDragonfly_ZH-CN5949519396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c8f10b19830017ba69086248383642cd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191014_MaldivesDragonfly%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%9C%BB%E8%9C%93%E7%BF%85%E8%86%80&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191015", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191014", 
+                "urlbase": "/th?id=OHR.AlbertaThanksgiving_EN-US0590725789", 
+                "fullstartdate": "201910140700", 
+                "copyright": "Sunrise in Alberta, Canada (© Ambre Haller/Moment/Getty Images)", 
+                "title": "Canadian Thanksgiving", 
+                "url": "/th?id=OHR.AlbertaThanksgiving_EN-US0590725789_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7a64f3a47d5d968a2298276b42751633", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191014_AlbertaThanksgiving%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=canadian+thanksgiving&form=hpcapt&filters=HpDate%3a%2220191014_0700%22", 
+                "wp": true, 
+                "enddate": "20191015", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
