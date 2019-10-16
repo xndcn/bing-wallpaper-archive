@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191015", 
+                "urlbase": "/th?id=OHR.AcadiaBlueberries_ZH-CN6014510748", 
+                "fullstartdate": "201910151600", 
+                "copyright": "阿卡迪亚国家公园的高丛蓝莓植物，缅因州 (© Danita Delimont/Gallo Images/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.AcadiaBlueberries_ZH-CN6014510748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "97534a43cac4b8784be874e873cccf59", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191015_AcadiaBlueberries%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%93%9D%E8%8E%93%E6%A4%8D%E7%89%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191016", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191015", 
+                "urlbase": "/th?id=OHR.MaldivesDragonfly_EN-US0767811525", 
+                "fullstartdate": "201910150700", 
+                "copyright": "Close-up of a dragonfly wing (© Azwar Thaufeeq/500px/Getty Images)", 
+                "title": "The globe skimmers return", 
+                "url": "/th?id=OHR.MaldivesDragonfly_EN-US0767811525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4e8d3d86a2c66afde9a1b85692880145", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191015_MaldivesDragonfly%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=dragonflies&form=hpcapt&filters=HpDate%3a%2220191015_0700%22", 
+                "wp": true, 
+                "enddate": "20191016", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
