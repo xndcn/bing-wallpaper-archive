@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191016", 
+                "urlbase": "/th?id=OHR.LeavesGoldfish_ZH-CN6109097460", 
+                "fullstartdate": "201910161600", 
+                "copyright": "东京的秋叶和金鱼，日本 (© qrsk/Moment/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.LeavesGoldfish_ZH-CN6109097460_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "98dabb0905626eaca76a396138fb025b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191016_LeavesGoldfish%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%A7%8B%E5%8F%B6%E5%92%8C%E9%87%91%E9%B1%BC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191017", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191016", 
+                "urlbase": "/th?id=OHR.CompressionFossil_EN-US5587427153", 
+                "fullstartdate": "201910160700", 
+                "copyright": "A fossilized carboniferous fern (© Juan Carlos Munoz/Minden Pictures)", 
+                "title": "Paleontology meets art", 
+                "url": "/th?id=OHR.CompressionFossil_EN-US5587427153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0d25072807bbe6d9b844a65ffdfd82ec", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191016_CompressionFossil%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=national+fossil+day&form=hpcapt&filters=HpDate%3a%2220191016_0700%22", 
+                "wp": true, 
+                "enddate": "20191017", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
