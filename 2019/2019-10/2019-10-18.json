@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191017", 
+                "urlbase": "/th?id=OHR.UncompahgreForest_ZH-CN6161020948", 
+                "fullstartdate": "201910171600", 
+                "copyright": "烟囱岩和安肯帕格里国家森林，科罗拉多州 (© Cory Marshall/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.UncompahgreForest_ZH-CN6161020948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "089bdbc43790a087b05cb31c7e6a6d03", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191017_UncompahgreForest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%AE%89%E8%82%AF%E5%B8%95%E6%A0%BC%E9%87%8C%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191018", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191017", 
+                "urlbase": "/th?id=OHR.LeavesGoldfish_EN-US1011361624", 
+                "fullstartdate": "201910170700", 
+                "copyright": "Autumn leaves and goldfish in Tokyo, Japan (© qrsk/Moment/Getty Images)", 
+                "title": "Red-leaf hunting in Japan", 
+                "url": "/th?id=OHR.LeavesGoldfish_EN-US1011361624_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "667a9691b25d3257b12073ac4a4093f4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191017_LeavesGoldfish%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=momiji-gari+leaf+peeping+in+japan&form=hpcapt&filters=HpDate%3a%2220191017_0700%22", 
+                "wp": true, 
+                "enddate": "20191018", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
