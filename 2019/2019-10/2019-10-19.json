@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191018", 
+                "urlbase": "/th?id=OHR.HalfMoonBayPumpkin_ZH-CN6219747714", 
+                "fullstartdate": "201910181600", 
+                "copyright": "半月湾南瓜地鸟瞰图，加利福尼亚 (© Tinker Street/Michael O'Neal/Gallery Stock)", 
+                "title": "", 
+                "url": "/th?id=OHR.HalfMoonBayPumpkin_ZH-CN6219747714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4a7f796bc581beefa84be069546ba1a6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191018_HalfMoonBayPumpkin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8D%8A%E6%9C%88%E6%B9%BE%E5%8D%97%E7%93%9C%E5%9C%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191019", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191018", 
+                "urlbase": "/th?id=OHR.UncompahgreForest_EN-US7279672009", 
+                "fullstartdate": "201910180700", 
+                "copyright": "Chimney Rock and Uncompahgre National Forest, Colorado (© Cory Marshall/Tandem Stills + Motion)", 
+                "title": "Fall color sweeps across the West", 
+                "url": "/th?id=OHR.UncompahgreForest_EN-US7279672009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e1b0912ebc7e57132e75188c762ed0ab", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191018_UncompahgreForest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=uncompahgre+national+forest&form=hpcapt&filters=HpDate%3a%2220191018_0700%22", 
+                "wp": true, 
+                "enddate": "20191019", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
