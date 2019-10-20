@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191019", 
+                "urlbase": "/th?id=OHR.PaleSloth_ZH-CN6293546034", 
+                "fullstartdate": "201910191600", 
+                "copyright": "一只栖息在树上的白喉三趾树懒，圭亚那埃塞奎博河树懒岛 (© Suzi Eszterhas/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.PaleSloth_ZH-CN6293546034_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4e7b65395ff2932c56949eac764de1a2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191019_PaleSloth%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%99%BD%E5%96%89%E4%B8%89%E8%B6%BE%E6%A0%91%E6%87%92&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191020", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191019", 
+                "urlbase": "/th?id=OHR.HalfMoonBayPumpkin_EN-US1382713390", 
+                "fullstartdate": "201910190700", 
+                "copyright": "Aerial view of a pumpkin patch in Half Moon Bay, California (© Tinker Street/Michael O'Neal/Gallery Stock)", 
+                "title": "The height of pumpkin season", 
+                "url": "/th?id=OHR.HalfMoonBayPumpkin_EN-US1382713390_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d9b98f4f80b7f6c9e98c66bd770326e6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191019_HalfMoonBayPumpkin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=half+moon+bay+california&form=hpcapt&filters=HpDate%3a%2220191019_0700%22", 
+                "wp": true, 
+                "enddate": "20191020", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
