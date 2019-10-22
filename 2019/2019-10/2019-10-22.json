@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191021", 
+                "urlbase": "/th?id=OHR.CrabAppleBlackbird_ZH-CN6395785205", 
+                "fullstartdate": "201910211600", 
+                "copyright": "一只正在花园里吃野苹果的乌鸫，英国威尔特郡 (© Nick Upton/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.CrabAppleBlackbird_ZH-CN6395785205_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b150ff297d868220671ce5842ccd3cde", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191021_CrabAppleBlackbird%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%B9%8C%E9%B8%AB&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191022", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191021", 
+                "urlbase": "/th?id=OHR.Guggenheim60_EN-US1706567877", 
+                "fullstartdate": "201910210700", 
+                "copyright": "Solomon R. Guggenheim Museum in New York City, 1959 (© AP Photo/Harry Harris)", 
+                "title": "The Guggenheim turns 60", 
+                "url": "/th?id=OHR.Guggenheim60_EN-US1706567877_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c95a919d2b0e0a10df3cc66d56e338f5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191021_Guggenheim60%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=solomon+r+guggenheim+museum&form=hpcapt&filters=HpDate%3a%2220191021_0700%22", 
+                "wp": false, 
+                "enddate": "20191022", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
