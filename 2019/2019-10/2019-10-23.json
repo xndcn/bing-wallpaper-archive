@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191022", 
+                "urlbase": "/th?id=OHR.ChurchillPolarBear_ZH-CN6443232536", 
+                "fullstartdate": "201910221600", 
+                "copyright": "丘吉尔哈德逊湾附近的北极熊一家，加拿大马尼托巴省 (© Marco Pozzi Photographer/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.ChurchillPolarBear_ZH-CN6443232536_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e49c332b7d6ffce1e6aae45189293f22", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191022_ChurchillPolarBear%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E7%86%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191023", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191022", 
+                "urlbase": "/th?id=OHR.CrabAppleBlackbird_EN-US1844937939", 
+                "fullstartdate": "201910220700", 
+                "copyright": "Blackbird eating a crab apple in a garden in Wiltshire, United Kingdom (© Nick Upton/Minden Pictures)", 
+                "title": "Bobbing for crab apples", 
+                "url": "/th?id=OHR.CrabAppleBlackbird_EN-US1844937939_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "98a2b2e134ecbd6667bf27592f809816", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191022_CrabAppleBlackbird%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=apple+malus&form=hpcapt&filters=HpDate%3a%2220191022_0700%22", 
+                "wp": true, 
+                "enddate": "20191023", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
