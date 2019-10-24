@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191023", 
+                "urlbase": "/th?id=OHR.CountyBridge_ZH-CN6500717169", 
+                "fullstartdate": "201910231600", 
+                "copyright": "新罕布什尔州的县桥 (© Denis Tangney Jr/E+/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.CountyBridge_ZH-CN6500717169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2cf06c88e8bd14b95053a10bc89e6ea1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191023_CountyBridge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A1%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191024", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191023", 
+                "urlbase": "/th?id=OHR.ChurchillPolarBear_EN-US1965888858", 
+                "fullstartdate": "201910230700", 
+                "copyright": "A polar bear family near the Hudson Bay in Churchill, Manitoba, Canada (© Marco Pozzi Photographer/Getty Images)", 
+                "title": "Polar bear capital of the world", 
+                "url": "/th?id=OHR.ChurchillPolarBear_EN-US1965888858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e618246300861e206b13fc9ce7e08855", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191023_ChurchillPolarBear%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220191023_0700%22", 
+                "wp": true, 
+                "enddate": "20191024", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
