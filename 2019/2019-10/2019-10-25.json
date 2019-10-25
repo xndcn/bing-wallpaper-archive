@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191024", 
+                "urlbase": "/th?id=OHR.WorldLemurDay_ZH-CN9867937861", 
+                "fullstartdate": "201910241600", 
+                "copyright": "马达加斯加的环尾狐猴 (© Image Source/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.WorldLemurDay_ZH-CN9867937861_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2e0388b87747ea151b59a78e63e16a72", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191024_WorldLemurDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%8E%AF%E5%B0%BE%E7%8B%90%E7%8C%B4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191025", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191024", 
+                "urlbase": "/th?id=OHR.CountyBridge_EN-US2194353575", 
+                "fullstartdate": "201910240700", 
+                "copyright": "Hancock-Greenfield Bridge (aka County Bridge) in New Hampshire (© Denis Tangney Jr/E+/Getty Images)", 
+                "title": "Bridge of Hillsborough County", 
+                "url": "/th?id=OHR.CountyBridge_EN-US2194353575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d4899bcb63a498d676300a6d80dd59ed", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191024_CountyBridge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=hancock-greenfield+bridge+new+hampshire&form=hpcapt&filters=HpDate%3a%2220191024_0700%22", 
+                "wp": true, 
+                "enddate": "20191025", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
