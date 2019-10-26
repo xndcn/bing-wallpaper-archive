@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191025", 
+                "urlbase": "/th?id=OHR.RedWattlebird_ZH-CN0640093095", 
+                "fullstartdate": "201910251600", 
+                "copyright": "一只红垂蜜鸟，澳大利亚维多利亚 (© plainpicture/Minden Pictures/Jan Wegener/BIA)", 
+                "title": "", 
+                "url": "/th?id=OHR.RedWattlebird_ZH-CN0640093095_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b27337bb52363a2e43498485a5e9d550", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191025_RedWattlebird%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A2%E5%9E%82%E8%9C%9C%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191026", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191025", 
+                "urlbase": "/th?id=OHR.WorldLemurDay_EN-US6189039852", 
+                "fullstartdate": "201910250700", 
+                "copyright": "Ring-tailed lemurs in Madagascar for World Lemur Day (© Image Source/Alamy)", 
+                "title": "The lemurs of Madagascar", 
+                "url": "/th?id=OHR.WorldLemurDay_EN-US6189039852_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "392464edc9e9f0e34ffba3e4f0b29988", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191025_WorldLemurDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=ring+tailed+lemur+species&form=hpcapt&filters=HpDate%3a%2220191025_0700%22", 
+                "wp": true, 
+                "enddate": "20191026", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
