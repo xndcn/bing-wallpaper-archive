@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191026", 
+                "urlbase": "/th?id=OHR.NaranjoBulnes_ZH-CN0696600867", 
+                "fullstartdate": "201910261600", 
+                "copyright": "欧罗巴山国家公园中的Naranjo de Bulnes峰，西班牙阿斯图里亚斯  (© Anton Petrus/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.NaranjoBulnes_ZH-CN0696600867_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8e98839987445d2116c2538408a14b9c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191026_NaranjoBulnes%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=naranjo+de+bulnes%E5%B3%B0&FORM=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191027", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191026", 
+                "urlbase": "/th?id=OHR.UnendingAttraction_EN-US6298041317", 
+                "fullstartdate": "201910260700", 
+                "copyright": "Klaus Littmann's 'FOR FOREST: The Unending Attraction of Nature' in Wörthersee Stadion, Klagenfurt, Austria (© UNIMO)", 
+                "title": "'FOR FOREST' by Klaus Littmann", 
+                "url": "/th?id=OHR.UnendingAttraction_EN-US6298041317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "510b7f927260b74e0384163cc1a9b694", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191026_UnendingAttraction%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=for+forest+the+unending+attraction+of+nature+Klaus+Littmann&form=hpcapt&filters=HpDate%3a%2220191026_0700%22", 
+                "wp": false, 
+                "enddate": "20191027", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
