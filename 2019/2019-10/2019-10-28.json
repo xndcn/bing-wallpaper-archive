@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191027", 
+                "urlbase": "/th?id=OHR.FortRockHomestead_ZH-CN0775183699", 
+                "fullstartdate": "201910271600", 
+                "copyright": "Fort Rock Valley Historical Homestead博物馆，俄勒冈 (© Prisma by Dukas Presseagentur GmbH/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.FortRockHomestead_ZH-CN0775183699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ae7e1f6bb240d4a4591b284090ce4032", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191027_FortRockHomestead%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Fort+Rock+Valley+Historical+Homestead%E5%8D%9A%E7%89%A9%E9%A6%86&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191028", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191027", 
+                "urlbase": "/th?id=OHR.SaryuRiverDiyas_EN-US6395385901", 
+                "fullstartdate": "201910270700", 
+                "copyright": "Devotees light oil lamps on the banks of the Sarayu River in Ayodhya, India (© Rajesh Kumar Singh/AP Photo)", 
+                "title": "A festival of lights in India", 
+                "url": "/th?id=OHR.SaryuRiverDiyas_EN-US6395385901_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "655bce4d107d031e00a5f4a8b6505f28", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191027_SaryuRiverDiyas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=ayodhya%2c+india&form=hpcapt&filters=HpDate%3a%2220191027_0700%22", 
+                "wp": false, 
+                "enddate": "20191028", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
