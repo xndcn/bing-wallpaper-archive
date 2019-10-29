@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191028", 
+                "urlbase": "/th?id=OHR.EidolonHelvum_ZH-CN0881732109", 
+                "fullstartdate": "201910281600", 
+                "copyright": "卡国家公园的黄毛果蝠，赞比亚 (© Nick Garbutt/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.EidolonHelvum_ZH-CN0881732109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1fc3d913f4e3f1f820f7a73222ee59d3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191028_EidolonHelvum%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%BB%84%E6%AF%9B%E6%9E%9C%E8%9D%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191029", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191028", 
+                "urlbase": "/th?id=OHR.FortRockHomestead_EN-US6451383681", 
+                "fullstartdate": "201910280700", 
+                "copyright": "Fort Rock Valley Historical Homestead Museum, Oregon (© Prisma by Dukas Presseagentur GmbH/Alamy)", 
+                "title": "A night on the (ghost) town", 
+                "url": "/th?id=OHR.FortRockHomestead_EN-US6451383681_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "538ae4001ae7ef0a4b72258fdc65e955", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191028_FortRockHomestead%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Fort+Rock+Valley+Historical+Homestead+Museum&form=hpcapt&filters=HpDate%3a%2220191028_0700%22", 
+                "wp": true, 
+                "enddate": "20191029", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
