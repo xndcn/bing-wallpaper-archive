@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191030", 
+                "urlbase": "/th?id=OHR.VampireCastle_ZH-CN1018939203", 
+                "fullstartdate": "201910301600", 
+                "vid": {
+                    "caption": "万圣节快乐！科尔温城堡，罗马尼亚 (© Audio: Chris Haigh/Shutterstock | Video: DCPmedia/Shutterstock)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/VampireCastle_HP_FF_1920x1080_HD_HD_ZH-CN1628170184.jpg", 
+                    "audiopresent": true, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/VampireCastle_HP_FF_Vertical_Mobile_ZH-CN1879712684.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/VampireCastle_HP_FULL_1920x1080_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/VampireCastle_HP_FULL_1920x1080_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/VampireCastle_Vertical_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=Corvin+Castle+Romania&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "【今日万圣节】科尔温城堡，罗马尼亚 (© DCPmedia/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.VampireCastle_ZH-CN1018939203_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "69badf45e34ae70fcb8482b8287bd5b2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191030_VampireCastle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%A7%91%E5%B0%94%E6%B8%A9%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20191031", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191030", 
+                "urlbase": "/th?id=OHR.CharlesNight_EN-US6584049116", 
+                "fullstartdate": "201910300700", 
+                "copyright": "Charles Bridge over the Vltava River in Prague, Czech Republic (© Martin Moxter/Offset)", 
+                "title": "Cross this bridge if you dare", 
+                "url": "/th?id=OHR.CharlesNight_EN-US6584049116_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "055311f486f0a58b21f740f3b28cc718", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191030_CharlesNight%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=charles+bridge+prague&form=hpcapt&filters=HpDate%3a%2220191030_0700%22", 
+                "wp": true, 
+                "enddate": "20191031", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
