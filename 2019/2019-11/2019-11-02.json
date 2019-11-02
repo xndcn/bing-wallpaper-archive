@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191101", 
+                "urlbase": "/th?id=OHR.CorkTrees_ZH-CN1253123792", 
+                "fullstartdate": "201911011600", 
+                "copyright": "软木橡树林 (© Andrés M. Domínguez/Minden)", 
+                "title": "", 
+                "url": "/th?id=OHR.CorkTrees_ZH-CN1253123792_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1a71a76b7de64b9bc40d0a3c91d0f7bd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191101_CorkTrees%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%BD%AF%E6%9C%A8%E6%A9%A1%E6%A0%91%E6%9E%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191102", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191101", 
+                "urlbase": "/th?id=OHR.NMofAI_EN-US6789799053", 
+                "fullstartdate": "201911010700", 
+                "copyright": "The National Museum of the American Indian in Washington, DC (© Cvandyke/Shutterstock)", 
+                "title": "The National Museum of the American Indian", 
+                "url": "/th?id=OHR.NMofAI_EN-US6789799053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "77058ee7bd1d7aa6c1c640d0d7755259", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191101_NMofAI%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=national+museum+of+the+american+indian&form=hpcapt&filters=HpDate%3a%2220191101_0700%22", 
+                "wp": false, 
+                "enddate": "20191102", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
