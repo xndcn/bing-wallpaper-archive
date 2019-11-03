@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191102", 
+                "urlbase": "/th?id=OHR.ChandraTal_ZH-CN2809744505", 
+                "fullstartdate": "201911021600", 
+                "copyright": "喜马拉雅山脉的钱德拉塔尔湖，印度 (© f9photos/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.ChandraTal_ZH-CN2809744505_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "10049fd1a948eb65bd8ab1d532b2af96", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191102_ChandraTal%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%92%B1%E5%BE%B7%E6%8B%89%E5%A1%94%E5%B0%94%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191103", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191102", 
+                "urlbase": "/th?id=OHR.BisonYNP_EN-US6892931697", 
+                "fullstartdate": "201911020700", 
+                "copyright": "Bison at Yellowstone National Park, Wyoming (© Danny Green/Minden Pictures)", 
+                "title": "A national icon", 
+                "url": "/th?id=OHR.BisonYNP_EN-US6892931697_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "54f05375c6e412c106c31a137cb6eadc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191102_BisonYNP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=bison&form=hpcapt&filters=HpDate%3a%2220191102_0700%22", 
+                "wp": true, 
+                "enddate": "20191103", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
