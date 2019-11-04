@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191103", 
+                "urlbase": "/th?id=OHR.MtDiablo_ZH-CN2888586273", 
+                "fullstartdate": "201911031600", 
+                "copyright": "代阿布洛峰州立公园，加利福尼亚 (© Yuval Helfman/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MtDiablo_ZH-CN2888586273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e41952c9adebba799d79bd35cc00e4c6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191103_MtDiablo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%BB%A3%E9%98%BF%E5%B8%83%E6%B4%9B%E5%B3%B0%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191104", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191103", 
+                "urlbase": "/th?id=OHR.AbseilersBigBen_EN-US6976799855", 
+                "fullstartdate": "201911030800", 
+                "copyright": "Workers cleaning the clock face of Big Ben in London, England (© Reuters)", 
+                "title": "It's time to fall back", 
+                "url": "/th?id=OHR.AbseilersBigBen_EN-US6976799855_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "074bd8c4e67b54ccca6b12545ef367d4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191103_AbseilersBigBen%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=daylight+saving+time&form=hpcapt&filters=HpDate%3a%2220191103_0800%22", 
+                "wp": false, 
+                "enddate": "20191104", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
