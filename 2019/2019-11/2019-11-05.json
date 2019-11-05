@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191104", 
+                "urlbase": "/th?id=OHR.CamelsBalloons_ZH-CN3086626309", 
+                "fullstartdate": "201911041600", 
+                "copyright": "普什卡骆驼节上的骆驼与牧民，印度拉贾斯坦邦 (© Anand Purohit/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.CamelsBalloons_ZH-CN3086626309_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "54998503b14de88e9978ee880c1e73e1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191104_CamelsBalloons%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%99%AE%E4%BB%80%E5%8D%A1%E9%AA%86%E9%A9%BC%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191105", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191104", 
+                "urlbase": "/th?id=OHR.TollymoreForest_EN-US2804177894", 
+                "fullstartdate": "201911040800", 
+                "copyright": "Stepping stones in Tollymore Forest Park, County Down, Northern Ireland (© Chris Curry/500px)", 
+                "title": "Watch your step", 
+                "url": "/th?id=OHR.TollymoreForest_EN-US2804177894_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e13e9de9d43cd26f973c1e50be680fbe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191104_TollymoreForest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=tollymore+forest+park&form=hpcapt&filters=HpDate%3a%2220191104_0800%22", 
+                "wp": true, 
+                "enddate": "20191105", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
