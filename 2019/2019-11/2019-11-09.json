@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191108", 
+                "urlbase": "/th?id=OHR.KagamiMirror_ZH-CN0889648187", 
+                "fullstartdate": "201911081600", 
+                "copyright": "秋日景色倒映于镜池中，日本长野 (© magicflute002/Getty images)", 
+                "title": "", 
+                "url": "/th?id=OHR.KagamiMirror_ZH-CN0889648187_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c1bb71745d7167dca5121f284f06fe92", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191108_KagamiMirror%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%95%9C%E6%B1%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191108", 
+                "urlbase": "/th?id=OHR.ChapelAiguilhe_EN-US4421310982", 
+                "fullstartdate": "201911080800", 
+                "copyright": "Chapel St-Michel d'Aiguilhe, Le Puy-en-Velay, France (© Jaubert French Collection/Alamy Stock Photo)", 
+                "title": "Chapel on the rock", 
+                "url": "/th?id=OHR.ChapelAiguilhe_EN-US4421310982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "75f23dd4df5567b3a8cb3dc8e9031209", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191108_ChapelAiguilhe%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Chapel+St-Michel+d%27+Aiguilhe&form=hpcapt&filters=HpDate%3a%2220191108_0800%22", 
+                "wp": true, 
+                "enddate": "20191109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
