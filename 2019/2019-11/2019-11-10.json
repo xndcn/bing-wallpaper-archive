@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191109", 
+                "urlbase": "/th?id=OHR.BlueberryFrost_ZH-CN0971529753", 
+                "fullstartdate": "201911091600", 
+                "copyright": "蓝莓植物上的霜，加拿大新不伦瑞克 (© Freeman Patterson/Masterfile)", 
+                "title": "", 
+                "url": "/th?id=OHR.BlueberryFrost_ZH-CN0971529753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "50797d08768040242d599914e5dd9b10", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191109_BlueberryFrost%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%93%9D%E8%8E%93%E6%A4%8D%E7%89%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191110", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191109", 
+                "urlbase": "/th?id=OHR.BerlinHeart_EN-US4799001684", 
+                "fullstartdate": "201911090800", 
+                "copyright": "The Brandenburg Gate seen through a heart-shaped replica of the Berlin Wall (© Britta Pedersen/picture alliance via Getty Images)", 
+                "title": "We heart Berlin", 
+                "url": "/th?id=OHR.BerlinHeart_EN-US4799001684_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4b007f60e3fbdf9f844ca890be7b3513", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191109_BerlinHeart%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=fall+of+the+berlin+wall&form=hpcapt&filters=HpDate%3a%2220191109_0800%22", 
+                "wp": false, 
+                "enddate": "20191110", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
