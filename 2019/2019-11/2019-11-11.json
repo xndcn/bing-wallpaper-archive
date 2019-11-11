@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191110", 
+                "urlbase": "/th?id=OHR.MountHowitt_ZH-CN1042812457", 
+                "fullstartdate": "201911101600", 
+                "copyright": "阿尔卑斯国家公园豪伊特山上雾中的野花，澳大利亚维多利亚 (© Australian Scenics/Photolibrary/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.MountHowitt_ZH-CN1042812457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "853bcf28bcdd612f99525083f33e9e86", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191110_MountHowitt%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191111", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191110", 
+                "urlbase": "/th?id=OHR.SesameStreet50_EN-US5093557671", 
+                "fullstartdate": "201911100800", 
+                "copyright": "Jim Henson, along with Ernie and Bert, rehearse for an episode of 'Sesame Street' in 1970 in New York City (© David Attie/Getty Images)", 
+                "title": "Sunny day, sweepin' the clouds away", 
+                "url": "/th?id=OHR.SesameStreet50_EN-US5093557671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d73af37b2ea4398d0b5415970899c00f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191110_SesameStreet50%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=sesame+street&form=hpcapt&filters=HpDate%3a%2220191110_0800%22", 
+                "wp": false, 
+                "enddate": "20191111", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
