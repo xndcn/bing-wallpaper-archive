@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191111", 
+                "urlbase": "/th?id=OHR.BabyHedgehog_ZH-CN1095415688", 
+                "fullstartdate": "201911111600", 
+                "copyright": "小刺猬 (© lorenzo104/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.BabyHedgehog_ZH-CN1095415688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b33d372592adb93dd3e39849fc47b0ea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191111_BabyHedgehog%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B0%8F%E5%88%BA%E7%8C%AC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191112", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191111", 
+                "urlbase": "/th?id=OHR.AuroraHealingFields_EN-US6272888981", 
+                "fullstartdate": "201911110800", 
+                "copyright": "Vietnam War veteran Jake Thorn (seated) talks to visitors in Aurora, Illinois, in 2013 (© Jeff Haynes/Reuters)", 
+                "title": "On a Healing Field for Veterans Day", 
+                "url": "/th?id=OHR.AuroraHealingFields_EN-US6272888981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2f847eefda05d541a43afe33b9801211", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191111_AuroraHealingFields%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=veterans+day&form=hpcapt&filters=HpDate%3a%2220191111_0800%22", 
+                "wp": false, 
+                "enddate": "20191112", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
