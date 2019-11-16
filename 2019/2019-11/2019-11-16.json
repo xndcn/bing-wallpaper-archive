@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191115", 
+                "urlbase": "/th?id=OHR.Nebelmond_ZH-CN1304523635", 
+                "fullstartdate": "201911151600", 
+                "copyright": "大雾笼罩下的巴伐利亚阿尔卑斯山脉，德国 (© Anton Petrus/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Nebelmond_ZH-CN1304523635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "95377fe89904d037a7fb6afa16242d85", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191115_Nebelmond%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E4%BC%90%E5%88%A9%E4%BA%9A%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1%E8%84%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191116", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191115", 
+                "urlbase": "/th?id=OHR.Murmurations_EN-US6835324023", 
+                "fullstartdate": "201911150800", 
+                "copyright": "Starlings at sunset in Blackpool, England (© Mediaworld Images/Alamy)", 
+                "title": "Mesmerizing murmuration", 
+                "url": "/th?id=OHR.Murmurations_EN-US6835324023_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5b1280a490b5a904697b3776309a3278", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191115_Murmurations%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=starling+murmuration&form=hpcapt&filters=HpDate%3a%2220191115_0800%22", 
+                "wp": true, 
+                "enddate": "20191116", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
