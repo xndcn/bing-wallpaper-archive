@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191118", 
+                "urlbase": "/th?id=OHR.ZionBirthday_ZH-CN1467524477", 
+                "fullstartdate": "201911181600", 
+                "copyright": "锡安国家公园的秋色，犹他州 (© pabradyphoto/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.ZionBirthday_ZH-CN1467524477_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f86eb5f92dbc85181522ad7e8778e392", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191118_ZionBirthday%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%94%A1%E5%AE%89%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191119", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191118", 
+                "urlbase": "/th?id=OHR.IchetuckneeRiver_EN-US7505288388", 
+                "fullstartdate": "201911180800", 
+                "copyright": "Manatees in the Ichetucknee River in Florida (© Jennifer Adler/Alamy)", 
+                "title": "Swimming with the sea cows", 
+                "url": "/th?id=OHR.IchetuckneeRiver_EN-US7505288388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8820d5b4e8f1cc552a677317089f2cbc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191118_IchetuckneeRiver%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=west+indian+manatees&form=hpcapt&filters=HpDate%3a%2220191118_0800%22", 
+                "wp": true, 
+                "enddate": "20191119", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
