@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191119", 
+                "urlbase": "/th?id=OHR.SimienGelada_ZH-CN1529423800", 
+                "fullstartdate": "201911191600", 
+                "copyright": "瑟门山国家公园里的狮尾狒狒，埃塞俄比亚北部 (© Marco Gaiotti/plainpicture)", 
+                "title": "", 
+                "url": "/th?id=OHR.SimienGelada_ZH-CN1529423800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c155c118cc6dfc64b830827fe8a842e8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191119_SimienGelada%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%8B%AE%E5%B0%BE%E7%8B%92%E7%8B%92&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191120", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191119", 
+                "urlbase": "/th?id=OHR.ZionBirthday_EN-US2681531368", 
+                "fullstartdate": "201911190800", 
+                "copyright": "Fall colors in Zion National Park, Utah (© pabradyphoto/Getty Images)", 
+                "title": "Zion National Park turns 100", 
+                "url": "/th?id=OHR.ZionBirthday_EN-US2681531368_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4b82abd61b9c101963ebd473438cba65", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191119_ZionBirthday%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=zion+national+park&form=hpcapt&filters=HpDate%3a%2220191119_0800%22", 
+                "wp": true, 
+                "enddate": "20191120", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
