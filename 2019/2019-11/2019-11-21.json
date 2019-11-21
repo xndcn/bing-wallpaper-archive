@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191120", 
+                "urlbase": "/th?id=OHR.BeaujolaisRegion_ZH-CN1585928268", 
+                "fullstartdate": "201911201600", 
+                "copyright": "Lantignie的景色，法国博若莱 (© Jon Arnold/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.BeaujolaisRegion_ZH-CN1585928268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "99950fa3cf4c0bcacc42c2910aac628e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191120_BeaujolaisRegion%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Lantignie&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191121", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191120", 
+                "urlbase": "/th?id=OHR.SimienGelada_EN-US7714168748", 
+                "fullstartdate": "201911200800", 
+                "copyright": "Gelada monkeys in Simien Mountains National Park, northern Ethiopia (© Marco Gaiotti/plainpicture)", 
+                "title": "Atop the 'roof' of Africa", 
+                "url": "/th?id=OHR.SimienGelada_EN-US7714168748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a1ec6d14c940ef9fb3d412d710047a18", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191120_SimienGelada%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=gelada+monkey&form=hpcapt&filters=HpDate%3a%2220191120_0800%22", 
+                "wp": true, 
+                "enddate": "20191121", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
