@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191122", 
+                "urlbase": "/th?id=OHR.QueenVictoriaAgave_ZH-CN0113999146", 
+                "fullstartdate": "201911221600", 
+                "copyright": "龙舌兰 (© Moab Republic/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.QueenVictoriaAgave_ZH-CN0113999146_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6b13cdb68366ab9fd3da1efe11cbc4c1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191122_QueenVictoriaAgave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%BE%99%E8%88%8C%E5%85%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191123", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191122", 
+                "urlbase": "/th?id=OHR.CuttySark150_EN-US8574386630", 
+                "fullstartdate": "201911220800", 
+                "copyright": "The Cutty Sark in Greenwich, London, England, for its 150th anniversary (© Grant Rooney Premium/Alamy)", 
+                "title": "The Cutty Sark turns 150", 
+                "url": "/th?id=OHR.CuttySark150_EN-US8574386630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "30b801b23cbd12a7e74c4f2688cb666f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191122_CuttySark150%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=cutty+sark+museum+greenwich&form=hpcapt&filters=HpDate%3a%2220191122_0800%22", 
+                "wp": false, 
+                "enddate": "20191123", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
