@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191123", 
+                "urlbase": "/th?id=OHR.AtchafalayaCypress_ZH-CN0183179230", 
+                "fullstartdate": "201911231600", 
+                "copyright": "阿查法拉亚盆地中的一棵柏树，路易斯安那州 (© Chris Moore/Tandem Still + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.AtchafalayaCypress_ZH-CN0183179230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0db0ad0376b614aed8f8845f8b02e5b3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191123_AtchafalayaCypress%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%9F%8F%E6%A0%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191124", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191123", 
+                "urlbase": "/th?id=OHR.QueenVictoriaAgave_EN-US8690321294", 
+                "fullstartdate": "201911230800", 
+                "copyright": "For Fibonacci Day, an agave plant (© Moab Republic/Shutterstock)", 
+                "title": "1, 1, 2, 3: It's Fibonacci Day!", 
+                "url": "/th?id=OHR.QueenVictoriaAgave_EN-US8690321294_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5923b7ff9675581c4ccc7616a5912534", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191123_QueenVictoriaAgave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=fibonacci+numbers&form=hpcapt&filters=HpDate%3a%2220191123_0800%22", 
+                "wp": true, 
+                "enddate": "20191124", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
