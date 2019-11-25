@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191124", 
+                "urlbase": "/th?id=OHR.OverwinteringMonarchs_ZH-CN0248511586", 
+                "fullstartdate": "201911241600", 
+                "copyright": "在米却肯州越冬的帝王蝶，墨西哥 (© Sylvain Cordier/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.OverwinteringMonarchs_ZH-CN0248511586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6037c2cc591725c6cef4399b777decbe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191124_OverwinteringMonarchs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B8%9D%E7%8E%8B%E8%9D%B6&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191125", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191124", 
+                "urlbase": "/th?id=OHR.AtchafalayaCypress_EN-US8995276008", 
+                "fullstartdate": "201911240800", 
+                "copyright": "A bald cypress in the Atchafalaya Basin, Louisiana (© Chris Moore/Tandem Stills + Motion)", 
+                "title": "Autumn in the cypress swamp", 
+                "url": "/th?id=OHR.AtchafalayaCypress_EN-US8995276008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3ba37245970064a897b10978f710493c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191124_AtchafalayaCypress%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=atchafalaya+basin&form=hpcapt&filters=HpDate%3a%2220191124_0800%22", 
+                "wp": true, 
+                "enddate": "20191125", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
