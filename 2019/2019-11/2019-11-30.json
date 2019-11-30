@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191129", 
+                "urlbase": "/th?id=OHR.MarrakechMarket_ZH-CN5880133555", 
+                "fullstartdate": "201911291600", 
+                "copyright": "马拉喀什的Jemaa el-Fnaa广场 (© Pavliha/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MarrakechMarket_ZH-CN5880133555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e7d7b14df53801673dc7ecf3dafae03c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191129_MarrakechMarket%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Jemaa+el-Fnaa%E5%B9%BF%E5%9C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191130", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191129", 
+                "urlbase": "/th?id=OHR.AspenHiking_EN-US9667132806", 
+                "fullstartdate": "201911290800", 
+                "copyright": "The Maroon Bells, near Aspen, Colorado (© Christopher E. Herbert/Getty Images)", 
+                "title": "Opt outside today", 
+                "url": "/th?id=OHR.AspenHiking_EN-US9667132806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bcf3125a1a1a2787012fbc3ecce52845", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191129_AspenHiking%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=maroon+bells+colorado&form=hpcapt&filters=HpDate%3a%2220191129_0800%22", 
+                "wp": true, 
+                "enddate": "20191130", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
