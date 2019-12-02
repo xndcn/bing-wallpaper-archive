@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191201", 
+                "urlbase": "/th?id=OHR.PortlandDawn_ZH-CN6187930845", 
+                "fullstartdate": "201912011600", 
+                "copyright": "波特兰比尔灯塔处的晨光和海浪，英格兰多塞特郡 (© Lee Pengelly/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.PortlandDawn_ZH-CN6187930845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "79a8158c6140fb87d3d6d326143e1454", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191201_PortlandDawn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B3%A2%E7%89%B9%E5%85%B0%E6%AF%94%E5%B0%94%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191202", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191201", 
+                "urlbase": "/th?id=OHR.HalleyVI_EN-US9882320579", 
+                "fullstartdate": "201912010800", 
+                "copyright": "Aurora australis over the Halley VI Research Station in Antarctica (© Stuart Holroyd/Alamy)", 
+                "title": "Southern lights for Antarctica Day", 
+                "url": "/th?id=OHR.HalleyVI_EN-US9882320579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "197a66b40bf3c2745926c51b1741e13e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191201_HalleyVI%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=antarctica&form=hpcapt&filters=HpDate%3a%2220191201_0800%22", 
+                "wp": true, 
+                "enddate": "20191202", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
