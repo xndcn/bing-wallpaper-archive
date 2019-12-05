@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191204", 
+                "urlbase": "/th?id=OHR.CanadaTreeFarm_ZH-CN6478268657", 
+                "fullstartdate": "201912041600", 
+                "copyright": "安大略省的圣诞树农场，加拿大 (© FatCamera/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.CanadaTreeFarm_ZH-CN6478268657_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "91e16046abf20ab17042f7816dd85ef6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191204_CanadaTreeFarm%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E8%AF%9E%E6%A0%91%E5%86%9C%E5%9C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191205", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191204", 
+                "urlbase": "/th?id=OHR.RhinosOxpecker_EN-US0144797285", 
+                "fullstartdate": "201912040800", 
+                "copyright": "Two rhinos and an oxpecker bird in the Amakhala Game Reserve, South Africa (© Robert Harding World Imagery/Offset)", 
+                "title": "Protecting endangered giants", 
+                "url": "/th?id=OHR.RhinosOxpecker_EN-US0144797285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c9e734302429cf530fa0ee363e5b72e0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191204_RhinosOxpecker%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=southern+white+rhinoceros&form=hpcapt&filters=HpDate%3a%2220191204_0800%22", 
+                "wp": true, 
+                "enddate": "20191205", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
