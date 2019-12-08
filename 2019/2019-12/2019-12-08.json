@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191207", 
+                "urlbase": "/th?id=OHR.PurpleWeekend_ZH-CN7324572668", 
+                "fullstartdate": "201912071600", 
+                "copyright": "装饰有多个镜子、灯和空气喇叭的摩托车 (© stocknshares/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.PurpleWeekend_ZH-CN7324572668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "99be11f6f1b8da5b622b7a3c3907b9bd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191207_PurpleWeekend%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%91%A9%E6%89%98%E8%BD%A6&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191207", 
+                "urlbase": "/th?id=OHR.FlagAboveArizona_EN-US9636197389", 
+                "fullstartdate": "201912070800", 
+                "copyright": "Flag above the USS Arizona Memorial in Honolulu, Hawaii (© PJF Military Collection/Alamy)", 
+                "title": "Remembering the Arizona", 
+                "url": "/th?id=OHR.FlagAboveArizona_EN-US9636197389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "407b9b7810d66fff0a61e715f2d29917", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191207_FlagAboveArizona%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Pearl+Harbor+Remembrance+Day&form=hpcapt&filters=HpDate%3a%2220191207_0800%22", 
+                "wp": false, 
+                "enddate": "20191208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
