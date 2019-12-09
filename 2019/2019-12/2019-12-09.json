@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191208", 
+                "urlbase": "/th?id=OHR.BlueChip_ZH-CN7376022522", 
+                "fullstartdate": "201912081600", 
+                "copyright": "一枚微芯片的特写 (© Bobkov Evgeniy/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.BlueChip_ZH-CN7376022522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e0e27c202e18d63cb9560873b0770b48", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191208_BlueChip%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%BE%AE%E8%8A%AF%E7%89%87&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191209", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191208", 
+                "urlbase": "/th?id=OHR.PurpleWeekend_EN-US9729941585", 
+                "fullstartdate": "201912080800", 
+                "copyright": "A scooter adorned with multiple mirrors, lights, and air horns (© stocknshares/Getty Images)", 
+                "title": "Mod gear", 
+                "url": "/th?id=OHR.PurpleWeekend_EN-US9729941585_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7696b681cca92c8c74ae0ae9c1a683bb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191208_PurpleWeekend%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mod+subculture&form=hpcapt&filters=HpDate%3a%2220191208_0800%22", 
+                "wp": true, 
+                "enddate": "20191209", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
