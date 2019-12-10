@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191209", 
+                "urlbase": "/th?id=OHR.Seidenschwanz_ZH-CN7486965726", 
+                "fullstartdate": "201912091600", 
+                "copyright": "正在吃花楸果实的太平鸟 (© Berndt Fischer/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.Seidenschwanz_ZH-CN7486965726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a23b5a75f7ef9ad440daf45145414b7c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191209_Seidenschwanz%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%AA%E5%B9%B3%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191210", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191209", 
+                "urlbase": "/th?id=OHR.BlueChip_EN-US9896595975", 
+                "fullstartdate": "201912090800", 
+                "copyright": "Circuit board of a computer (© Bobkov Evgeniy/Shutterstock)", 
+                "title": "Let's crack the 'code'", 
+                "url": "/th?id=OHR.BlueChip_EN-US9896595975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f5f0e14669ffc7ecba4bf3d3fc3df75e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191209_BlueChip%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=computer+science+education+week+2019&form=hpcapt&filters=HpDate%3a%2220191209_0800%22", 
+                "wp": true, 
+                "enddate": "20191210", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
