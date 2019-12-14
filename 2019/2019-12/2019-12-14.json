@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191213", 
+                "urlbase": "/th?id=OHR.SpruceGrouse_ZH-CN7756892167", 
+                "fullstartdate": "201912131600", 
+                "copyright": "云杉树中的一只云杉松鸡，阿拉斯加德纳利国家公园 (© Yva Momatiuk and John Eastcott/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.SpruceGrouse_ZH-CN7756892167_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "824207932fbad483597b825d6e6b90b5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191213_SpruceGrouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%BA%91%E6%9D%89%E6%9D%BE%E9%B8%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191214", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191213", 
+                "urlbase": "/th?id=OHR.LandwasserViaduct_EN-US5486246776", 
+                "fullstartdate": "201912130800", 
+                "copyright": "Bernina Express on the Landwasser Viaduct, Graubünden, Switzerland (© Marco Bottigelli/Getty Images)", 
+                "title": "Taking the scenic route", 
+                "url": "/th?id=OHR.LandwasserViaduct_EN-US5486246776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2b7ddf6badefe96c405c4da2064a9dc2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191213_LandwasserViaduct%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Bernina+Express&form=hpcapt&filters=HpDate%3a%2220191213_0800%22", 
+                "wp": true, 
+                "enddate": "20191214", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
