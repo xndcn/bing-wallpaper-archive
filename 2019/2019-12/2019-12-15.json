@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191214", 
+                "urlbase": "/th?id=OHR.NutsWeekend_ZH-CN7847508117", 
+                "fullstartdate": "201912141600", 
+                "copyright": "银装素裹的Luzulo-Fagetum山毛榉林，比利时阿登 (© Philippe Moes/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.NutsWeekend_ZH-CN7847508117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "76a75c99c0340a5dc4e19e1150c96c4c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191214_NutsWeekend%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Luzulo-Fagetum%E5%B1%B1%E6%AF%9B%E6%A6%89%E6%9E%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191215", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191214", 
+                "urlbase": "/th?id=OHR.SpruceGrouse_EN-US5594866236", 
+                "fullstartdate": "201912140800", 
+                "copyright": "Spruce grouse in a spruce tree in Denali National Park and Preserve, Alaska (© Yva Momatiuk and John Eastcott/Minden Pictures)", 
+                "title": "The Christmas Bird Count begins", 
+                "url": "/th?id=OHR.SpruceGrouse_EN-US5594866236_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "40cabf22e02d84d9d1d3298d68c1c553", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191214_SpruceGrouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Spruce+grouse&form=hpcapt&filters=HpDate%3a%2220191214_0800%22", 
+                "wp": true, 
+                "enddate": "20191215", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
