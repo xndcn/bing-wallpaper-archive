@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191216", 
+                "urlbase": "/th?id=OHR.TempleofSaturn_ZH-CN7983217544", 
+                "fullstartdate": "201912161600", 
+                "copyright": "古罗马广场上的萨图尔诺农神庙，意大利罗马 (© Joe Daniel Price/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.TempleofSaturn_ZH-CN7983217544_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "60f74bb7f0d93f93bb8e9c35792249ef", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191216_TempleofSaturn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%90%A8%E5%9B%BE%E5%B0%94%E8%AF%BA%E5%86%9C%E7%A5%9E%E5%BA%99&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191217", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191216", 
+                "urlbase": "/th?id=OHR.ReconciliationDay_EN-US5902940589", 
+                "fullstartdate": "201912160800", 
+                "copyright": "Table Mountain, Cape Town, South Africa (© 4FR/Getty Images)", 
+                "title": "Cape Town at dusk", 
+                "url": "/th?id=OHR.ReconciliationDay_EN-US5902940589_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "abb9573653833c2c345648912722b808", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191216_ReconciliationDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Cape+Town&form=hpcapt&filters=HpDate%3a%2220191216_0800%22", 
+                "wp": true, 
+                "enddate": "20191217", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
