@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191217", 
+                "urlbase": "/th?id=OHR.HallXmasMarket_ZH-CN8059544504", 
+                "fullstartdate": "201912171600", 
+                "copyright": "一年一度的施瓦本哈尔圣诞市集，德国巴登-符腾堡州 (© sack/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.HallXmasMarket_ZH-CN8059544504_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d36e0af18228ae5508434c582aee3c9d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191217_HallXmasMarket%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%96%BD%E7%93%A6%E6%9C%AC%E5%93%88%E5%B0%94%E5%9C%A3%E8%AF%9E%E5%B8%82%E9%9B%86&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191218", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191217", 
+                "urlbase": "/th?id=OHR.TempleofSaturn_EN-US5979918994", 
+                "fullstartdate": "201912170800", 
+                "copyright": "Temple of Saturn in the Roman Forum, Italy (© Joe Daniel Price/Getty Images)", 
+                "title": "When in Rome...celebrate Saturnalia", 
+                "url": "/th?id=OHR.TempleofSaturn_EN-US5979918994_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3486b28da558063586f4e661904b71a7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191217_TempleofSaturn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=temple+of+saturn&form=hpcapt&filters=HpDate%3a%2220191217_0800%22", 
+                "wp": true, 
+                "enddate": "20191218", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
