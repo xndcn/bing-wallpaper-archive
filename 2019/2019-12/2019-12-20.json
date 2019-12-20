@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191219", 
+                "urlbase": "/th?id=OHR.MauiEucalyptus_ZH-CN5616197787", 
+                "fullstartdate": "201912191600", 
+                "copyright": "哈纳公路沿线的彩虹桉树，毛伊岛 (© GlowingEarth/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.MauiEucalyptus_ZH-CN5616197787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4bd8ce440fc590d9e8a30ed9def21220", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191219_MauiEucalyptus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%BD%A9%E8%99%B9%E6%A1%89%E6%A0%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191220", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191219", 
+                "urlbase": "/th?id=OHR.ValleyForge_EN-US6699070514", 
+                "fullstartdate": "201912190800", 
+                "copyright": "Cabins in Valley Forge National Historical Park, Pennsylvania (© Mark C. Morris/Shutterstock)", 
+                "title": "Winter at Valley Forge", 
+                "url": "/th?id=OHR.ValleyForge_EN-US6699070514_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cac108b6c21700e13791ca174d61db61", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191219_ValleyForge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=valley+forge&form=hpcapt&filters=HpDate%3a%2220191219_0800%22", 
+                "wp": true, 
+                "enddate": "20191220", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
