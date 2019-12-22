@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191221", 
+                "urlbase": "/th?id=OHR.Dongzhi2019_ZH-CN6252826480", 
+                "fullstartdate": "201912211600", 
+                "copyright": "【今日冬至】 (© Sino Images/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Dongzhi2019_ZH-CN6252826480_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "022c9aab8bf46b0acce70dba20035e8f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191221_Dongzhi2019%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E5%86%AC%E8%87%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191222", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191221", 
+                "urlbase": "/th?id=OHR.SeventeenSolstice_EN-US6457012478", 
+                "fullstartdate": "201912210800", 
+                "copyright": "The Seventeen-Arch Bridge over Kunming Lake, Beijing Summer Palace, China (© Jia Wang/Getty Images)", 
+                "title": "Seventeen arches at sunset", 
+                "url": "/th?id=OHR.SeventeenSolstice_EN-US6457012478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e4fcebf8ed72a8c733f9589558b2982d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191221_SeventeenSolstice%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=beijing+summer+palace&form=hpcapt&filters=HpDate%3a%2220191221_0800%22", 
+                "wp": true, 
+                "enddate": "20191222", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
