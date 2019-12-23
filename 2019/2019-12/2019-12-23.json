@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191222", 
+                "urlbase": "/th?id=OHR.AiringGrievances_ZH-CN5830208720", 
+                "fullstartdate": "201912221600", 
+                "copyright": "正在宣泄不满的两只巴布亚企鹅，南极洲 (© Grafissimo/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.AiringGrievances_ZH-CN5830208720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "377d43a8353cba76018b506b80981f30", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191222_AiringGrievances%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E5%B8%83%E4%BA%9A%E4%BC%81%E9%B9%85&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191223", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191222", 
+                "urlbase": "/th?id=OHR.RealSnowflake_EN-US6372537242", 
+                "fullstartdate": "201912220800", 
+                "copyright": "Snowflake (© TothGaborGyula/Getty Images Plus)", 
+                "title": "You've never seen anything like this", 
+                "url": "/th?id=OHR.RealSnowflake_EN-US6372537242_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "41885fb08d228279524d64d2247b0fa9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191222_RealSnowflake%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=are+snowflakes+all+different&form=hpcapt&filters=HpDate%3a%2220191222_0800%22", 
+                "wp": true, 
+                "enddate": "20191223", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
