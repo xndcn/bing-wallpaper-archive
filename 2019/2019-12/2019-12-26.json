@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191225", 
+                "urlbase": "/th?id=OHR.SloveniaAlps_ZH-CN6052706424", 
+                "fullstartdate": "201912251600", 
+                "copyright": "位于Praprotno村之上的圣托马斯教堂 (© Guy Edwardes/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.SloveniaAlps_ZH-CN6052706424_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "aa88059c103742a0bd2ff4b8e8c5b960", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191225_SloveniaAlps%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E6%89%98%E9%A9%AC%E6%96%AF%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191226", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191225", 
+                "urlbase": "/th?id=OHR.WarsawXmas_EN-US3496666406", 
+                "fullstartdate": "201912250800", 
+                "copyright": "Christmas decorations in Warsaw, Poland (© David Milsen/Alamy)", 
+                "title": "Merry and bright", 
+                "url": "/th?id=OHR.WarsawXmas_EN-US3496666406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fa7b9e7eeb27c743fbc69770b22597b3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191225_WarsawXmas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=christmas&form=hpcapt&filters=HpDate%3a%2220191225_0800%22", 
+                "wp": true, 
+                "enddate": "20191226", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
