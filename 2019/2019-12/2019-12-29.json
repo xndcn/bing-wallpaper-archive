@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191228", 
+                "urlbase": "/th?id=OHR.RamsauHinterseeEislauf_ZH-CN9685733410", 
+                "fullstartdate": "201912281600", 
+                "copyright": "贝希特斯加登县拉姆绍小镇上结冰的Hintersee湖和滑冰者，德国巴伐利亚 (© Jana Mänz/Westend61/Offset)", 
+                "title": "", 
+                "url": "/th?id=OHR.RamsauHinterseeEislauf_ZH-CN9685733410_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9e2ccd7ab8f5deba4d71ab1102fd6c46", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191228_RamsauHinterseeEislauf%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Hintersee%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191229", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191228", 
+                "urlbase": "/th?id=OHR.TrumpeterWinter_EN-US3945298100", 
+                "fullstartdate": "201912280800", 
+                "copyright": "Trumpeter swans at Kelly Warm Springs, near Kelly, Wyoming (© DEEPOL by plainpicture)", 
+                "title": "Did they forget to fly south?", 
+                "url": "/th?id=OHR.TrumpeterWinter_EN-US3945298100_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4e09358fdd78d9ecc525b7e4a483a248", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191228_TrumpeterWinter%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=trumpeter+swans&form=hpcapt&filters=HpDate%3a%2220191228_0800%22", 
+                "wp": true, 
+                "enddate": "20191229", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
