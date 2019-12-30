@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20191229", 
+                "urlbase": "/th?id=OHR.SkyIslands_ZH-CN6229467399", 
+                "fullstartdate": "201912291600", 
+                "copyright": "图森附近索诺兰沙漠中的巨柱仙人掌，亚利桑那州 (© Jack Dykinga/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.SkyIslands_ZH-CN6229467399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f8c7e3509ac8cb24f35825518f417194", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191229_SkyIslands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B7%A8%E6%9F%B1%E4%BB%99%E4%BA%BA%E6%8E%8C&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20191230", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20191229", 
+                "urlbase": "/th?id=OHR.InnsbruckSkiJump_EN-US4058119779", 
+                "fullstartdate": "201912290800", 
+                "copyright": "German ski jumper Markus Eisenbichler competing in the Four Hills Tournament, Innsbruck, Austria, on January 3, 2018 (© Daniel Karmann/picture alliance via Getty Images)", 
+                "title": "Helloooooo, Innsbruck", 
+                "url": "/th?id=OHR.InnsbruckSkiJump_EN-US4058119779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3b158330d80a0aa1bef64e1cfcc501ae", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20191229_InnsbruckSkiJump%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=four+hills+tournament&form=hpcapt&filters=HpDate%3a%2220191229_0800%22", 
+                "wp": false, 
+                "enddate": "20191230", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
