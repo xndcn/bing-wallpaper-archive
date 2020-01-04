@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200103", 
+                "urlbase": "/th?id=OHR.WhiteLeviathan_ZH-CN0294518235", 
+                "fullstartdate": "202001031600", 
+                "copyright": "在葡萄牙海岸游泳的抹香鲸妈妈和患白化病的抹香鲸宝宝 (© Flip Nicklin/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.WhiteLeviathan_ZH-CN0294518235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ae1ca032bdfd4bc9c526d8c2270358f2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200103_WhiteLeviathan%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%8A%B9%E9%A6%99%E9%B2%B8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200104", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200103", 
+                "urlbase": "/th?id=OHR.MunroLight_EN-US7297129449", 
+                "fullstartdate": "202001030800", 
+                "copyright": "'Field of Light at Sensorio,' by Bruce Munro, Paso Robles, California (© George Rose/Getty Images)", 
+                "title": "'Field of Light at Sensorio' by Bruce Munro", 
+                "url": "/th?id=OHR.MunroLight_EN-US7297129449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "57cd47ba1df4a900e6dd9d09a3775883", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200103_MunroLight%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Field+of+Light+by+Bruce+Munro&form=hpcapt&filters=HpDate%3a%2220200103_0800%22", 
+                "wp": false, 
+                "enddate": "20200104", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
