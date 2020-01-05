@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200104", 
+                "urlbase": "/th?id=OHR.BurrowingParakeets_ZH-CN0370351657", 
+                "fullstartdate": "202001041600", 
+                "copyright": "拉斯拉哈斯的穴居鹦鹉，阿根廷 (© Cagan Hakki Sekercioglu/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.BurrowingParakeets_ZH-CN0370351657_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "61758001558e1b6258eb2ef810f5af2d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200104_BurrowingParakeets%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%A9%B4%E5%B1%85%E9%B9%A6%E9%B9%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200105", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200104", 
+                "urlbase": "/th?id=OHR.WhiteLeviathan_EN-US7446083482", 
+                "fullstartdate": "202001040800", 
+                "copyright": "Sperm whale mother and albino baby swimming off the coast of Portugal (© Flip Nicklin/Minden Pictures)", 
+                "title": "Celebrating whales—and a whale of a tale", 
+                "url": "/th?id=OHR.WhiteLeviathan_EN-US7446083482_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0db790bb4074651fc79c5d133e948d01", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200104_WhiteLeviathan%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=sperm+whale&form=hpcapt&filters=HpDate%3a%2220200104_0800%22", 
+                "wp": true, 
+                "enddate": "20200105", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
