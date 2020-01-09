@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200108", 
+                "urlbase": "/th?id=OHR.MuirWoods_ZH-CN0717974254", 
+                "fullstartdate": "202001081600", 
+                "copyright": "穆尔森林国家纪念碑，加利福尼亚州旧金山 (© Mia2you/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.MuirWoods_ZH-CN0717974254_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4ca40bb0f323da9358fb9836b5ad99ba", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200108_MuirWoods%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%A9%86%E5%B0%94%E6%A3%AE%E6%9E%97%E5%9B%BD%E5%AE%B6%E7%BA%AA%E5%BF%B5%E7%A2%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200108", 
+                "urlbase": "/th?id=OHR.HeavensGate_EN-US8673063307", 
+                "fullstartdate": "202001080800", 
+                "copyright": "Tianmen Mountain in Zhangjiajie, China (© Bogdan Dyiakonovych/Shutterstock)", 
+                "title": "Take the stairs", 
+                "url": "/th?id=OHR.HeavensGate_EN-US8673063307_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "475449bcc3a9eb6cb680e35c547bef4e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200108_HeavensGate%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=tianmen+mountain+china&form=hpcapt&filters=HpDate%3a%2220200108_0800%22", 
+                "wp": true, 
+                "enddate": "20200109", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
