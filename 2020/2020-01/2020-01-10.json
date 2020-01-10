@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200109", 
+                "urlbase": "/th?id=OHR.AppleDayGermany_ZH-CN1629069245", 
+                "fullstartdate": "202001091600", 
+                "copyright": "一枚红苹果挂在被大雪压断的树枝上 (© griangraf/iStock/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.AppleDayGermany_ZH-CN1629069245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8702f9081a5258bd10be4a4d1040aca5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200109_AppleDayGermany%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A2%E8%8B%B9%E6%9E%9C&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200110", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200109", 
+                "urlbase": "/th?id=OHR.MuirWoods_EN-US8773454918", 
+                "fullstartdate": "202001090800", 
+                "copyright": "Muir Woods National Monument near San Francisco, California (© Mia2you/Shutterstock)", 
+                "title": "Into the woods", 
+                "url": "/th?id=OHR.MuirWoods_EN-US8773454918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c7ce54df0659480229b033eb0114a88a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200109_MuirWoods%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=muir+woods+national+monument&form=hpcapt&filters=HpDate%3a%2220200109_0800%22", 
+                "wp": true, 
+                "enddate": "20200110", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
