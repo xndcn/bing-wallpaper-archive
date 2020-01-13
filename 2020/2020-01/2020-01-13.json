@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200112", 
+                "urlbase": "/th?id=OHR.SeventeenSolstice_ZH-CN4901756341", 
+                "fullstartdate": "202001121600", 
+                "copyright": "北京颐和园昆明湖上的十七孔桥，中国 (© Jia Wang/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.SeventeenSolstice_ZH-CN4901756341_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1ce556e2436538e9de7b6ff4404a8191", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200112_SeventeenSolstice%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8D%81%E4%B8%83%E5%AD%94%E6%A1%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200113", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200112", 
+                "urlbase": "/th?id=OHR.Zugspitze_EN-US9404376251", 
+                "fullstartdate": "202001120800", 
+                "copyright": "Eibsee, a lake at the base of the Zugspitze, Bavaria, Germany (© Marc Hohenleitner/Huber/eStock Photo)", 
+                "title": "The Zugspitze: Germany's highest point", 
+                "url": "/th?id=OHR.Zugspitze_EN-US9404376251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bacf37113e98892eccca9e485e12a7a5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200112_Zugspitze%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=zugspitze&form=hpcapt&filters=HpDate%3a%2220200112_0800%22", 
+                "wp": true, 
+                "enddate": "20200113", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
