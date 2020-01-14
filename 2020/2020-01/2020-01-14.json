@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200113", 
+                "urlbase": "/th?id=OHR.MuskOxWinter_ZH-CN2030874541", 
+                "fullstartdate": "202001131600", 
+                "copyright": "阿拉斯加普拉德霍湾附近的雄性麝牛 (© Oliver Smart/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.MuskOxWinter_ZH-CN2030874541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "04bcc90ad1e543b7a7cf9947da1e06eb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200113_MuskOxWinter%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%BA%9D%E7%89%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200114", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200113", 
+                "urlbase": "/th?id=OHR.MtDiablo_EN-US7458508287", 
+                "fullstartdate": "202001130800", 
+                "copyright": "Mount Diablo State Park, California (© Yuval Helfman/Getty Images)", 
+                "title": "Welcome to California", 
+                "url": "/th?id=OHR.MtDiablo_EN-US7458508287_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "401bd7ed6e3d19d4f83572af6db81bbe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200113_MtDiablo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mount+diablo+state+park&form=hpcapt&filters=HpDate%3a%2220200113_0800%22", 
+                "wp": true, 
+                "enddate": "20200114", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
