@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200114", 
+                "urlbase": "/th?id=OHR.Boudhanath_ZH-CN2114569722", 
+                "fullstartdate": "202001141600", 
+                "copyright": "加德满都布达纳特塔鸟瞰图，尼泊尔 (© Maksim Semin/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.Boudhanath_ZH-CN2114569722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "430c5a1f0000a0b2751ee18844519ad1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200114_Boudhanath%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B8%83%E8%BE%BE%E7%BA%B3%E7%89%B9%E5%A1%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200115", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200114", 
+                "urlbase": "/th?id=OHR.MuskOxWinter_EN-US9539570883", 
+                "fullstartdate": "202001140800", 
+                "copyright": "Male muskoxen near Prudhoe Bay in Alaska (© Oliver Smart/Alamy)", 
+                "title": "Going head-to-head with winter", 
+                "url": "/th?id=OHR.MuskOxWinter_EN-US9539570883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "021d35937a12a69c3441cadf9b1d4b3c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200114_MuskOxWinter%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=muskox&form=hpcapt&filters=HpDate%3a%2220200114_0800%22", 
+                "wp": true, 
+                "enddate": "20200115", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
