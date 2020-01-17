@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200116", 
+                "urlbase": "/th?id=OHR.CormorantMackerel_ZH-CN1167678548", 
+                "fullstartdate": "202001161600", 
+                "copyright": "一只勃兰特鸬鹚在洛杉矶海岸石油钻塔下的一群太平洋鲭鱼中觅食，加利福尼亚 (© Alex Mustard/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.CormorantMackerel_ZH-CN1167678548_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "95aa431a34829832da8fab43f0083e21", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200116_CormorantMackerel%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8B%83%E5%85%B0%E7%89%B9%E9%B8%AC%E9%B9%9A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200117", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200116", 
+                "urlbase": "/th?id=OHR.ValGardena_EN-US9768132178", 
+                "fullstartdate": "202001160800", 
+                "copyright": "Sunset in Val Gardena in the Dolomites of South Tyrol, Italy (© Marco Capellari/Getty Images)", 
+                "title": "In the valley of the doll", 
+                "url": "/th?id=OHR.ValGardena_EN-US9768132178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "117fe9ab12925aaf6507108771ed81b3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200116_ValGardena%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Val+Gardena&form=hpcapt&filters=HpDate%3a%2220200116_0800%22", 
+                "wp": true, 
+                "enddate": "20200117", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
