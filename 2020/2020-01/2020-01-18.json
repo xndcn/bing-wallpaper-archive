@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200117", 
+                "urlbase": "/th?id=OHR.GypsumSand_ZH-CN1223884637", 
+                "fullstartdate": "202001171600", 
+                "copyright": "白沙国家公园中的石膏沙丘，新墨西哥 (© Grant Kaye/Cavan Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.GypsumSand_ZH-CN1223884637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0c3dc1c1db2f6523aa8f8e1748faea4d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200117_GypsumSand%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%9F%B3%E8%86%8F%E6%B2%99%E4%B8%98&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200118", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200117", 
+                "urlbase": "/th?id=OHR.CormorantMackerel_EN-US7682867267", 
+                "fullstartdate": "202001170800", 
+                "copyright": "A Brandt's cormorant hunts for a meal in a school of Pacific chub mackerel beneath an oil rig off the coast of Los Angeles, California (© Alex Mustard/Minden Pictures)", 
+                "title": "A seabird gets 'schooled'", 
+                "url": "/th?id=OHR.CormorantMackerel_EN-US7682867267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0d11a1ffe2d59eefd25e42f65bee7567", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200117_CormorantMackerel%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Pacific+chub+mackerel&form=hpcapt&filters=HpDate%3a%2220200117_0800%22", 
+                "wp": true, 
+                "enddate": "20200118", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
