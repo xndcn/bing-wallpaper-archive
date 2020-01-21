@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200120", 
+                "urlbase": "/th?id=OHR.HighlandsSquirrel_ZH-CN1369975915", 
+                "fullstartdate": "202001201600", 
+                "copyright": "凯恩戈姆山脉中的欧亚红松鼠，苏格兰高地 (© Images from BarbAnna/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.HighlandsSquirrel_ZH-CN1369975915_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0c26b1780e15c11a1ea609d3bf3ad0fb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200120_HighlandsSquirrel%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E7%BA%A2%E6%9D%BE%E9%BC%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200121", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200120", 
+                "urlbase": "/th?id=OHR.MarchWA1963_EN-US7913146423", 
+                "fullstartdate": "202001200800", 
+                "copyright": "The front line of demonstrators during the March on Washington for Jobs and Freedom on August 28, 1963 (© Steve Schapiro/Corbis via Getty Images)", 
+                "title": "A march toward a dream", 
+                "url": "/th?id=OHR.MarchWA1963_EN-US7913146423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "06807e6e10d572e438891bd694abbda1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200120_MarchWA1963%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=martin+luther+king+jr+day+federal+holiday+&form=hpcapt&filters=HpDate%3a%2220200120_0800%22", 
+                "wp": false, 
+                "enddate": "20200121", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
