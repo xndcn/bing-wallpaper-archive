@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200121", 
+                "urlbase": "/th?id=OHR.WhitehorseLights_ZH-CN1415339570", 
+                "fullstartdate": "202001211600", 
+                "copyright": "育空怀特霍斯附近的北极光，加拿大 (© Design Pics/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.WhitehorseLights_ZH-CN1415339570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "324b773cee9bcccca964423ba2fd38ab", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200121_WhitehorseLights%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E5%85%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200122", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200121", 
+                "urlbase": "/th?id=OHR.HighlandsSquirrel_EN-US7983501314", 
+                "fullstartdate": "202001210800", 
+                "copyright": "Eurasian red squirrel in the Cairngorms, Highlands of Scotland (© Images from BarbAnna/Getty Images)", 
+                "title": "Observing a squirrelly day", 
+                "url": "/th?id=OHR.HighlandsSquirrel_EN-US7983501314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "61cb6d0b0dde86a129ac466e488b99c4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200121_HighlandsSquirrel%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220200121_0800%22", 
+                "wp": true, 
+                "enddate": "20200122", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
