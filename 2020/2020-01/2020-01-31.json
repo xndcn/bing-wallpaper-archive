@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200130", 
+                "urlbase": "/th?id=OHR.ReddishEgret_ZH-CN9249712983", 
+                "fullstartdate": "202001301600", 
+                "copyright": "一只棕颈鹭正在德索托堡公园里捕猎，佛罗里达州 (© Brian Lasenby/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.ReddishEgret_ZH-CN9249712983_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f37694668c281dc21001de19f399350d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200130_ReddishEgret%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A3%95%E9%A2%88%E9%B9%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200131", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200130", 
+                "urlbase": "/th?id=OHR.LakeBaikal_EN-US8692095269", 
+                "fullstartdate": "202001300800", 
+                "copyright": "Aerial view of a car crossing over the frozen surface of Lake Baikal, Russia (© Amazing Aerial Agency/Offset)", 
+                "title": "The Pearl of Siberia", 
+                "url": "/th?id=OHR.LakeBaikal_EN-US8692095269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1d027a26ac0949a353292af088cb612e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200130_LakeBaikal%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=lake+baikal+russia&FORM=hpcapt&filters=HpDate%3a%2220200130_0800%22", 
+                "wp": true, 
+                "enddate": "20200131", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
