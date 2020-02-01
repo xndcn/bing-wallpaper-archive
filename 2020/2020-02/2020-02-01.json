@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200131", 
+                "urlbase": "/th?id=OHR.OberweissbacherBergbahn_ZH-CN1289048050", 
+                "fullstartdate": "202001311600", 
+                "copyright": "从上魏斯巴赫山地列车的车站向外看，德国图林根 (© golero/iStock/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.OberweissbacherBergbahn_ZH-CN1289048050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "56e57478754b9e4f7f9bcd2f75da2959", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200131_OberweissbacherBergbahn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%AD%8F%E6%96%AF%E5%B7%B4%E8%B5%AB%E5%B1%B1%E5%9C%B0%E5%88%97%E8%BD%A6&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200201", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200131", 
+                "urlbase": "/th?id=OHR.ReddishEgret_EN-US2958831498", 
+                "fullstartdate": "202001310800", 
+                "copyright": "A reddish egret hunts in Fort De Soto Park, Florida (© Brian Lasenby/Getty Images)", 
+                "title": "Dance of the egret", 
+                "url": "/th?id=OHR.ReddishEgret_EN-US2958831498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0bbb57783bf5979671aa8d2faff3390d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200131_ReddishEgret%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Reddish+egret&form=hpcapt&filters=HpDate%3a%2220200131_0800%22", 
+                "wp": true, 
+                "enddate": "20200201", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
