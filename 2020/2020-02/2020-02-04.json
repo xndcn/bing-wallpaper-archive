@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200203", 
+                "urlbase": "/th?id=OHR.LionRock_ZH-CN1466577021", 
+                "fullstartdate": "202002031600", 
+                "copyright": "狮子岩，斯里兰卡中央省 (© Jeremy Woodhouse/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.LionRock_ZH-CN1466577021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3cfd238c28c2aa0f20c9866fa4757cb9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200203_LionRock%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%8B%AE%E5%AD%90%E5%B2%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200204", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200203", 
+                "urlbase": "/th?id=OHR.RapaNuiFestival_EN-US3295875465", 
+                "fullstartdate": "202002030800", 
+                "copyright": "Moai statues at Ahu Tongariki in Rapa Nui National Park, Easter Island, Chile (© blickwinkel/Alamy)", 
+                "title": "The 'moai' you know", 
+                "url": "/th?id=OHR.RapaNuiFestival_EN-US3295875465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2ecc287428f1556b40aaaaa6d27ad924", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200203_RapaNuiFestival%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=rapa+nui+national+park&form=hpcapt&filters=HpDate%3a%2220200203_0800%22", 
+                "wp": true, 
+                "enddate": "20200204", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
