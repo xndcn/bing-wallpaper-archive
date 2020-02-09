@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200208", 
+                "urlbase": "/th?id=OHR.ArgaosRidge_ZH-CN1737206146", 
+                "fullstartdate": "202002081600", 
+                "copyright": "欧罗巴山Los Argaos山脉上的日落，西班牙阿斯图里亚斯 (© jregueiro/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.ArgaosRidge_ZH-CN1737206146_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0e0a7071b23bfdec0c59b00e405815a1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200208_ArgaosRidge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Los+Argaos%E5%B1%B1%E8%84%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200209", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200208", 
+                "urlbase": "/th?id=OHR.PingxiLantern_EN-US3795457184", 
+                "fullstartdate": "202002080800", 
+                "copyright": "Lantern Festival in Pingxi, Taiwan (© Jung-Pang Wu/Getty Images)", 
+                "title": "Lanterns alight in Pingxi", 
+                "url": "/th?id=OHR.PingxiLantern_EN-US3795457184_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8b6c0015c29ce2da916851b53a6cdd2e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200208_PingxiLantern%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=lantern+festival&form=hpcapt&filters=HpDate%3a%2220200208_0800%22", 
+                "wp": true, 
+                "enddate": "20200209", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
