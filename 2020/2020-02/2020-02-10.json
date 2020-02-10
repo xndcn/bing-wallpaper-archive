@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200209", 
+                "urlbase": "/th?id=OHR.ButterflyPair_ZH-CN9153450825", 
+                "fullstartdate": "202002091600", 
+                "copyright": "一对加勒白眼蝶落在花上，法国阿尔萨斯 (© Eric Ferry/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.ButterflyPair_ZH-CN9153450825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0baa01fc4f1b843c94d53fe0e6a760f2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200209_ButterflyPair%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8A%A0%E5%8B%92%E7%99%BD%E7%9C%BC%E8%9D%B6&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200210", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200209", 
+                "urlbase": "/th?id=OHR.HollywoodSign_EN-US3888664438", 
+                "fullstartdate": "202002090800", 
+                "copyright": "The Hollywood Sign overlooking Los Angeles, California (© Sean Pavone/Shutterstock)", 
+                "title": "Hollywood's big night", 
+                "url": "/th?id=OHR.HollywoodSign_EN-US3888664438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5a38bea80c824aeec5900a5f766b16fd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200209_HollywoodSign%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=hollywood+sign&form=hpcapt&filters=HpDate%3a%2220200209_0800%22", 
+                "wp": false, 
+                "enddate": "20200210", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
