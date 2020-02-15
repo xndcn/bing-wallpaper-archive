@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200214", 
+                "urlbase": "/th?id=OHR.HumpbackHerring_ZH-CN2868885675", 
+                "fullstartdate": "202002141600", 
+                "copyright": "克瓦尔岛海岸以鲱鱼为食的座头鲸，北挪威特罗姆瑟 (© Espen Bergersen/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.HumpbackHerring_ZH-CN2868885675_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "84400942f08b3bd59073724c9ec0d70e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200214_HumpbackHerring%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%BA%A7%E5%A4%B4%E9%B2%B8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200215", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200214", 
+                "urlbase": "/th?id=OHR.CorsicaHeart_EN-US7363711239", 
+                "fullstartdate": "202002140800", 
+                "copyright": "A heart-shaped hole in the rock formation of Calanques de Piana in Corsica, France (© joningall/Getty Images)", 
+                "title": "Two rocks and a heart spot", 
+                "url": "/th?id=OHR.CorsicaHeart_EN-US7363711239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a0d71cd2e1ba0865b1afbc6228073261", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200214_CorsicaHeart%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=calanques+de+piana+corsica&FORM=hpcapt&filters=HpDate%3a%2220200214_0800%22", 
+                "wp": true, 
+                "enddate": "20200215", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
