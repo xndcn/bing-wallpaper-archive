@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200215", 
+                "urlbase": "/th?id=OHR.TaikanCrane_ZH-CN3416122324", 
+                "fullstartdate": "202002151600", 
+                "copyright": "薄雾笼罩的河流中的丹顶鹤，日本北海道 (© Paul & Paveena Mckenzie/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.TaikanCrane_ZH-CN3416122324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "17e990ee02ad0251002426dbee68f005", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200215_TaikanCrane%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%B8%B9%E9%A1%B6%E9%B9%A4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200216", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200215", 
+                "urlbase": "/th?id=OHR.HumpbackHerring_EN-US7403030704", 
+                "fullstartdate": "202002150800", 
+                "copyright": "Humpback whale feeding on herring off the coast of Kvaløya, an island in Northern Norway (© Espen Bergersen/Minden Pictures)", 
+                "title": "Whales in winter", 
+                "url": "/th?id=OHR.HumpbackHerring_EN-US7403030704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "dec7393d4dd81f7cbafb787fca1d6587", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200215_HumpbackHerring%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=humpback+whale&form=hpcapt&filters=HpDate%3a%2220200215_0800%22", 
+                "wp": true, 
+                "enddate": "20200216", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
