@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200216", 
+                "urlbase": "/th?id=OHR.PineconesSwap_ZH-CN3478765581", 
+                "fullstartdate": "202002161600", 
+                "copyright": "松果，荷兰 (© Marcel ter Bekke/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.PineconesSwap_ZH-CN3478765581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "13d6df363019303949bb368893ca732e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200216_PineconesSwap%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%9D%BE%E6%9E%9C&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200217", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200216", 
+                "urlbase": "/th?id=OHR.LemonDragon_EN-US7455819536", 
+                "fullstartdate": "202002160800", 
+                "copyright": "The 2019 Lemon Festival in Menton, France (© Mandoga Media/Alamy)", 
+                "title": "When an ideal microclimate gives you lemons…", 
+                "url": "/th?id=OHR.LemonDragon_EN-US7455819536_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ef1f2fc8261f7c1aa7ca850e190b9d99", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200216_LemonDragon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=menton%2c+france&form=hpcapt&filters=HpDate%3a%2220200216_0800%22", 
+                "wp": false, 
+                "enddate": "20200217", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
