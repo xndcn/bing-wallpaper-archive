@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200217", 
+                "urlbase": "/th?id=OHR.PlutoCrescent_ZH-CN3538488331", 
+                "fullstartdate": "202002171600", 
+                "copyright": "美国宇航局新视野星际探测器拍摄的冥王星新月 (© NASA/JHUAPL/SWRI/Science Photo Library)", 
+                "title": "", 
+                "url": "/th?id=OHR.PlutoCrescent_ZH-CN3538488331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bf579317067f05cc481681b96fb0d865", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200217_PlutoCrescent%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%86%A5%E7%8E%8B%E6%98%9F%E6%96%B0%E6%9C%88&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200218", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200217", 
+                "urlbase": "/th?id=OHR.MRNMSD_EN-US1457690831", 
+                "fullstartdate": "202002170800", 
+                "vid": {
+                    "caption": "Mount Rushmore National Memorial, South Dakota (© Dominic Boudreault/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/RushmoreSunrise_ENUS_629936596_1920x1080_HD_EN-US1900739941.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/RushmoreSunrise_ENUS_629936596_750x1334_Mobile_EN-US987656202.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/RushmoreSunrise_1920x1080_G_629936596_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/RushmoreSunrise_1920x1080_G_629936596_HD_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/RushmoreSunrise_Vertical_G_629936596_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=mount+rushmore&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Mount Rushmore National Memorial in South Dakota (© Tony Austin/Alamy)", 
+                "title": "Happy Presidents Day", 
+                "url": "/th?id=OHR.MRNMSD_EN-US1457690831_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c748e5688f079b6be4352ae83dacd173", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200217_MRNMSD%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mount+rushmore&form=hpcapt&filters=HpDate%3a%2220200217_0800%22", 
+                "wp": false, 
+                "enddate": "20200218", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
