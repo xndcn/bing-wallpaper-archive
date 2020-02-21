@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200220", 
+                "urlbase": "/th?id=OHR.UffingStaffelseeWinter_ZH-CN4001263375", 
+                "fullstartdate": "202002201600", 
+                "copyright": "施塔弗尔湖畔乌芬附近的桦树大道，德国巴伐利亚 (© Reinhard Schmid/eStock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.UffingStaffelseeWinter_ZH-CN4001263375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7f86ba6133f8afb68e1ab47e0f4d6dd5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200220_UffingStaffelseeWinter%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A1%A6%E6%A0%91%E5%A4%A7%E9%81%93&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200221", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200220", 
+                "urlbase": "/th?id=OHR.CloudsPelmo_EN-US7754683425", 
+                "fullstartdate": "202002200800", 
+                "copyright": "Rifugio Lagazuoi above the clouds with Monte Pelmo in the background, Dolomites, Italy (© Nicolo Miana/eStock Photo)", 
+                "title": "Après-ski in the Dolomites", 
+                "url": "/th?id=OHR.CloudsPelmo_EN-US7754683425_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "428d59bc7f1188810c8a3909bcba867f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200220_CloudsPelmo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=lagazuoi+mountain+italy&form=hpcapt&filters=HpDate%3a%2220200220_0800%22", 
+                "wp": true, 
+                "enddate": "20200221", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
