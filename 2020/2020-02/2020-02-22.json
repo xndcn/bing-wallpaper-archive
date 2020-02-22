@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200221", 
+                "urlbase": "/th?id=OHR.MalhamStars_ZH-CN4163177154", 
+                "fullstartdate": "202002211600", 
+                "copyright": "马勒姆的夜空，英国北约克郡 (© Stephen Dinsdale/Alamy Stock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.MalhamStars_ZH-CN4163177154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3f9e462262b4dcf13daad4918853f3fe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200221_MalhamStars%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%9C%E7%A9%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200222", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200221", 
+                "urlbase": "/th?id=OHR.OlindaCarnival_EN-US7914915440", 
+                "fullstartdate": "202002210800", 
+                "copyright": "Giant puppets for Carnival in Olinda, Brazil (© Pulsar Imagens/Alamy)", 
+                "title": "Carnival comes to Olinda", 
+                "url": "/th?id=OHR.OlindaCarnival_EN-US7914915440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cdd322247025fde1efd4e669dfa99aff", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200221_OlindaCarnival%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=olinda+brazil+carnival&form=hpcapt&filters=HpDate%3a%2220200221_0800%22", 
+                "wp": false, 
+                "enddate": "20200222", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
