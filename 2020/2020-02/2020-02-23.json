@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200222", 
+                "urlbase": "/th?id=OHR.LakeGullMN_ZH-CN5281494536", 
+                "fullstartdate": "202002221600", 
+                "copyright": "人们在布雷纳德的加尔湖上冰钓，明尼苏达州 (© Robert Benson/Cavan)", 
+                "title": "", 
+                "url": "/th?id=OHR.LakeGullMN_ZH-CN5281494536_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "229a7e4735b1167dccd2aa97de0cf102", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200222_LakeGullMN%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%86%B0%E9%92%93&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200223", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200222", 
+                "urlbase": "/th?id=OHR.AbuSimbelSunFest_EN-US8115834133", 
+                "fullstartdate": "202002220800", 
+                "copyright": "The interior of the Great Temple of Ramesses II, Abu Simbel, Egypt (© Nick Brundle Photography/Getty Images)", 
+                "title": "It's not always sunny in Abu Simbel…", 
+                "url": "/th?id=OHR.AbuSimbelSunFest_EN-US8115834133_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b6a8f574bfa0d31adafb7020235ae99e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200222_AbuSimbelSunFest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=abu+simbel&form=hpcapt&filters=HpDate%3a%2220200222_0800%22", 
+                "wp": true, 
+                "enddate": "20200223", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
