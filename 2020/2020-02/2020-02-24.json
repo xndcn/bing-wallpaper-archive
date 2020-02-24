@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200223", 
+                "urlbase": "/th?id=OHR.Windhorses_ZH-CN5349922758", 
+                "fullstartdate": "202002231600", 
+                "copyright": "朝圣者将风马旗扔向甘登寺上方的空中为新年祈福，中国西藏 (© Ian Cumming/plainpicture)", 
+                "title": "", 
+                "url": "/th?id=OHR.Windhorses_ZH-CN5349922758_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ddbbdd107194585bcc6cc297ae441266", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200223_Windhorses%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%A3%8E%E9%A9%AC%E6%97%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200224", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200223", 
+                "urlbase": "/th?id=OHR.LakeGullMN_EN-US8273213396", 
+                "fullstartdate": "202002230800", 
+                "copyright": "People ice fishing on Gull Lake in Brainerd, Minnesota (© Robert Benson/Cavan)", 
+                "title": "An icy extravaganza", 
+                "url": "/th?id=OHR.LakeGullMN_EN-US8273213396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "470d45dba21cb4d733ba7a802bbebbb8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200223_LakeGullMN%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=ice+fishing&form=hpcapt&filters=HpDate%3a%2220200223_0800%22", 
+                "wp": true, 
+                "enddate": "20200224", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
