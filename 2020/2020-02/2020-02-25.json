@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200224", 
+                "urlbase": "/th?id=OHR.MundoFalls_ZH-CN5545236650", 
+                "fullstartdate": "202002241600", 
+                "copyright": "蒙多河源头的瀑布，西班牙阿尔瓦赛特里奥帕尔 (© Westend61/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MundoFalls_ZH-CN5545236650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "06c2330a2c3285af58063154f33b2016", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200224_MundoFalls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%92%99%E5%A4%9A%E6%B2%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200225", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200224", 
+                "urlbase": "/th?id=OHR.Windhorses_EN-US8344477103", 
+                "fullstartdate": "202002240800", 
+                "copyright": "Pilgrims throwing wind horses into the air above Ganden Monastery for the New Year in Tibet, China (© Ian Cumming/plainpicture)", 
+                "title": "Wind horses carry wishes for a new year", 
+                "url": "/th?id=OHR.Windhorses_EN-US8344477103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "11c10818c48c02e2ec4b4e4f4ae968fb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200224_Windhorses%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Losar&form=hpcapt&filters=HpDate%3a%2220200224_0800%22", 
+                "wp": true, 
+                "enddate": "20200225", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
