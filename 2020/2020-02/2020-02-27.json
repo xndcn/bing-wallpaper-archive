@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200226", 
+                "urlbase": "/th?id=OHR.PBWhaleBones_ZH-CN5771331489", 
+                "fullstartdate": "202002261600", 
+                "copyright": "北极国家野生动物保护区里的一只雌性北极熊和她的幼崽，阿拉斯加 (© Steven Kazlowski/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.PBWhaleBones_ZH-CN5771331489_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c084e10b0f85b05acc2994429f6e4c1f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200226_PBWhaleBones%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E7%86%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200227", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200226", 
+                "urlbase": "/th?id=OHR.AcadiaSunrise_EN-US8474021804", 
+                "fullstartdate": "202002260800", 
+                "copyright": "Acadia National Park in Maine (© emptyclouds/Getty Images)", 
+                "title": "'The Crown Jewel of the North Atlantic'", 
+                "url": "/th?id=OHR.AcadiaSunrise_EN-US8474021804_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b1718468f7f33e724b6c9e1b0b684200", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200226_AcadiaSunrise%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Acadia+National+Park&form=hpcapt&filters=HpDate%3a%2220200226_0800%22", 
+                "wp": true, 
+                "enddate": "20200227", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
