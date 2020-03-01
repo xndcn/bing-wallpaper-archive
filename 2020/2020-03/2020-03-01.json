@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200229", 
+                "urlbase": "/th?id=OHR.FlowingClouds_ZH-CN0721854476", 
+                "fullstartdate": "202002291600", 
+                "copyright": "大西洋和特内里费山脉上空的流云，西班牙加那利群岛 (© MikeMareen/iStock/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.FlowingClouds_ZH-CN0721854476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9324e5e4add89f77e6e6f67d5dd37dba", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200229_FlowingClouds%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B5%81%E4%BA%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200301", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200229", 
+                "urlbase": "/th?id=OHR.WallaceFF_EN-US1967284462", 
+                "fullstartdate": "202002290800", 
+                "copyright": "A Wallace's flying frog glides to the forest floor (© Stephen Dalton/Minden Pictures)", 
+                "title": "It's leap day!", 
+                "url": "/th?id=OHR.WallaceFF_EN-US1967284462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8031db941f469d530d7747c5750cbf32", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200229_WallaceFF%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=wallace%27s+flying+frog&form=hpcapt&filters=HpDate%3a%2220200229_0800%22", 
+                "wp": true, 
+                "enddate": "20200301", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
