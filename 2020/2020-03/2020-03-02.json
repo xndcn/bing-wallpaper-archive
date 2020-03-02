@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200301", 
+                "urlbase": "/th?id=OHR.SeussianLandscape_ZH-CN0785428057", 
+                "fullstartdate": "202003011600", 
+                "copyright": "“精灵烟囟”和窑洞，土耳其卡帕多西亚 (© Ivan Kmit/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.SeussianLandscape_ZH-CN0785428057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "906a4a7dfdc63cd12853c60e1071819b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200301_SeussianLandscape%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E2%80%9C%E7%B2%BE%E7%81%B5%E7%83%9F%E5%9B%9F%E2%80%9D%E5%92%8C%E7%AA%91%E6%B4%9E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200302", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200301", 
+                "urlbase": "/th?id=OHR.HikersVoters_EN-US2077085885", 
+                "fullstartdate": "202003010800", 
+                "copyright": "Women's suffragists who walked from New York City to Washington, DC, to join the National American Woman Suffrage Association parade on March 3, 1913 (© Everett Collection/age fotostock)", 
+                "title": "Casting a vote for women's history", 
+                "url": "/th?id=OHR.HikersVoters_EN-US2077085885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7421caf10148f8ecb838e2c158e02a54", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200301_HikersVoters%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=women%27s+history+month&form=hpcapt&filters=HpDate%3a%2220200301_0800%22", 
+                "wp": false, 
+                "enddate": "20200302", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
