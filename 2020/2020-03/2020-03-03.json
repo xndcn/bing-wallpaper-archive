@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200302", 
+                "urlbase": "/th?id=OHR.SpectralTarsiers_ZH-CN1108590907", 
+                "fullstartdate": "202003021600", 
+                "copyright": "榕树上的幽灵眼镜猴，印度尼西亚Tangkoko Batuangus自然保护区 (© Ondrej Prosicky/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.SpectralTarsiers_ZH-CN1108590907_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c2c9422769cd2050f3a268e68a8c8ce7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200302_SpectralTarsiers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B9%BD%E7%81%B5%E7%9C%BC%E9%95%9C%E7%8C%B4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200303", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200302", 
+                "urlbase": "/th?id=OHR.SeussianLandscape_EN-US2146844247", 
+                "fullstartdate": "202003020800", 
+                "copyright": "Fairy chimneys and cave dwellings in Uçhisar, Cappadocia, Turkey (© Ivan Kmit/Alamy)", 
+                "title": "And to think that I saw it in Cappadocia", 
+                "url": "/th?id=OHR.SeussianLandscape_EN-US2146844247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2da4ad40b7f464d68bdf7ef214bd671e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200302_SeussianLandscape%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=cappadocia+turkey&form=hpcapt&filters=HpDate%3a%2220200302_0800%22", 
+                "wp": true, 
+                "enddate": "20200303", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
