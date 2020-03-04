@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200303", 
+                "urlbase": "/th?id=OHR.ElPit_ZH-CN1174143508", 
+                "fullstartdate": "202003031600", 
+                "copyright": "Dos Ojos自然公园里El Pit Cenote的潜水员，墨西哥金塔纳罗奥 (© Christia Vizl/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.ElPit_ZH-CN1174143508_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "01a8ca589055f2982c01bf0ea2429b73", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200303_ElPit%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%BD%9C%E6%B0%B4%E5%91%98&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200304", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200303", 
+                "urlbase": "/th?id=OHR.SpectralTarsiers_EN-US2290390785", 
+                "fullstartdate": "202003030800", 
+                "copyright": "Spectral tarsiers in a ficus tree in Tangkoko Batuangus Nature Reserve, Indonesia (© Ondrej Prosicky/Shutterstock)", 
+                "title": "All eyes on sustainability", 
+                "url": "/th?id=OHR.SpectralTarsiers_EN-US2290390785_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0769a5c4bed64d4b2a39b4fd81497b88", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200303_SpectralTarsiers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=spectral+tarsiers&form=hpcapt&filters=HpDate%3a%2220200303_0800%22", 
+                "wp": true, 
+                "enddate": "20200304", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
