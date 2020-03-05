@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200304", 
+                "urlbase": "/th?id=OHR.CarnegieaGigantea_ZH-CN1238179361", 
+                "fullstartdate": "202003041600", 
+                "copyright": "科罗纳多国家森林里的巨柱仙人掌花，亚利桑那 (© Jack Dykinga/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.CarnegieaGigantea_ZH-CN1238179361_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e6018ea4934e29b15206d28e072e14ae", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200304_CarnegieaGigantea%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B7%A8%E6%9F%B1%E4%BB%99%E4%BA%BA%E6%8E%8C%E8%8A%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200305", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200304", 
+                "urlbase": "/th?id=OHR.ElPit_EN-US2350184760", 
+                "fullstartdate": "202003040800", 
+                "copyright": "Divers at El Pit cenote, located in Sistema Dos Ojos, Quintana Roo, Mexico (© Christia Vizl/Tandem Stills + Motion)", 
+                "title": "A different kind of dive", 
+                "url": "/th?id=OHR.ElPit_EN-US2350184760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "165b9d1ef1229ba097d9e4224463e558", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200304_ElPit%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=cenote&form=hpcapt&filters=HpDate%3a%2220200304_0800%22", 
+                "wp": true, 
+                "enddate": "20200305", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
