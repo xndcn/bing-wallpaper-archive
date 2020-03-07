@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200306", 
+                "urlbase": "/th?id=OHR.TokyoMoat_ZH-CN1430508337", 
+                "fullstartdate": "202003061600", 
+                "copyright": "以东京塔为背景皇宫附近盛开的樱花，日本东京 (© Jon Arnold/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.TokyoMoat_ZH-CN1430508337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "549458008d1e2171a39f7f362c913cae", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200306_TokyoMoat%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A8%B1%E8%8A%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200307", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200306", 
+                "urlbase": "/th?id=OHR.BluebirdsYNP_EN-US2456710517", 
+                "fullstartdate": "202003060800", 
+                "copyright": "Male mountain bluebird in Yellowstone National Park, Wyoming (© Jason Savage/Tandem Stills + Motion)", 
+                "title": "Hello, harbinger of spring", 
+                "url": "/th?id=OHR.BluebirdsYNP_EN-US2456710517_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cbad5526e2b39398ab68f21e10ab1c6f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200306_BluebirdsYNP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mountain+bluebird&form=hpcapt&filters=HpDate%3a%2220200306_0800%22", 
+                "wp": true, 
+                "enddate": "20200307", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
