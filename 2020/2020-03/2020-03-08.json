@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200307", 
+                "urlbase": "/th?id=OHR.JoanNYC_ZH-CN1501350561", 
+                "fullstartdate": "202003071600", 
+                "copyright": "曼哈顿河滨公园中的圣女贞德纪念碑 (© Chase Guttman/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.JoanNYC_ZH-CN1501350561_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4192156406c3abf966d06ddb20897177", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200307_JoanNYC%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E5%A5%B3%E8%B4%9E%E5%BE%B7%E7%BA%AA%E5%BF%B5%E7%A2%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200308", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200307", 
+                "urlbase": "/th?id=OHR.BronteBaths_EN-US9467599141", 
+                "fullstartdate": "202003070800", 
+                "copyright": "Bird's-eye view of Bronte Baths ocean pool outside Sydney, Australia (© Shay Cooper/Media Drum World/Cavan Images)", 
+                "title": "Summer winds down in the Southern Hemisphere", 
+                "url": "/th?id=OHR.BronteBaths_EN-US9467599141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f12bd2e80804924daabde634e70d3844", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200307_BronteBaths%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=bronte+beach&form=hpcapt&filters=HpDate%3a%2220200307_0800%22", 
+                "wp": true, 
+                "enddate": "20200308", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
