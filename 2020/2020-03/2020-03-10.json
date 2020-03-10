@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200309", 
+                "urlbase": "/th?id=OHR.DrumhellerBadlands_ZH-CN3069391817", 
+                "fullstartdate": "202003091600", 
+                "copyright": "加拿大恶地里石窟上方的银河，加拿大亚伯达省德拉姆黑勒 (© Felis Images/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.DrumhellerBadlands_ZH-CN3069391817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0415cbe23922c2508d6225fdff3301f0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200309_DrumhellerBadlands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%93%B6%E6%B2%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200310", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200309", 
+                "urlbase": "/th?id=OHR.SnoozyTheBear_EN-US2658340968", 
+                "fullstartdate": "202003090700", 
+                "copyright": "Grizzly bear cub relaxing, Cook Inlet, Chinitna Bay, Lake Clark National Park and Preserve, Alaska (© Erlend Krumsvik/Getty Images)", 
+                "title": "This grizzly has Napping Day down", 
+                "url": "/th?id=OHR.SnoozyTheBear_EN-US2658340968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "903702fdc70de0ac883921768d5a3294", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200309_SnoozyTheBear%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=national+napping+day&form=hpcapt&filters=HpDate%3a%2220200309_0700%22", 
+                "wp": true, 
+                "enddate": "20200310", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
