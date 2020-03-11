@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200310", 
+                "urlbase": "/th?id=OHR.CubsEmerge_ZH-CN1697031244", 
+                "fullstartdate": "202003101600", 
+                "copyright": "瓦普斯克国家公园内向洞穴外张望的北极熊幼崽，加拿大马尼托巴 (© Robert Harding/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.CubsEmerge_ZH-CN1697031244_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d4d3f39043d7ee2fab3a6fc6175e86c5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200310_CubsEmerge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E7%86%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200311", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200310", 
+                "urlbase": "/th?id=OHR.DoljatraPowder_EN-US8224224106", 
+                "fullstartdate": "202003100700", 
+                "copyright": "Brightly colored powder for sale during Holi (© Max Bauerfeind/Shutterstock)", 
+                "title": "A festival  of colors", 
+                "url": "/th?id=OHR.DoljatraPowder_EN-US8224224106_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c2119b90bb14bf57a6f70ba07019166b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200310_DoljatraPowder%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=holi&form=hpcapt&filters=HpDate%3a%2220200310_0700%22", 
+                "wp": true, 
+                "enddate": "20200311", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
