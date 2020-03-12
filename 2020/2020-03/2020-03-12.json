@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200311", 
+                "urlbase": "/th?id=OHR.SiestaKey_ZH-CN1759696989", 
+                "fullstartdate": "202003111600", 
+                "copyright": "西耶斯塔海滩鸟瞰图，佛罗里达西耶斯塔岛 (© Julie Palermo/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.SiestaKey_ZH-CN1759696989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "088916f496e42550dfa4fc404a7436cc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200311_SiestaKey%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%A5%BF%E8%80%B6%E6%96%AF%E5%A1%94%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200312", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200311", 
+                "urlbase": "/th?id=OHR.CubsEmerge_EN-US2822084703", 
+                "fullstartdate": "202003110700", 
+                "copyright": "Polar bear cubs looking out of their den in Wapusk National Park, Manitoba, Canada (© Robert Harding/Alamy)", 
+                "title": "Anybody out there?", 
+                "url": "/th?id=OHR.CubsEmerge_EN-US2822084703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6257aaf41b62ad42a23dd977575dcda8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200311_CubsEmerge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=polar+bears&form=hpcapt&filters=HpDate%3a%2220200311_0700%22", 
+                "wp": true, 
+                "enddate": "20200312", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
