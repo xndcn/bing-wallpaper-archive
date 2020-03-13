@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200312", 
+                "urlbase": "/th?id=OHR.FrenchColorado_ZH-CN9446885520", 
+                "fullstartdate": "202003121600", 
+                "copyright": "泰河畔伊尔的Les Orgues，法国北加泰罗尼亚 (© SFL Choice/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.FrenchColorado_ZH-CN9446885520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7f0cc40ecd3a1b7f4bad4c041224a38a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200312_FrenchColorado%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Les+Orgues&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200313", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200312", 
+                "urlbase": "/th?id=OHR.SiestaKey_EN-US2874626647", 
+                "fullstartdate": "202003120700", 
+                "copyright": "Aerial view of Siesta Beach, Siesta Key, Florida (© Julie Palermo/Getty Images)", 
+                "title": "Fiesta at Siesta", 
+                "url": "/th?id=OHR.SiestaKey_EN-US2874626647_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "737d23ca106543b5684c882d8c3274c9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200312_SiestaKey%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=spring+break+holiday+in+the+united+states&form=hpcapt&filters=HpDate%3a%2220200312_0700%22", 
+                "wp": true, 
+                "enddate": "20200313", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
