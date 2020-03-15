@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200314", 
+                "urlbase": "/th?id=OHR.MetamorphicRocks_ZH-CN9753251368", 
+                "fullstartdate": "202003141600", 
+                "copyright": "缅因州达马里斯科塔地区的佩马基德灯塔 (© Tom Whitney/Adobe Stock)", 
+                "title": "", 
+                "url": "/th?id=OHR.MetamorphicRocks_ZH-CN9753251368_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8b410f8bc1bf8a17915ea5acf7e8d334", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200314_MetamorphicRocks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%BD%A9%E9%A9%AC%E5%9F%BA%E5%BE%B7%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200315", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200314", 
+                "urlbase": "/th?id=OHR.Cirkelbroen_EN-US9451869319", 
+                "fullstartdate": "202003140700", 
+                "copyright": "The Circle Bridge in Copenhagen, Denmark (© Lingxiao Xie/Getty Images)", 
+                "title": "A circular celebration", 
+                "url": "/th?id=OHR.Cirkelbroen_EN-US9451869319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c1c90bc5c2c5770dc2ec95b0b67db45c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200314_Cirkelbroen%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=circle+bridge+copenhagen&form=hpcapt&filters=HpDate%3a%2220200314_0700%22", 
+                "wp": true, 
+                "enddate": "20200315", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
