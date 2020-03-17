@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200316", 
+                "urlbase": "/th?id=OHR.Knowth_ZH-CN0295374506", 
+                "fullstartdate": "202003161600", 
+                "copyright": "纽格兰奇墓，爱尔兰博因河谷 (© whatapicture/plainpicture)", 
+                "title": "", 
+                "url": "/th?id=OHR.Knowth_ZH-CN0295374506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a25c51c84c92422d97625b1b19cfbe9b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200316_Knowth%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%BA%BD%E6%A0%BC%E5%85%B0%E5%A5%87%E5%A2%93&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200317", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200316", 
+                "urlbase": "/th?id=OHR.SirThomasMore_EN-US9546326212", 
+                "fullstartdate": "202003160700", 
+                "copyright": "Shakespeare's handwriting from the play 'Sir Thomas More,' British Library, London (© British Library/Alamy)", 
+                "title": "'I'll call for pen and ink…'", 
+                "url": "/th?id=OHR.SirThomasMore_EN-US9546326212_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7f875cded00df999a7737439c0a7c11f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200316_SirThomasMore%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=william+shakespeare&form=hpcapt&filters=HpDate%3a%2220200316_0700%22", 
+                "wp": true, 
+                "enddate": "20200317", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
