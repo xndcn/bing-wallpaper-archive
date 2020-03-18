@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200317", 
+                "urlbase": "/th?id=OHR.KeichitsuCrocuse_ZH-CN1061292366", 
+                "fullstartdate": "202003171600", 
+                "copyright": "藏红花 (© Hayami Yanagisawa/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.KeichitsuCrocuse_ZH-CN1061292366_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3817f0577050774c325d404a9da97981", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200317_KeichitsuCrocuse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%97%8F%E7%BA%A2%E8%8A%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200318", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200317", 
+                "urlbase": "/th?id=OHR.Knowth_EN-US9596233080", 
+                "fullstartdate": "202003170700", 
+                "copyright": "Knowth burial mound in the Boyne Valley, Ireland, for St Patrick's Day (© whatapicture/plainpicture)", 
+                "title": "It's a good day to be green", 
+                "url": "/th?id=OHR.Knowth_EN-US9596233080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "54577898f5d4893ffca2b8c943300644", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200317_Knowth%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=st+patrick%27s+day&form=hpcapt&filters=HpDate%3a%2220200317_0700%22", 
+                "wp": true, 
+                "enddate": "20200318", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
