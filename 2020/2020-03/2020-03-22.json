@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200321", 
+                "urlbase": "/th?id=OHR.StepWell_ZH-CN1542251750", 
+                "fullstartdate": "202003211600", 
+                "copyright": "斋浦尔琥珀堡附近当地妇女正在爬阶梯井，印度拉贾斯坦邦 (© Shanna Baker/Offset)", 
+                "title": "", 
+                "url": "/th?id=OHR.StepWell_ZH-CN1542251750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3b5f298595ebaa81ffe9cc93d87696d2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200321_StepWell%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%90%A5%E7%8F%80%E5%A0%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200322", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200321", 
+                "urlbase": "/th?id=OHR.PabloNeruda_EN-US9874244430", 
+                "fullstartdate": "202003210700", 
+                "copyright": "Portrait of poet Pablo Neruda projected on a building, Santiago, Chile (© Mario Tellez/Anadolu Agency/Getty Images)", 
+                "title": "It's World Poetry Day", 
+                "url": "/th?id=OHR.PabloNeruda_EN-US9874244430_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b7652e5b0a6717e43bc1fca6fae59853", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200321_PabloNeruda%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=world+poetry+day&form=hpcapt&filters=HpDate%3a%2220200321_0700%22", 
+                "wp": false, 
+                "enddate": "20200322", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
