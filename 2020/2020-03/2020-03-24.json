@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200323", 
+                "urlbase": "/th?id=OHR.SpainBeeEaters_ZH-CN2414526119", 
+                "fullstartdate": "202003231600", 
+                "copyright": "黄喉蜂虎，西班牙埃斯特雷马杜拉 (© Martin Demmel/Offset)", 
+                "title": "", 
+                "url": "/th?id=OHR.SpainBeeEaters_ZH-CN2414526119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "108620a2695468c2c0aeaa1539045e2b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200323_SpainBeeEaters%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%BB%84%E5%96%89%E8%9C%82%E8%99%8E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200324", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200323", 
+                "urlbase": "/th?id=OHR.LenticularVideo_EN-US3256283499", 
+                "fullstartdate": "202003230700", 
+                "vid": {
+                    "caption": "Time-lapse video of lenticular clouds over Mount Rainier, Washington (© Delrious/Shutterstock)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/RainierClouds_ENUS_SS1021697089_1920x1080_HD_EN-US170801398.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/RainierClouds_ENUS_SS1021697089_750x1334_Mobile_EN-US1675291741.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/RainierClouds_ENUS_1920x1080_SS1021697089_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/RainierClouds_ENUS_1920x1080_SS1021697089_HD_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/RainierClouds_ENUS_VERT_SS1021697089_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=mount+rainier+washington&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Lenticular clouds over Mount Rainier, Washington (© Delrious/Shutterstock)", 
+                "title": "A peak in the clouds", 
+                "url": "/th?id=OHR.LenticularVideo_EN-US3256283499_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b027578a337bd04543c144bbe1790e9a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200323_LenticularVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mount+rainier+washington&form=hpcapt&filters=HpDate%3a%2220200323_0700%22", 
+                "wp": false, 
+                "enddate": "20200324", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
