@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200324", 
+                "urlbase": "/th?id=OHR.RadcliffeCamera_ZH-CN2499323035", 
+                "fullstartdate": "202003241600", 
+                "copyright": "拉德克利夫图书馆，英国牛津 (© Joe Daniel Price/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.RadcliffeCamera_ZH-CN2499323035_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5b9e0bb1524bce8532aa13480b714f66", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200324_RadcliffeCamera%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%8B%89%E5%BE%B7%E5%85%8B%E5%88%A9%E5%A4%AB%E5%9B%BE%E4%B9%A6%E9%A6%86&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200325", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200324", 
+                "urlbase": "/th?id=OHR.SpainBeeEaters_EN-US0011186052", 
+                "fullstartdate": "202003240700", 
+                "copyright": "European bee-eaters in the Extremadura region of Spain (© Martin Demmel/Offset)", 
+                "title": "Springtime in the Mediterranean", 
+                "url": "/th?id=OHR.SpainBeeEaters_EN-US0011186052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1269738160afdbc758ab0f5f69877286", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200324_SpainBeeEaters%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=european+bee+eaters&form=hpcapt&filters=HpDate%3a%2220200324_0700%22", 
+                "wp": true, 
+                "enddate": "20200325", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
