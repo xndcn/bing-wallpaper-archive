@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200327", 
+                "urlbase": "/th?id=OHR.FormentorHolidays_ZH-CN3392936755", 
+                "fullstartdate": "202003271600", 
+                "copyright": "悬崖边的福门托尔角灯塔，西班牙马略卡岛 (© Lasse Eklöf/DEEPOL by plainpicture)", 
+                "title": "", 
+                "url": "/th?id=OHR.FormentorHolidays_ZH-CN3392936755_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0fe6452f6e3c9a3a0ea3a1bbff279c26", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200327_FormentorHolidays%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%A6%8F%E9%97%A8%E6%89%98%E5%B0%94%E8%A7%92%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200328", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200327", 
+                "urlbase": "/th?id=OHR.CharlestonAzaleas_EN-US1112132446", 
+                "fullstartdate": "202003270700", 
+                "copyright": "Azaleas in bloom at Magnolia Plantation and Gardens, Charleston, South Carolina (© Joanne Wells/Danita Delimont)", 
+                "title": "Pretty in pink, and purple, and red…", 
+                "url": "/th?id=OHR.CharlestonAzaleas_EN-US1112132446_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "affea7b6b544ff3e01d7440add55d3c3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200327_CharlestonAzaleas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220200327_0700%22", 
+                "wp": true, 
+                "enddate": "20200328", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
