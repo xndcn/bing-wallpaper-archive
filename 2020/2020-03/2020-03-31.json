@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200330", 
+                "urlbase": "/th?id=OHR.CarrickSpring_ZH-CN7085146237", 
+                "fullstartdate": "202003301600", 
+                "copyright": "连接巴林托伊附近两处悬崖的Carrick-a-Rede索桥，北爱尔兰安特里姆 (© NordicMoonlight/iStock/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.CarrickSpring_ZH-CN7085146237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a3993e74d17f874407cefa4cb707ab90", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200330_CarrickSpring%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Carrick-a-Rede%E7%B4%A2%E6%A1%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200331", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200330", 
+                "urlbase": "/th?id=OHR.GalesnjakIsland_EN-US8495200916", 
+                "fullstartdate": "202003300700", 
+                "copyright": "Aerial view of Galešnjak Island on the Adriatic coast of Croatia (© biggunsband/Shutterstock)", 
+                "title": "Spread some love with Bing", 
+                "url": "/th?id=OHR.GalesnjakIsland_EN-US8495200916_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f4c49c7862c7fa9108bc5616c1ec25d7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200330_GalesnjakIsland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=gale%C5%A1njak&form=hpcapt&filters=HpDate%3a%2220200330_0700%22", 
+                "wp": true, 
+                "enddate": "20200331", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
