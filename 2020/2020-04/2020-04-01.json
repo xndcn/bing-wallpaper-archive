@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200331", 
+                "urlbase": "/th?id=OHR.ShyGuy_ZH-CN7391687938", 
+                "fullstartdate": "202003311600", 
+                "copyright": "马拉克勒国家公园中一只隐身的chia象，南非林波波河 (© Staffan Widstrand/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.ShyGuy_ZH-CN7391687938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3508f1d2b052656f845a254adc1b00ea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200331_ShyGuy%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E6%8B%89%E5%85%8B%E5%8B%92%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200401", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200331", 
+                "urlbase": "/th?id=OHR.TheTwist_EN-US1554358364", 
+                "fullstartdate": "202003310700", 
+                "copyright": "At the Kistefos Museum's sculpture park in Norway, the Twist bridges the Randselva River via a multipurpose walkway (© Laurian Ghinitoiu)", 
+                "title": "What a twist", 
+                "url": "/th?id=OHR.TheTwist_EN-US1554358364_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "12822bc5ba078f9709f4a8e90476d730", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200331_TheTwist%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=kistefos+museum+sculpture+park+norway&form=hpcapt&filters=HpDate%3a%2220200331_0700%22", 
+                "wp": false, 
+                "enddate": "20200401", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
