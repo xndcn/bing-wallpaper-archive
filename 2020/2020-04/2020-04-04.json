@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200403", 
+                "urlbase": "/th?id=OHR.QingmingCandle2020_ZH-CN2729283235", 
+                "fullstartdate": "202004031600", 
+                "copyright": "【今日清明】哀悼为抗击新冠肺炎牺牲的烈士和逝世的同胞 (© Luca Flor/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.QingmingCandle2020_ZH-CN2729283235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c2b42cada7619b9ad53336b86b89dec6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200403_QingmingCandle2020%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B8%85%E6%98%8E%E5%93%80%E6%82%BC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200404", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200403", 
+                "urlbase": "/th?id=OHR.PlaceofRainbows_EN-US1936881347", 
+                "fullstartdate": "202004030700", 
+                "copyright": "Rainbow at Victoria Falls in Zambia (© Dietmar Temps/Shutterstock)", 
+                "title": "The rainbow connection", 
+                "url": "/th?id=OHR.PlaceofRainbows_EN-US1936881347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f05e055ee954bbb144fa2299846b6198", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200403_PlaceofRainbows%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=victoria+falls&form=hpcapt&filters=HpDate%3a%2220200403_0700%22", 
+                "wp": true, 
+                "enddate": "20200404", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
