@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200406", 
+                "urlbase": "/th?id=OHR.PinkMoon_ZH-CN9026483067", 
+                "fullstartdate": "202004061600", 
+                "copyright": "四月的满月从圣迈克尔山上升起，英国康沃尔 (© Simon Maycock/Alamy Live News)", 
+                "title": "", 
+                "url": "/th?id=OHR.PinkMoon_ZH-CN9026483067_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "571d8c115ed49dad56d5f1e678ddeeb1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200406_PinkMoon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E7%B1%B3%E6%AD%87%E5%B0%94%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200407", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200406", 
+                "urlbase": "/th?id=OHR.CastleDay_EN-US2318801501", 
+                "fullstartdate": "202004060700", 
+                "copyright": "Cherry blossoms and Himeji Castle in Himeji, Japan (© Tororo/Getty Images)", 
+                "title": "Castle on a hill", 
+                "url": "/th?id=OHR.CastleDay_EN-US2318801501_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ae711fc3201f869b46295c16b5dde299", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200406_CastleDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=himeji+castle&form=hpcapt&filters=HpDate%3a%2220200406_0700%22", 
+                "wp": true, 
+                "enddate": "20200407", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
