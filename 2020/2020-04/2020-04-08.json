@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200407", 
+                "urlbase": "/th?id=OHR.SantoriniAerial_ZH-CN9367767863", 
+                "fullstartdate": "202004071600", 
+                "copyright": "圣托里尼岛鸟瞰图，希腊 (© Amazing Aerial Agency/Offset)", 
+                "title": "", 
+                "url": "/th?id=OHR.SantoriniAerial_ZH-CN9367767863_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f1986b88dd19fda182d278264364dc3c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200407_SantoriniAerial%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E6%89%98%E9%87%8C%E5%B0%BC%E5%B2%9B%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200408", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200407", 
+                "urlbase": "/th?id=OHR.PinkMoon_EN-US2450317197", 
+                "fullstartdate": "202004070700", 
+                "copyright": "The 2017 April full moon, or pink moon, rises over St. Michael's Mount, Cornwall, England (© Simon Maycock/Alamy Live News)", 
+                "title": "Once in a pink moon", 
+                "url": "/th?id=OHR.PinkMoon_EN-US2450317197_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3cf25b85f796c5d9ad813a432bec6fb2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200407_PinkMoon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=st+michael%27s+mount&FORM=hpcapt&filters=HpDate%3a%2220200407_0700%22", 
+                "wp": true, 
+                "enddate": "20200408", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
