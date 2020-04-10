@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200409", 
+                "urlbase": "/th?id=OHR.SpiritSiblings_ZH-CN7023585837", 
+                "fullstartdate": "202004091600", 
+                "copyright": "大熊雨林中一只柯莫德熊幼崽跟它的同胞挤在一起，加拿大 (© Ian McAllister/Offset)", 
+                "title": "", 
+                "url": "/th?id=OHR.SpiritSiblings_ZH-CN7023585837_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "66b0a274fa528999ffd0710480c8aef7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200409_SpiritSiblings%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%9F%AF%E8%8E%AB%E5%BE%B7%E7%86%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200410", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200409", 
+                "urlbase": "/th?id=OHR.UnicornoftheSea_EN-US2782700254", 
+                "fullstartdate": "202004090700", 
+                "copyright": "A pod of narwhals near Baffin Island, Nunavut, Canada (© Eric Baccega/Minden Pictures)", 
+                "title": "Hooray, hooray, it's Unicorn Day!", 
+                "url": "/th?id=OHR.UnicornoftheSea_EN-US2782700254_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3deee98b241f183eeca7612e79c34cb4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200409_UnicornoftheSea%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=narwhal&form=hpcapt&filters=HpDate%3a%2220200409_0700%22", 
+                "wp": true, 
+                "enddate": "20200410", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
