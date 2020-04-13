@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200412", 
+                "urlbase": "/th?id=OHR.WatChaloem_ZH-CN8722271527", 
+                "fullstartdate": "202004121600", 
+                "copyright": "Wat Chaloem Phra Kiat Phrachomklao Rachanusorn的浮庙，泰国南邦 (© pa_YON/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.WatChaloem_ZH-CN8722271527_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "18cdc6ddb54e8f8bc855b71bbc50ff3c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200412_WatChaloem%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B5%AE%E5%BA%99&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200413", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200412", 
+                "urlbase": "/th?id=OHR.EuropeanRabbitGreeting_EN-US6522640634", 
+                "fullstartdate": "202004120700", 
+                "copyright": "European rabbit kit greeting its parent, France (© Remy Courseaux/Minden Pictures)", 
+                "title": "Who created the Easter Bunny?", 
+                "url": "/th?id=OHR.EuropeanRabbitGreeting_EN-US6522640634_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bd0cb7f3607cac8db6fd0fcb72630ec6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200412_EuropeanRabbitGreeting%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=european+rabbit&form=hpcapt&filters=HpDate%3a%2220200412_0700%22", 
+                "wp": true, 
+                "enddate": "20200413", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
