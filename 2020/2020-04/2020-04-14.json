@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200413", 
+                "urlbase": "/th?id=OHR.BWFlipper_ZH-CN1813139386", 
+                "fullstartdate": "202004131600", 
+                "copyright": "伊斯塔帕海岸的热带斑海豚，墨西哥 (© Christian Vizl/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.BWFlipper_ZH-CN1813139386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b8381f6da75ae67b3581c0ca162718ac", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200413_BWFlipper%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%83%AD%E5%B8%A6%E6%96%91%E6%B5%B7%E8%B1%9A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200414", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200413", 
+                "urlbase": "/th?id=OHR.WatChaloem_EN-US6655091903", 
+                "fullstartdate": "202004130700", 
+                "copyright": "Floating temples of Wat Chaloem Phra Kiat Phrachomklao Rachanusorn in Lampang province, Thailand (© pa_YON/Getty Images)", 
+                "title": "Floating temples in the Land of Smiles", 
+                "url": "/th?id=OHR.WatChaloem_EN-US6655091903_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b45fbff5f729b53e3086833d874a3554", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200413_WatChaloem%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=lampang+province+thailand&form=hpcapt&filters=HpDate%3a%2220200413_0700%22", 
+                "wp": true, 
+                "enddate": "20200414", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
