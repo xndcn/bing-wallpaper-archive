@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200414", 
+                "urlbase": "/th?id=OHR.HimachalFalls_ZH-CN2187203976", 
+                "fullstartdate": "202004141600", 
+                "copyright": "Bhagsu的热带瀑布，印度喜马偕尔邦 (© f9photos/iStock/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.HimachalFalls_ZH-CN2187203976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "208a79097df869a8b777fda7b1894fce", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200414_HimachalFalls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%83%AD%E5%B8%A6%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200415", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200414", 
+                "urlbase": "/th?id=OHR.BWFlipper_EN-US6781394552", 
+                "fullstartdate": "202004140700", 
+                "copyright": "Pantropical spotted dolphins off the coast of Ixtapa, Mexico (© Christian Vizl/Tandem Stills + Motion)", 
+                "title": "A day for the dolphins", 
+                "url": "/th?id=OHR.BWFlipper_EN-US6781394552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "03b9db70c66f86b5550a29a052254a98", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200414_BWFlipper%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=pantropical+spotted+dolphin&form=hpcapt&filters=HpDate%3a%2220200414_0700%22", 
+                "wp": true, 
+                "enddate": "20200415", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
