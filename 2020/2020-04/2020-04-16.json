@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200415", 
+                "urlbase": "/th?id=OHR.NBNMSipapu_ZH-CN2293681419", 
+                "fullstartdate": "202004151600", 
+                "copyright": "天生桥国家保护区中的sipapu桥，犹他州 (© Fyletto/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.NBNMSipapu_ZH-CN2293681419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c597af83821f3cd0f7c3630465a5624e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200415_NBNMSipapu%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=sipapu%E6%A1%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200416", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200415", 
+                "urlbase": "/th?id=OHR.FataMorgana_EN-US6912310006", 
+                "fullstartdate": "202004150700", 
+                "copyright": "Artist Laura Buckley with her mixed-media sculpture 'Fata Morgana,' Saatchi Gallery, London (© Stephen Chung/Alamy)", 
+                "title": "Art and soul", 
+                "url": "/th?id=OHR.FataMorgana_EN-US6912310006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4d1d2f4a79e3c50c22dbca9cce680eea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200415_FataMorgana%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=world+art+day+international+association+of+art&form=hpcapt&filters=HpDate%3a%2220200415_0700%22", 
+                "wp": false, 
+                "enddate": "20200416", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
