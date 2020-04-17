@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200416", 
+                "urlbase": "/th?id=OHR.AlgonquinGrouse_ZH-CN2514966091", 
+                "fullstartdate": "202004161600", 
+                "copyright": "阿尔冈金省立公园中一只正在树枝上休息的披肩鸡 ，加拿大安大略省 (© Jim Cumming/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.AlgonquinGrouse_ZH-CN2514966091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fefcb454a8c48d0bb23f05b2cb550c9b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200416_AlgonquinGrouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%8A%AB%E8%82%A9%E9%B8%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200417", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200416", 
+                "urlbase": "/th?id=OHR.NBNMSipapu_EN-US7081783490", 
+                "fullstartdate": "202004160700", 
+                "copyright": "Sipapu Bridge in Natural Bridges National Monument, Utah (© Fyletto/Getty Images)", 
+                "title": "Bridges to the past", 
+                "url": "/th?id=OHR.NBNMSipapu_EN-US7081783490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8cdc90469e1ef0c68e18da7b868c5c7b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200416_NBNMSipapu%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=natural+bridges+national+monument&form=hpcapt&filters=HpDate%3a%2220200416_0700%22", 
+                "wp": true, 
+                "enddate": "20200417", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
