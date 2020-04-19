@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200418", 
+                "urlbase": "/th?id=OHR.NeistPoint_ZH-CN3115403132", 
+                "fullstartdate": "202004181600", 
+                "copyright": "内斯特角灯塔上空的银河 ，苏格兰斯凯岛 (© Shaiith/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.NeistPoint_ZH-CN3115403132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "dd8eb2974542ff19e50ea43b1e4bfe65", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200418_NeistPoint%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%86%85%E6%96%AF%E7%89%B9%E8%A7%92%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200419", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200418", 
+                "urlbase": "/th?id=OHR.VernalFalls_EN-US7280300409", 
+                "fullstartdate": "202004180700", 
+                "copyright": "Vernal Fall in Yosemite National Park, California (© elvistudio/Shutterstock)", 
+                "title": "National Park Week begins", 
+                "url": "/th?id=OHR.VernalFalls_EN-US7280300409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b7c2a20e3c5de7c1d9b1fead92ac9564", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200418_VernalFalls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=yosemite+national+park&form=hpcapt&filters=HpDate%3a%2220200418_0700%22", 
+                "wp": true, 
+                "enddate": "20200419", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
