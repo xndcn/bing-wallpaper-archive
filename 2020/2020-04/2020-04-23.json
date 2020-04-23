@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200422", 
+                "urlbase": "/th?id=OHR.KingEider_ZH-CN3559595357", 
+                "fullstartdate": "202004221600", 
+                "copyright": "正在游水的雄性王绒鸭，挪威特罗姆斯-芬马克郡 (© Pal Hermansen/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.KingEider_ZH-CN3559595357_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "860ca78348608863cb6870fec00a2d66", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200422_KingEider%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%BB%92%E9%B8%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200423", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200422", 
+                "urlbase": "/th?id=OHR.KauriTree_EN-US7535687512", 
+                "fullstartdate": "202004220700", 
+                "copyright": "Te Matua Ngahere, a giant kauri tree growing in the Waipoua Forest, North Island, New Zealand (© Kim Westerskov/Getty Images)", 
+                "title": "50 years of Earth Day", 
+                "url": "/th?id=OHR.KauriTree_EN-US7535687512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b743511e9806b30229ddd8f8691e79f3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200422_KauriTree%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Te+Matua+Ngahere&form=hpcapt&filters=HpDate%3a%2220200422_0700%22", 
+                "wp": true, 
+                "enddate": "20200423", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
