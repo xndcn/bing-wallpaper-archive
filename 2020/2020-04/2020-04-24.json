@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200423", 
+                "urlbase": "/th?id=OHR.MegellanicCloud_ZH-CN5132305226", 
+                "fullstartdate": "202004231600", 
+                "copyright": "由哈勃太空望远镜拍摄的大麦哲伦星云 (© ESA/Hubble/NASA)", 
+                "title": "", 
+                "url": "/th?id=OHR.MegellanicCloud_ZH-CN5132305226_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b4e20d0a9609ff04429c454d6873db1d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200423_MegellanicCloud%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E9%BA%A6%E5%93%B2%E4%BC%A6%E6%98%9F%E4%BA%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200424", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200423", 
+                "urlbase": "/th?id=OHR.KingEider_EN-US7654847363", 
+                "fullstartdate": "202004230700", 
+                "copyright": "Male king eider ducks swimming in Troms og Finnmark, Norway (© Pal Hermansen/Minden Pictures)", 
+                "title": "Duck, duck. duck, duck, duck...", 
+                "url": "/th?id=OHR.KingEider_EN-US7654847363_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1230d7c181c37bb68f29d5736f70d35f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200423_KingEider%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=king+eider+duck&form=hpcapt&filters=HpDate%3a%2220200423_0700%22", 
+                "wp": true, 
+                "enddate": "20200424", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
