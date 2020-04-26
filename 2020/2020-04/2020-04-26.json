@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200425", 
+                "urlbase": "/th?id=OHR.RubySunset_ZH-CN5544596519", 
+                "fullstartdate": "202004251600", 
+                "copyright": "红宝石海滩的日落，华盛顿州奥林匹克国家公园 (© Adam Mowery/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.RubySunset_ZH-CN5544596519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5788610a9204a73e63ef0a8c6da18be0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200425_RubySunset%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A2%E5%AE%9D%E7%9F%B3%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200426", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200425", 
+                "urlbase": "/th?id=OHR.FalklandRockhoppers_EN-US0783607730", 
+                "fullstartdate": "202004250700", 
+                "copyright": "Southern rockhopper penguins on the Falkland Islands (© Heike Odermatt/Minden Pictures)", 
+                "title": "Rockin' with the rockhoppers", 
+                "url": "/th?id=OHR.FalklandRockhoppers_EN-US0783607730_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "499aafa835d0db528cf1b5e38f03b854", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200425_FalklandRockhoppers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=rockhopper+penguin&form=hpcapt&filters=HpDate%3a%2220200425_0700%22", 
+                "wp": true, 
+                "enddate": "20200426", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
