@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200426", 
+                "urlbase": "/th?id=OHR.SouthAmericanTapir_ZH-CN6151058361", 
+                "fullstartdate": "202004261600", 
+                "copyright": "一只南美貘幼崽小跑着穿过草地 (© Nick Fox/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.SouthAmericanTapir_ZH-CN6151058361_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "31a03fa173527be6a509c4dd60d4fd22", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200426_SouthAmericanTapir%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8D%97%E7%BE%8E%E8%B2%98&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200427", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200426", 
+                "urlbase": "/th?id=OHR.RubySunset_EN-US0913610079", 
+                "fullstartdate": "202004260700", 
+                "copyright": "Sunset at Ruby Beach in Olympic National Park, Washington state (© Adam Mowery/Tandem Stills + Motion)", 
+                "title": "Red skies at Ruby Beach", 
+                "url": "/th?id=OHR.RubySunset_EN-US0913610079_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "da404e03f49f7732ac93e3960ee34964", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200426_RubySunset%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Ruby+Beach+Olympic+National+Park&form=hpcapt&filters=HpDate%3a%2220200426_0700%22", 
+                "wp": true, 
+                "enddate": "20200427", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
