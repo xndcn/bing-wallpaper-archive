@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200427", 
+                "urlbase": "/th?id=OHR.SalisburyCathedral_ZH-CN6366350896", 
+                "fullstartdate": "202004271600", 
+                "copyright": "索尔茲伯里大教堂与放牧的羊群，英格兰 (© Slawek Staszczuk Photo/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.SalisburyCathedral_ZH-CN6366350896_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "262f92eb1748b3ca677db0def16f4202", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200427_SalisburyCathedral%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%B4%A2%E5%B0%94%E8%8C%B2%E4%BC%AF%E9%87%8C%E5%A4%A7%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200428", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200427", 
+                "urlbase": "/th?id=OHR.SouthAmericanTapir_EN-US5286179280", 
+                "fullstartdate": "202004270700", 
+                "copyright": "South American tapir calf trots through the grass (© Nick Fox/Shutterstock)", 
+                "title": "That's quite a schnoz, baby tapir", 
+                "url": "/th?id=OHR.SouthAmericanTapir_EN-US5286179280_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8f6a401301cb42beb926b2765f3ae937", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200427_SouthAmericanTapir%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=south+american+tapir&form=hpcapt&filters=HpDate%3a%2220200427_0700%22", 
+                "wp": true, 
+                "enddate": "20200428", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
