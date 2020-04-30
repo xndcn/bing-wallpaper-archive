@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200429", 
+                "urlbase": "/th?id=OHR.ArcticRedpoll_ZH-CN7968973967", 
+                "fullstartdate": "202004291600", 
+                "copyright": "极北朱顶雀的巢，芬兰拉普兰 (© Maximilian Buzun/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.ArcticRedpoll_ZH-CN7968973967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "337b383840ec68c60604ea07df080341", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200429_ArcticRedpoll%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%9C%B1%E9%A1%B6%E9%9B%80&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200430", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200429", 
+                "urlbase": "/th?id=OHR.PalouseSpring_EN-US5686949948", 
+                "fullstartdate": "202004290700", 
+                "copyright": "A tractor kicks up dust while tilling fields on the Palouse near Pullman, Washington (© Ben Herndon/Tandem Stills + Motion)", 
+                "title": "Spring comes to the Palouse", 
+                "url": "/th?id=OHR.PalouseSpring_EN-US5686949948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "69570ce9d26ec9779c5757e5d4afb0de", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200429_PalouseSpring%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=the+palouse&form=hpcapt&filters=HpDate%3a%2220200429_0700%22", 
+                "wp": true, 
+                "enddate": "20200430", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
