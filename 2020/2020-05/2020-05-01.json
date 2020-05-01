@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200430", 
+                "urlbase": "/th?id=OHR.BurgAltdahn_ZH-CN8281669977", 
+                "fullstartdate": "202004301600", 
+                "copyright": "达恩附近普法尔茨森林中的Altdahn城堡，德国莱茵兰-普法尔茨(Dahn Rockland), Palatinate Forest, Rhineland-Palatinate, Germany (© Reinhard Schmid/Huber/eStock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.BurgAltdahn_ZH-CN8281669977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "de48673d8484c5c4fa27329a613c23af", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200430_BurgAltdahn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Altdahn%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200501", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200430", 
+                "urlbase": "/th?id=OHR.ArcticRedpoll_EN-US5881398714", 
+                "fullstartdate": "202004300700", 
+                "copyright": "Hoary redpoll nest in Lapland, Finland (© Maximilian Buzun/Alamy)", 
+                "title": "What kind of bird laid these eggs?", 
+                "url": "/th?id=OHR.ArcticRedpoll_EN-US5881398714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "75737be4cebdf1e8bc9d4bb07789cd2f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200430_ArcticRedpoll%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=arctic+redpoll&form=hpcapt&filters=HpDate%3a%2220200430_0700%22", 
+                "wp": true, 
+                "enddate": "20200501", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
