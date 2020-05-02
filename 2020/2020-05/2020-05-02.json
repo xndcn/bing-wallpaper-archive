@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200501", 
+                "urlbase": "/th?id=OHR.KasbahRoses_ZH-CN8429310380", 
+                "fullstartdate": "202005011600", 
+                "copyright": "Kalaat M'Gouna的古堡遗址，摩洛哥 (© Leonid Andronov/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.KasbahRoses_ZH-CN8429310380_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d6045c7fb7bd35fdfd108f7f0df9ae72", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200501_KasbahRoses%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Kalaat+M%27Gouna&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200502", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200501", 
+                "urlbase": "/th?id=OHR.KubotaGarden_EN-US5986864816", 
+                "fullstartdate": "202005010700", 
+                "copyright": "Rhododendrons and azaleas blooming around the Moon Bridge, Kubota Garden, Seattle, Washington (© Mary Liz Austin/Alamy)", 
+                "title": "It's Asian Pacific American Heritage Month", 
+                "url": "/th?id=OHR.KubotaGarden_EN-US5986864816_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "16edd24df1a92bdbb3dcf30a36b47b17", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200501_KubotaGarden%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=kubota+garden+seattle&form=hpcapt&filters=HpDate%3a%2220200501_0700%22", 
+                "wp": true, 
+                "enddate": "20200502", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
