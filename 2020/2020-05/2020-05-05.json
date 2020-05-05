@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200504", 
+                "urlbase": "/th?id=OHR.CordovanCourts_ZH-CN8989880218", 
+                "fullstartdate": "202005041600", 
+                "copyright": "正在照看花草的孩子和祖父铜雕，西班牙科尔多瓦 (© David M G/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.CordovanCourts_ZH-CN8989880218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b3e5c9aa3fa139e4a96254e07d6c6d29", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200504_CordovanCourts%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%A7%91%E5%B0%94%E5%A4%9A%E7%93%A6&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200505", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200504", 
+                "urlbase": "/th?id=OHR.LastJedi_EN-US6415775481", 
+                "fullstartdate": "202005040700", 
+                "copyright": "Salar de Uyuni, Bolivia (© Ignacio Palacios/Getty Images)", 
+                "title": "It's Star Wars Day", 
+                "url": "/th?id=OHR.LastJedi_EN-US6415775481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7acf05c245c1f9cb29032b6ac3ab2aaa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200504_LastJedi%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=star+wars+day&form=hpcapt&filters=HpDate%3a%2220200504_0700%22", 
+                "wp": true, 
+                "enddate": "20200505", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
