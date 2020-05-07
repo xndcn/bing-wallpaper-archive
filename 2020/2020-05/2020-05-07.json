@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200506", 
+                "urlbase": "/th?id=OHR.WildflowerWeek_ZH-CN4593499387", 
+                "fullstartdate": "202005061600", 
+                "copyright": "印克斯湖国家公园中的德克萨斯矢车菊，德克萨斯州 (© Inge Johnsson/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.WildflowerWeek_ZH-CN4593499387_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "28d94bf48fbedb294aaa97ddb4a82620", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200506_WildflowerWeek%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%9F%A2%E8%BD%A6%E8%8F%8A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200507", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200506", 
+                "urlbase": "/th?id=OHR.SiegeofCusco_EN-US6660036620", 
+                "fullstartdate": "202005060700", 
+                "copyright": "Inca fortress of Sacsayhuamán near Cusco, Peru (© Susanne Kremer/eStock Photo)", 
+                "title": "The (Inca) empire strikes back", 
+                "url": "/th?id=OHR.SiegeofCusco_EN-US6660036620_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c41d5cb48a5fe0483de7fe48002301d6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200506_SiegeofCusco%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=fortress+of+sacsayhuaman&FORM=hpcapt&filters=HpDate%3a%2220200506_0700%22", 
+                "wp": true, 
+                "enddate": "20200507", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
