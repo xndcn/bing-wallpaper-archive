@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200507", 
+                "urlbase": "/th?id=OHR.AdelaideVineyard_ZH-CN8408417885", 
+                "fullstartdate": "202005071600", 
+                "copyright": "阿德莱德山的葡萄园，澳大利亚 (© Ben Goode/iStock/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.AdelaideVineyard_ZH-CN8408417885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0c1bfd6be3cbcef1d2eb6262fba41c69", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200507_AdelaideVineyard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%BE%B7%E8%8E%B1%E5%BE%B7%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200508", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200507", 
+                "urlbase": "/th?id=OHR.WildflowerWeek_EN-US0188713175", 
+                "fullstartdate": "202005070700", 
+                "copyright": "Bluebonnets growing alongside an old road in the Texas Hill Country (© Inge Johnsson/Alamy)", 
+                "title": "Where the wildflowers grow", 
+                "url": "/th?id=OHR.WildflowerWeek_EN-US0188713175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "871991f3b848b29216e2b7e01940edfe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200507_WildflowerWeek%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=texas+bluebonnets&form=hpcapt&filters=HpDate%3a%2220200507_0700%22", 
+                "wp": true, 
+                "enddate": "20200508", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
