@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200508", 
+                "urlbase": "/th?id=OHR.BarnOwlMigration_ZH-CN8579914070", 
+                "fullstartdate": "202005081600", 
+                "copyright": "一只停在树枝上的仓鸮 (© blickwinkel/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.BarnOwlMigration_ZH-CN8579914070_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "29f93aa777a1f07d7c3acdb5f1e15f63", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200508_BarnOwlMigration%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%BB%93%E9%B8%AE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200509", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200508", 
+                "urlbase": "/th?id=OHR.ChampsVEDay_EN-US3938798120", 
+                "fullstartdate": "202005080700", 
+                "copyright": "People looking at the crowded Avenue des Champs-Élysées from the Arc de Triomphe on May 8, 1945, Paris, France (© AFP via Getty Images)", 
+                "title": "Victory in Europe, 75 years ago", 
+                "url": "/th?id=OHR.ChampsVEDay_EN-US3938798120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4f1a55d590db160171e475a4ed6099c9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200508_ChampsVEDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=ve+day&form=hpcapt&filters=HpDate%3a%2220200508_0700%22", 
+                "wp": false, 
+                "enddate": "20200509", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
