@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200510", 
+                "urlbase": "/th?id=OHR.OldPatriarchTree_ZH-CN8818146190", 
+                "fullstartdate": "202005101600", 
+                "copyright": "大提顿国家公园中的Old Patriarch Tree，怀俄明州 (© George Sanker/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.OldPatriarchTree_ZH-CN8818146190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1cc33aeb88c58f120b2936414b7a162e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200510_OldPatriarchTree%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E6%8F%90%E9%A1%BF%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200511", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200510", 
+                "urlbase": "/th?id=OHR.ZebraMom_EN-US1905224456", 
+                "fullstartdate": "202005100700", 
+                "copyright": "Burchell's zebra mother and foal in Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)", 
+                "title": "Happy Mother's Day", 
+                "url": "/th?id=OHR.ZebraMom_EN-US1905224456_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "be211d3ded993f70f9ae7ea72822bb13", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200510_ZebraMom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mother%27s+day&form=hpcapt&filters=HpDate%3a%2220200510_0700%22", 
+                "wp": true, 
+                "enddate": "20200511", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
