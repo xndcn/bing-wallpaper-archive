@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200513", 
+                "urlbase": "/th?id=OHR.BaliRiceHarvest_ZH-CN9267319542", 
+                "fullstartdate": "202005131600", 
+                "copyright": "以阿贡火山为背景Sidemen山谷中的稻田，印度尼西亚巴厘岛 (© Jon Arnold/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.BaliRiceHarvest_ZH-CN9267319542_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3e37533b8f68abb2de3768b1d15e4abf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200513_BaliRiceHarvest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E8%B4%A1%E7%81%AB%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200514", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200513", 
+                "urlbase": "/th?id=OHR.MooseWatching_EN-US2214823502", 
+                "fullstartdate": "202005130700", 
+                "copyright": "Moose snacking on water lilies in Millinocket, Maine (© Scott Suriano/Getty Images)", 
+                "title": "Of moose and Maine", 
+                "url": "/th?id=OHR.MooseWatching_EN-US2214823502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "329d7b9dfb36c279f1d6ed9a2caeee23", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200513_MooseWatching%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=moose&form=hpcapt&filters=HpDate%3a%2220200513_0700%22", 
+                "wp": true, 
+                "enddate": "20200514", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
