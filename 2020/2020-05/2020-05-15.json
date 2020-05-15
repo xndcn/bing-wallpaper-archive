@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200514", 
+                "urlbase": "/th?id=OHR.NorthRimOpens_ZH-CN9513300299", 
+                "fullstartdate": "202005141600", 
+                "vid": {
+                    "caption": "从Toroweap Overlook俯瞰大峡谷和科罗拉多河，亚利桑那州大峡谷国家公园 (© Matteo Colombo Travel Photo/Shutterstock)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/NorthRim_ENUSFF_1920x1080_ss_23073715_HD_ZH-CN1393701613.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/NorthRim_ENUS_VERTFF_ss_23073715_Mobile_ZH-CN1866649531.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/NorthRim_ENUS_FF_1920x1080_ss_23073715_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/NorthRim_ENUS_FF_1920x1080_ss_23073715_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/NorthRim_ENUS_VERT_ss_23073715_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=%e5%a4%a7%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "从Toroweap Overlook俯瞰大峡谷和科罗拉多河，亚利桑那州大峡谷国家公园 (© Matteo Colombo Travel Photo/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.NorthRimOpens_ZH-CN9513300299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d9e6fdc360677175dbd084248898cf45", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200514_NorthRimOpens%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20200515", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200514", 
+                "urlbase": "/th?id=OHR.BaliRiceHarvest_EN-US2268300291", 
+                "fullstartdate": "202005140700", 
+                "copyright": "Rice fields in the Sidemen Valley, with Mount Agung in the background, Bali, Indonesia (© Jon Arnold/Danita Delimont)", 
+                "title": "Green fields of grain", 
+                "url": "/th?id=OHR.BaliRiceHarvest_EN-US2268300291_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "65eac3ec84c30653ecdffbc4778da3b5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200514_BaliRiceHarvest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mount+agung&form=hpcapt&filters=HpDate%3a%2220200514_0700%22", 
+                "wp": true, 
+                "enddate": "20200515", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
