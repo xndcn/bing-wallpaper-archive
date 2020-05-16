@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200515", 
+                "urlbase": "/th?id=OHR.LacMidi_ZH-CN9682566554", 
+                "fullstartdate": "202005151600", 
+                "copyright": "南奥索峰的Lac d'Ayous小屋，法国 (© Eneko Aldaz/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.LacMidi_ZH-CN9682566554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0b7f824e8817b7352299270903eca5a0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200515_LacMidi%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8D%97%E5%A5%A5%E7%B4%A2%E5%B3%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200516", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200515", 
+                "urlbase": "/th?id=OHR.NorthRimOpens_EN-US8744833658", 
+                "fullstartdate": "202005150700", 
+                "vid": {
+                    "caption": "Grand Canyon and Colorado River from Toroweap Overlook, Grand Canyon National Park, Arizona (© Matteo Colombo Travel Photo/Shutterstock)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/NorthRim_ENUSFF_1920x1080_ss_23073715_HD_EN-US1393701613.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/NorthRim_ENUS_VERTFF_ss_23073715_Mobile_EN-US1866649531.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/NorthRim_ENUS_1920x1080_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/NorthRim_ENUS_1920x1080_HD_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/NorthRim_ENUS_VERT_ss_23073715_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=grand+canyon+north+rim+&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Grand Canyon and Colorado River from Toroweap Overlook, Grand Canyon National Park, Arizona (© Matteo Colombo Travel Photo/Shutterstock)", 
+                "title": "The last thing seen by Wile E. Coyote", 
+                "url": "/th?id=OHR.NorthRimOpens_EN-US8744833658_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a4828fec95ade90d2f309f5b6cb37047", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200515_NorthRimOpens%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=grand+canyon+north+rim+&form=hpcapt&filters=HpDate%3a%2220200515_0700%22", 
+                "wp": false, 
+                "enddate": "20200516", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
