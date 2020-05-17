@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200516", 
+                "urlbase": "/th?id=OHR.LofotenIslands_ZH-CN0114482586", 
+                "fullstartdate": "202005161600", 
+                "copyright": "亨宁斯韦尔渔村的体育场，挪威诺尔兰郡 (© Viktor Posnov/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.LofotenIslands_ZH-CN0114482586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "473d3cb1662969461cafbe542cd8d3da", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200516_LofotenIslands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%BA%A8%E5%AE%81%E6%96%AF%E9%9F%A6%E5%B0%94%E6%B8%94%E6%9D%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200517", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200516", 
+                "urlbase": "/th?id=OHR.ArmedForces_EN-US2469522869", 
+                "fullstartdate": "202005160700", 
+                "copyright": "US Air Force Thunderbirds perform over Hampton, Virginia (© gmeland/Shutterstock)", 
+                "title": "Let's run 'em up!", 
+                "url": "/th?id=OHR.ArmedForces_EN-US2469522869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d625677a6aa08c5ed9f8913d9c0ea3aa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200516_ArmedForces%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=armed+forces+day&form=hpcapt&filters=HpDate%3a%2220200516_0700%22", 
+                "wp": false, 
+                "enddate": "20200517", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
