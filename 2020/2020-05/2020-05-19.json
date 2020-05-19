@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200518", 
+                "urlbase": "/th?id=OHR.RoaringFork_ZH-CN0315142196", 
+                "fullstartdate": "202005181600", 
+                "copyright": "大烟山国家公园中的咆哮溪，田纳西州 (© Paul Hassell/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.RoaringFork_ZH-CN0315142196_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "278fa06dea8251e7db3cb12ead9bef00", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200518_RoaringFork%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E7%83%9F%E5%B1%B1%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200519", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200518", 
+                "urlbase": "/th?id=OHR.QatarMuseum_EN-US2624327100", 
+                "fullstartdate": "202005180700", 
+                "copyright": "National Museum of Qatar in Doha, Qatar (© Hasan Zaidi/Shutterstock)", 
+                "title": "Desert rose of Qatar", 
+                "url": "/th?id=OHR.QatarMuseum_EN-US2624327100_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "05a988942432672c4f5fc9968390ffe6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200518_QatarMuseum%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=national+museum+of+qatar&form=hpcapt&filters=HpDate%3a%2220200518_0700%22", 
+                "wp": false, 
+                "enddate": "20200519", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
