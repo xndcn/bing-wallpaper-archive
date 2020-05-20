@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200519", 
+                "urlbase": "/th?id=OHR.LavenderBee_ZH-CN0499654521", 
+                "fullstartdate": "202005191600", 
+                "copyright": "薰衣草田和蜂箱旁的向日葵地，法国普罗旺斯 (© leoks/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.LavenderBee_ZH-CN0499654521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c459bebd4b931d907b7d4de4fac5fda6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200519_LavenderBee%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200520", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200519", 
+                "urlbase": "/th?id=OHR.RoaringFork_EN-US2762183808", 
+                "fullstartdate": "202005190700", 
+                "copyright": "Roaring Fork in Great Smoky Mountains National Park, Tennessee (© Paul Hassell/Tandem Stills + Motion)", 
+                "title": "Loud waters", 
+                "url": "/th?id=OHR.RoaringFork_EN-US2762183808_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7fd79d3f3ce13d2abab75e1977da4399", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200519_RoaringFork%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=roaring+fork+great+smoky+mountains&form=hpcapt&filters=HpDate%3a%2220200519_0700%22", 
+                "wp": true, 
+                "enddate": "20200520", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
