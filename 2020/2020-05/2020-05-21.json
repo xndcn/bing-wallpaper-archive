@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200520", 
+                "urlbase": "/th?id=OHR.PoppyDeer_ZH-CN8317016056", 
+                "fullstartdate": "202005201600", 
+                "copyright": "罂粟花丛中的欧洲狍 (© Arterra Picture Library/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.PoppyDeer_ZH-CN8317016056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fbe7c75ab6a45341019991e1dcf8d0b6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200520_PoppyDeer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%AC%A7%E6%B4%B2%E7%8B%8D&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200521", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200520", 
+                "urlbase": "/th?id=OHR.LavenderBee_EN-US2922501458", 
+                "fullstartdate": "202005200700", 
+                "copyright": "Fields of lavender and sunflowers with beehives in Provence, France (© leoks/Shutterstock)", 
+                "title": "It's World Bee Day", 
+                "url": "/th?id=OHR.LavenderBee_EN-US2922501458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "be9be45befb553965cf63236f1dc7d2e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200520_LavenderBee%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Beekeeping&form=hpcapt&filters=HpDate%3a%2220200520_0700%22", 
+                "wp": true, 
+                "enddate": "20200521", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
