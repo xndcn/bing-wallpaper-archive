@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200521", 
+                "urlbase": "/th?id=OHR.ReichenbachFalls_ZH-CN7578535270", 
+                "fullstartdate": "202005211600", 
+                "copyright": "莱辛巴赫瀑布，瑞士伯尔尼高地 (© Chris Milne/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.ReichenbachFalls_ZH-CN7578535270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "46267a75e70c53e85884c5e835892a37", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200521_ReichenbachFalls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%8E%B1%E8%BE%9B%E5%B7%B4%E8%B5%AB%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200522", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200521", 
+                "urlbase": "/th?id=OHR.JeffHanson_EN-US3686199488", 
+                "fullstartdate": "202005210700", 
+                "copyright": "‘Strolling the Biltmore,’ a painting by visually impaired artist Jeff Hanson (© Jeff Hanson Art)", 
+                "title": "A visionary artist paints his own garden view", 
+                "url": "/th?id=OHR.JeffHanson_EN-US3686199488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "191dfd982569fa276805c3f594cd34c3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200521_JeffHanson%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=global+accessibility+awareness+day&form=hpcapt&filters=HpDate%3a%2220200521_0700%22", 
+                "wp": false, 
+                "enddate": "20200522", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
