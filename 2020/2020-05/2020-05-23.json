@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200522", 
+                "urlbase": "/th?id=OHR.SunSalutation_ZH-CN7833986255", 
+                "fullstartdate": "202005221600", 
+                "copyright": "一只雄性黄腹彩龟 (© Marko Markovic Photography/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.SunSalutation_ZH-CN7833986255_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2fd74734ac6656c9176ff52aca52bf0c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200522_SunSalutation%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%BB%84%E8%85%B9%E5%BD%A9%E9%BE%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200523", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200522", 
+                "urlbase": "/th?id=OHR.ReichenbachFalls_EN-US9352987746", 
+                "fullstartdate": "202005220700", 
+                "copyright": "Reichenbach Falls, Bernese Oberland, Switzerland (© Chris Milne/Alamy)", 
+                "title": "The scene of a literary crime", 
+                "url": "/th?id=OHR.ReichenbachFalls_EN-US9352987746_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "55bce46b5543868301afad3cfcbaf909", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200522_ReichenbachFalls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=reichenbach+falls&form=hpcapt&filters=HpDate%3a%2220200522_0700%22", 
+                "wp": true, 
+                "enddate": "20200523", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
