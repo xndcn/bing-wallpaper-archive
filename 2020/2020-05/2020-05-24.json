@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200523", 
+                "urlbase": "/th?id=OHR.GreenanMaze_ZH-CN7987019078", 
+                "fullstartdate": "202005231600", 
+                "copyright": "Greenan迷宫，爱尔兰威克洛郡 (© Peter Krocka/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.GreenanMaze_ZH-CN7987019078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ed1a140b2da1cdcd2e22663e83c9bae1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200523_GreenanMaze%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Greenan%E8%BF%B7%E5%AE%AB&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200524", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200523", 
+                "urlbase": "/th?id=OHR.SunSalutation_EN-US2164003866", 
+                "fullstartdate": "202005230700", 
+                "copyright": "A male yellow-bellied slider (© Marko Markovic Photography/Shutterstock)", 
+                "title": "Bask in the glow—It's World Turtle Day", 
+                "url": "/th?id=OHR.SunSalutation_EN-US2164003866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "39e38f328654f43fe84af05842fd8cd6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200523_SunSalutation%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=turtles&form=hpcapt&filters=HpDate%3a%2220200523_0700%22", 
+                "wp": true, 
+                "enddate": "20200524", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
