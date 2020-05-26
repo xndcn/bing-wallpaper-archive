@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200525", 
+                "urlbase": "/th?id=OHR.CheetahCubs_ZH-CN8863575385", 
+                "fullstartdate": "202005251600", 
+                "copyright": "正在爬相思树的猎豹幼崽们，坦桑尼亚恩戈罗恩戈罗保护区 (© Paul Souders/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.CheetahCubs_ZH-CN8863575385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e13646884e601c6c1aea48f468dcb028", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200525_CheetahCubs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%81%A9%E6%88%88%E7%BD%97%E6%81%A9%E6%88%88%E7%BD%97%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200526", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200525", 
+                "urlbase": "/th?id=OHR.FreedomWall_EN-US2277219831", 
+                "fullstartdate": "202005250700", 
+                "copyright": "The Freedom Wall at the World War II Memorial in Washington, DC (© John Roush II/Getty Images)", 
+                "title": "Here we mark the price of freedom", 
+                "url": "/th?id=OHR.FreedomWall_EN-US2277219831_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e2684d114c471c29655730b2d1a11b43", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200525_FreedomWall%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=memorial+day&form=hpcapt&filters=HpDate%3a%2220200525_0700%22", 
+                "wp": true, 
+                "enddate": "20200526", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
