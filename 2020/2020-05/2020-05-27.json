@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200526", 
+                "urlbase": "/th?id=OHR.EvergladesShowers_ZH-CN9209435866", 
+                "fullstartdate": "202005261600", 
+                "copyright": "大沼泽地国家公园鸟瞰图 (© Tetra Images/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.EvergladesShowers_ZH-CN9209435866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "95ebe2c57b60dc4b924b916213219903", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200526_EvergladesShowers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E6%B2%BC%E6%B3%BD%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200527", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200526", 
+                "urlbase": "/th?id=OHR.CheetahCubs_EN-US2332035796", 
+                "fullstartdate": "202005260700", 
+                "copyright": "Cheetah cubs climbing acacia trees in the Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)", 
+                "title": "It's tree-climbing season", 
+                "url": "/th?id=OHR.CheetahCubs_EN-US2332035796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a98b32cbc07a0054a35fca96e8d965aa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200526_CheetahCubs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=cheetah&form=hpcapt&filters=HpDate%3a%2220200526_0700%22", 
+                "wp": true, 
+                "enddate": "20200527", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
