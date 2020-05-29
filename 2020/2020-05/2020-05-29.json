@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200528", 
+                "urlbase": "/th?id=OHR.MarleyBeach_ZH-CN0404372814", 
+                "fullstartdate": "202005281600", 
+                "copyright": "百慕大马利海滩鸟瞰图 (© Paul Zizka/plainpicture)", 
+                "title": "", 
+                "url": "/th?id=OHR.MarleyBeach_ZH-CN0404372814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6f1a74fa321f7e41d9631ae22508774e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200528_MarleyBeach%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%99%BE%E6%85%95%E5%A4%A7%E9%A9%AC%E5%88%A9%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200529", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200528", 
+                "urlbase": "/th?id=OHR.OldManWhiskers_EN-US2440561174", 
+                "fullstartdate": "202005280700", 
+                "copyright": "The long plumes of a three-flowered avens as it goes to seed (© Sunshine Haven Photo/Shutterstock)", 
+                "title": "Old man's whiskers growing wild", 
+                "url": "/th?id=OHR.OldManWhiskers_EN-US2440561174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "abb35080dfb9df360f670c13b9be95fe", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200528_OldManWhiskers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=three+flowered+avens&form=hpcapt&filters=HpDate%3a%2220200528_0700%22", 
+                "wp": true, 
+                "enddate": "20200529", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
