@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200529", 
+                "urlbase": "/th?id=OHR.SantaCruzRiver_ZH-CN0935957996", 
+                "fullstartdate": "202005291600", 
+                "copyright": "圣克鲁斯河，阿根廷巴塔哥尼亚 (© Coolbiere Photograph/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.SantaCruzRiver_ZH-CN0935957996_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a6e1ef9ab683c6b5855e3966104a0e4c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200529_SantaCruzRiver%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E5%85%8B%E9%B2%81%E6%96%AF%E6%B2%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200530", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200529", 
+                "urlbase": "/th?id=OHR.MarleyBeach_EN-US2494809879", 
+                "fullstartdate": "202005290700", 
+                "copyright": "Aerial view of Marley Beach, Bermuda (© Paul Zizka/plainpicture)", 
+                "title": "It's Bermuda's big day", 
+                "url": "/th?id=OHR.MarleyBeach_EN-US2494809879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6ffae8a685f4d3c9e0d11651c40b8de8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200529_MarleyBeach%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Bermuda&form=hpcapt&filters=HpDate%3a%2220200529_0700%22", 
+                "wp": true, 
+                "enddate": "20200530", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
