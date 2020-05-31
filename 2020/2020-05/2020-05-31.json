@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200530", 
+                "urlbase": "/th?id=OHR.WolfPup_ZH-CN1074513906", 
+                "fullstartdate": "202005301600", 
+                "copyright": "同乞食的小狗在一起的灰狼，蒙大拿州 (© Tim Fitzharris/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.WolfPup_ZH-CN1074513906_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f148fd36da4e0dde3464d14e0a6f0b98", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200530_WolfPup%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%81%B0%E7%8B%BC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200531", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200530", 
+                "urlbase": "/th?id=OHR.SantaCruzRiver_EN-US2549480300", 
+                "fullstartdate": "202005300700", 
+                "copyright": "Santa Cruz River, Patagonia, Argentina (© Coolbiere Photograph/Getty Images)", 
+                "title": "Meandering through Patagonia", 
+                "url": "/th?id=OHR.SantaCruzRiver_EN-US2549480300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "81c4d8d62b8535eca453a1d5fd5011e6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200530_SantaCruzRiver%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=santa+cruz+river+argentina&form=hpcapt&filters=HpDate%3a%2220200530_0700%22", 
+                "wp": true, 
+                "enddate": "20200531", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
