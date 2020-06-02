@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200601", 
+                "urlbase": "/th?id=OHR.JasperSunwaptaVideo_ZH-CN1403296497", 
+                "fullstartdate": "202006011600", 
+                "vid": {
+                    "caption": "辛华达瀑布，加拿大贾斯珀国家公园 (© Schroptschop/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/SunwaptaFalls_FF_1920x1080_G_1078430640_HD_ZH-CN1637738701.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/SunwaptaFalls_FF_VERT_G_1078430640_Mobile_ZH-CN1886417994.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SunwaptaFalls_1920x1080_G_1078430640_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SunwaptaFalls_1920x1080_G_1078430640_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SunwaptaFalls_VERT_G_1078430640_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=%e8%be%9b%e5%8d%8e%e8%be%be%e7%80%91%e5%b8%83&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "辛华达瀑布，加拿大贾斯珀国家公园 (© Schroptschop/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.JasperSunwaptaVideo_ZH-CN1403296497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "64961f8fe7da0e90780d43354c60a0f6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200601_JasperSunwaptaVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%BE%9B%E5%8D%8E%E8%BE%BE%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20200602", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200601", 
+                "urlbase": "/th?id=OHR.GreatReefDay_EN-US2641694661", 
+                "fullstartdate": "202006010700", 
+                "copyright": "Great Barrier Reef, Queensland, Australia (© AWL Images/Danita Delimont)", 
+                "title": "The largest living organism on Earth", 
+                "url": "/th?id=OHR.GreatReefDay_EN-US2641694661_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "64e57661cf3d9108d9c3b31e78d4e535", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200601_GreatReefDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=great+barrier+reef&form=hpcapt&filters=HpDate%3a%2220200601_0700%22", 
+                "wp": true, 
+                "enddate": "20200602", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
