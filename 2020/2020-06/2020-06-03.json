@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200602", 
+                "urlbase": "/th?id=OHR.WhiteRimTrail_ZH-CN1574735777", 
+                "fullstartdate": "202006021600", 
+                "copyright": "两名山地车骑手在白缘公路上沿着谢福小道的转弯处骑行 ，犹他州峡谷地国家公园 (© Grant Ordelheide/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.WhiteRimTrail_ZH-CN1574735777_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e6a819d5c93d9a1ca1158e442a6e2e36", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200602_WhiteRimTrail%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B3%A1%E8%B0%B7%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200603", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200602", 
+                "urlbase": "/th?id=OHR.JasperSunwaptaVideo_EN-US2681411311", 
+                "fullstartdate": "202006020700", 
+                "vid": {
+                    "caption": "Sunwapta Falls in Jasper National Park, Alberta, Canada (© Schroptschop/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/SunwaptaFalls_FF_1920x1080_G_1078430640_HD_EN-US1637738701.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/SunwaptaFalls_FF_VERT_G_1078430640_Mobile_EN-US1886417994.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SunwaptaFalls_1920x1080_G_1078430640_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SunwaptaFalls_1920x1080_G_1078430640_HD_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SunwaptaFalls_VERT_G_1078430640_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=sunwapta+falls&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Sunwapta Falls in Jasper National Park, Canada (© Schroptschop/Getty Images)", 
+                "title": "Falling for the Canadian Rockies", 
+                "url": "/th?id=OHR.JasperSunwaptaVideo_EN-US2681411311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8670fec870e4f0c625ec089eb85a6809", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200602_JasperSunwaptaVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=sunwapta+falls&form=hpcapt&filters=HpDate%3a%2220200602_0700%22", 
+                "wp": false, 
+                "enddate": "20200603", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
