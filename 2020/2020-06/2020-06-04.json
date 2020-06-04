@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200603", 
+                "urlbase": "/th?id=OHR.PontFawr_ZH-CN1780190468", 
+                "fullstartdate": "202006031600", 
+                "copyright": "兰鲁斯特一座名为Pont Fawr的石拱桥，英国威尔士 (© Pajor Pawel/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.PontFawr_ZH-CN1780190468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "81964e143bb9618a52e6aca6a17623cd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200603_PontFawr%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Pont+Fawr&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200604", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200603", 
+                "urlbase": "/th?id=OHR.WhiteRimTrail_EN-US2749200524", 
+                "fullstartdate": "202006030700", 
+                "copyright": "Mountain bikers on White Rim Road in Canyonlands National Park, Utah (© Grant Ordelheide/Tandem Stills + Motion)", 
+                "title": "For the love of bikes", 
+                "url": "/th?id=OHR.WhiteRimTrail_EN-US2749200524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e1894266332b512c5b76f822b807ffbc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200603_WhiteRimTrail%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=world+bicycle+day&form=hpcapt&filters=HpDate%3a%2220200603_0700%22", 
+                "wp": true, 
+                "enddate": "20200604", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
