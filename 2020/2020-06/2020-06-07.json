@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200606", 
+                "urlbase": "/th?id=OHR.LaPertusa_ZH-CN7227946330", 
+                "fullstartdate": "202006061600", 
+                "copyright": "La Pertusa教堂，西班牙莱里达 (© bbsferrari/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.LaPertusa_ZH-CN7227946330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8e7fc0d19c6744cf16569626d29a787f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200606_LaPertusa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=La+Pertusa%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200607", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200606", 
+                "urlbase": "/th?id=OHR.WaltersWiggles_EN-US1214099965", 
+                "fullstartdate": "202006060700", 
+                "copyright": "Walter's Wiggles on the Angels Landing Trail in Zion National Park, Utah (© Dennis Frates/Alamy)", 
+                "title": "The long and wiggling path", 
+                "url": "/th?id=OHR.WaltersWiggles_EN-US1214099965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8205633db72531af79b623417f055c7a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200606_WaltersWiggles%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=zion+national+park&form=hpcapt&filters=HpDate%3a%2220200606_0700%22", 
+                "wp": true, 
+                "enddate": "20200607", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
