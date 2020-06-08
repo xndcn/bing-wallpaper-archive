@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200607", 
+                "urlbase": "/th?id=OHR.LionSurfing_ZH-CN7369892268", 
+                "fullstartdate": "202006071600", 
+                "copyright": "费尔南迪纳岛海岸的加拉帕戈斯海狮，厄瓜多尔科隆群岛 (© Tui De Roy/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.LionSurfing_ZH-CN7369892268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "13cce8562935a5d6263073aa2044fe1b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200607_LionSurfing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8A%A0%E6%8B%89%E5%B8%95%E6%88%88%E6%96%AF%E6%B5%B7%E7%8B%AE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200608", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200607", 
+                "urlbase": "/th?id=OHR.LaPertusa_EN-US1363532007", 
+                "fullstartdate": "202006070700", 
+                "copyright": "Hermitage of La Pertusa, Lleida province, Spain (© bbsferrari/Getty Images)", 
+                "title": "A hermitage with a view", 
+                "url": "/th?id=OHR.LaPertusa_EN-US1363532007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "babde24583946c87f766c4702072cfc9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200607_LaPertusa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=province+of+lleida+spain&form=hpcapt&filters=HpDate%3a%2220200607_0700%22", 
+                "wp": true, 
+                "enddate": "20200608", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
