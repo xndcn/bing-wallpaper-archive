@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200608", 
+                "urlbase": "/th?id=OHR.BaronLakes_ZH-CN7541190370", 
+                "fullstartdate": "202006081600", 
+                "copyright": "锯齿原野中的Baron湖，爱达荷州 (© Patrick Brandenburg/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.BaronLakes_ZH-CN7541190370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "09b76ae4612eabb445fc330a5dff5a34", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200608_BaronLakes%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%94%AF%E9%BD%BF%E5%8E%9F%E9%87%8E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200609", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200608", 
+                "urlbase": "/th?id=OHR.LionSurfing_EN-US1478093197", 
+                "fullstartdate": "202006080700", 
+                "copyright": "Galápagos sea lion off the shore of Fernandina Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)", 
+                "title": "A day for the oceans", 
+                "url": "/th?id=OHR.LionSurfing_EN-US1478093197_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "51197e97c0e4fa3fe18c87cab81b5e3b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200608_LionSurfing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=world+oceans+day&form=hpcapt&filters=HpDate%3a%2220200608_0700%22", 
+                "wp": true, 
+                "enddate": "20200609", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
