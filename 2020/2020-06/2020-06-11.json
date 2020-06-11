@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200610", 
+                "urlbase": "/th?id=OHR.GriboyedovCanal_ZH-CN7887366015", 
+                "fullstartdate": "202006101600", 
+                "copyright": "格里博耶多夫运河和滴血救世主教堂，俄罗斯圣彼得堡 (© Tomas Sereda/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.GriboyedovCanal_ZH-CN7887366015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2a16f899d565e1c0e38e4c93f88d6250", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200610_GriboyedovCanal%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%BB%B4%E8%A1%80%E6%95%91%E4%B8%96%E4%B8%BB%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200611", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200610", 
+                "urlbase": "/th?id=OHR.WobblyBridge_EN-US1661773056", 
+                "fullstartdate": "202006100700", 
+                "copyright": "Millennium Bridge with St. Paul's Cathedral in the background, London, England (© Scott Baldock/Getty Images)", 
+                "title": "The Millennium at 20", 
+                "url": "/th?id=OHR.WobblyBridge_EN-US1661773056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "428a2bdb0619d1937b2c6051b6e68b1f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200610_WobblyBridge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=millennium+bridge+london&form=hpcapt&filters=HpDate%3a%2220200610_0700%22", 
+                "wp": true, 
+                "enddate": "20200611", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
