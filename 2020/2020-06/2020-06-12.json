@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200611", 
+                "urlbase": "/th?id=OHR.SantaElena_ZH-CN8036210800", 
+                "fullstartdate": "202006111600", 
+                "copyright": "银河下的圣埃伦娜峡谷，德克萨斯州大弯国家公园 (© Stanley Ford/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.SantaElena_ZH-CN8036210800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e43aa307b823310396f23e0dd3859ca3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200611_SantaElena%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E5%9F%83%E4%BC%A6%E5%A8%9C%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200612", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200611", 
+                "urlbase": "/th?id=OHR.GriboyedovCanal_EN-US1698534243", 
+                "fullstartdate": "202006110700", 
+                "copyright": "Griboyedov Canal and the Church of the Savior on Spilled Blood in Saint Petersburg, Russia (© Tomas Sereda/Getty Images)", 
+                "title": "A midsummer twilight's dream", 
+                "url": "/th?id=OHR.GriboyedovCanal_EN-US1698534243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d83f91e67c8675baadd48e9a621892f1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200611_GriboyedovCanal%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=saint+petersburg+russia&form=hpcapt&filters=HpDate%3a%2220200611_0700%22", 
+                "wp": true, 
+                "enddate": "20200612", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
