@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200612", 
+                "urlbase": "/th?id=OHR.GrandsCausses_ZH-CN8463022683", 
+                "fullstartdate": "202006121600", 
+                "copyright": "杜尔比河峡谷中的Moulin de Corp和小桥，法国Grands Causses自然公园 (© Hemis/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.GrandsCausses_ZH-CN8463022683_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9e3df6fd54c389ca68053ed806bd8c37", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200612_GrandsCausses%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%9D%9C%E5%B0%94%E6%AF%94%E6%B2%B3%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200613", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200612", 
+                "urlbase": "/th?id=OHR.SantaElena_EN-US1850505356", 
+                "fullstartdate": "202006120700", 
+                "copyright": "Santa Elena Canyon under the Milky Way in Big Bend National Park, Texas (© Stanley Ford/Shutterstock)", 
+                "title": "Big sky at Big Bend", 
+                "url": "/th?id=OHR.SantaElena_EN-US1850505356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9b6aed4f4f488785dcf6d8165def850a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200612_SantaElena%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Big+Bend+National+Park&form=hpcapt&filters=HpDate%3a%2220200612_0700%22", 
+                "wp": true, 
+                "enddate": "20200613", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
