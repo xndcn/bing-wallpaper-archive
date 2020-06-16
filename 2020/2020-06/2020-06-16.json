@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200615", 
+                "urlbase": "/th?id=OHR.StStephens_ZH-CN9373191410", 
+                "fullstartdate": "202006151600", 
+                "copyright": "都柏林的圣斯蒂芬绿地，爱尔兰 (© L_E/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.StStephens_ZH-CN9373191410_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d15968506de9906e97abd91303df5d6b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200615_StStephens%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E6%96%AF%E8%92%82%E8%8A%AC%E7%BB%BF%E5%9C%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200616", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200615", 
+                "urlbase": "/th?id=OHR.SurfSeason_EN-US9920705587", 
+                "fullstartdate": "202006150700", 
+                "copyright": "Surfer on the beach in Medewi, Bali, Indonesia (© helivideo/Getty Images)", 
+                "title": "Surfer's paradise", 
+                "url": "/th?id=OHR.SurfSeason_EN-US9920705587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cac032fafd6883816f80cef34b8e881d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200615_SurfSeason%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=surfing+in+bali&form=hpcapt&filters=HpDate%3a%2220200615_0700%22", 
+                "wp": true, 
+                "enddate": "20200616", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
