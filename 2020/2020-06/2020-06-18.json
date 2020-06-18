@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200617", 
+                "urlbase": "/th?id=OHR.JabiruStork_ZH-CN0218761234", 
+                "fullstartdate": "202006171600", 
+                "copyright": "潘塔纳尔湿地中的裸颈鹳，巴西 (© Juan-Carlos Munoz/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.JabiruStork_ZH-CN0218761234_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "70ad86b488f67f304ea280d37931ed75", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200617_JabiruStork%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%A3%B8%E9%A2%88%E9%B9%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200618", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200617", 
+                "urlbase": "/th?id=OHR.Havasupai_EN-US2235201551", 
+                "fullstartdate": "202006170700", 
+                "copyright": "Beaver Falls on Havasu Creek in the Grand Canyon, Arizona (© Edwin Verin/Alamy)", 
+                "title": "Don't go chasing waterfalls", 
+                "url": "/th?id=OHR.Havasupai_EN-US2235201551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5968e535ed525979a3b76a573d90e842", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200617_Havasupai%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=beaver+falls+havasu+creek&form=hpcapt&filters=HpDate%3a%2220200617_0700%22", 
+                "wp": true, 
+                "enddate": "20200618", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
