@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200620", 
+                "urlbase": "/th?id=OHR.BeardedTamarin_ZH-CN0250190365", 
+                "fullstartdate": "202006201600", 
+                "copyright": "一只带着幼崽的长胡子皇狨猴 (© Chris White/iStock/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.BeardedTamarin_ZH-CN0250190365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "84cfa65185d7a1bd123bf78cf2ba1954", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200620_BeardedTamarin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%9A%87%E7%8B%A8%E7%8C%B4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200621", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200620", 
+                "urlbase": "/th?id=OHR.BeyondWalls_EN-US5534533148", 
+                "fullstartdate": "202006200700", 
+                "copyright": "Artist Saype's 'Beyond Walls' installation in the Parc de la Grange, Geneva, Switzerland (© Valentin Flauraud/Shutterstock)", 
+                "title": "'Beyond Walls' for World Refugee Day", 
+                "url": "/th?id=OHR.BeyondWalls_EN-US5534533148_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8798122f7fdd3bb789148170a8534a97", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200620_BeyondWalls%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=world+refugee+day&form=hpcapt&filters=HpDate%3a%2220200620_0700%22", 
+                "wp": false, 
+                "enddate": "20200621", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
