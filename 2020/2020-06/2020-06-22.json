@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200621", 
+                "urlbase": "/th?id=OHR.SouthernSunbird_ZH-CN0426670987", 
+                "fullstartdate": "202006211600", 
+                "copyright": "伯斯国家植物园针垫花上的一只雄性南方双领太阳鸟，南非开普敦 (© Martin Willis/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.SouthernSunbird_ZH-CN0426670987_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "81bda01e297045e597dff305704147e5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200621_SouthernSunbird%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%AA%E9%98%B3%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200622", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200621", 
+                "urlbase": "/th?id=OHR.HierapolisTurkey_EN-US8458061534", 
+                "fullstartdate": "202006210700", 
+                "copyright": "Aerial view of the theater at the ancient city of Hierapolis, adjacent to Pamukkale, Turkey (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "Take in a show on your Roman holiday", 
+                "url": "/th?id=OHR.HierapolisTurkey_EN-US8458061534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c7641736b4be8c40156b2426622c879f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200621_HierapolisTurkey%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=hierapolis+turkey&form=hpcapt&filters=HpDate%3a%2220200621_0700%22", 
+                "wp": true, 
+                "enddate": "20200622", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
