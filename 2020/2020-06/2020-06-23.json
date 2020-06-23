@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200622", 
+                "urlbase": "/th?id=OHR.BullPoint_ZH-CN0520993795", 
+                "fullstartdate": "202006221600", 
+                "copyright": "公牛角，英国德文郡 (© Robert Harding World Imagery/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.BullPoint_ZH-CN0520993795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "efcfafc137da98e494b77c4ab0b80db5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200622_BullPoint%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%85%AC%E7%89%9B%E8%A7%92&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200623", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200622", 
+                "urlbase": "/th?id=OHR.SouthernSunbird_EN-US5701754937", 
+                "fullstartdate": "202006220700", 
+                "copyright": "Male southern double-collared sunbird on a rocket pincushion flower, Cape Town, South Africa (© Martin Willis/Minden Pictures)", 
+                "title": "Pollinators: not to be sneezed at", 
+                "url": "/th?id=OHR.SouthernSunbird_EN-US5701754937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e5d3d5c84cad25eae1d5d492c0a52a6b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200622_SouthernSunbird%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=southern+double-collared+sunbird&form=hpcapt&filters=HpDate%3a%2220200622_0700%22", 
+                "wp": true, 
+                "enddate": "20200623", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
