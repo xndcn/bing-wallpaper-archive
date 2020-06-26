@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200625", 
+                "urlbase": "/th?id=OHR.AdansoniaGrandidieri_ZH-CN1154912052", 
+                "fullstartdate": "202006251600", 
+                "copyright": "穆龙达瓦附近的格兰迪尔猴面包树林，马达加斯加 (© Thomas Marent/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.AdansoniaGrandidieri_ZH-CN1154912052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "57ec87b07836c7ffa447150d6505cc5c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200625_AdansoniaGrandidieri%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A0%BC%E5%85%B0%E8%BF%AA%E5%B0%94%E7%8C%B4%E9%9D%A2%E5%8C%85%E6%A0%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200626", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200625", 
+                "urlbase": "/th?id=OHR.GorchFock_EN-US6157323134", 
+                "fullstartdate": "202006250700", 
+                "copyright": "German navy tall ship Gorch Fock in waters off Reykjavík, Iceland (© DEEPOL by plainpicture/Henn Photography)", 
+                "title": "Hoisting a flag for seafarers", 
+                "url": "/th?id=OHR.GorchFock_EN-US6157323134_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2695c1a74926459042981a9e8426c5da", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200625_GorchFock%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=gorch+fock+1958&form=hpcapt&filters=HpDate%3a%2220200625_0700%22", 
+                "wp": true, 
+                "enddate": "20200626", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
