@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200626", 
+                "urlbase": "/th?id=OHR.MtBaldoSantuario_ZH-CN2301293454", 
+                "fullstartdate": "202006261600", 
+                "copyright": "Madonna della Corona教堂，意大利 (© Volodymyr Kalyniuk/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.MtBaldoSantuario_ZH-CN2301293454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bb6983ee6f9b4f7a6c52593989322afa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200626_MtBaldoSantuario%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Madonna+della+Corona%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200627", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200626", 
+                "urlbase": "/th?id=OHR.AdansoniaGrandidieri_EN-US6269745972", 
+                "fullstartdate": "202006260700", 
+                "copyright": "Grandidier's baobab forest near Morondava, Madagascar (© Thomas Marent/Minden Pictures)", 
+                "title": "Beautiful baobabs", 
+                "url": "/th?id=OHR.AdansoniaGrandidieri_EN-US6269745972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0234dc503a834bc906611c5901f664f1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200626_AdansoniaGrandidieri%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=madagascar+independence+day&form=hpcapt&filters=HpDate%3a%2220200626_0700%22", 
+                "wp": true, 
+                "enddate": "20200627", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
