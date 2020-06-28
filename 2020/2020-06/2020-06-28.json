@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200627", 
+                "urlbase": "/th?id=OHR.FoggyCastle_ZH-CN6799694629", 
+                "fullstartdate": "202006271600", 
+                "copyright": "雾中的卡斯特诺城堡，法国佩里戈尔 (© Infografick/iStock/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.FoggyCastle_ZH-CN6799694629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "57cdc93c46d865466bb2c1edc694a3f4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200627_FoggyCastle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8D%A1%E6%96%AF%E7%89%B9%E8%AF%BA%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200628", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200627", 
+                "urlbase": "/th?id=OHR.MtBaldoSantuario_EN-US6460114986", 
+                "fullstartdate": "202006270700", 
+                "copyright": "The Sanctuary of Madonna della Corona in Italy (© Volodymyr Kalyniuk/Alamy)", 
+                "title": "Looking for peace on the precipice", 
+                "url": "/th?id=OHR.MtBaldoSantuario_EN-US6460114986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3173b8d04c850d8638f9c5a2883d01ec", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200627_MtBaldoSantuario%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Santuario+Madonna+della+Corona&form=hpcapt&filters=HpDate%3a%2220200627_0700%22", 
+                "wp": true, 
+                "enddate": "20200628", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
