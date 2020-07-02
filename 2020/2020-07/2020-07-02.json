@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200701", 
+                "urlbase": "/th?id=OHR.HierapolisTurkey_ZH-CN6067183569", 
+                "fullstartdate": "202007011600", 
+                "copyright": "土耳其棉花堡附近希腊古城希拉波利斯的剧院鸟瞰图 (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.HierapolisTurkey_ZH-CN6067183569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e3a8aff67286027c3426e2811928bfa0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200701_HierapolisTurkey%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B8%8C%E6%8B%89%E6%B3%A2%E5%88%A9%E6%96%AF&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200702", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200701", 
+                "urlbase": "/th?id=OHR.LakeMoraineVideo_EN-US7436901799", 
+                "fullstartdate": "202007010700", 
+                "vid": {
+                    "caption": "Time-lapse video of Moraine Lake in Banff National Park, Alberta, Canada (© Schroptschop/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/CanadaDay_1920x1080_FF_G_1078467500_HD_EN-US656570165.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/CanadaDay_Vert_G_1078467500_Mobile_EN-US985399490.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/CanadaDay_1920x1080_G_1078467500_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/CanadaDay_1920x1080_G_1078467500_HD_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/CanadaDay_Vert_G_1078467500_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=moraine+lake+banff&FORM=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Moraine Lake in Banff National Park, Alberta, Canada (© Schroptschop/Getty Images)", 
+                "title": "Canada's $20 view", 
+                "url": "/th?id=OHR.LakeMoraineVideo_EN-US7436901799_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1151273dd654a4b172812c31226b441e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200701_LakeMoraineVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=moraine+lake+banff&FORM=hpcapt&filters=HpDate%3a%2220200701_0700%22", 
+                "wp": false, 
+                "enddate": "20200702", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
