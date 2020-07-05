@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200704", 
+                "urlbase": "/th?id=OHR.NantucketIsland_ZH-CN8295645754", 
+                "fullstartdate": "202007041600", 
+                "copyright": "楠塔基特岛大点灯塔，麻萨诸塞州 (© Cate Brown/Cavan Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.NantucketIsland_ZH-CN8295645754_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "920930d5c39da28f6a1ca50cb6a62119", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200704_NantucketIsland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A5%A0%E5%A1%94%E5%9F%BA%E7%89%B9%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200705", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200704", 
+                "urlbase": "/th?id=OHR.DCFireworksVideo_EN-US7892229177", 
+                "fullstartdate": "202007040700", 
+                "vid": {
+                    "caption": "Independence Day fireworks over the National Mall, Washington, DC (© Robert Brown/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/IndependenceDay20_FF_G_953188720_HD_EN-US216642986.jpg", 
+                    "audiopresent": true, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/IndependenceDay20_VERTFF_G_953188720_Mobile_EN-US1086560914.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/IndependenceDay20_1920_G_953188720_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/IndependenceDay20_1920_G_953188720_HD_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/IndependenceDay20_VERT_G_953188720_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=fourth+of+july&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Independence Day fireworks over the National Mall, Washington, DC (© Jon Bilous/Shutterstock)", 
+                "title": "Happy Independence Day!", 
+                "url": "/th?id=OHR.DCFireworksVideo_EN-US7892229177_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1934e6fda198431449518963eb8b6b87", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200704_DCFireworksVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=fourth+of+july&form=hpcapt&filters=HpDate%3a%2220200704_0700%22", 
+                "wp": false, 
+                "enddate": "20200705", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
