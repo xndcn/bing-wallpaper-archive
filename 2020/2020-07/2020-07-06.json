@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200705", 
+                "urlbase": "/th?id=OHR.Kamchatka_ZH-CN8647931935", 
+                "fullstartdate": "202007051600", 
+                "copyright": "堪察加半岛上的扎尔巴奇克火山，俄罗斯 (© Egor Vlasov/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.Kamchatka_ZH-CN8647931935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "777bf346388ddc0ccec8ded6a048c5c7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200705_Kamchatka%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%89%8E%E5%B0%94%E5%B7%B4%E5%A5%87%E5%85%8B%E7%81%AB%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200706", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200705", 
+                "urlbase": "/th?id=OHR.NantucketIsland_EN-US7343633791", 
+                "fullstartdate": "202007050700", 
+                "copyright": "Great Point Light on Nantucket Island, Massachusetts (© Cate Brown/Cavan Images)", 
+                "title": "There once was a lighthouse from...", 
+                "url": "/th?id=OHR.NantucketIsland_EN-US7343633791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "eb686366ba49c652b05d284a8aac1047", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200705_NantucketIsland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=great+point+light+on+nantucket+island&form=hpcapt&filters=HpDate%3a%2220200705_0700%22", 
+                "wp": true, 
+                "enddate": "20200706", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
