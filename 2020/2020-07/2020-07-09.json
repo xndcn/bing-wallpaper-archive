@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200708", 
+                "urlbase": "/th?id=OHR.ColoradoColumbine_ZH-CN0901580141", 
+                "fullstartdate": "202007081600", 
+                "copyright": "位于科罗拉多南部圣胡安山脉的美国盆地 (© Blaine Harrington III/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.ColoradoColumbine_ZH-CN0901580141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2bca1e176b879f5b4839ac7c88b32392", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200708_ColoradoColumbine%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E8%83%A1%E5%AE%89%E5%B1%B1%E8%84%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200709", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200708", 
+                "urlbase": "/th?id=OHR.NorfolkPups_EN-US8929436581", 
+                "fullstartdate": "202007080700", 
+                "copyright": "Gray seal pup resting on a beach in Blakeney National Nature Reserve, England (© Kevin Sawford/Getty Images)", 
+                "title": "It's only Wednesday", 
+                "url": "/th?id=OHR.NorfolkPups_EN-US8929436581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1b9cd2170a1b9e11b3ee108da6e45e22", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200708_NorfolkPups%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=grey+seal&form=hpcapt&filters=HpDate%3a%2220200708_0700%22", 
+                "wp": true, 
+                "enddate": "20200709", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
