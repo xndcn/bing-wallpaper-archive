@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200711", 
+                "urlbase": "/th?id=OHR.WaterRipplesVideo_ZH-CN8790763092", 
+                "fullstartdate": "202007111600", 
+                "vid": {
+                    "caption": "埃热泽尔斯湖面上的波纹，拉脱维亚拉特加尔地区 (© Eaglewood Films/Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/WaterRipples_FF_N_425392_HD_ZH-CN86977449.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/WaterRipples_FFVERT_N_425392_Mobile_ZH-CN1998789305.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/WaterRipples_1920_N_425392_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/WaterRipples_1920_N_425392_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/WaterRipples_VERT_N_425392_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=%e5%9f%83%e7%83%ad%e6%b3%bd%e5%b0%94%e6%96%af%e6%b9%96&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "埃热泽尔斯湖面上的波纹，拉脱维亚拉特加尔地区 (© Eaglewood Films/Nimia)", 
+                "title": "", 
+                "url": "/th?id=OHR.WaterRipplesVideo_ZH-CN8790763092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8156d11746d55d561fd662d98f1f0743", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200711_WaterRipplesVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9F%83%E7%83%AD%E6%B3%BD%E5%B0%94%E6%96%AF%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20200712", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200711", 
+                "urlbase": "/th?id=OHR.MangroveForest_EN-US9309815352", 
+                "fullstartdate": "202007110700", 
+                "copyright": "Bàu Cá Cái mangrove forest in Quảng Ngãi province, Vietnam (© Robert Harding World Imagery/Offset)", 
+                "title": "How Quảng Ngãi got its grove back", 
+                "url": "/th?id=OHR.MangroveForest_EN-US9309815352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b8f61e7a78339764e60923c27f587c0d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200711_MangroveForest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mangrove&form=hpcapt&filters=HpDate%3a%2220200711_0700%22", 
+                "wp": true, 
+                "enddate": "20200712", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
