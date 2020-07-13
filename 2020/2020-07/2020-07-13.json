@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200712", 
+                "urlbase": "/th?id=OHR.SunnyRainforest_ZH-CN1412617420", 
+                "fullstartdate": "202007121600", 
+                "copyright": "奥林匹克国家公园中的可可西里雨林，华盛顿州 (© Jorge Romano/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.SunnyRainforest_ZH-CN1412617420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e037a3dc2def08a891b41f208172e90a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200712_SunnyRainforest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E9%9B%A8%E6%9E%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200713", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200712", 
+                "urlbase": "/th?id=OHR.WaterRipplesVideo_EN-US9458788251", 
+                "fullstartdate": "202007120700", 
+                "vid": {
+                    "caption": "Water ripples on the surface of Ežezers Lake in the Latgale region, Latvia (© Eaglewood Films/Nimia)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/WaterRipples_FF_N_425392_HD_EN-US86977449.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/WaterRipples_FFVERT_N_425392_Mobile_EN-US1998789305.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/WaterRipples_1920_N_425392_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/WaterRipples_1920_N_425392_HD_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/WaterRipples_VERT_N_425392_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=national+simplicity+day&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Ežezers Lake in the Latgale region, Latvia (© Eaglewood Films/Nimia)", 
+                "title": "A day to take a moment", 
+                "url": "/th?id=OHR.WaterRipplesVideo_EN-US9458788251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c49cd5aa7ae3babfd52ee2caab0bc210", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200712_WaterRipplesVideo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=national+simplicity+day&form=hpcapt&filters=HpDate%3a%2220200712_0700%22", 
+                "wp": false, 
+                "enddate": "20200713", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
