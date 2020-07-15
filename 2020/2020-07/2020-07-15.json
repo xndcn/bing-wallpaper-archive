@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200714", 
+                "urlbase": "/th?id=OHR.WinchesterCrypt_ZH-CN1683778044", 
+                "fullstartdate": "202007141600", 
+                "copyright": "被洪水淹没的温彻斯特大教堂地下室，英国汉普郡 (© Oliver Hoffmann/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.WinchesterCrypt_ZH-CN1683778044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ff63cc2e1499bee0183732e0144312e8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200714_WinchesterCrypt%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B8%A9%E5%BD%BB%E6%96%AF%E7%89%B9%E5%A4%A7%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200715", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200714", 
+                "urlbase": "/th?id=OHR.PantheonParis_EN-US9910328355", 
+                "fullstartdate": "202007140700", 
+                "copyright": "The Panthéon in Paris, France (© manjik/Shutterstock)", 
+                "title": "Under Parisian skies", 
+                "url": "/th?id=OHR.PantheonParis_EN-US9910328355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2b293907cfcc4d5ad5efb925bb65cbaa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200714_PantheonParis%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=bastille+day&form=hpcapt&filters=HpDate%3a%2220200714_0700%22", 
+                "wp": true, 
+                "enddate": "20200715", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
