@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200719", 
+                "urlbase": "/th?id=OHR.EarthriseSequence_ZH-CN0750195611", 
+                "fullstartdate": "202007191600", 
+                "copyright": "穿过月球上史密斯海的“地出” (© Image Science and Analysis Laboratory, NASA-Johnson Space Center)", 
+                "title": "", 
+                "url": "/th?id=OHR.EarthriseSequence_ZH-CN0750195611_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9c767b14e27527b152d66faabe9edb36", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200719_EarthriseSequence%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8F%B2%E5%AF%86%E6%96%AF%E6%B5%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200720", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200719", 
+                "urlbase": "/th?id=OHR.GrandCanalGondolas_EN-US0380987930", 
+                "fullstartdate": "202007190700", 
+                "copyright": "The Grand Canal and Basilica di Santa Maria della Salute in Venice, Italy (© Jim Richardson/Offset by Shutterstock)", 
+                "title": "Venice by night", 
+                "url": "/th?id=OHR.GrandCanalGondolas_EN-US0380987930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "12ae83016b57de4b447c9dedf0a3050f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200719_GrandCanalGondolas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=festa+del+redentore+venice&form=hpcapt&filters=HpDate%3a%2220200719_0700%22", 
+                "wp": true, 
+                "enddate": "20200720", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
