@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200721", 
+                "urlbase": "/th?id=OHR.RedBlueWildebeest_ZH-CN1024893552", 
+                "fullstartdate": "202007211600", 
+                "copyright": "日落时分正在迁徙的斑纹角马群，肯尼亚马赛马拉野生动物保护区 (© Denis-Huot/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.RedBlueWildebeest_ZH-CN1024893552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "70c1d9fb9acbcd479b4415ae45cdb114", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200721_RedBlueWildebeest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E8%B5%9B%E9%A9%AC%E6%8B%89%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200722", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200721", 
+                "urlbase": "/th?id=OHR.DinantBelgium_EN-US0892462948", 
+                "fullstartdate": "202007210700", 
+                "copyright": "The town of Dinant and the River Meuse in Namur province, Belgium (© Kadagan/Shutterstock)", 
+                "title": "Belgium celebrates its independence", 
+                "url": "/th?id=OHR.DinantBelgium_EN-US0892462948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "63f2447013314fc9948bae2b8b67ba03", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200721_DinantBelgium%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=belgian+national+day&form=hpcapt&filters=HpDate%3a%2220200721_0700%22", 
+                "wp": true, 
+                "enddate": "20200722", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
