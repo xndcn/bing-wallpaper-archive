@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200722", 
+                "urlbase": "/th?id=OHR.CausewayStones_ZH-CN2070328388", 
+                "fullstartdate": "202007221600", 
+                "copyright": "巨人堤道，英国北爱尔兰布什米尔斯 (© Chiara Salvadori/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.CausewayStones_ZH-CN2070328388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2f17c6104164ea0936bb65b28d41ce53", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200722_CausewayStones%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B7%A8%E4%BA%BA%E5%A0%A4%E9%81%93&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200723", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200722", 
+                "urlbase": "/th?id=OHR.RedBlueWildebeest_EN-US0956286533", 
+                "fullstartdate": "202007220700", 
+                "copyright": "Blue wildebeest herd migrating at sunset, Maasai Mara National Reserve, Kenya (© Denis-Huot/Minden Pictures)", 
+                "title": "Wildebeest on the move", 
+                "url": "/th?id=OHR.RedBlueWildebeest_EN-US0956286533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "28aa35e144966c389f4c51657d6c507f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200722_RedBlueWildebeest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Blue+wildebeest&form=hpcapt&filters=HpDate%3a%2220200722_0700%22", 
+                "wp": true, 
+                "enddate": "20200723", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
