@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200724", 
+                "urlbase": "/th?id=OHR.RedSailboat_ZH-CN2386102503", 
+                "fullstartdate": "202007241600", 
+                "copyright": "迪斯科湾，格陵兰岛伊卢利萨特 (© Kertu/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.RedSailboat_ZH-CN2386102503_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9f795c639b70a68b50169fffa2c9e90d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200724_RedSailboat%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%BF%AA%E6%96%AF%E7%A7%91%E6%B9%BE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200725", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200724", 
+                "urlbase": "/th?id=OHR.KapamaCousins_EN-US1071916004", 
+                "fullstartdate": "202007240700", 
+                "copyright": "Elephants at Kapama Private Game Reserve in South Africa (© Simon Eeman/Getty Images)", 
+                "title": "Trunks stick together", 
+                "url": "/th?id=OHR.KapamaCousins_EN-US1071916004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "15fe84e7a4c73ccf9638b2013c7d9d4a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200724_KapamaCousins%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=african+elephant&form=hpcapt&filters=HpDate%3a%2220200724_0700%22", 
+                "wp": true, 
+                "enddate": "20200725", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
