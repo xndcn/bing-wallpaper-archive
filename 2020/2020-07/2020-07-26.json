@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200725", 
+                "urlbase": "/th?id=OHR.WheatCastilla_ZH-CN2814576294", 
+                "fullstartdate": "202007251600", 
+                "copyright": "云下的麦田，西班牙巴利亚多利德 (© Carlos Javier García Prieto/EyeEm/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.WheatCastilla_ZH-CN2814576294_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a40cc1a1f20e84948fae4fe9002b43dc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200725_WheatCastilla%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%BA%91%E4%B8%8B%E7%9A%84%E9%BA%A6%E7%94%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200726", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200725", 
+                "urlbase": "/th?id=OHR.RedSailboat_EN-US1173520356", 
+                "fullstartdate": "202007250700", 
+                "copyright": "Disko Bay, Ilulissat, Greenland (© Kertu/Shutterstock)", 
+                "title": "Going with the floe", 
+                "url": "/th?id=OHR.RedSailboat_EN-US1173520356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6786c4a9781b5cd3ad9231464c8b7d96", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200725_RedSailboat%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=midnight+sun+natural+phenomenon&FORM=hpcapt&filters=HpDate%3a%2220200725_0700%22", 
+                "wp": true, 
+                "enddate": "20200726", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
