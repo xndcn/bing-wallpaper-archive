@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200726", 
+                "urlbase": "/th?id=OHR.AerialTamul_ZH-CN3164679201", 
+                "fullstartdate": "202007261600", 
+                "copyright": "圣路易斯波托西州的Tamul瀑布，墨西哥 (© Robert Harding World Imagery/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.AerialTamul_ZH-CN3164679201_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a337f3aff49998771a81f6def57d06e3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200726_AerialTamul%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Tamul%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200727", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200726", 
+                "urlbase": "/th?id=OHR.ADA30_EN-US1238886685", 
+                "fullstartdate": "202007260700", 
+                "copyright": "Frank Gehry's BP Pedestrian Bridge connecting Millennium Park and Maggie Daley Park in Chicago (© Devon Neff/Shutterstock)", 
+                "title": "A path to access", 
+                "url": "/th?id=OHR.ADA30_EN-US1238886685_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9b12103a335d893cd599223fc4f0daea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200726_ADA30%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=BP+Pedestrian+Bridge&form=hpcapt&filters=HpDate%3a%2220200726_0700%22", 
+                "wp": false, 
+                "enddate": "20200727", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
