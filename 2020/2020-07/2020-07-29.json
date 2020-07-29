@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200728", 
+                "urlbase": "/th?id=OHR.KallurLighthouse_ZH-CN3407251246", 
+                "fullstartdate": "202007281600", 
+                "copyright": "法罗群岛中的卡尔斯岛 (© Swen Stroop/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.KallurLighthouse_ZH-CN3407251246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "163110c513bd0f5b0da23b441c589acc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200728_KallurLighthouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8D%A1%E5%B0%94%E6%96%AF%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200729", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200728", 
+                "urlbase": "/th?id=OHR.HamelinPool_EN-US1343791878", 
+                "fullstartdate": "202007280700", 
+                "copyright": "Hamelin Pool Marine Nature Reserve in Australia (© Abstract Aerial Art/Getty Images)", 
+                "title": "Over the boardwalk", 
+                "url": "/th?id=OHR.HamelinPool_EN-US1343791878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e5fba66398de6ae02f05686cd62cf52e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200728_HamelinPool%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Hamelin+Pool+Marine+Nature+Reserve&form=hpcapt&filters=HpDate%3a%2220200728_0700%22", 
+                "wp": true, 
+                "enddate": "20200729", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
