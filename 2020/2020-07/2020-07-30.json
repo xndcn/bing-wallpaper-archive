@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200729", 
+                "urlbase": "/th?id=OHR.HamerkopHunting_ZH-CN3632585255", 
+                "fullstartdate": "202007291600", 
+                "copyright": "站在河马身上的锤头鹳，津巴布韦马纳潭国家公园 (© David Fettes/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.HamerkopHunting_ZH-CN3632585255_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "295535eef24cf9e3916cd09063dd7e22", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200729_HamerkopHunting%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%94%A4%E5%A4%B4%E9%B9%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200730", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200729", 
+                "urlbase": "/th?id=OHR.KallurLighthouse_EN-US1393818212", 
+                "fullstartdate": "202007290700", 
+                "copyright": "Kalsoy Island, one of the Faroe Islands (© Swen Stroop/Getty Images Plus)", 
+                "title": "Góða ólavsøku, from the Faroes!", 
+                "url": "/th?id=OHR.KallurLighthouse_EN-US1393818212_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0251e7de2c991ac4c1f672dd2f93cdde", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200729_KallurLighthouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=kalsoy+island&form=hpcapt&filters=HpDate%3a%2220200729_0700%22", 
+                "wp": true, 
+                "enddate": "20200730", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
