@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200730", 
+                "urlbase": "/th?id=OHR.TahoeBeach_ZH-CN3786728560", 
+                "fullstartdate": "202007301600", 
+                "copyright": "塔霍湖国家公园中的沙港，内华达州 (© Mariusz Blach/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.TahoeBeach_ZH-CN3786728560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3d251cdbabba8c60a1eeaaf59c8db8ec", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200730_TahoeBeach%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A1%94%E9%9C%8D%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200731", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200730", 
+                "urlbase": "/th?id=OHR.HamerkopHunting_EN-US1438886143", 
+                "fullstartdate": "202007300700", 
+                "copyright": "Hamerkop standing on a hippo, Mana Pools National Park, Zimbabwe (© David Fettes/Getty Images)", 
+                "title": "International Day of Friendship", 
+                "url": "/th?id=OHR.HamerkopHunting_EN-US1438886143_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2769628ab9227d32e9889fdfbf00ff03", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200730_HamerkopHunting%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=united+nations+international+friendship+day&form=hpcapt&filters=HpDate%3a%2220200730_0700%22", 
+                "wp": true, 
+                "enddate": "20200731", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
