@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200731", 
+                "urlbase": "/th?id=OHR.LavaShip_ZH-CN3924445486", 
+                "fullstartdate": "202007311600", 
+                "copyright": "一艘游船经过时熔岩流撞击水面产生爆炸，夏威夷火山国家公园 (© Patrick Kelley/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.LavaShip_ZH-CN3924445486_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "198df6c0383d15b99c609fe04ffac818", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200731_LavaShip%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%8F%E5%A8%81%E5%A4%B7%E7%81%AB%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200801", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200731", 
+                "urlbase": "/th?id=OHR.TahoeBeach_EN-US6105713817", 
+                "fullstartdate": "202007310700", 
+                "copyright": "Sand Harbor, Lake Tahoe Nevada State Park, Nevada (© Mariusz Blach/Getty Images Plus)", 
+                "title": "The Big Blue of the Sierra", 
+                "url": "/th?id=OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5f692dd55ad7bfef0aaef1c287339e4f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200731_TahoeBeach%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=lake+tahoe&form=hpcapt&filters=HpDate%3a%2220200731_0700%22", 
+                "wp": true, 
+                "enddate": "20200801", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
