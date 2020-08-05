@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200804", 
+                "urlbase": "/th?id=OHR.OysterFarm_ZH-CN4398895232", 
+                "fullstartdate": "202008041600", 
+                "copyright": "Notojima岛附近的牡蛎养殖场，日本石川县 (© divedog/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.OysterFarm_ZH-CN4398895232_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c19543437a3816526925a67752d12ea6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200804_OysterFarm%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Notojima%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200805", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200804", 
+                "urlbase": "/th?id=OHR.VirginiaDeer_EN-US6758916176", 
+                "fullstartdate": "202008040700", 
+                "copyright": "White-tailed doe and fawn in Wisconsin (© Karel Bock/Shutterstock)", 
+                "title": "Into the woods", 
+                "url": "/th?id=OHR.VirginiaDeer_EN-US6758916176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "04395fd9ea6175a23f10b337c7599b05", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200804_VirginiaDeer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=white+tailed+deer&FORM=hpcapt&filters=HpDate%3a%2220200804_0700%22", 
+                "wp": true, 
+                "enddate": "20200805", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
