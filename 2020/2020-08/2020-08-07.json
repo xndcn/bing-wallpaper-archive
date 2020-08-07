@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200806", 
+                "urlbase": "/th?id=OHR.WhaleHug_ZH-CN4817763567", 
+                "fullstartdate": "202008061600", 
+                "copyright": "汤加海岸正要拥抱妈妈的小座头鲸 (© Biosphoto/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.WhaleHug_ZH-CN4817763567_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7fe3cc5915833e59789547f218e39624", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200806_WhaleHug%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%BA%A7%E5%A4%B4%E9%B2%B8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200807", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200806", 
+                "urlbase": "/th?id=OHR.Rettungsstation_EN-US6913294738", 
+                "fullstartdate": "202008060700", 
+                "copyright": "Former lifeguard station on the island of Rügen, Mecklenburg-Western Pomerania, Germany (© DR pics/Shutterstock)", 
+                "title": "Space-age style by the sea", 
+                "url": "/th?id=OHR.Rettungsstation_EN-US6913294738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cae650397d534c5fd8e433aaa8ff510b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200806_Rettungsstation%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=rugen+island+germany&form=hpcapt&filters=HpDate%3a%2220200806_0700%22", 
+                "wp": false, 
+                "enddate": "20200807", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
