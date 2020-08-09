@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200808", 
+                "urlbase": "/th?id=OHR.LassenPeak_ZH-CN5435067682", 
+                "fullstartdate": "202008081600", 
+                "copyright": "森火山国家公园中的拉森峰，加利福尼亚 (© Engel Ching/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.LassenPeak_ZH-CN5435067682_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "446dbe84914a8196e3a89cd543578515", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200808_LassenPeak%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%8B%89%E6%A3%AE%E5%B3%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200809", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200808", 
+                "urlbase": "/th?id=OHR.InfinityBridge_EN-US7273466905", 
+                "fullstartdate": "202008080700", 
+                "copyright": "Infinity Bridge in Stockton-on-Tees, England (© Robert Smith/Alamy)", 
+                "title": "It's ∞ Day!", 
+                "url": "/th?id=OHR.InfinityBridge_EN-US7273466905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d54ecc60a0bd29b13f6cef77c07b28c3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200808_InfinityBridge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=infinity+bridge+uk&form=hpcapt&filters=HpDate%3a%2220200808_0700%22", 
+                "wp": false, 
+                "enddate": "20200809", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
