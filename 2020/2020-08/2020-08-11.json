@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200810", 
+                "urlbase": "/th?id=OHR.SeaFireflies_ZH-CN5748822339", 
+                "fullstartdate": "202008101600", 
+                "copyright": "冈山沿岸的发光海洋萤火虫，日本 (© tdub_video/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.SeaFireflies_ZH-CN5748822339_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f96246cbe8e866ae3f594da7e0462624", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200810_SeaFireflies%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E6%B4%8B%E8%90%A4%E7%81%AB%E8%99%AB&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200811", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200810", 
+                "urlbase": "/th?id=OHR.LionDay_EN-US7411831317", 
+                "fullstartdate": "202008100700", 
+                "copyright": "Lion cubs hiding in tall grass in the Kalahari Desert region of Botswana (© Jami Tarris/Getty Images)", 
+                "title": "Kings of the Kalahari", 
+                "url": "/th?id=OHR.LionDay_EN-US7411831317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3432fb5712ec7e0b7625fd64e010372f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200810_LionDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=lion+conservation&form=hpcapt&filters=HpDate%3a%2220200810_0700%22", 
+                "wp": true, 
+                "enddate": "20200811", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
