@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200811", 
+                "urlbase": "/th?id=OHR.WeaverBird_ZH-CN5935181847", 
+                "fullstartdate": "202008111600", 
+                "copyright": "浦那的黄胸织布鸟鸟巢，马哈拉施特拉邦 (© Samyak Kaninde/Alamy Stock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.WeaverBird_ZH-CN5935181847_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0d6d9686d51e3b60f71f3da45d5dfb70", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200811_WeaverBird%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%BB%84%E8%83%B8%E7%BB%87%E5%B8%83%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200812", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200811", 
+                "urlbase": "/th?id=OHR.SeaFireflies_EN-US7467298206", 
+                "fullstartdate": "202008110700", 
+                "copyright": "Bioluminescent sea fireflies along the shore of Okayama, Japan (© tdub_video/Getty Images)", 
+                "title": "Sea fireflies at the seashore", 
+                "url": "/th?id=OHR.SeaFireflies_EN-US7467298206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2b29a4dfc1b818acc1f4eb8a886dc52e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200811_SeaFireflies%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Vargula+hilgendorfii&FORM=hpcapt&filters=HpDate%3a%2220200811_0700%22", 
+                "wp": true, 
+                "enddate": "20200812", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
