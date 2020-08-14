@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200813", 
+                "urlbase": "/th?id=OHR.HuntsMesa_ZH-CN7400133267", 
+                "fullstartdate": "202008131600", 
+                "copyright": "从亨茨梅萨俯瞰纪念碑谷，亚利桑那州与犹他州之间纳瓦霍族保留地 (© AWL Images/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.HuntsMesa_ZH-CN7400133267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "10971714270b9999093d311cf790da2c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200813_HuntsMesa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7%E7%BA%B3%E7%93%A6%E9%9C%8D%E9%83%A8%E8%90%BD%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200814", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200813", 
+                "urlbase": "/th?id=OHR.WWMatera_EN-US7770749293", 
+                "fullstartdate": "202008130700", 
+                "copyright": "Matera, Italy (© Marco Ilari/Getty Images)", 
+                "title": "Life in the slow lane", 
+                "url": "/th?id=OHR.WWMatera_EN-US7770749293_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d25a9291c55e0b16d2b5ea3fac23c2ca", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200813_WWMatera%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Matera+Italy&form=hpcapt&filters=HpDate%3a%2220200813_0700%22", 
+                "wp": true, 
+                "enddate": "20200814", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
