@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200815", 
+                "urlbase": "/th?id=OHR.BurrowingOwl_ZH-CN7730300251", 
+                "fullstartdate": "202008151600", 
+                "copyright": "一只成年的穴居猫头鹰在日落时从洞穴中钻出来，加利福尼亚戴维斯 (© Neil Losin/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.BurrowingOwl_ZH-CN7730300251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "444f4e0df65f5e36409ccbab86acd6db", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200815_BurrowingOwl%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%8C%AB%E5%A4%B4%E9%B9%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200816", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200815", 
+                "urlbase": "/th?id=OHR.AcadianDay_EN-US7700672584", 
+                "fullstartdate": "202008150700", 
+                "copyright": "Caves and coastal features at low tide on the Bay of Fundy, near St. Martins, New Brunswick, Canada (© Jamie Roach/Shutterstock)", 
+                "title": "Celebrating the Acadians", 
+                "url": "/th?id=OHR.AcadianDay_EN-US7700672584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "62eb8ed6fea7456ee7ab0627c2c56ce0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200815_AcadianDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=acadian+day+in+canada&form=hpcapt&filters=HpDate%3a%2220200815_0700%22", 
+                "wp": true, 
+                "enddate": "20200816", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
