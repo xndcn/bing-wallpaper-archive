@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200816", 
+                "urlbase": "/th?id=OHR.BorobudurTemple_ZH-CN7851562404", 
+                "fullstartdate": "202008161600", 
+                "copyright": "中爪哇省的婆罗浮屠，印度尼西亚 (© Oleh Slobodeniuk/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.BorobudurTemple_ZH-CN7851562404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f410fc24a9ce57743581652ef136a3fc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200816_BorobudurTemple%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A9%86%E7%BD%97%E6%B5%AE%E5%B1%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200817", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200816", 
+                "urlbase": "/th?id=OHR.BurrowingOwl_EN-US7737468266", 
+                "fullstartdate": "202008160700", 
+                "copyright": "An adult burrowing owl emerges from its burrow at sunset in Davis, California (© Neil Losin/Tandem Stills + Motion)", 
+                "title": "Here's looking at you", 
+                "url": "/th?id=OHR.BurrowingOwl_EN-US7737468266_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5c5ddf053b86bf6af5bdf99babbf68c6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200816_BurrowingOwl%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=burrowing+owl&form=hpcapt&filters=HpDate%3a%2220200816_0700%22", 
+                "wp": true, 
+                "enddate": "20200817", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
