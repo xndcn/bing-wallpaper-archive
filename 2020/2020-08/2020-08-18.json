@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200817", 
+                "urlbase": "/th?id=OHR.LaGeria_ZH-CN7984061565", 
+                "fullstartdate": "202008171600", 
+                "copyright": "鸟瞰兰萨罗特岛的La Geria葡萄园，西班牙加那利群岛 (© Orbon Alija/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.LaGeria_ZH-CN7984061565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8c64c4ca055fb77200363178b551f0c0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200817_LaGeria%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%91%A1%E8%90%84%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200818", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200817", 
+                "urlbase": "/th?id=OHR.BorobudurTemple_EN-US7797430626", 
+                "fullstartdate": "202008170700", 
+                "copyright": "Borobudur in central Java, Indonesia (© Oleh Slobodeniuk/Getty Images)", 
+                "title": "A giant relic in Java", 
+                "url": "/th?id=OHR.BorobudurTemple_EN-US7797430626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "689e5301837176bf6b009c506c73b033", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200817_BorobudurTemple%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=borobudur+temple+java&form=hpcapt&filters=HpDate%3a%2220200817_0700%22", 
+                "wp": true, 
+                "enddate": "20200818", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
