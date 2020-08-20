@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200819", 
+                "urlbase": "/th?id=OHR.IcelandHighlands_ZH-CN8308092351", 
+                "fullstartdate": "202008191600", 
+                "copyright": "冰岛高地 (© Kevin Krautgartner/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.IcelandHighlands_ZH-CN8308092351_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "638e49135d46d78ece9b506cd5f227fb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200819_IcelandHighlands%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%86%B0%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200820", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200819", 
+                "urlbase": "/th?id=OHR.PhotographyEmperor_EN-US7865787520", 
+                "fullstartdate": "202008190700", 
+                "copyright": "A group of curious emperor penguins in Antarctica (© Mint Images Limited/Alamy)", 
+                "title": "Freeze frame", 
+                "url": "/th?id=OHR.PhotographyEmperor_EN-US7865787520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ddff61c9a65f97fb2d9367b404a23438", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200819_PhotographyEmperor%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=world+photography+day&form=hpcapt&filters=HpDate%3a%2220200819_0700%22", 
+                "wp": true, 
+                "enddate": "20200820", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
