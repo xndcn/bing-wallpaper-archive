@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200821", 
+                "urlbase": "/th?id=OHR.UrquhartCastle_ZH-CN9360986614", 
+                "fullstartdate": "202008211600", 
+                "copyright": "苏格兰高地上的厄克特城堡和内斯湖 (© AWL Images/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.UrquhartCastle_ZH-CN9360986614_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bd52430b62865010fa2277f2d248c6b3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200821_UrquhartCastle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%8B%8F%E6%A0%BC%E5%85%B0%E9%AB%98%E5%9C%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200822", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200821", 
+                "urlbase": "/th?id=OHR.MulticolorBuoys_EN-US7941972841", 
+                "fullstartdate": "202008210700", 
+                "copyright": "Multicolored lobster buoys, Acadia National Park, Maine (© Cheri Alguire/Shutterstock)", 
+                "title": "Lobster tales", 
+                "url": "/th?id=OHR.MulticolorBuoys_EN-US7941972841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ece6a4e7350290b0f5f24ba72a7d3b13", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200821_MulticolorBuoys%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=lobster+fishing&form=hpcapt&filters=HpDate%3a%2220200821_0700%22", 
+                "wp": false, 
+                "enddate": "20200822", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
