@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200822", 
+                "urlbase": "/th?id=OHR.AugustStargazing_ZH-CN9929724138", 
+                "fullstartdate": "202008221600", 
+                "vid": {
+                    "caption": "格里姆瑟尔山口Totesee山地湖中倒映出的星星，瑞士伯尔尼 (© magodevita/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/StargazingSwitzerland_FF_1920x1080_G_628102888_HD_ZH-CN294111571.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/StargazingSwitzerland_VERT_FF_G_628102888_Mobile_ZH-CN1271687174.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/StargazingSwitzerland_1920x1080_G_628102888_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/StargazingSwitzerland_1920x1080_G_628102888_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/StargazingSwitzerland_VERT_G_628102888_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=%e6%98%9f%e7%a9%ba&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "格里姆瑟尔山口Totesee山地湖中倒映出的星星，瑞士伯尔尼 (© magodevita/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.AugustStargazing_ZH-CN9929724138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fa72e885a39454d9bb8566578b6a0e14", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200822_AugustStargazing%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%98%9F%E7%A9%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20200823", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200822", 
+                "urlbase": "/th?id=OHR.UrquhartCastle_EN-US7977703153", 
+                "fullstartdate": "202008220700", 
+                "copyright": "Urquhart Castle and Loch Ness in the Scottish Highlands (© AWL Images/Danita Delimont)", 
+                "title": "A monster view in Scotland", 
+                "url": "/th?id=OHR.UrquhartCastle_EN-US7977703153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2bfcc13f31423e2f007d0860c8b79721", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200822_UrquhartCastle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=loch+ness+scotland&form=hpcapt&filters=HpDate%3a%2220200822_0700%22", 
+                "wp": true, 
+                "enddate": "20200823", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
