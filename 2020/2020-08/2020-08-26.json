@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200825", 
+                "urlbase": "/th?id=OHR.OkanaganSpots_ZH-CN0873231776", 
+                "fullstartdate": "202008251600", 
+                "copyright": "奥卡诺根的斑点湖，加拿大不列颠哥伦比亚省 (© Galyna Andrushko/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.OkanaganSpots_ZH-CN0873231776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b21a1d840504c0dad23a6a4575bb4b54", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200825_OkanaganSpots%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%96%91%E7%82%B9%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200826", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200825", 
+                "urlbase": "/th?id=OHR.PancakeRocks_EN-US1220361824", 
+                "fullstartdate": "202008250700", 
+                "copyright": "The Tasman Sea from Punakaiki on South Island, New Zealand (© Maurizio Rellini/Sime/eStock Photo)", 
+                "title": "Pancake Rocks", 
+                "url": "/th?id=OHR.PancakeRocks_EN-US1220361824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "63bb9b726d3d2bf2dace9bac1ac32436", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200825_PancakeRocks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=punakaiki&form=hpcapt&filters=HpDate%3a%2220200825_0700%22", 
+                "wp": true, 
+                "enddate": "20200826", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
