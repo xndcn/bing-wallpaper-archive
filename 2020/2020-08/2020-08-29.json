@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200828", 
+                "urlbase": "/th?id=OHR.CorsicaFort_ZH-CN4696260710", 
+                "fullstartdate": "202008281600", 
+                "copyright": "鸟瞰桑吉奈尔群岛，法国科西嘉 (© sam74100/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.CorsicaFort_ZH-CN4696260710_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e8457383afffc4558df424cf2642f9c3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200828_CorsicaFort%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%90%89%E5%A5%88%E5%B0%94%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200829", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200828", 
+                "urlbase": "/th?id=OHR.MonteCristo_EN-US3353853394", 
+                "fullstartdate": "202008280700", 
+                "copyright": "Château d'If in Marseille, France (© Boris Stroujko/Shutterstock)", 
+                "title": "A prison fit for a count", 
+                "url": "/th?id=OHR.MonteCristo_EN-US3353853394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "47178168cd2dbd40038212da99ac3116", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200828_MonteCristo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Ch%C3%A2teau+d%27If&form=hpcapt&filters=HpDate%3a%2220200828_0700%22", 
+                "wp": true, 
+                "enddate": "20200829", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
