@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200831", 
+                "urlbase": "/th?id=OHR.OysterMushroom_ZH-CN6265453153", 
+                "fullstartdate": "202008311600", 
+                "copyright": "比利时的平菇 (© Philippe Clement/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.OysterMushroom_ZH-CN6265453153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c8efcb0868025a87186c56e0751abd2d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200831_OysterMushroom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B9%B3%E8%8F%87&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200901", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200831", 
+                "urlbase": "/th?id=OHR.PRNLCavern_EN-US7693319589", 
+                "fullstartdate": "202008310700", 
+                "copyright": "Cavern in Pictured Rocks National Lakeshore on Lake Superior, Michigan (© Kenneth Keifer/Getty Images)", 
+                "title": "At the shore of an inland sea", 
+                "url": "/th?id=OHR.PRNLCavern_EN-US7693319589_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "14eeb995bcf7d08755ec8fa4cae1cf61", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200831_PRNLCavern%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=pictured+rocks+national+lakeshore+lake+superior&form=hpcapt&filters=HpDate%3a%2220200831_0700%22", 
+                "wp": true, 
+                "enddate": "20200901", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
