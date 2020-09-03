@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200902", 
+                "urlbase": "/th?id=OHR.FinancialTowers_ZH-CN6494148642", 
+                "fullstartdate": "202009021600", 
+                "copyright": "陆家嘴金融贸易区，中国上海 (© Jackal Pan/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.FinancialTowers_ZH-CN6494148642_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "099989f269a07ea0c8048d96bd6663aa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200902_FinancialTowers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%99%86%E5%AE%B6%E5%98%B4%E9%87%91%E8%9E%8D%E8%B4%B8%E6%98%93%E5%8C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200903", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200902", 
+                "urlbase": "/th?id=OHR.SmithRock_EN-US3778263265", 
+                "fullstartdate": "202009020700", 
+                "copyright": "Smith Rock State Park, Oregon (© Manuela Durson/Getty Images)", 
+                "title": "A rock in a wild place", 
+                "url": "/th?id=OHR.SmithRock_EN-US3778263265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f3b197fc1423073eae07148928399353", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200902_SmithRock%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=smith+rock+central+oregon&form=hpcapt&filters=HpDate%3a%2220200902_0700%22", 
+                "wp": true, 
+                "enddate": "20200903", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
