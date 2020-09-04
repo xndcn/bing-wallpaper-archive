@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200903", 
+                "urlbase": "/th?id=OHR.PicoIsland_ZH-CN6719354511", 
+                "fullstartdate": "202009031600", 
+                "copyright": "一头公牛站在皮库山前的田野中，亚速尔群岛皮科岛 (© Atmo-Sphere/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.PicoIsland_ZH-CN6719354511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bdb30ee466bc4803eadad4815f2494ea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200903_PicoIsland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%9A%AE%E5%BA%93%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200904", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200903", 
+                "urlbase": "/th?id=OHR.FinancialTowers_EN-US3881212547", 
+                "fullstartdate": "202009030700", 
+                "copyright": "Lujiazui Financial District, Shanghai, China (© Jackal Pan/Getty Images)", 
+                "title": "Tall, taller, tallest", 
+                "url": "/th?id=OHR.FinancialTowers_EN-US3881212547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7eda042e7bfd853c31f885edf315430e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200903_FinancialTowers%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=+lujiazui&form=hpcapt&filters=HpDate%3a%2220200903_0700%22", 
+                "wp": true, 
+                "enddate": "20200904", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
