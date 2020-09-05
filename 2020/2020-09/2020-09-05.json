@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200904", 
+                "urlbase": "/th?id=OHR.BeaverDam_ZH-CN6855160492", 
+                "fullstartdate": "202009041600", 
+                "copyright": "锯齿国家森林里的海狸坝，爱达荷州 (© Charles Knowles/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.BeaverDam_ZH-CN6855160492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6fed7c2f46b0dd78f50d7760490bf828", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200904_BeaverDam%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E7%8B%B8%E5%9D%9D&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200905", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200904", 
+                "urlbase": "/th?id=OHR.PicoIsland_EN-US3959411167", 
+                "fullstartdate": "202009040700", 
+                "copyright": "A bull in the foothills of Mount Pico on Pico Island in the Portuguese archipelago of the Azores  (© Atmo-Sphere/Getty Images)", 
+                "title": "A bull, some flowers, and a stratovolcano", 
+                "url": "/th?id=OHR.PicoIsland_EN-US3959411167_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "678a31c01a156e3e0b00abe9bdf5bb7c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200904_PicoIsland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mount+pico&form=hpcapt&filters=HpDate%3a%2220200904_0700%22", 
+                "wp": true, 
+                "enddate": "20200905", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
