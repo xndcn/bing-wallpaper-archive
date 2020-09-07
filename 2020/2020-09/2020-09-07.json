@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200906", 
+                "urlbase": "/th?id=OHR.BleistifteFaber_ZH-CN7204563488", 
+                "fullstartdate": "202009061600", 
+                "copyright": "辉柏嘉展出的铅笔，德国施泰因 (© Rüdiger Hess/geo-select FotoArt)", 
+                "title": "", 
+                "url": "/th?id=OHR.BleistifteFaber_ZH-CN7204563488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "db7d71cfac198b66d1743e5f835f2d73", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200906_BleistifteFaber%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%BE%89%E6%9F%8F%E5%98%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200907", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200906", 
+                "urlbase": "/th?id=OHR.LongIsland_EN-US4283514207", 
+                "fullstartdate": "202009060700", 
+                "copyright": "Reedy Island in Moneyboque Bay, Long Island, New York (© Claudia Uripos/eStock Photo)", 
+                "title": "Summer winds down in the Hamptons", 
+                "url": "/th?id=OHR.LongIsland_EN-US4283514207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "65210040dcb4c59f068697ad1e71655a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200906_LongIsland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=hamptons+new+york&form=hpcapt&filters=HpDate%3a%2220200906_0700%22", 
+                "wp": true, 
+                "enddate": "20200907", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
