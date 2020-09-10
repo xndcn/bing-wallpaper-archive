@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200909", 
+                "urlbase": "/th?id=OHR.KanchanaburiWaterfall_ZH-CN7582684869", 
+                "fullstartdate": "202009091600", 
+                "vid": {
+                    "caption": "Khuean Srinagarindra国家公园的Huay Mae Khamin瀑布，泰国 (© ImpaKPro/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/ThaiWaterfall_FF_1920x1080_G_679699496_HD_ZH-CN551815782.jpg", 
+                    "audiopresent": false, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/ThaiWaterfall_FF_VERT_G_679699496_Mobile_ZH-CN134805429.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/ThaiWaterfall_1920x1080_G_679699496_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/ThaiWaterfall_1920x1080_G_679699496_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/ThaiWaterfall_VERT_G_679699496_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=Huay+Mae+Khamin%e7%80%91%e5%b8%83&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "Khuean Srinagarindra国家公园的Huay Mae Khamin瀑布，泰国 (© ImpaKPro/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.KanchanaburiWaterfall_ZH-CN7582684869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c83796392e3c7e8327c1a5be39a9fd52", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200909_KanchanaburiWaterfall%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Huay-Mae+Khamin%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20200910", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200909", 
+                "urlbase": "/th?id=OHR.BeardedReedling_EN-US4518834402", 
+                "fullstartdate": "202009090700", 
+                "copyright": "A bearded reedling in Elmley National Nature Reserve in Kent, England (© Mark Bridger/Offset by Shutterstock)", 
+                "title": "Where the bearded reedling sings", 
+                "url": "/th?id=OHR.BeardedReedling_EN-US4518834402_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1fd200c6ddfe7fdf29fc5c78d98e3b24", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200909_BeardedReedling%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=bearded+reedling&form=hpcapt&filters=HpDate%3a%2220200909_0700%22", 
+                "wp": true, 
+                "enddate": "20200910", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
