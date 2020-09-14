@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200913", 
+                "urlbase": "/th?id=OHR.YellowBells_ZH-CN7296699570", 
+                "fullstartdate": "202009131600", 
+                "copyright": "在食用黄钟花的红喉北蜂鸟，德克萨斯州丘陵地 (© Rolf Nussbaumer/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.YellowBells_ZH-CN7296699570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9d764b19506fe640cb984dff1c9a3383", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200913_YellowBells%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A2%E5%96%89%E5%8C%97%E8%9C%82%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200914", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200913", 
+                "urlbase": "/th?id=OHR.SangreCristoDunes_EN-US1709681114", 
+                "fullstartdate": "202009130700", 
+                "copyright": "Sand dunes with Sangre de Cristo Mountains in the background, Great Sand Dunes National Park and Preserve, Colorado (© Tim Fitzharris/Minden Pictures)", 
+                "title": "Super sandy Sweet 16", 
+                "url": "/th?id=OHR.SangreCristoDunes_EN-US1709681114_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8c6d13e642056ab9fc0a049d189b07ce", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200913_SangreCristoDunes%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=great+sand+dunes+national+park+and+preserve+sangre+de+cristo+mountains+colorado&form=hpcapt&filters=HpDate%3a%2220200913_0700%22", 
+                "wp": true, 
+                "enddate": "20200914", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
