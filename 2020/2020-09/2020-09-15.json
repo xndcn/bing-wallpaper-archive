@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200914", 
+                "urlbase": "/th?id=OHR.LifeguardEntrance_ZH-CN7394984988", 
+                "fullstartdate": "202009141600", 
+                "copyright": "日落时分中央海岸入口海滩上的救生员小屋，澳大利亚新南威尔士州 (© Yury Prokopenko/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.LifeguardEntrance_ZH-CN7394984988_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a8712ff7ed3690123f96c2f95830b9f6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200914_LifeguardEntrance%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E5%A4%AE%E6%B5%B7%E5%B2%B8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200915", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200914", 
+                "urlbase": "/th?id=OHR.YellowBells_EN-US1777995807", 
+                "fullstartdate": "202009140700", 
+                "copyright": "Ruby-throated hummingbird feeding on yellow bells in the Texas Hill Country (© Rolf Nussbaumer/Danita Delimont)", 
+                "title": "Tiny fliers head south", 
+                "url": "/th?id=OHR.YellowBells_EN-US1777995807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ce90fa2424ec52f35694935c57185b56", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200914_YellowBells%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=ruby-throated+hummingbird&form=hpcapt&filters=HpDate%3a%2220200914_0700%22", 
+                "wp": true, 
+                "enddate": "20200915", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
