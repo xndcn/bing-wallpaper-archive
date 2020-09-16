@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200915", 
+                "urlbase": "/th?id=OHR.CityofGuanajuato_ZH-CN7559565626", 
+                "fullstartdate": "202009151600", 
+                "copyright": "瓜纳华托，墨西哥 (© AI NISHINO/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.CityofGuanajuato_ZH-CN7559565626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "71536d2a05b0489c7254164638a099aa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200915_CityofGuanajuato%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%93%9C%E7%BA%B3%E5%8D%8E%E6%89%98&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200916", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200915", 
+                "urlbase": "/th?id=OHR.OutofManyOne_EN-US1814996781", 
+                "fullstartdate": "202009150700", 
+                "copyright": "'Out of Many, One,' an artwork by Jorge Rodríguez-Gerada on the National Mall in Washington, DC (© Keith Lane/Tribune News Service via Getty Images)", 
+                "title": "For Hispanic Heritage Month: 'Out of Many, One'", 
+                "url": "/th?id=OHR.OutofManyOne_EN-US1814996781_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "61ae5bb690c2f0f7dd8b4eefb0494ef5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200915_OutofManyOne%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=hispanic+heritage+month&form=hpcapt&filters=HpDate%3a%2220200915_0700%22", 
+                "wp": false, 
+                "enddate": "20200916", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
