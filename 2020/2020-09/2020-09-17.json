@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200916", 
+                "urlbase": "/th?id=OHR.MistyVineyard_ZH-CN7642034150", 
+                "fullstartdate": "202009161600", 
+                "copyright": "波尔多葡萄园，法国 (© agefotostock/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.MistyVineyard_ZH-CN7642034150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e6324aa222af194314de88d270beec3e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200916_MistyVineyard%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B3%A2%E5%B0%94%E5%A4%9A%E8%91%A1%E8%90%84%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200917", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200916", 
+                "urlbase": "/th?id=OHR.CityofGuanajuato_EN-US1849642207", 
+                "fullstartdate": "202009160700", 
+                "copyright": "Guanajuato, Mexico (© AI NISHINO/Alamy)", 
+                "title": "It's Independence Day in Mexico", 
+                "url": "/th?id=OHR.CityofGuanajuato_EN-US1849642207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4324293b1e7d2e1b360d275619c2ed2c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200916_CityofGuanajuato%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Guanajuato+city&form=hpcapt&filters=HpDate%3a%2220200916_0700%22", 
+                "wp": true, 
+                "enddate": "20200917", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
