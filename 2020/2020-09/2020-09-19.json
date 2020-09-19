@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200918", 
+                "urlbase": "/th?id=OHR.PirateSails_ZH-CN7821037852", 
+                "fullstartdate": "202009181600", 
+                "copyright": "瓦尔内明德的帆船，德国 (© Rico Ködder/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.PirateSails_ZH-CN7821037852_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "327fa118f5fb9d57d689826b180b2c0c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200918_PirateSails%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%93%A6%E5%B0%94%E5%86%85%E6%98%8E%E5%BE%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200919", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200918", 
+                "urlbase": "/th?id=OHR.IcelandicRettir_EN-US1987964770", 
+                "fullstartdate": "202009180700", 
+                "copyright": "Icelandic sheep ready for réttir (© Pieter Tytgat/Getty Images)", 
+                "title": "Homeward bound", 
+                "url": "/th?id=OHR.IcelandicRettir_EN-US1987964770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "904240e242a37694f4e30f4ba40a1cc6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200918_IcelandicRettir%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Icelandic+sheep&form=hpcapt&filters=HpDate%3a%2220200918_0700%22", 
+                "wp": true, 
+                "enddate": "20200919", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
