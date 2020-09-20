@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200919", 
+                "urlbase": "/th?id=OHR.MontereyPup_ZH-CN7914017418", 
+                "fullstartdate": "202009191600", 
+                "copyright": "海獭妈妈和新生的小狗，加利福尼亚蒙特雷湾 (© Suzi Eszterhas/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.MontereyPup_ZH-CN7914017418_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6a8c6d5146212331950c1cd1e76608d4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200919_MontereyPup%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B5%B7%E7%8D%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200920", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200919", 
+                "urlbase": "/th?id=OHR.PirateSails_EN-US2113873762", 
+                "fullstartdate": "202009190700", 
+                "copyright": "Sailboats in Warnemünde, Germany (© Rico Ködder/Getty Images)", 
+                "title": "Arrr, it be Talk Like a Pirate Day", 
+                "url": "/th?id=OHR.PirateSails_EN-US2113873762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cf690383627369a7f8d77a257957a075", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200919_PirateSails%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=talk+like+a+pirate+day&FORM=hpcapt&filters=HpDate%3a%2220200919_0700%22", 
+                "wp": true, 
+                "enddate": "20200920", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
