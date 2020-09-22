@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200921", 
+                "urlbase": "/th?id=OHR.Matamata_ZH-CN8111830275", 
+                "fullstartdate": "202009211600", 
+                "copyright": "马塔马塔附近的霍比特人村，新西兰北岛 (© 500px Asia/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Matamata_ZH-CN8111830275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fab9fa6464d63e134ae0415d9f67aac5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200921_Matamata%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E5%A1%94%E9%A9%AC%E5%A1%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200922", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200921", 
+                "urlbase": "/th?id=OHR.ToleranceShip_EN-US3673736433", 
+                "fullstartdate": "202009210700", 
+                "copyright": "The Ship of Tolerance, an international art installation in Zug, Switzerland (© Linda Kennard/Alamy)", 
+                "title": "A gentle wind fills this sail", 
+                "url": "/th?id=OHR.ToleranceShip_EN-US3673736433_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2053b00c68bd802297027c66f3c58765", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200921_ToleranceShip%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=international+day+of+peace&form=hpcapt&filters=HpDate%3a%2220200921_0700%22", 
+                "wp": false, 
+                "enddate": "20200922", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
