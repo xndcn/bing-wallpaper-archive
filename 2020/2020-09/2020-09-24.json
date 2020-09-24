@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200923", 
+                "urlbase": "/th?id=OHR.Almabtrieb_ZH-CN8639425400", 
+                "fullstartdate": "202009231600", 
+                "copyright": "为牛下山节（即把牛从高山牧场赶回）装饰的牛，奥地利坦海姆塔尔 (© Hans Lippert/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.Almabtrieb_ZH-CN8639425400_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "dc3a4757bff7e1bf2d0ef5dbca2f6340", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200923_Almabtrieb%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A5%A5%E5%9C%B0%E5%88%A9%E5%9D%A6%E6%B5%B7%E5%A7%86%E5%A1%94%E5%B0%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200924", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200923", 
+                "urlbase": "/th?id=OHR.GoldenGinkgo_EN-US3839968097", 
+                "fullstartdate": "202009230700", 
+                "copyright": "Golden ginkgo leaves at Xuanwu Lake Park in Nanjing, Jiangsu province, China (© SIPA Asia/ZUMA Wire/Alamy)", 
+                "title": "A tree of many memories", 
+                "url": "/th?id=OHR.GoldenGinkgo_EN-US3839968097_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b9e4fdc6a1cf2e5a10bbfc03851d64f9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200923_GoldenGinkgo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=ginkgo+biloba+tree&form=hpcapt&filters=HpDate%3a%2220200923_0700%22", 
+                "wp": true, 
+                "enddate": "20200924", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
