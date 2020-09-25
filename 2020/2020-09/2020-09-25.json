@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200924", 
+                "urlbase": "/th?id=OHR.LoarreCastle_ZH-CN1136982025", 
+                "fullstartdate": "202009241600", 
+                "copyright": "洛阿雷城堡，西班牙韦斯卡 (© Sebastian Wasek/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.LoarreCastle_ZH-CN1136982025_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fccd09de48b617d56b2833a123f47591", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200924_LoarreCastle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B4%9B%E9%98%BF%E9%9B%B7%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200925", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200924", 
+                "urlbase": "/th?id=OHR.Almabtrieb_EN-US4018816112", 
+                "fullstartdate": "202009240700", 
+                "copyright": "Cows decorated for the Almabtrieb in Tannheimer Tal, a valley in Tyrol, Austria (© Hans Lippert/Alamy)", 
+                "title": "Till the cows come home", 
+                "url": "/th?id=OHR.Almabtrieb_EN-US4018816112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7f3966840031ce510252f269852315fb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200924_Almabtrieb%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=almabtrieb&form=hpcapt&filters=HpDate%3a%2220200924_0700%22", 
+                "wp": true, 
+                "enddate": "20200925", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
