@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20200928", 
+                "urlbase": "/th?id=OHR.Lavaux_ZH-CN1891785892", 
+                "fullstartdate": "202009281600", 
+                "copyright": "日内瓦湖岸上陡峭的拉沃葡萄园梯田，瑞士 (© Yves Marcoux/plainpicture)", 
+                "title": "", 
+                "url": "/th?id=OHR.Lavaux_ZH-CN1891785892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4a97932f372de700d9382595ba9cf67c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200928_Lavaux%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%8B%89%E6%B2%83%E8%91%A1%E8%90%84%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20200929", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20200928", 
+                "urlbase": "/th?id=OHR.GreatBlueShark_EN-US2007599182", 
+                "fullstartdate": "202009280700", 
+                "copyright": "Blue shark near the Azores in the North Atlantic Ocean (© Nuno Sa/Minden Pictures)", 
+                "title": "Explorer of the sea", 
+                "url": "/th?id=OHR.GreatBlueShark_EN-US2007599182_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "92d73012a5352633cf9549caaf274674", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20200928_GreatBlueShark%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=blue+shark+facts&form=hpcapt&filters=HpDate%3a%2220200928_0700%22", 
+                "wp": true, 
+                "enddate": "20200929", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
