@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201001", 
+                "urlbase": "/th?id=OHR.ThePopiePlace_ZH-CN2293461094", 
+                "fullstartdate": "202010011600", 
+                "copyright": "从波迪安西之路的洛特谷中望向圣西尔克·拉波皮教堂，法国洛特 (© Reinhard Schmid/Huber/eStock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.ThePopiePlace_ZH-CN2293461094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0717397262e8c63d501da14c233608f5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201001_ThePopiePlace%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B3%95%E5%9B%BD%E6%B4%9B%E7%89%B9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201002", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201001", 
+                "urlbase": "/th?id=OHR.SingaporeLanterns_EN-US2165733985", 
+                "fullstartdate": "202010010700", 
+                "copyright": "Lantern display celebrating the Mid-Autumn Festival in Singapore (© Khin/Getty Images)", 
+                "title": "A lunar lantern celebration", 
+                "url": "/th?id=OHR.SingaporeLanterns_EN-US2165733985_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ab19fcc58e77ec5093a78e5291844632", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201001_SingaporeLanterns%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mid-autumn+festival&form=hpcapt&filters=HpDate%3a%2220201001_0700%22", 
+                "wp": true, 
+                "enddate": "20201002", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
