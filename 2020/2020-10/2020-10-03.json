@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201002", 
+                "urlbase": "/th?id=OHR.FatBearWeek_ZH-CN2381854464", 
+                "fullstartdate": "202010021600", 
+                "copyright": "布鲁克斯河中的棕熊，阿拉斯加卡特迈国家公园 (© littleting/Pradthana Jarusriboonchai/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.FatBearWeek_ZH-CN2381854464_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "35a7d66f0d0a7cfe676c15dd2287d6f2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201002_FatBearWeek%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B8%83%E9%B2%81%E5%85%8B%E6%96%AF%E6%B2%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201003", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201002", 
+                "urlbase": "/th?id=OHR.OwensRiver_EN-US2212095060", 
+                "fullstartdate": "202010020700", 
+                "copyright": "The Owens River and the Sierra Nevada near Bishop, California (© Interfoto/Danita Delimont)", 
+                "title": "A wild and scenic scene", 
+                "url": "/th?id=OHR.OwensRiver_EN-US2212095060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7ab24a43f2c32cf9a2bb5a04bb5892ec", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201002_OwensRiver%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Owens+River&form=hpcapt&filters=HpDate%3a%2220201002_0700%22", 
+                "wp": true, 
+                "enddate": "20201003", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
