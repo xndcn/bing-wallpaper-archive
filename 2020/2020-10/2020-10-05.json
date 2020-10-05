@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201004", 
+                "urlbase": "/th?id=OHR.PRookery_ZH-CN2608300981", 
+                "fullstartdate": "202010041600", 
+                "copyright": "栖息在斯诺希尔岛的成年帝企鹅和幼崽，南极 (© Martin Ruegner/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.PRookery_ZH-CN2608300981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1488fbe5f95efe68dee7e2df43914a05", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201004_PRookery%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%96%AF%E8%AF%BA%E5%B8%8C%E5%B0%94%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201005", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201004", 
+                "urlbase": "/th?id=OHR.MontageJupiterIo_EN-US2310290045", 
+                "fullstartdate": "202010040700", 
+                "copyright": "Montage of images of Jupiter and its volcanic moon Io (© NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute/Goddard Space Flight Center)", 
+                "title": "Infrared Jupiter, erupting Io", 
+                "url": "/th?id=OHR.MontageJupiterIo_EN-US2310290045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f959f3e9f13f0e46d7420af3b07f8fc5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201004_MontageJupiterIo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=jupiter&form=hpcapt&filters=HpDate%3a%2220201004_0700%22", 
+                "wp": true, 
+                "enddate": "20201005", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
