@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201008", 
+                "urlbase": "/th?id=OHR.RoaringCascade_ZH-CN7814945705", 
+                "fullstartdate": "202010081600", 
+                "copyright": "大雾山国家公园中的咆哮叉，田纳西州 (© Bernie Kasper/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.RoaringCascade_ZH-CN7814945705_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8daae33ab49d32bf5ebdfc7141c8577a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201008_RoaringCascade%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E9%9B%BE%E5%B1%B1%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201009", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201008", 
+                "urlbase": "/th?id=OHR.BlanketOctopus_EN-US2551885510", 
+                "fullstartdate": "202010080700", 
+                "copyright": "Blanket octopus in Palm Beach, Florida (© Steven Kovacs/Minden Pictures)", 
+                "title": "An underwater rainbow", 
+                "url": "/th?id=OHR.BlanketOctopus_EN-US2551885510_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1ef536c88f3842e83a0ac72911598daa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201008_BlanketOctopus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=blanket+octopus+Tremoctopus+genus&form=hpcapt&filters=HpDate%3a%2220201008_0700%22", 
+                "wp": true, 
+                "enddate": "20201009", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
