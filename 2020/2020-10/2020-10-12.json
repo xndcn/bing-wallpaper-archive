@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201011", 
+                "urlbase": "/th?id=OHR.MountCetatea_ZH-CN1440163984", 
+                "fullstartdate": "202010111600", 
+                "copyright": "堡垒山上的珀纳里城堡，法加拉斯山,罗马尼亚 (© porojnicu/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MountCetatea_ZH-CN1440163984_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "dd4443dd81ae06308233caee1561e49f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201011_MountCetatea%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B3%95%E5%8A%A0%E6%8B%89%E6%96%AF%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201012", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201011", 
+                "urlbase": "/th?id=OHR.GeghardMonastery_EN-US0782868879", 
+                "fullstartdate": "202010110700", 
+                "copyright": "Monastery of Geghard, Armenia (© traumlichtfabrik/Getty Images)", 
+                "title": "A monastery in the mountain", 
+                "url": "/th?id=OHR.GeghardMonastery_EN-US0782868879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d7818c41d95622cc9bd2724fb05a6a4f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201011_GeghardMonastery%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=geghard+monastery+armenia&form=hpcapt&filters=HpDate%3a%2220201011_0700%22", 
+                "wp": true, 
+                "enddate": "20201012", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
