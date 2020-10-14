@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201013", 
+                "urlbase": "/th?id=OHR.BavariaFossil_ZH-CN9418077316", 
+                "fullstartdate": "202010131600", 
+                "copyright": "位于索尔恩霍芬的约1.5亿年前的蜻蜓化石，德国巴伐利亚 (© Ingo Arndt/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.BavariaFossil_ZH-CN9418077316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cfe03d04649d18a1d3a894bda5fa7a73", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201013_BavariaFossil%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%9C%BB%E8%9C%93%E5%8C%96%E7%9F%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201014", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201013", 
+                "urlbase": "/th?id=OHR.TrueFox_EN-US1510030210", 
+                "fullstartdate": "202010130700", 
+                "copyright": "Red fox in the Netherlands (© Wim Weenink/Minden Pictures)", 
+                "title": "Where can you find a red fox?", 
+                "url": "/th?id=OHR.TrueFox_EN-US1510030210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c00fec6e70f21117429188a705f085fd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201013_TrueFox%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=red+fox&FORM=hpcapt&filters=HpDate%3a%2220201013_0700%22", 
+                "wp": true, 
+                "enddate": "20201014", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
