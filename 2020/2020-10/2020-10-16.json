@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201015", 
+                "urlbase": "/th?id=OHR.WorldFoodDay_ZH-CN0834763150", 
+                "fullstartdate": "202010151600", 
+                "copyright": "田里的拖拉机和装载着卷心菜的拖车，奥地利圣珀尔滕 (© Stephan Zirwes/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.WorldFoodDay_ZH-CN0834763150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8cb80cbe199acbf4b0482014ea2916ba", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201015_WorldFoodDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A5%A5%E5%9C%B0%E5%88%A9%E5%9C%A3%E7%8F%80%E5%B0%94%E6%BB%95&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201016", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201015", 
+                "urlbase": "/th?id=OHR.OchreSeaStar_EN-US1746516942", 
+                "fullstartdate": "202010150700", 
+                "copyright": "Ochre sea star on kelp off the coast of California (© Ralph Pace/Minden Pictures)", 
+                "title": "A star is borne by seaweed", 
+                "url": "/th?id=OHR.OchreSeaStar_EN-US1746516942_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "588891e10dd16bb3805884198bea9998", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201015_OchreSeaStar%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=ochre+sea+star&form=hpcapt&filters=HpDate%3a%2220201015_0700%22", 
+                "wp": true, 
+                "enddate": "20201016", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
