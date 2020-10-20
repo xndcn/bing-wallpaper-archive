@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201019", 
+                "urlbase": "/th?id=OHR.BLNC_ZH-CN1521633936", 
+                "fullstartdate": "202010191600", 
+                "copyright": "比弗湖自然中心内光秃秃的树和红盖鳞毛蕨，纽约 (© Chris Murray/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.BLNC_ZH-CN1521633936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "65993f68c96b8c1f7763c5d8a08072e7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201019_BLNC%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%AF%94%E5%BC%97%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201020", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201019", 
+                "urlbase": "/th?id=OHR.MatiSiTemple_EN-US2396131405", 
+                "fullstartdate": "202010190700", 
+                "copyright": "The Mati Si (Horse's Hoof Temple) and grottoes of Mati Si Scenic Area, Gansu province, China (© Ana Flašker/Alamy)", 
+                "title": "A cliff-hanging complex of temples", 
+                "url": "/th?id=OHR.MatiSiTemple_EN-US2396131405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e846a219f10612fb4139463922a5d046", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201019_MatiSiTemple%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=gansu+province&form=hpcapt&filters=HpDate%3a%2220201019_0700%22", 
+                "wp": true, 
+                "enddate": "20201020", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
