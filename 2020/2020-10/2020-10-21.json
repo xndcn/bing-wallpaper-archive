@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201020", 
+                "urlbase": "/th?id=OHR.ChameleonIndonesia_ZH-CN1631787171", 
+                "fullstartdate": "202010201600", 
+                "copyright": "在一株植物上行走的变色龙，印度尼西亚 (© SnapRapid/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.ChameleonIndonesia_ZH-CN1631787171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b7c22d4b10eb19245c27837724c1b0e3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201020_ChameleonIndonesia%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8F%98%E8%89%B2%E9%BE%99&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201021", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201020", 
+                "urlbase": "/th?id=OHR.BLNC_EN-US2449834923", 
+                "fullstartdate": "202010200700", 
+                "copyright": "Beaver Lake Nature Center, New York (© Chris Murray/Alamy)", 
+                "title": "Reflecting on fall", 
+                "url": "/th?id=OHR.BLNC_EN-US2449834923_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "70bb1e00c9c643df5c2cbb56ce0e7c63", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201020_BLNC%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=beaver+lake+nature+center+baldwinsville&form=hpcapt&filters=HpDate%3a%2220201020_0700%22", 
+                "wp": true, 
+                "enddate": "20201021", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
