@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201022", 
+                "urlbase": "/th?id=OHR.BentsGeneral_ZH-CN7629263267", 
+                "fullstartdate": "202010221600", 
+                "copyright": "Bents的旧百货商店，加拿大萨斯喀彻温省 (© ImagineGolf/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.BentsGeneral_ZH-CN7629263267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1b05558ca9d801ad102b872cc12cdb2d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201022_BentsGeneral%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%90%A8%E6%96%AF%E5%96%80%E5%BD%BB%E6%B8%A9%E7%9C%81&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201023", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201022", 
+                "urlbase": "/th?id=OHR.LauwersmeerNP_EN-US2836506313", 
+                "fullstartdate": "202010220700", 
+                "copyright": "Starlings flock over Lauwersmeer National Park, Netherlands (© Frans Lemmens/Alamy)", 
+                "title": "Moving as one", 
+                "url": "/th?id=OHR.LauwersmeerNP_EN-US2836506313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "25a0751f1f8c46007a2f1178b93114de", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201022_LauwersmeerNP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=murmuration+of+starlings&form=hpcapt&filters=HpDate%3a%2220201022_0700%22", 
+                "wp": true, 
+                "enddate": "20201023", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
