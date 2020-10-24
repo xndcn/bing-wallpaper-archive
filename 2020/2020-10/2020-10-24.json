@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201023", 
+                "urlbase": "/th?id=OHR.UNBuilding_ZH-CN7730281645", 
+                "fullstartdate": "202010231600", 
+                "copyright": "纽约市的天际线与联合国总部大楼 (© Sean Pavone/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.UNBuilding_ZH-CN7730281645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5136e9f5a7272097e07fab9f3e299de4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201023_UNBuilding%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%81%94%E5%90%88%E5%9B%BD%E6%80%BB%E9%83%A8%E5%A4%A7%E6%A5%BC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201024", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201023", 
+                "urlbase": "/th?id=OHR.BentsGeneral_EN-US0472253814", 
+                "fullstartdate": "202010230700", 
+                "copyright": "Old general store of Bents, Saskatchewan, Canada (© ImagineGolf/Getty Images)", 
+                "title": "Saskatchewan's spookier side", 
+                "url": "/th?id=OHR.BentsGeneral_EN-US0472253814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "366496686d6ee38fa7db3f596e2206b1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201023_BentsGeneral%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=bents+saskatchewan&form=hpcapt&filters=HpDate%3a%2220201023_0700%22", 
+                "wp": true, 
+                "enddate": "20201024", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
