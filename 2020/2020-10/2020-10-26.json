@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201025", 
+                "urlbase": "/th?id=OHR.CorfeDorset_ZH-CN8002715956", 
+                "fullstartdate": "202010251600", 
+                "copyright": "科夫堡，英国多塞特 (© Ross Hoddinott/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.CorfeDorset_ZH-CN8002715956_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "236313696d4f665711f2174542298b91", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201025_CorfeDorset%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%A7%91%E5%A4%AB%E5%A0%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201026", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201025", 
+                "urlbase": "/th?id=OHR.BCPumpkins_EN-US0587350936", 
+                "fullstartdate": "202010250700", 
+                "copyright": "A pumpkin patch in British Columbia, Canada (© James Chen/Shutterstock)", 
+                "title": "A most sincere pumpkin patch", 
+                "url": "/th?id=OHR.BCPumpkins_EN-US0587350936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6c65c6174abdb27b9c5085dc9e65a0a2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201025_BCPumpkins%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=pumpkins&form=hpcapt&filters=HpDate%3a%2220201025_0700%22", 
+                "wp": true, 
+                "enddate": "20201026", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
