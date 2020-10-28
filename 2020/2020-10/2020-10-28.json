@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201027", 
+                "urlbase": "/th?id=OHR.BasilicaVoto_ZH-CN8324675706", 
+                "fullstartdate": "202010271600", 
+                "copyright": "国家誓言圣殿上怪诞的厄瓜多尔本土海鸟，厄瓜多尔基多 (© Henri Leduc/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.BasilicaVoto_ZH-CN8324675706_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "74791d4b59808dcba850e173e86def99", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201027_BasilicaVoto%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E5%AE%B6%E8%AA%93%E8%A8%80%E5%9C%A3%E6%AE%BF&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201028", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201027", 
+                "urlbase": "/th?id=OHR.CambronBridge_EN-US0717455259", 
+                "fullstartdate": "202010270700", 
+                "copyright": "Cambron Covered Bridge on Madison County Nature Trail near Huntsville, Alabama (© Jens Lambert/Shutterstock)", 
+                "title": "A bridge of Madison County", 
+                "url": "/th?id=OHR.CambronBridge_EN-US0717455259_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9042ec75aaa2015ac7eafcd3c6e7f817", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201027_CambronBridge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Green+Mountain+Nature+Trail%2c+Madison+County%2c+AL&form=hpcapt&filters=HpDate%3a%2220201027_0700%22", 
+                "wp": true, 
+                "enddate": "20201028", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
