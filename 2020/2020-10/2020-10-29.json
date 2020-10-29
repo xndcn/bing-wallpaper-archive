@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201028", 
+                "urlbase": "/th?id=OHR.Mazezilla_ZH-CN8502282112", 
+                "fullstartdate": "202010281600", 
+                "copyright": "克林格尔农场的Mazezilla玉米田迷宫，宾夕法尼亚州  (© Alex Potemkin/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Mazezilla_ZH-CN8502282112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1a6eb2c14603db0c521348149b0c6399", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201028_Mazezilla%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%85%8B%E6%9E%97%E6%A0%BC%E5%B0%94%E5%86%9C%E5%9C%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201029", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201028", 
+                "urlbase": "/th?id=OHR.BasilicaVoto_EN-US0798981928", 
+                "fullstartdate": "202010280700", 
+                "copyright": "Grotesques of  Ecuadorian seabirds on the Basílica del Voto Nacional in Quito, Ecuador (© Henri Leduc/Getty Images)", 
+                "title": "A 'grotesque' scene", 
+                "url": "/th?id=OHR.BasilicaVoto_EN-US0798981928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9406d5a82394dad5c893912e9e73a28a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201028_BasilicaVoto%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=basilica+del+voto+nacional&form=hpcapt&filters=HpDate%3a%2220201028_0700%22", 
+                "wp": true, 
+                "enddate": "20201029", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
