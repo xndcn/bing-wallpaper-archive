@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201030", 
+                "urlbase": "/th?id=OHR.GreyLady_ZH-CN8921039038", 
+                "fullstartdate": "202010301600", 
+                "vid": {
+                    "caption": "万圣节之夜在黑暗的树篱 (© Audio: Emmett Cooke/Shutterstock; Cedric Hommel/Getty | Video: VanderWolf Images, Lario Tus, Parinya/Shutterstock; mputsylo/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/SpookyHedges_FF_1920x1080_HD_ZH-CN11887411.jpg", 
+                    "audiopresent": true, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/SpookyHedges_FF_VERT_Mobile_ZH-CN1991874981.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SpookyHedges_1920x1080_FINAL_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SpookyHedges_1920x1080_FINAL_HD_ZH-CN.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SpookyHedges_VERT_ZH-CN.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=dark+hedges+ireland&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "黑暗树篱，北爱尔兰安特里姆 (© VanderWolf Images/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.GreyLady_ZH-CN8921039038_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c47e047537dea50ad8a34d858f705983", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201030_GreyLady%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%AE%89%E7%89%B9%E9%87%8C%E5%A7%86&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20201031", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201030", 
+                "urlbase": "/th?id=OHR.FishOwl_EN-US0921851280", 
+                "fullstartdate": "202010300700", 
+                "copyright": "Blakiston's fish owl in Hokkaido, Japan (© Martin Bailey/Offset by Shutterstock)", 
+                "title": "Who's there? The largest owl in the world", 
+                "url": "/th?id=OHR.FishOwl_EN-US0921851280_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "515c82311dd7a39af416fae3d457ef39", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201030_FishOwl%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Blakiston%27s+Fish+Owl&form=hpcapt&filters=HpDate%3a%2220201030_0700%22", 
+                "wp": true, 
+                "enddate": "20201031", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
