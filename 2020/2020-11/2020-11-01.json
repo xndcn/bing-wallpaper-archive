@@ -1,0 +1,88 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201031", 
+                "urlbase": "/th?id=OHR.GorgeSavoie_ZH-CN9079188802", 
+                "fullstartdate": "202010311600", 
+                "copyright": "阿尔卑斯山Cheran峡谷中流淌的河流，法国萨瓦 (© Jean-Philippe Delobelle/Minden)", 
+                "title": "", 
+                "url": "/th?id=OHR.GorgeSavoie_ZH-CN9079188802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3eb5226133479ef9d7e09b357ad9ff82", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201031_GorgeSavoie%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201101", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201031", 
+                "urlbase": "/th?id=OHR.GreyLady_EN-US0986534396", 
+                "fullstartdate": "202010310700", 
+                "vid": {
+                    "caption": "Halloween night at the Dark Hedges (© Audio: Emmett Cooke/Shutterstock; Cedric Hommel/Getty | Video: VanderWolf Images, Lario Tus, Parinya/Shutterstock; mputsylo/Getty Images)", 
+                    "image": "//az29176.vo.msecnd.net/videocontent/SpookyHedges_FF_1920x1080_HD_EN-US11887411.jpg", 
+                    "audiopresent": true, 
+                    "mobileimage": "//az29176.vo.msecnd.net/videocontent/SpookyHedges_FF_VERT_Mobile_EN-US1991874981.jpg", 
+                    "dark": true, 
+                    "sources": [
+                        [
+                            "mp4", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SpookyHedges_1920x1080_FINAL_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4hd", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SpookyHedges_1920x1080_FINAL_HD_EN-US.mp4"
+                        ], 
+                        [
+                            "mp4mobile", 
+                            "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"", 
+                            "//az29176.vo.msecnd.net/videocontent/SpookyHedges_VERT_EN-US.mp4"
+                        ]
+                    ], 
+                    "captionlink": "/search?q=dark+hedges+ireland&form=hpcapt", 
+                    "loop": true
+                }, 
+                "copyright": "The Dark Hedges in County Antrim, Northern Ireland (© VanderWolf Images/Shutterstock)", 
+                "title": "'Twas a night just like tonight…", 
+                "url": "/th?id=OHR.GreyLady_EN-US0986534396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cf3934a2f7fb14db4af540845212ca5f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201031_GreyLady%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=dark+hedges+ireland&form=hpcapt&filters=HpDate%3a%2220201031_0700%22", 
+                "wp": false, 
+                "enddate": "20201101", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
