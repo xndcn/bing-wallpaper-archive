@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201102", 
+                "urlbase": "/th?id=OHR.LochLeum_ZH-CN9620588759", 
+                "fullstartdate": "202011021600", 
+                "copyright": "从奎雷英山口看到的 Leum na Luirginn湖和Cleat湖，英国斯凯岛 (© Sebastian Wasek/Sime/eStock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.LochLeum_ZH-CN9620588759_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "54606bc11b20fa06b95f76f7a432b436", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201102_LochLeum%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%96%AF%E5%87%AF%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201103", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201102", 
+                "urlbase": "/th?id=OHR.TorngatsMt_EN-US1184448099", 
+                "fullstartdate": "202011020800", 
+                "copyright": "Polar bears in Torngat Mountains National Park, Canada (© Cavan Images/Offset by Shutterstock)", 
+                "title": "Waiting for winter", 
+                "url": "/th?id=OHR.TorngatsMt_EN-US1184448099_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1408208b86d2b2a926462fd7e88490f2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201102_TorngatsMt%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220201102_0800%22", 
+                "wp": true, 
+                "enddate": "20201103", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
