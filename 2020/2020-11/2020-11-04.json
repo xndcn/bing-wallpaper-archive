@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201103", 
+                "urlbase": "/th?id=OHR.KobukRiver_ZH-CN9932342738", 
+                "fullstartdate": "202011031600", 
+                "copyright": "秋季迁徙时正在游过科伯克河的驯鹿，阿拉斯加 (© Michio Hoshino/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.KobukRiver_ZH-CN9932342738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d0c1db92da347758d3cce09a7b91d770", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201103_KobukRiver%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AF%E9%B9%BF&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201104", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201103", 
+                "urlbase": "/th?id=OHR.Election2020_EN-US1292390471", 
+                "fullstartdate": "202011030800", 
+                "copyright": "The United States Capitol Building in Washington, DC (© f11photo/Getty Images)", 
+                "title": "Vote!", 
+                "url": "/th?id=OHR.Election2020_EN-US1292390471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "68ebb656a831c7ae6ec1902f30545630", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201103_Election2020%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=us+elections+2020&form=hpcapt&filters=HpDate%3a%2220201103_0800%22", 
+                "wp": true, 
+                "enddate": "20201104", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
