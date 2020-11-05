@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201104", 
+                "urlbase": "/th?id=OHR.Albarracin_ZH-CN0019262872", 
+                "fullstartdate": "202011041600", 
+                "copyright": "阿尔瓦拉辛，西班牙 (© Domingo Leiva/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Albarracin_ZH-CN0019262872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "456760eb9f445b37f1eda1a835350985", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201104_Albarracin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%B0%94%E7%93%A6%E6%8B%89%E8%BE%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201105", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201104", 
+                "urlbase": "/th?id=OHR.KobukRiver_EN-US1344443933", 
+                "fullstartdate": "202011040800", 
+                "copyright": "Caribou swimming across Alaska's Kobuk River during fall migration (© Michio Hoshino/Minden Pictures)", 
+                "title": "Caribou on the move", 
+                "url": "/th?id=OHR.KobukRiver_EN-US1344443933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9771dda2a071f61a1e56073d45f4545a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201104_KobukRiver%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=caribou+animal&form=hpcapt&filters=HpDate%3a%2220201104_0800%22", 
+                "wp": true, 
+                "enddate": "20201105", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
