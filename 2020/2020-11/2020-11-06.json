@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201105", 
+                "urlbase": "/th?id=OHR.TwoWest_ZH-CN9396182448", 
+                "fullstartdate": "202011051600", 
+                "copyright": "三姐妹泉中的西印度海牛，佛罗里达州克里斯特尔里弗国家野生动物保护区 (© Norbert Probst/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.TwoWest_ZH-CN9396182448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e0b43c9bbbd21ce1925537a4a2d9460d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201105_TwoWest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%A5%BF%E5%8D%B0%E5%BA%A6%E6%B5%B7%E7%89%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201106", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201105", 
+                "urlbase": "/th?id=OHR.Albarracin_EN-US1381388147", 
+                "fullstartdate": "202011050800", 
+                "copyright": "Albarracín, Spain (© Domingo Leiva/Getty Images)", 
+                "title": "A medieval Moorish gem", 
+                "url": "/th?id=OHR.Albarracin_EN-US1381388147_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7a98e578eeafac852212a05a1d5ed113", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201105_Albarracin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=albarracin+spain&form=hpcapt&filters=HpDate%3a%2220201105_0800%22", 
+                "wp": true, 
+                "enddate": "20201106", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
