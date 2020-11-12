@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201111", 
+                "urlbase": "/th?id=OHR.ConneryPond_ZH-CN9900515488", 
+                "fullstartdate": "202011111600", 
+                "copyright": "Connery Pond和怀特菲斯山，纽约州 (© Henk Meijer/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.ConneryPond_ZH-CN9900515488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f2dc63ddf454287162bfa129c9ca24f5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201111_ConneryPond%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%80%80%E7%89%B9%E8%8F%B2%E6%96%AF%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201112", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201111", 
+                "urlbase": "/th?id=OHR.KWVeterans_EN-US4529611581", 
+                "fullstartdate": "202011110800", 
+                "copyright": "The Korean War Veterans Memorial, Washington, DC (© Ian G Dagnall/Alamy)", 
+                "title": "Honoring our veterans", 
+                "url": "/th?id=OHR.KWVeterans_EN-US4529611581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "86cf19962e2e33512751c78f0ef75019", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201111_KWVeterans%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=korean+war+veterans+memorial&form=hpcapt&filters=HpDate%3a%2220201111_0800%22", 
+                "wp": false, 
+                "enddate": "20201112", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
