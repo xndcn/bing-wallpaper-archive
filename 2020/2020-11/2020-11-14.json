@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201113", 
+                "urlbase": "/th?id=OHR.DiwaliRangoli_ZH-CN0293298599", 
+                "fullstartdate": "202011131600", 
+                "copyright": "排灯节期间摆放在蓝果丽上的油灯 (© Subir Basak/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.DiwaliRangoli_ZH-CN0293298599_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c272e10ecb656531ae5c9d641f72b18c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201113_DiwaliRangoli%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%8E%92%E7%81%AF%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201114", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201113", 
+                "urlbase": "/th?id=OHR.RavensSnow_EN-US4790905600", 
+                "fullstartdate": "202011130800", 
+                "copyright": "Ravens in a snowstorm near Kuhmo, Finland (© Frans Lemmens/Alamy)", 
+                "title": "Once upon a midafternoon dreary…", 
+                "url": "/th?id=OHR.RavensSnow_EN-US4790905600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d00df74be67e77448518ce887f914632", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201113_RavensSnow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=friday+the+13th+day&form=hpcapt&filters=HpDate%3a%2220201113_0800%22", 
+                "wp": true, 
+                "enddate": "20201114", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
