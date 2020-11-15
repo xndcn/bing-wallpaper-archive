@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201114", 
+                "urlbase": "/th?id=OHR.LupineNZ_ZH-CN0613960648", 
+                "fullstartdate": "202011141600", 
+                "copyright": "特卡波湖岸上的羽扇豆，新西兰 (© Stanislav Kachyna/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.LupineNZ_ZH-CN0613960648_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cd78f03db7b2b939e06915966bff399a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201114_LupineNZ%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%BE%BD%E6%89%87%E8%B1%86&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201115", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201114", 
+                "urlbase": "/th?id=OHR.DiwaliRangoli_EN-US4850858374", 
+                "fullstartdate": "202011140800", 
+                "copyright": "Oil lamps being arranged on rangoli designs during Diwali (© Subir Basak/Getty Images)", 
+                "title": "Decorating for Diwali", 
+                "url": "/th?id=OHR.DiwaliRangoli_EN-US4850858374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "62f3d816beed42010321afa3ad098c96", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201114_DiwaliRangoli%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=rangoli+diwali&form=hpcapt&filters=HpDate%3a%2220201114_0800%22", 
+                "wp": true, 
+                "enddate": "20201115", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
