@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201115", 
+                "urlbase": "/th?id=OHR.HokkaidoShida_ZH-CN0103354943", 
+                "fullstartdate": "202011151600", 
+                "copyright": "日本北海道 (© Hiroshi Yokoyama/eStock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.HokkaidoShida_ZH-CN0103354943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9255db1c2a7820f82c52c38720e01d3f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201115_HokkaidoShida%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%B5%B7%E9%81%93&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201116", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201115", 
+                "urlbase": "/th?id=OHR.LupineNZ_EN-US4937950958", 
+                "fullstartdate": "202011150800", 
+                "copyright": "Lupines on the shores of Lake Tekapo in New Zealand (© Stanislav Kachyna/Shutterstock)", 
+                "title": "What’s blooming in New Zealand?", 
+                "url": "/th?id=OHR.LupineNZ_EN-US4937950958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "75e1a94589645a716c0d06eb29492db4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201115_LupineNZ%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Lupinus&form=hpcapt&filters=HpDate%3a%2220201115_0800%22", 
+                "wp": true, 
+                "enddate": "20201116", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
