@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201116", 
+                "urlbase": "/th?id=OHR.MischwaldFuessen_ZH-CN0005213724", 
+                "fullstartdate": "202011161600", 
+                "copyright": "混交林，菲森，巴伐利亚，德国 (© Erich Kuchling/DEEPOL by plainpicture)", 
+                "title": "", 
+                "url": "/th?id=OHR.MischwaldFuessen_ZH-CN0005213724_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8df6576dae2e935290a0f48ff9ab10bb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201116_MischwaldFuessen%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B7%B7%E4%BA%A4%E6%9E%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201117", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201116", 
+                "urlbase": "/th?id=OHR.MainEntryTemple_EN-US5037299759", 
+                "fullstartdate": "202011160800", 
+                "copyright": "The interior of the Great Temple at Abu Simbel, Egypt (© George Steinmetz/Getty Images)", 
+                "title": "A temple, preserved", 
+                "url": "/th?id=OHR.MainEntryTemple_EN-US5037299759_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c04623df86e7cc95ef641c3711b6193a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201116_MainEntryTemple%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=abu+simbel+temple&form=hpcapt&filters=HpDate%3a%2220201116_0800%22", 
+                "wp": false, 
+                "enddate": "20201117", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
