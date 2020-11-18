@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201117", 
+                "urlbase": "/th?id=OHR.InukshukLights_ZH-CN0756858983", 
+                "fullstartdate": "202011171600", 
+                "copyright": "被北极光映衬出轮廓的因努伊特石堆，加拿大西北地区 (© Mark Duffy/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.InukshukLights_ZH-CN0756858983_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c33dd6ef6f8c384717e9b5e15f3920d7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201117_InukshukLights%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E5%85%89%E6%98%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201118", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201117", 
+                "urlbase": "/th?id=OHR.WoodLine_EN-US5118404691", 
+                "fullstartdate": "202011170800", 
+                "copyright": "Andy Goldsworthy's 'Wood Line' installation near Lovers' Lane in the Presidio of San Francisco, California (© Chris LaBasco/Alamy)", 
+                "title": "Take a hike near Lovers' Lane", 
+                "url": "/th?id=OHR.WoodLine_EN-US5118404691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "41279ed32362ad3fef1a74717bbc80b3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201117_WoodLine%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=presidio+of+san+francisco&form=hpcapt&filters=HpDate%3a%2220201117_0800%22", 
+                "wp": false, 
+                "enddate": "20201118", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
