@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201119", 
+                "urlbase": "/th?id=OHR.MontBlancPeak_ZH-CN0459151326", 
+                "fullstartdate": "202011191600", 
+                "copyright": "鸟瞰勃朗峰山脉中的南针峰，法国 (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.MontBlancPeak_ZH-CN0459151326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bd5d534d8f7b997435f0868ad2987f9a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201119_MontBlancPeak%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8B%83%E6%9C%97%E5%B3%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201120", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201119", 
+                "urlbase": "/th?id=OHR.ToucanCostaRica_EN-US5323179600", 
+                "fullstartdate": "202011190800", 
+                "copyright": "Chestnut-mandibled toucan nesting in the cavity of a tree, Costa Rica (© Greg Basco/Minden Pictures)", 
+                "title": "That bill's just not going to fit", 
+                "url": "/th?id=OHR.ToucanCostaRica_EN-US5323179600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e22459857e132eed7fe006b6be4e2f1d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201119_ToucanCostaRica%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=chestnut-mandibled+toucan&form=hpcapt&filters=HpDate%3a%2220201119_0800%22", 
+                "wp": true, 
+                "enddate": "20201120", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
