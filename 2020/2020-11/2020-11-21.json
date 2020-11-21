@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201120", 
+                "urlbase": "/th?id=OHR.NCHighCountry_ZH-CN0617631531", 
+                "fullstartdate": "202011201600", 
+                "copyright": "普莱斯湖中冰封的秋叶，北卡罗莱纳州朱利安·普莱斯纪念公园 (© Richard Bernabe/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.NCHighCountry_ZH-CN0617631531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "518bfbb97aeb11d4821a4409833e3e00", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201120_NCHighCountry%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%99%AE%E8%8E%B1%E6%96%AF%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201121", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201120", 
+                "urlbase": "/th?id=OHR.MontBlancPeak_EN-US7582043001", 
+                "fullstartdate": "202011200800", 
+                "copyright": "Aerial view of the Aiguille du Midi in the Mont Blanc massif, France (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "Atop the Needle of Chamonix", 
+                "url": "/th?id=OHR.MontBlancPeak_EN-US7582043001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "87b7f5f4ea7d24b73b696795f9459615", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201120_MontBlancPeak%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=aiguille+du+midi&form=hpcapt&filters=HpDate%3a%2220201120_0800%22", 
+                "wp": true, 
+                "enddate": "20201121", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
