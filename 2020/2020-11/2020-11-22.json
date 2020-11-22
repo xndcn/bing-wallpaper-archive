@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201121", 
+                "urlbase": "/th?id=OHR.Dromling_ZH-CN0730577626", 
+                "fullstartdate": "202011211600", 
+                "copyright": "Drömling湿地中的灰鹤，德国 (© Mike Friedrichs/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Dromling_ZH-CN0730577626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "442e2b414a95e8120a8c5e94c9399c54", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201121_Dromling%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Dr%C3%B6mling%E6%B9%BF%E5%9C%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201122", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201121", 
+                "urlbase": "/th?id=OHR.NCHighCountry_EN-US7693894330", 
+                "fullstartdate": "202011210800", 
+                "copyright": "Autumn leaves frozen in ice, Price Lake, Julian Price Memorial Park, Blue Ridge Parkway, North Carolina (© Richard Bernabe/Offset by Shutterstock)", 
+                "title": "Headed to the High Country", 
+                "url": "/th?id=OHR.NCHighCountry_EN-US7693894330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "aab92b813c7be3446d5e0a90364a525e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201121_NCHighCountry%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=blue+ridge+parkway&form=hpcapt&filters=HpDate%3a%2220201121_0800%22", 
+                "wp": true, 
+                "enddate": "20201122", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
