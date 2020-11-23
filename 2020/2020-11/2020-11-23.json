@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201122", 
+                "urlbase": "/th?id=OHR.BernCH_ZH-CN0890742909", 
+                "fullstartdate": "202011221600", 
+                "copyright": "伯尔尼老城，瑞士 (© Simon Zenger/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.BernCH_ZH-CN0890742909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fe0717a8efe92d8d509aec5c71553ca2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201122_BernCH%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%BC%AF%E5%B0%94%E5%B0%BC%E8%80%81%E5%9F%8E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201123", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201122", 
+                "urlbase": "/th?id=OHR.Dromling_EN-US8056662773", 
+                "fullstartdate": "202011220800", 
+                "copyright": "Common cranes in the Drömling wetland, Germany (© Mike Friedrichs/Getty Images)", 
+                "title": "Birds of the Drömling", 
+                "url": "/th?id=OHR.Dromling_EN-US8056662773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5d7a37cc4051c05cb30af8f26bfaa079", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201122_Dromling%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=common+crane&form=hpcapt&filters=HpDate%3a%2220201122_0800%22", 
+                "wp": true, 
+                "enddate": "20201123", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
