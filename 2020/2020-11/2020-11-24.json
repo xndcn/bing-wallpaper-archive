@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201123", 
+                "urlbase": "/th?id=OHR.AsilomarSB_ZH-CN1074865975", 
+                "fullstartdate": "202011231600", 
+                "copyright": "巨浪冲击着阿斯洛玛尔州立海滩的岩石，加利福尼亚州帕西菲克格罗夫 (© Sheila Haddad/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.AsilomarSB_ZH-CN1074865975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4995537d1e300cae0f9f7e05d16dcd25", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201123_AsilomarSB%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E6%96%AF%E6%B4%9B%E7%8E%9B%E5%B0%94%E5%B7%9E%E7%AB%8B%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201124", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201123", 
+                "urlbase": "/th?id=OHR.BernCH_EN-US8185860107", 
+                "fullstartdate": "202011230800", 
+                "copyright": "Old Town of Bern, Switzerland (© Simon Zenger/Alamy)", 
+                "title": "Autumn comes to Old Town", 
+                "url": "/th?id=OHR.BernCH_EN-US8185860107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "50cd2020628ce77db18ed51e0f25a3e0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201123_BernCH%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=old+city+of+bern&form=hpcapt&filters=HpDate%3a%2220201123_0800%22", 
+                "wp": true, 
+                "enddate": "20201124", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
