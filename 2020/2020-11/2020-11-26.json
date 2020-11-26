@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201125", 
+                "urlbase": "/th?id=OHR.ChipmunkJP_ZH-CN1697070440", 
+                "fullstartdate": "202011251600", 
+                "copyright": "大雪山上的花鼠，日本北海道 (© plainpicture/Score. by Aflo/Takao Onozato/Aflo)", 
+                "title": "", 
+                "url": "/th?id=OHR.ChipmunkJP_ZH-CN1697070440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fea63155424877e7e5e60a15aef0c92a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201125_ChipmunkJP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%8A%B1%E9%BC%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201126", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201125", 
+                "urlbase": "/th?id=OHR.CPMall_EN-US8473128519", 
+                "fullstartdate": "202011250800", 
+                "copyright": "A grove of American elm trees at Central Park's Mall, New York City (© AWL Images/Danita Delimont)", 
+                "title": "A dying breed of tree thrives in an American park", 
+                "url": "/th?id=OHR.CPMall_EN-US8473128519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "999914c83587583c83909adbfbc6ba97", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201125_CPMall%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=the+mall+central+park+new+york+city+&FORM=hpcapt&filters=HpDate%3a%2220201125_0800%22", 
+                "wp": true, 
+                "enddate": "20201126", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
