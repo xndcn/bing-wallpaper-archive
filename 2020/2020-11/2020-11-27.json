@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201126", 
+                "urlbase": "/th?id=OHR.NaturesWindowLookout_ZH-CN1799883608", 
+                "fullstartdate": "202011261600", 
+                "copyright": "卡尔巴里国家公园，澳大利亚 (© AWL Images/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.NaturesWindowLookout_ZH-CN1799883608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a54d36c8970f2f14263c4e07e036bbda", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201126_NaturesWindowLookout%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8D%A1%E5%B0%94%E5%B7%B4%E9%87%8C%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201127", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201126", 
+                "urlbase": "/th?id=OHR.ChipmunkThanksgiving_EN-US8557461431", 
+                "fullstartdate": "202011260800", 
+                "copyright": "A Siberian chipmunk on Mount Taisetsu, Hokkaido, Japan (© Ida Toshiaki/Minden Pictures)", 
+                "title": "Happy Thanksgiving from an expert face-stuffer", 
+                "url": "/th?id=OHR.ChipmunkThanksgiving_EN-US8557461431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7e2e24b42c8b2c40b0397e2ba55e994b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201126_ChipmunkThanksgiving%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Siberian+chipmunk&form=hpcapt&filters=HpDate%3a%2220201126_0800%22", 
+                "wp": true, 
+                "enddate": "20201127", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
