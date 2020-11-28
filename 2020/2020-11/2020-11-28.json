@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201127", 
+                "urlbase": "/th?id=OHR.ValCervara_ZH-CN1889046979", 
+                "fullstartdate": "202011271600", 
+                "copyright": "部分被雪覆盖的Val Cervara山坡上的老山毛榉林，意大利蒙帕赛诺 (© Bruno D'Amicis/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.ValCervara_ZH-CN1889046979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "beea5e4c5c93915214802163cecdd22a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201127_ValCervara%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Val+Cervara%E5%B1%B1%E5%9D%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201128", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201127", 
+                "urlbase": "/th?id=OHR.KayakGreenFriday_EN-US8700234828", 
+                "fullstartdate": "202011270800", 
+                "copyright": "Kayaking in Glacier National Park, Montana (© Makayla Crist/Cavan)", 
+                "title": "Green is the new black", 
+                "url": "/th?id=OHR.KayakGreenFriday_EN-US8700234828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a1c16900f8824ef94d6a16b108781479", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201127_KayakGreenFriday%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=glacier+national+park+boating&form=hpcapt&filters=HpDate%3a%2220201127_0800%22", 
+                "wp": true, 
+                "enddate": "20201128", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
