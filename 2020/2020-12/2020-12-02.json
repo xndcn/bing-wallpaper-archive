@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201201", 
+                "urlbase": "/th?id=OHR.PorcupineBay_ZH-CN2252758146", 
+                "fullstartdate": "202012011600", 
+                "copyright": "基奈峡湾国家公园的尖顶湾，阿拉斯加 (© Sekar B/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.PorcupineBay_ZH-CN2252758146_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4b729291a1259dbc3355d68efe6de423", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201201_PorcupineBay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9F%BA%E5%A5%88%E5%B3%A1%E6%B9%BE%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201202", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201201", 
+                "urlbase": "/th?id=OHR.CommonTernsGiving_EN-US9029169867", 
+                "fullstartdate": "202012010800", 
+                "copyright": "Common terns sharing a small fish (© Ryzhkov Sergey/Shutterstock)", 
+                "title": "Giving Tuesday", 
+                "url": "/th?id=OHR.CommonTernsGiving_EN-US9029169867_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "73facb7cdfe019d1baa7ab75cd636d99", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201201_CommonTernsGiving%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=giving+tuesday&form=hpcapt&filters=HpDate%3a%2220201201_0800%22", 
+                "wp": true, 
+                "enddate": "20201202", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
