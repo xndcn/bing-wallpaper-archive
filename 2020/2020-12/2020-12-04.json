@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201203", 
+                "urlbase": "/th?id=OHR.WCDBabyElephant_ZH-CN7844400740", 
+                "fullstartdate": "202012031600", 
+                "copyright": "阿多大象国家公园中的非洲象，南非 (© Robert Harding/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.WCDBabyElephant_ZH-CN7844400740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6724d86ee3efb3cb413ff0954d9ef202", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201203_WCDBabyElephant%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%9D%9E%E6%B4%B2%E8%B1%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201204", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201203", 
+                "urlbase": "/th?id=OHR.BrasovXmas_EN-US9193714069", 
+                "fullstartdate": "202012030800", 
+                "copyright": "Christmas market in the main square of Braşov, Romania (© Alpineguide/Alamy)", 
+                "title": "A Carpathian Christmas celebration", 
+                "url": "/th?id=OHR.BrasovXmas_EN-US9193714069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8b932551f4041a03f37ec5c02a82a66f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201203_BrasovXmas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=christmas+markets&form=hpcapt&filters=HpDate%3a%2220201203_0800%22", 
+                "wp": true, 
+                "enddate": "20201204", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
