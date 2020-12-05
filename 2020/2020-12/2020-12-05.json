@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201204", 
+                "urlbase": "/th?id=OHR.BenasqueValley_ZH-CN7931589735", 
+                "fullstartdate": "202012041600", 
+                "copyright": "贝纳斯克，西班牙韦斯卡 (© Miscelleneoustock/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.BenasqueValley_ZH-CN7931589735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "987ca5ccaaaff54b0a9fe25a1512e1f8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201204_BenasqueValley%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%B4%9D%E7%BA%B3%E6%96%AF%E5%85%8B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201205", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201204", 
+                "urlbase": "/th?id=OHR.WCDBabyElephant_EN-US1508691119", 
+                "fullstartdate": "202012040800", 
+                "copyright": "African savanna elephants in Addo Elephant National Park, South Africa (© Robert Harding/Alamy)", 
+                "title": "Protecting wildlife today and tomorrow", 
+                "url": "/th?id=OHR.WCDBabyElephant_EN-US1508691119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e5d2882e0a5bb11a40040564db3c58ea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201204_WCDBabyElephant%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=African+elephant&form=hpcapt&filters=HpDate%3a%2220201204_0800%22", 
+                "wp": true, 
+                "enddate": "20201205", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
