@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201206", 
+                "urlbase": "/th?id=OHR.VogelhaeuserD_ZH-CN8437589222", 
+                "fullstartdate": "202012061600", 
+                "copyright": "挂在树上的小鸟舍 (© Westend61/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.VogelhaeuserD_ZH-CN8437589222_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3d9b1fb432c8ac0a0d550ab5f6e50d92", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201206_VogelhaeuserD%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B0%8F%E9%B8%9F%E8%88%8D&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201207", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201206", 
+                "urlbase": "/th?id=OHR.PLNP_EN-US1730701592", 
+                "fullstartdate": "202012060800", 
+                "copyright": "Elevated path in Plitvice Lakes National Park, Croatia (© Alessandro Laporta/Offset by Shutterstock)", 
+                "title": "A hidden jewel in Croatia", 
+                "url": "/th?id=OHR.PLNP_EN-US1730701592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a65b0c6a7c8877fd19857d0104a4bd37", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201206_PLNP%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=hpcapt&filters=HpDate%3a%2220201206_0800%22", 
+                "wp": true, 
+                "enddate": "20201207", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
