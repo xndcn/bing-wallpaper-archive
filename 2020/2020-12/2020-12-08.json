@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201207", 
+                "urlbase": "/th?id=OHR.RoccaCalascio_ZH-CN8546031521", 
+                "fullstartdate": "202012071600", 
+                "copyright": "阿布鲁佐的Rocca Calascio，意大利 (© Francesco Russo/eStock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.RoccaCalascio_ZH-CN8546031521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "28d444efbf36d79139c363ed5da75b2d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201207_RoccaCalascio%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Rocca+Calascio&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201207", 
+                "urlbase": "/th?id=OHR.WWIIPHDedication_EN-US1829070269", 
+                "fullstartdate": "202012070800", 
+                "copyright": "View of the Washington Monument and the National World War II Memorial with its Pearl Harbor Dedication, Washington, DC (© Olga Bogatyrenko/Shutterstock)", 
+                "title": "In memory of those lost", 
+                "url": "/th?id=OHR.WWIIPHDedication_EN-US1829070269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "af90a978df54fd5a2ea789e4467fb352", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201207_WWIIPHDedication%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Pearl+Harbor+Remembrance+Day&form=hpcapt&filters=HpDate%3a%2220201207_0800%22", 
+                "wp": true, 
+                "enddate": "20201208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
