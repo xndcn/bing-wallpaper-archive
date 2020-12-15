@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201214", 
+                "urlbase": "/th?id=OHR.ElbeBastei_ZH-CN9708654240", 
+                "fullstartdate": "202012141600", 
+                "copyright": "易北河上的巴斯泰桥，德国撒克逊瑞士国家公园 (© Reinhard Schmid/eStock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.ElbeBastei_ZH-CN9708654240_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "38a3f7597635416b65b0da33ad5670d6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201214_ElbeBastei%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E6%96%AF%E6%B3%B0%E6%A1%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201215", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201214", 
+                "urlbase": "/th?id=OHR.PineGrosbeak_EN-US2151091421", 
+                "fullstartdate": "202012140800", 
+                "copyright": "Pine grosbeak (© Peter Lilja/Getty Images)", 
+                "title": "I see one!", 
+                "url": "/th?id=OHR.PineGrosbeak_EN-US2151091421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6f4c8969a9676dbf8887b8b4947b29f9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201214_PineGrosbeak%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=pine+grosbeak&form=hpcapt&filters=HpDate%3a%2220201214_0800%22", 
+                "wp": true, 
+                "enddate": "20201215", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
