@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201225", 
+                "urlbase": "/th?id=OHR.BarnettsDemesne_ZH-CN8484261440", 
+                "fullstartdate": "202012251600", 
+                "copyright": "Barnett Demesne公园中在白雪覆盖的山坡上玩耍的一家，北爱尔兰贝尔法斯特 (© Stephen Barnes/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.BarnettsDemesne_ZH-CN8484261440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4303b7127fe4f3447084fb7e88814b06", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201225_BarnettsDemesne%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Barnett+Demesne%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201226", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201225", 
+                "urlbase": "/th?id=OHR.SleighMailbox_EN-US0378551322", 
+                "fullstartdate": "202012250800", 
+                "copyright": "Santa's giant sleigh and mailbox, Ilulissat, Greenland (© Walter Bibikow/Jon Arnold Images Ltd/Alamy)", 
+                "title": "Big dreams require a big sleigh", 
+                "url": "/th?id=OHR.SleighMailbox_EN-US0378551322_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c27a43587dbcb585d8fbb6fe30afe672", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201225_SleighMailbox%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=christmas&form=hpcapt&filters=HpDate%3a%2220201225_0800%22", 
+                "wp": false, 
+                "enddate": "20201226", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
