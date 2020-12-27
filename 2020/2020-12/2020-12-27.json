@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201226", 
+                "urlbase": "/th?id=OHR.IbonPlan_ZH-CN8564017247", 
+                "fullstartdate": "202012261600", 
+                "copyright": "比利牛斯山脉中的高山湖Ibón de Plan，西班牙韦斯卡 (© Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.IbonPlan_ZH-CN8564017247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1c188e63e56e5409fc117089c00cd877", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201226_IbonPlan%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%AF%94%E5%88%A9%E7%89%9B%E6%96%AF%E5%B1%B1%E8%84%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201227", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201226", 
+                "urlbase": "/th?id=OHR.BarnettsDemesne_EN-US0418109777", 
+                "fullstartdate": "202012260800", 
+                "copyright": "Families play on the snow-covered slopes at Barnett Demesne Park, Belfast, Northern Ireland (© Stephen Barnes/Alamy)", 
+                "title": "Happy Boxing Day!", 
+                "url": "/th?id=OHR.BarnettsDemesne_EN-US0418109777_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f1366e7cb9ea1554073c104e2a064e3e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201226_BarnettsDemesne%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=boxing+day&form=hpcapt&filters=HpDate%3a%2220201226_0800%22", 
+                "wp": true, 
+                "enddate": "20201227", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
