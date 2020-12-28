@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201227", 
+                "urlbase": "/th?id=OHR.CanadaLynx_ZH-CN8645816958", 
+                "fullstartdate": "202012271600", 
+                "copyright": "加拿大猞猁，蒙大拿州 (© Alan and Sandy Carey/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.CanadaLynx_ZH-CN8645816958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9213805c3f0f6bbebd73215c10cc3396", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201227_CanadaLynx%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%8C%9E%E7%8C%81&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201228", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201227", 
+                "urlbase": "/th?id=OHR.NabananoSato_EN-US0456707930", 
+                "fullstartdate": "202012270800", 
+                "copyright": "Nabana no Sato garden at night in Kuwana, Japan (© Zoonar GmbH/Alamy)", 
+                "title": "Turning darkness into light", 
+                "url": "/th?id=OHR.NabananoSato_EN-US0456707930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a42f707536efe668874872ee794bbe52", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201227_NabananoSato%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=nabana+no+sato+winter+light+festival&form=hpcapt&filters=HpDate%3a%2220201227_0800%22", 
+                "wp": false, 
+                "enddate": "20201228", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
