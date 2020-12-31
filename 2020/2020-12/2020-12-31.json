@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20201230", 
+                "urlbase": "/th?id=OHR.ZaragozaSpain_ZH-CN8995859415", 
+                "fullstartdate": "202012301600", 
+                "copyright": "跨年庆典中燃放的烟花，西班牙萨拉戈萨 (© Martina Badini/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.ZaragozaSpain_ZH-CN8995859415_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "eb60195369397ef5bc0bfb9da4266599", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201230_ZaragozaSpain%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%90%A8%E6%8B%89%E6%88%88%E8%90%A8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20201231", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20201230", 
+                "urlbase": "/th?id=OHR.WinterBryce_EN-US0613213485", 
+                "fullstartdate": "202012300800", 
+                "copyright": "Winter in Bryce Canyon National Park, Utah (© Don Paulson/Danita Delimont)", 
+                "title": "Winter in the Wild West", 
+                "url": "/th?id=OHR.WinterBryce_EN-US0613213485_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d699306d03a24e9e70275b057231f899", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20201230_WinterBryce%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=bryce+canyon+national+park&form=hpcapt&filters=HpDate%3a%2220201230_0800%22", 
+                "wp": true, 
+                "enddate": "20201231", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
