@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210101", 
+                "urlbase": "/th?id=OHR.LargestCave_ZH-CN2069899703", 
+                "fullstartdate": "202101011600", 
+                "copyright": "峰牙－己榜国家公园中的韩松洞，越南 (© David A Knight/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.LargestCave_ZH-CN2069899703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6e67bbbc2fbd3d83ef513c71c201a31c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210101_LargestCave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%9F%A9%E6%9D%BE%E6%B4%9E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210102", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210101", 
+                "urlbase": "/th?id=OHR.LoonyDook_EN-US4158038260", 
+                "fullstartdate": "202101010800", 
+                "copyright": "Polar bear in waters off Svalbard, Norway (© Westend61/Getty Images)", 
+                "title": "Take the plunge into 2021", 
+                "url": "/th?id=OHR.LoonyDook_EN-US4158038260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c0202b9e3fd0723b79759ac60803120e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210101_LoonyDook%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=new+year%27s+day&form=hpcapt&filters=HpDate%3a%2220210101_0800%22", 
+                "wp": true, 
+                "enddate": "20210102", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
