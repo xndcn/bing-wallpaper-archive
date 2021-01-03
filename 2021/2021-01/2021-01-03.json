@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210102", 
+                "urlbase": "/th?id=OHR.Goessweinstein_ZH-CN2155531895", 
+                "fullstartdate": "202101021600", 
+                "copyright": "远眺格斯韦因斯泰因村和格斯韦因斯泰因城堡 (© Juergen Sack/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Goessweinstein_ZH-CN2155531895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c4fbaa4ec2bb0f49431c25d4a88994c1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210102_Goessweinstein%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A0%BC%E6%96%AF%E9%9F%A6%E5%9B%A0%E6%96%AF%E6%B3%B0%E5%9B%A0%E6%9D%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210103", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210102", 
+                "urlbase": "/th?id=OHR.LargestCave_EN-US4214761385", 
+                "fullstartdate": "202101020800", 
+                "copyright": "Sơn Đoòng cave in Phong Nha-Kẻ Bàng National Park, Vietnam (© David A Knight/Shutterstock)", 
+                "title": "A universe underground", 
+                "url": "/th?id=OHR.LargestCave_EN-US4214761385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9e372febcef0389ac65bbf1dcdf1d207", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210102_LargestCave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=son+doong+cave&form=hpcapt&filters=HpDate%3a%2220210102_0800%22", 
+                "wp": true, 
+                "enddate": "20210103", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
