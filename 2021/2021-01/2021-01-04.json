@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210103", 
+                "urlbase": "/th?id=OHR.DiamondBeach_ZH-CN3165398805", 
+                "fullstartdate": "202101031600", 
+                "copyright": "冰河湖对面的钻石冰沙滩，冰岛 (© surangaw/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.DiamondBeach_ZH-CN3165398805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ab53e3c6060788e3f42cb1e01c769ada", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210103_DiamondBeach%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%92%BB%E7%9F%B3%E5%86%B0%E6%B2%99%E6%BB%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210104", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210103", 
+                "urlbase": "/th?id=OHR.HohenschwangauWinter_EN-US4258102206", 
+                "fullstartdate": "202101030800", 
+                "copyright": "Hohenschwangau Castle, Bavaria, Germany (© Mespilia/Shutterstock)", 
+                "title": "An Alpine fairy-tale castle", 
+                "url": "/th?id=OHR.HohenschwangauWinter_EN-US4258102206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "675d766b747ff17796183478379297cf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210103_HohenschwangauWinter%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=hohenschwangau+castle&form=hpcapt&filters=HpDate%3a%2220210103_0800%22", 
+                "wp": true, 
+                "enddate": "20210104", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
