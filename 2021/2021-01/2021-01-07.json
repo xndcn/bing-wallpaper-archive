@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210106", 
+                "urlbase": "/th?id=OHR.WhiteCliffs_ZH-CN9314988447", 
+                "fullstartdate": "202101061600", 
+                "copyright": "多佛尔白崖，英国多佛尔 (© LisaValder/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.WhiteCliffs_ZH-CN9314988447_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3c5cb3644cac4be574893d41bcbf9ab2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210106_WhiteCliffs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%9A%E4%BD%9B%E5%B0%94%E7%99%BD%E5%B4%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210107", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210106", 
+                "urlbase": "/th?id=OHR.SnowCraterLake_EN-US5720302080", 
+                "fullstartdate": "202101060800", 
+                "copyright": "Crater Lake in Oregon (© Steve Bloom Images/Alamy)", 
+                "title": "Travels to the Oregon deep", 
+                "url": "/th?id=OHR.SnowCraterLake_EN-US5720302080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fd3dec7be03c17c6cce76f91805ec4d4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210106_SnowCraterLake%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=crater+lake+southern+oregon&form=hpcapt&filters=HpDate%3a%2220210106_0800%22", 
+                "wp": true, 
+                "enddate": "20210107", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
