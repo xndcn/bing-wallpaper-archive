@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210107", 
+                "urlbase": "/th?id=OHR.FoucaultsPendulum_ZH-CN9435794626", 
+                "fullstartdate": "202101071600", 
+                "copyright": "巴黎先贤祠内的傅科摆，法国 (© Adolf/Adobe Stock)", 
+                "title": "", 
+                "url": "/th?id=OHR.FoucaultsPendulum_ZH-CN9435794626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c8b195fa661cfaeb673cfdad30e78d35", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210107_FoucaultsPendulum%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E9%BB%8E%E5%85%88%E8%B4%A4%E7%A5%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210108", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210107", 
+                "urlbase": "/th?id=OHR.WhiteCliffs_EN-US5777446191", 
+                "fullstartdate": "202101070800", 
+                "copyright": "White Cliffs of Dover, England (© LisaValder/Getty Images)", 
+                "title": "Of balloons and lost pantaloons", 
+                "url": "/th?id=OHR.WhiteCliffs_EN-US5777446191_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "423f4398006d53ba09d83d1a9ffd204e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210107_WhiteCliffs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=white+cliffs+of+dover&form=hpcapt&filters=HpDate%3a%2220210107_0800%22", 
+                "wp": true, 
+                "enddate": "20210108", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
