@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210110", 
+                "urlbase": "/th?id=OHR.SierraNevada_ZH-CN0564237735", 
+                "fullstartdate": "202101101600", 
+                "copyright": "Pradollano滑雪站，西班牙内华达山脉国家公园 (© NTCo/iStock/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.SierraNevada_ZH-CN0564237735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9ffe8630042e43a2192e8058313f6dc8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210110_SierraNevada%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B1%B1%E8%84%89%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210111", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210110", 
+                "urlbase": "/th?id=OHR.GoldenDragon_EN-US6011178113", 
+                "fullstartdate": "202101100800", 
+                "copyright": "Huanglong Scenic and Historic Interest Area in Sichuan province, China (© primeimages/Getty Images)", 
+                "title": "China's colorful terraced pools", 
+                "url": "/th?id=OHR.GoldenDragon_EN-US6011178113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "89be0d5a9442e6593dfae6a65b89074e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210110_GoldenDragon%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=huanglong+scenic+and+historic+interest+area&form=hpcapt&filters=HpDate%3a%2220210110_0800%22", 
+                "wp": true, 
+                "enddate": "20210111", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
