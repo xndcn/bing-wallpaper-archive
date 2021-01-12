@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210111", 
+                "urlbase": "/th?id=OHR.SeaFort_ZH-CN0457624725", 
+                "fullstartdate": "202101111600", 
+                "copyright": "Sindhudurg堡，印度马哈拉施特拉邦 (© MovingMaratha/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.SeaFort_ZH-CN0457624725_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "172b6cde77c4d6e15bd0f0db3a0e73db", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210111_SeaFort%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Sindhudurg%E5%A0%A1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210112", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210111", 
+                "urlbase": "/th?id=OHR.Yunkai_EN-US4654823026", 
+                "fullstartdate": "202101110800", 
+                "copyright": "Aït Benhaddou, Atlas Mountains, Morocco (© Alex Cimbal/Shutterstock)", 
+                "title": "At the gates of the 'ksar'", 
+                "url": "/th?id=OHR.Yunkai_EN-US4654823026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9f0aae0de19957f436dcceaf4394e233", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210111_Yunkai%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=a%C3%AFt+benhaddou&form=hpcapt&filters=HpDate%3a%2220210111_0800%22", 
+                "wp": false, 
+                "enddate": "20210112", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
