@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210113", 
+                "urlbase": "/th?id=OHR.BrightonSnow_ZH-CN0309526170", 
+                "fullstartdate": "202101131600", 
+                "copyright": "布莱顿-霍夫被雪覆盖的海滩小屋，英国 (© Tim Jones/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.BrightonSnow_ZH-CN0309526170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6649f909faad5811cd12c9839885533e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210113_BrightonSnow%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B8%83%E8%8E%B1%E9%A1%BF-%E9%9C%8D%E5%A4%AB&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210114", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210113", 
+                "urlbase": "/th?id=OHR.BolivianSummer_EN-US6076997237", 
+                "fullstartdate": "202101130800", 
+                "copyright": "Flamingos in the Eduardo Avaroa Andean Fauna National Reserve in Bolivia (© Art Wolfe/Danita Delimont)", 
+                "title": "Strolling across the Red Lagoon", 
+                "url": "/th?id=OHR.BolivianSummer_EN-US6076997237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6d6fb5ac8384f17759d03b636dabe756", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210113_BolivianSummer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=eduardo+avaroa+andean+fauna+national+reserve&form=hpcapt&filters=HpDate%3a%2220210113_0800%22", 
+                "wp": true, 
+                "enddate": "20210114", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
