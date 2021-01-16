@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210115", 
+                "urlbase": "/th?id=OHR.GlassIgloos_ZH-CN8927574757", 
+                "fullstartdate": "202101151600", 
+                "copyright": "卡克斯劳塔宁阿克蒂克度假酒店的玻璃圆顶冰屋，芬兰萨里山  (© Lingxiao Xie/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.GlassIgloos_ZH-CN8927574757_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9a80e22e7e8bc7936300d751f9ae0650", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210115_GlassIgloos%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%86%B0%E5%B1%8B%E9%85%92%E5%BA%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210116", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210115", 
+                "urlbase": "/th?id=OHR.ChateauBeynac_EN-US4661331709", 
+                "fullstartdate": "202101150800", 
+                "copyright": "Château de Beynac overlooking the Dordogne Valley in France (© Gareth Kirkland/Alamy)", 
+                "title": "It's truffle season here in the Dordogne Valley", 
+                "url": "/th?id=OHR.ChateauBeynac_EN-US4661331709_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "985e1c1daf1b7d0d640b11b6e588c16b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210115_ChateauBeynac%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=chateau+de+beynac&form=hpcapt&filters=HpDate%3a%2220210115_0800%22", 
+                "wp": true, 
+                "enddate": "20210116", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
