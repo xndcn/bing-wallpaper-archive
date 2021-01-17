@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210116", 
+                "urlbase": "/th?id=OHR.PailonDelDiablo_ZH-CN9146230830", 
+                "fullstartdate": "202101161600", 
+                "copyright": "巴尼奥斯附近的阿格杨瀑布，厄瓜多尔 (© Laura BC/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.PailonDelDiablo_ZH-CN9146230830_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "10359ed7d18ec819f42f252017eb7674", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210116_PailonDelDiablo%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E6%A0%BC%E6%9D%A8%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210117", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210116", 
+                "urlbase": "/th?id=OHR.GlassIgloos_EN-US4753593580", 
+                "fullstartdate": "202101160800", 
+                "copyright": "Glass igloos at the Kakslauttanen Arctic Resort in Saariselkä, Finland (© Lingxiao Xie/Getty Images)", 
+                "title": "Oh, to sleep under the northern lights", 
+                "url": "/th?id=OHR.GlassIgloos_EN-US4753593580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "78668dc269fdec347edf03623b9f5ad7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210116_GlassIgloos%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=saariselka+finland&form=hpcapt&filters=HpDate%3a%2220210116_0800%22", 
+                "wp": true, 
+                "enddate": "20210117", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
