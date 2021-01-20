@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210119", 
+                "urlbase": "/th?id=OHR.GentooLeap_ZH-CN6189428446", 
+                "fullstartdate": "202101191600", 
+                "copyright": "南极丹科岛附近的巴布亚企鹅 (© David Merron/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.GentooLeap_ZH-CN6189428446_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6f3b6dd9afca6e862ed5e57810996082", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210119_GentooLeap%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E5%B8%83%E4%BA%9A%E4%BC%81%E9%B9%85&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210120", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210119", 
+                "urlbase": "/th?id=OHR.Calakmul_EN-US4913753574", 
+                "fullstartdate": "202101190800", 
+                "copyright": "Ruins of the ancient Maya city of Calakmul surrounded by jungle in Campeche, Mexico (© Alfredo Matus/Shutterstock)", 
+                "title": "The ruins of a Maya superpower", 
+                "url": "/th?id=OHR.Calakmul_EN-US4913753574_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "21aadf1c9780557513e4086c8460348d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210119_Calakmul%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=calakmul&form=hpcapt&filters=HpDate%3a%2220210119_0800%22", 
+                "wp": true, 
+                "enddate": "20210120", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
