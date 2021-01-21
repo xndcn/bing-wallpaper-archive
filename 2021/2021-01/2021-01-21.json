@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210120", 
+                "urlbase": "/th?id=OHR.RSOakTree_ZH-CN6371993573", 
+                "fullstartdate": "202101201600", 
+                "copyright": "苏格兰高地上的欧亚红松鼠，苏格兰 (© Scotland: The Big Picture/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.RSOakTree_ZH-CN6371993573_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "97e42b3339cde5323e9bb0c87c29a80f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210120_RSOakTree%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E7%BA%A2%E6%9D%BE%E9%BC%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210121", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210120", 
+                "urlbase": "/th?id=OHR.GentooLeap_EN-US4983496966", 
+                "fullstartdate": "202101200800", 
+                "copyright": "Gentoo penguins near Danco Island, Antarctica (© David Merron/Getty Images)", 
+                "title": "Penguins can't fly!", 
+                "url": "/th?id=OHR.GentooLeap_EN-US4983496966_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "65a6c71337fa0639d0971b7909b7ab0f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210120_GentooLeap%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=gentoo+penguins&form=hpcapt&filters=HpDate%3a%2220210120_0800%22", 
+                "wp": true, 
+                "enddate": "20210121", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
