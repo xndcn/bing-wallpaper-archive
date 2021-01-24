@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210123", 
+                "urlbase": "/th?id=OHR.Molas_ZH-CN6808431428", 
+                "fullstartdate": "202101231600", 
+                "copyright": "库纳族人的手工艺品，巴拿马圣布拉斯群岛 (© Lars Schneider/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.Molas_ZH-CN6808431428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "424757cd012f70113f423f8240ba11ab", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210123_Molas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%BA%93%E7%BA%B3%E6%97%8F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210124", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210123", 
+                "urlbase": "/th?id=OHR.ChuDangYa_EN-US5293170065", 
+                "fullstartdate": "202101230800", 
+                "copyright": "Chu Dang Ya near Pleiku in Gia Lai province, Vietnam (© Quang Ngoc Nguyen/Alamy)", 
+                "title": "A sleeping green giant", 
+                "url": "/th?id=OHR.ChuDangYa_EN-US5293170065_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f29e2131e796a79beb813c4f44337e74", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210123_ChuDangYa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=central+highlands+vietnam&form=hpcapt&filters=HpDate%3a%2220210123_0800%22", 
+                "wp": true, 
+                "enddate": "20210124", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
