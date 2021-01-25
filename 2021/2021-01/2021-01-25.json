@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210124", 
+                "urlbase": "/th?id=OHR.ChurchRock_ZH-CN6926315999", 
+                "fullstartdate": "202101241600", 
+                "copyright": "红石公园教堂岩附近的雷击，新墨西哥州 (© Tim Fitzharris/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.ChurchRock_ZH-CN6926315999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cdae6c57dbb4fe473dfd4f93b7870b8b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210124_ChurchRock%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A2%E7%9F%B3%E5%85%AC%E5%9B%AD%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210125", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210124", 
+                "urlbase": "/th?id=OHR.Molas_EN-US5410137458", 
+                "fullstartdate": "202101240800", 
+                "copyright": "Handicrafts of the Guna people of the Guna Yala archipelago, Panama (© Lars Schneider/Tandem Stills + Motion)", 
+                "title": "These patterns tell a story", 
+                "url": "/th?id=OHR.Molas_EN-US5410137458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1151240eb5ef9aabd216ca4b37b4e4ee", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210124_Molas%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=molas+guna+panama&form=hpcapt&filters=HpDate%3a%2220210124_0800%22", 
+                "wp": true, 
+                "enddate": "20210125", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
