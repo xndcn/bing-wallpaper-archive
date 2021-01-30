@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210129", 
+                "urlbase": "/th?id=OHR.BodminFrost_ZH-CN4303222848", 
+                "fullstartdate": "202101291600", 
+                "copyright": "博德明高沼上布朗威利山麓的废弃小屋，英格兰 (© Helen Hotson/Alamy Stock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.BodminFrost_ZH-CN4303222848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1e1efb8a53935783ddfa9af3dc966294", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210129_BodminFrost%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8D%9A%E5%BE%B7%E6%98%8E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210130", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210129", 
+                "urlbase": "/th?id=OHR.RedRobin_EN-US9299641141", 
+                "fullstartdate": "202101290800", 
+                "copyright": "European robin during a winter snowstorm, Peak District National Park, England (© Ben Robson Hull Photography/Getty Images)", 
+                "title": "So, how long till springtime?", 
+                "url": "/th?id=OHR.RedRobin_EN-US9299641141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7171db9a5c4567060cd8c672694e60e5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210129_RedRobin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=european+robin&form=hpcapt&filters=HpDate%3a%2220210129_0800%22", 
+                "wp": true, 
+                "enddate": "20210130", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
