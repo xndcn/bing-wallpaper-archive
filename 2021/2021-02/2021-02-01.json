@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210131", 
+                "urlbase": "/th?id=OHR.ToledoIldefonso_ZH-CN4507206651", 
+                "fullstartdate": "202101311600", 
+                "copyright": "日落后的托莱多全景，西班牙 (© Frank Fischbach/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.ToledoIldefonso_ZH-CN4507206651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "dbfcbf635be701e10f0bf1d9cf25520f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210131_ToledoIldefonso%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%89%98%E8%8E%B1%E5%A4%9A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210201", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210131", 
+                "urlbase": "/th?id=OHR.MittenwalderHut_EN-US9402205522", 
+                "fullstartdate": "202101310800", 
+                "copyright": "Mittenwalder Hütte in the Bavarian Alps of Germany (© Sebastian Frölich/Offset by Shutterstock)", 
+                "title": "A glittering diamond in the rough", 
+                "url": "/th?id=OHR.MittenwalderHut_EN-US9402205522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "071bcda54eae01f6233687cea61ae1e5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210131_MittenwalderHut%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=alpine+huts+in+bavaria&form=hpcapt&filters=HpDate%3a%2220210131_0800%22", 
+                "wp": true, 
+                "enddate": "20210201", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
