@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210202", 
+                "urlbase": "/th?id=OHR.MountNemrut_ZH-CN4681788604", 
+                "fullstartdate": "202102021600", 
+                "copyright": "内姆鲁特山上巨大的石灰岩雕像，土耳其阿德亚曼 (© Peerakit JIrachetthakun/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MountNemrut_ZH-CN4681788604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8e96102b6ad68ddce2ffcd8732f8d6f2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210202_MountNemrut%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%86%85%E5%A7%86%E9%B2%81%E7%89%B9%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210203", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210202", 
+                "urlbase": "/th?id=OHR.RainbowMarmot_EN-US9496423028", 
+                "fullstartdate": "202102020800", 
+                "copyright": "Marmot with the peak of Grossglockner in the background, Austria (© SeppFriedhuber/Getty Images)", 
+                "title": "Did it see its shadow?", 
+                "url": "/th?id=OHR.RainbowMarmot_EN-US9496423028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fec0bf997a69c13436eb355ae9d283c8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210202_RainbowMarmot%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=groundhog+day+2021&form=hpcapt&filters=HpDate%3a%2220210202_0800%22", 
+                "wp": true, 
+                "enddate": "20210203", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
