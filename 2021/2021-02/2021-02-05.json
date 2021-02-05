@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210204", 
+                "urlbase": "/th?id=OHR.TheWave_ZH-CN4856809836", 
+                "fullstartdate": "202102041600", 
+                "copyright": "波浪谷中的砂岩层和积水，亚利桑那州朱红悬崖国家纪念碑 (© Dennis Frates/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.TheWave_ZH-CN4856809836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ea6d5982b00ab676dd7a365a9e614e45", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210204_TheWave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%9C%B1%E7%BA%A2%E6%82%AC%E5%B4%96%E5%9B%BD%E5%AE%B6%E7%BA%AA%E5%BF%B5%E7%A2%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210205", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210204", 
+                "urlbase": "/th?id=OHR.VosgesBioReserve_EN-US9600640906", 
+                "fullstartdate": "202102040800", 
+                "copyright": "Northern Vosges Regional Nature Park, France (© Michel Rauch/Minden Pictures)", 
+                "title": "Where is this wintry road?", 
+                "url": "/th?id=OHR.VosgesBioReserve_EN-US9600640906_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e54bf292ed80a9e7dabf0cafb19ed4f5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210204_VosgesBioReserve%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=northern+vosges+regional+nature+park+france&form=hpcapt&filters=HpDate%3a%2220210204_0800%22", 
+                "wp": true, 
+                "enddate": "20210205", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
