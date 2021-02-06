@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210205", 
+                "urlbase": "/th?id=OHR.MountSefton_ZH-CN4956097627", 
+                "fullstartdate": "202102051600", 
+                "copyright": "奥拉基库克山国家公园中的塞夫顿山，新西兰南岛 (© AWL Images/Danita Delimont)", 
+                "title": "", 
+                "url": "/th?id=OHR.MountSefton_ZH-CN4956097627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "444767d4b31ef90891b7a32bbacafc71", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210205_MountSefton%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A1%9E%E5%A4%AB%E9%A1%BF%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210206", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210205", 
+                "urlbase": "/th?id=OHR.TheWave_EN-US9748334524", 
+                "fullstartdate": "202102050800", 
+                "copyright": "'The Wave' sandstone formation with pools of water in Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy)", 
+                "title": "A sea of swirling stone", 
+                "url": "/th?id=OHR.TheWave_EN-US9748334524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "77895ed87a6b41687ec9000ad0c4e7a1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210205_TheWave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=vermilion+cliffs+national+monument&FORM=hpcapt&filters=HpDate%3a%2220210205_0800%22", 
+                "wp": true, 
+                "enddate": "20210206", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
