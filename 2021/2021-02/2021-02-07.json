@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210206", 
+                "urlbase": "/th?id=OHR.SuperbOwl_ZH-CN5028336455", 
+                "fullstartdate": "202102061600", 
+                "copyright": "蒙特利尔的乌林鸮，加拿大 (© rollandgelly/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.SuperbOwl_ZH-CN5028336455_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "40327a6d3b0d1bbf3f3f68dd1528fe96", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210206_SuperbOwl%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%B9%8C%E6%9E%97%E9%B8%AE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210207", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210206", 
+                "urlbase": "/th?id=OHR.MountSefton_EN-US9792326237", 
+                "fullstartdate": "202102060800", 
+                "copyright": "Mount Sefton in Aoraki/Mount Cook National Park, South Island, New Zealand (© AWL Images/Danita Delimont)", 
+                "title": "Where is this gorgeous peak?", 
+                "url": "/th?id=OHR.MountSefton_EN-US9792326237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "001207bbb619d469d5f2831858a1946b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210206_MountSefton%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Aoraki+Mount+Cook+National+Park+New+Zealand&form=hpcapt&filters=HpDate%3a%2220210206_0800%22", 
+                "wp": true, 
+                "enddate": "20210207", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
