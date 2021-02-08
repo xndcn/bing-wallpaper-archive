@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210207", 
+                "urlbase": "/th?id=OHR.IceWalking_ZH-CN5122217505", 
+                "fullstartdate": "202102071600", 
+                "copyright": "勃朗峰高山冰川上的徒步者，法国夏慕尼 (© agustavop/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.IceWalking_ZH-CN5122217505_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "da2c990ab5873ff588bebeb86664dd8e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210207_IceWalking%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8B%83%E6%9C%97%E5%B3%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210207", 
+                "urlbase": "/th?id=OHR.SuperbOwl_EN-US9869366116", 
+                "fullstartdate": "202102070800", 
+                "copyright": "Great gray owls in Montreal, Canada (© rollandgelly/Getty Images)", 
+                "title": "It's superb owl Sunday", 
+                "url": "/th?id=OHR.SuperbOwl_EN-US9869366116_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4922a50da6d4b5c14ddc8d472369ef94", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210207_SuperbOwl%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=great+gray+owl&form=hpcapt&filters=HpDate%3a%2220210207_0800%22", 
+                "wp": true, 
+                "enddate": "20210208", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
