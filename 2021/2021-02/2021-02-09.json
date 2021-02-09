@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210208", 
+                "urlbase": "/th?id=OHR.MoonDogs_ZH-CN5201314184", 
+                "fullstartdate": "202102081600", 
+                "copyright": "拍摄于俄勒冈州海岸拥抱点瀑布的幻月 (© Ben Coffman/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.MoonDogs_ZH-CN5201314184_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "298945f586bcf68b6e024adb658817ea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210208_MoonDogs%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B9%BB%E6%9C%88&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210209", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210208", 
+                "urlbase": "/th?id=OHR.HeroMural_EN-US9967459324", 
+                "fullstartdate": "202102080800", 
+                "copyright": "John Lewis hero mural by Sean Schwab in the Sweet Auburn district of Atlanta, Georgia (© Ilene Perlman/Alamy)", 
+                "title": "A hero for the 21st century", 
+                "url": "/th?id=OHR.HeroMural_EN-US9967459324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f5afc1487811313fbe17c0f9b582595c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210208_HeroMural%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=John+Lewis+mural+Atlanta&form=hpcapt&filters=HpDate%3a%2220210208_0800%22", 
+                "wp": false, 
+                "enddate": "20210209", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
