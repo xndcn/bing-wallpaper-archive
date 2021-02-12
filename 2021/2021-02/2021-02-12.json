@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210211", 
+                "urlbase": "/th?id=OHR.Lunarnewyear2021_ZH-CN4293313296", 
+                "fullstartdate": "202102111600", 
+                "copyright": "【新年快乐】 （ © Kilito Chan ）", 
+                "title": "", 
+                "url": "/th?id=OHR.Lunarnewyear2021_ZH-CN4293313296_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "296af6bc4614bac7166d7db495e167eb", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210211_Lunarnewyear2021%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%98%A5%E8%8A%82&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210212", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210211", 
+                "urlbase": "/th?id=OHR.CentralCaliBlossoms_EN-US0148484264", 
+                "fullstartdate": "202102110800", 
+                "copyright": "Flowering almond trees in California's Central Valley (© Jeffrey Lewis/Tandem Stills + Motion)", 
+                "title": "It’s showtime for a precious crop", 
+                "url": "/th?id=OHR.CentralCaliBlossoms_EN-US0148484264_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f51e503cca5b9f66a6d0841cd1b69abf", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210211_CentralCaliBlossoms%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=almonds+in+california&form=hpcapt&filters=HpDate%3a%2220210211_0800%22", 
+                "wp": true, 
+                "enddate": "20210212", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
