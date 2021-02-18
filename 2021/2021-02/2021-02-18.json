@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210217", 
+                "urlbase": "/th?id=OHR.VerzascaValley_ZH-CN8308636990", 
+                "fullstartdate": "202102171600", 
+                "copyright": "拉韦尔泰佐附近一条河里的石头，瑞士塞斯卡山谷 (© Robert Seitz/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.VerzascaValley_ZH-CN8308636990_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0da5abeb96aee2b99f701c4554261bc8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210217_VerzascaValley%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%8B%89%E9%9F%A6%E5%B0%94%E6%B3%B0%E4%BD%90&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210218", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210217", 
+                "urlbase": "/th?id=OHR.PeritoMorenoArgentina_EN-US6161367346", 
+                "fullstartdate": "202102170800", 
+                "copyright": "Perito Moreno Glacier in Patagonia's Los Glaciares National Park, Argentina (© Juergen Schonnop/Getty Images)", 
+                "title": "The persistence of Perito Moreno", 
+                "url": "/th?id=OHR.PeritoMorenoArgentina_EN-US6161367346_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b2a5398515c8ebfdd99c7f2f4702dc25", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210217_PeritoMorenoArgentina%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=perito+moreno+glacier&form=hpcapt&filters=HpDate%3a%2220210217_0800%22", 
+                "wp": true, 
+                "enddate": "20210218", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
