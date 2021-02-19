@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210218", 
+                "urlbase": "/th?id=OHR.Parrotfish_ZH-CN8442237302", 
+                "fullstartdate": "202102181600", 
+                "copyright": "东内格罗斯省沿海的鹦嘴鱼，菲律宾 (© Tim Fitzharris/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.Parrotfish_ZH-CN8442237302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e833016d91e18425061f96a6c190f98e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210218_Parrotfish%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%B9%A6%E5%98%B4%E9%B1%BC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210219", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210218", 
+                "urlbase": "/th?id=OHR.VerzascaValley_EN-US6320380092", 
+                "fullstartdate": "202102180800", 
+                "copyright": "Rocks in the Verzasca River near the hamlet of Lavertezzo in the Valle Verzasca of Switzerland (© Robert Seitz/Offset by Shutterstock)", 
+                "title": "A river runs through it", 
+                "url": "/th?id=OHR.VerzascaValley_EN-US6320380092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "41d344006cf4fede2bdc480a3e60dad6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210218_VerzascaValley%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Verzasca+Valley+Switzerland&form=hpcapt&filters=HpDate%3a%2220210218_0800%22", 
+                "wp": true, 
+                "enddate": "20210219", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
