@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210222", 
+                "urlbase": "/th?id=OHR.DalmatianPelicans_ZH-CN9611080858", 
+                "fullstartdate": "202102221600", 
+                "copyright": "冰上的卷羽鹈鹕，希腊凯尔基尼湖 (© Guy Edwardes/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.DalmatianPelicans_ZH-CN9611080858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "61a48a047b6d897e651af992e8b16aef", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210222_DalmatianPelicans%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8D%B7%E7%BE%BD%E9%B9%88%E9%B9%95&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210223", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210222", 
+                "urlbase": "/th?id=OHR.InvisibleMan_EN-US6967873703", 
+                "fullstartdate": "202102220800", 
+                "copyright": "'Invisible Man,' a memorial to Ralph Ellison in Riverside Park, New York City (© Randy Duchaine/Alamy)", 
+                "title": "Invisible no longer", 
+                "url": "/th?id=OHR.InvisibleMan_EN-US6967873703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ad008b2f0eb54f21973a7881d3aab2f6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210222_InvisibleMan%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=ralph+ellison+memorial&form=hpcapt&filters=HpDate%3a%2220210222_0800%22", 
+                "wp": false, 
+                "enddate": "20210223", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
