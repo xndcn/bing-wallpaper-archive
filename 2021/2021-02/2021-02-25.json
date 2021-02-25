@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210224", 
+                "urlbase": "/th?id=OHR.Trevi_ZH-CN9831666780", 
+                "fullstartdate": "202102241600", 
+                "copyright": "俯瞰着特雷维的扁桃花，意大利佩鲁贾 (© Maurizio Rellini/eStock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.Trevi_ZH-CN9831666780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6c034c82e14de925ae7e601483633567", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210224_Trevi%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%89%B9%E9%9B%B7%E7%BB%B4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210225", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210224", 
+                "urlbase": "/th?id=OHR.LeMorneBrabant_EN-US7199520186", 
+                "fullstartdate": "202102240800", 
+                "copyright": "Le Morne Brabant, Mauritius (© Hemis/Alamy)", 
+                "title": "Getting to the bottom of the underwater waterfall", 
+                "url": "/th?id=OHR.LeMorneBrabant_EN-US7199520186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "10136d8545683bb633bbff7faaf79b77", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210224_LeMorneBrabant%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=le+morne+brabant&form=hpcapt&filters=HpDate%3a%2220210224_0800%22", 
+                "wp": true, 
+                "enddate": "20210225", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
