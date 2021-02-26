@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210225", 
+                "urlbase": "/th?id=OHR.JinliStreet_ZH-CN3020276206", 
+                "fullstartdate": "202102251600", 
+                "copyright": "挂在锦里街上的红灯笼，中国成都 (© Philippe LEJEANVRE/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.JinliStreet_ZH-CN3020276206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e9b5fb1ad61034342e8d459bff8fc5c5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210225_JinliStreet%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%94%A6%E9%87%8C%E8%A1%97&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210226", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210225", 
+                "urlbase": "/th?id=OHR.Trevi_EN-US7298856463", 
+                "fullstartdate": "202102250800", 
+                "copyright": "Almond blossoms overlooking Trevi, Umbria, Italy (© Maurizio Rellini/eStock Photo)", 
+                "title": "Trevi in bloom", 
+                "url": "/th?id=OHR.Trevi_EN-US7298856463_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0b7ce1345b63bf8c3fd3f0791a6d4f0d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210225_Trevi%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=trevi+umbria&form=hpcapt&filters=HpDate%3a%2220210225_0800%22", 
+                "wp": true, 
+                "enddate": "20210226", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
