@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210227", 
+                "urlbase": "/th?id=OHR.TurfHouse_ZH-CN3250210711", 
+                "fullstartdate": "202102271600", 
+                "copyright": "斯卡夫塔山中的传统农舍，冰岛瓦特纳冰川国家公园 (© Jarcosa/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.TurfHouse_ZH-CN3250210711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9644c455f31872432143b21cf99cfae6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210227_TurfHouse%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%96%AF%E5%8D%A1%E5%A4%AB%E5%A1%94%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210228", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210227", 
+                "urlbase": "/th?id=OHR.TwinsDenning_EN-US9910127756", 
+                "fullstartdate": "202102270800", 
+                "copyright": "Twin polar bear cubs asleep in a snow den in Wapusk National Park, Manitoba, Canada (© AF archive/Alamy)", 
+                "title": "A snuggling ball of cute", 
+                "url": "/th?id=OHR.TwinsDenning_EN-US9910127756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e921d94c39f43e0dbdc83a70bc6c58ba", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210227_TwinsDenning%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220210227_0800%22", 
+                "wp": false, 
+                "enddate": "20210228", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
