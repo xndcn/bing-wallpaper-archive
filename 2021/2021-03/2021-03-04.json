@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210303", 
+                "urlbase": "/th?id=OHR.Comma_ZH-CN3584865247", 
+                "fullstartdate": "202103031600", 
+                "copyright": "努沙杜瓦海岸与防波堤，印度尼西亚巴厘岛 (© Dkart/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Comma_ZH-CN3584865247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6940ff3ac4536336551b105da1d0a00d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210303_Comma%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8A%AA%E6%B2%99%E6%9D%9C%E7%93%A6%E6%B5%B7%E5%B2%B8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210304", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210303", 
+                "urlbase": "/th?id=OHR.WWDLions_EN-US0205102042", 
+                "fullstartdate": "202103030800", 
+                "copyright": "Female lions in the forest surrounding Lake Nakuru, Kenya (© Scott Davis/Tandem Stills + Motion)", 
+                "title": "Climb a tree for wild animals and plants", 
+                "url": "/th?id=OHR.WWDLions_EN-US0205102042_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "34b3cd55512b34bc32bfa6cd5b277e97", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210303_WWDLions%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=World+Wildlife+Day+2021&form=hpcapt&filters=HpDate%3a%2220210303_0800%22", 
+                "wp": true, 
+                "enddate": "20210304", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
