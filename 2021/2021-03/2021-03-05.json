@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210304", 
+                "urlbase": "/th?id=OHR.MinasdeRioTinto_ZH-CN3632728092", 
+                "fullstartdate": "202103041600", 
+                "copyright": "力拓河中含矿物质的水，西班牙里奥廷托矿区 (© David Santiago Garcia/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MinasdeRioTinto_ZH-CN3632728092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1440b18dc92697fdd4c6808736a0f244", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210304_MinasdeRioTinto%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8A%9B%E6%8B%93%E6%B2%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210305", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210304", 
+                "urlbase": "/th?id=OHR.Comma_EN-US0289421685", 
+                "fullstartdate": "202103040800", 
+                "copyright": "Nusa Dua coast with breakwater, Bali, Indonesia (© Dkart/Getty Images)", 
+                "title": "The most wonderful day of the year. Period.", 
+                "url": "/th?id=OHR.Comma_EN-US0289421685_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1ab4c4a2fc572290ce10184371d4a86a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210304_Comma%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=national+grammar+day&form=hpcapt&filters=HpDate%3a%2220210304_0800%22", 
+                "wp": true, 
+                "enddate": "20210305", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
