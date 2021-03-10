@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210309", 
+                "urlbase": "/th?id=OHR.HinterseeRamsau_ZH-CN4043630556", 
+                "fullstartdate": "202103091600", 
+                "copyright": "被阿尔卑斯山环抱的辛特湖，德国贝希特斯加登 (© Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.HinterseeRamsau_ZH-CN4043630556_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "937f58c24584dec75939aa34e755d64d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210309_HinterseeRamsau%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%BE%9B%E7%89%B9%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210310", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210309", 
+                "urlbase": "/th?id=OHR.RollingHills_EN-US0930573674", 
+                "fullstartdate": "202103090800", 
+                "copyright": "Foothills of the Diablo Range in the East Bay region of Northern California (© Jeff Lewis/Tandem Stills + Motion)", 
+                "title": "Spring comes to the Diablo foothills", 
+                "url": "/th?id=OHR.RollingHills_EN-US0930573674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "efa4e86e02e3bf9197a1cf3c6e967f34", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210309_RollingHills%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=diablo+foothills&form=hpcapt&filters=HpDate%3a%2220210309_0800%22", 
+                "wp": true, 
+                "enddate": "20210310", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
