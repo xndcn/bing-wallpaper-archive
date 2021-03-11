@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210310", 
+                "urlbase": "/th?id=OHR.CapePerpetua_ZH-CN4150223705", 
+                "fullstartdate": "202103101600", 
+                "copyright": "俄勒冈海岸佩蓓角的雷神之井 (© Cavan Images/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.CapePerpetua_ZH-CN4150223705_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3aba334281b6d39f9f6d536ab3a1c614", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210310_CapePerpetua%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%BF%84%E5%8B%92%E5%86%88%E6%B5%B7%E5%B2%B8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210311", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210310", 
+                "urlbase": "/th?id=OHR.HarrietTubman_EN-US1054261891", 
+                "fullstartdate": "202103100800", 
+                "copyright": "'Step on Board,' the Harriet Tubman Memorial, sculpted by Fern Cunningham, in Boston, Massachusetts (© Anthony Pleva/Alamy)", 
+                "title": "Commemorating the life of a famous 'railroad' conductor", 
+                "url": "/th?id=OHR.HarrietTubman_EN-US1054261891_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "650b67cde184e320a498ebf596bb3f88", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210310_HarrietTubman%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Harriet+Tubman+Day&form=hpcapt&filters=HpDate%3a%2220210310_0800%22", 
+                "wp": false, 
+                "enddate": "20210311", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
