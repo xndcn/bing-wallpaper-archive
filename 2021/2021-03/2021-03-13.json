@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210312", 
+                "urlbase": "/th?id=OHR.Rhododendron_ZH-CN8481644646", 
+                "fullstartdate": "202103121600", 
+                "copyright": "森佩尔森林公园中的黑海杜鹃，德国吕根岛 (© Sandra Bartocha/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.Rhododendron_ZH-CN8481644646_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9a231c97ac499188940d10e3b02cbd52", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210312_Rhododendron%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%90%95%E6%A0%B9%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210313", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210312", 
+                "urlbase": "/th?id=OHR.AztecNewYear_EN-US8147148173", 
+                "fullstartdate": "202103120800", 
+                "copyright": "A balloon flies over the Pyramid of the Sun at sunrise in Teotihuacan, Mexico (© Marco Ugarte/AP Photo)", 
+                "title": "Ringing in the new year at Teotihuacan", 
+                "url": "/th?id=OHR.AztecNewYear_EN-US8147148173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "81383cbd4d1ff9489c78e5e232201429", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210312_AztecNewYear%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=aztec+new+year&form=hpcapt&filters=HpDate%3a%2220210312_0800%22", 
+                "wp": false, 
+                "enddate": "20210313", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
