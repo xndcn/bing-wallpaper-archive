@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210313", 
+                "urlbase": "/th?id=OHR.LyonAstronomical_ZH-CN8601552487", 
+                "fullstartdate": "202103131600", 
+                "copyright": "里昂天文钟，法国里昂 (© kyolshin/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.LyonAstronomical_ZH-CN8601552487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9a45caa44b60efb07978641db7b79bb5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210313_LyonAstronomical%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%87%8C%E6%98%82%E5%A4%A9%E6%96%87%E9%92%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210314", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210313", 
+                "urlbase": "/th?id=OHR.Rhododendron_EN-US8246366006", 
+                "fullstartdate": "202103130800", 
+                "copyright": "Common rhododendrons in Semper Forest Park, Rügen, Germany (© Sandra Bartocha/Minden Pictures)", 
+                "title": "All hail the 'king of shrubs'", 
+                "url": "/th?id=OHR.Rhododendron_EN-US8246366006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "68dcbf13c4378cee1417e5894aadf4a1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210313_Rhododendron%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Rhododendrons&form=hpcapt&filters=HpDate%3a%2220210313_0800%22", 
+                "wp": true, 
+                "enddate": "20210314", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
