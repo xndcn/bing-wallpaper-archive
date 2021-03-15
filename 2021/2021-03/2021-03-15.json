@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210314", 
+                "urlbase": "/th?id=OHR.MassapequaOwl_ZH-CN8747028921", 
+                "fullstartdate": "202103141600", 
+                "copyright": "在树洞中休息的鸣角鸮，纽约马萨皮夸保护区 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MassapequaOwl_ZH-CN8747028921_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0ed8284263f1e6f1bd363f0657e3ab23", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210314_MassapequaOwl%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%B8%A3%E8%A7%92%E9%B8%AE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210315", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210314", 
+                "urlbase": "/th?id=OHR.LyonAstronomical_EN-US8367377789", 
+                "fullstartdate": "202103140700", 
+                "copyright": "Astronomical clock, Lyon, France (© kyolshin/Alamy)", 
+                "title": "Perfect timing", 
+                "url": "/th?id=OHR.LyonAstronomical_EN-US8367377789_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1acf0e488ed393a4c574e64bc6c806d4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210314_LyonAstronomical%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=daylight+saving+time+in+the+us&form=hpcapt&filters=HpDate%3a%2220210314_0700%22", 
+                "wp": true, 
+                "enddate": "20210315", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
