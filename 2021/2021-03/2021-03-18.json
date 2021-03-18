@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210317", 
+                "urlbase": "/th?id=OHR.MtEtna_ZH-CN9127683040", 
+                "fullstartdate": "202103171600", 
+                "copyright": "2013年正在喷发的埃特纳火山，意大利西西里岛 (© Wead/Alamy Live News)", 
+                "title": "", 
+                "url": "/th?id=OHR.MtEtna_ZH-CN9127683040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6f684ad5f9f2bb017f83d406da057b08", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210317_MtEtna%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9F%83%E7%89%B9%E7%BA%B3%E7%81%AB%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210318", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210317", 
+                "urlbase": "/th?id=OHR.Inisheer_EN-US8680602205", 
+                "fullstartdate": "202103170700", 
+                "copyright": "Inishmore, the largest of the Aran Islands in Galway Bay, Ireland (© Chris Hill/Minden Pictures)", 
+                "title": "An emerald isle of the Emerald Isle", 
+                "url": "/th?id=OHR.Inisheer_EN-US8680602205_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "602e5122fced749f2fb0fe0313567d54", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210317_Inisheer%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=inishmore+island&form=hpcapt&filters=HpDate%3a%2220210317_0700%22", 
+                "wp": true, 
+                "enddate": "20210318", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
