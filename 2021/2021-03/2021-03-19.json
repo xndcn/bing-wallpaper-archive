@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210318", 
+                "urlbase": "/th?id=OHR.MagneticIsland_ZH-CN9302186671", 
+                "fullstartdate": "202103181600", 
+                "copyright": "航拍生长着树木的遇难船“阿德莱德市”残骸，澳大利亚磁岛 (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.MagneticIsland_ZH-CN9302186671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e2f6cfdf51dc13f08d266ed7a40420e2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210318_MagneticIsland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%A3%81%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210319", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210318", 
+                "urlbase": "/th?id=OHR.MtEtna_EN-US8761813954", 
+                "fullstartdate": "202103180700", 
+                "copyright": "Mount Etna erupting in 2013, Sicily, Italy (© Wead/Alamy Live News)", 
+                "title": "A sizzling summit hides in the clouds", 
+                "url": "/th?id=OHR.MtEtna_EN-US8761813954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6bcd9b8bc8a1224e459db5549a07f53b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210318_MtEtna%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mount+etna&form=hpcapt&filters=HpDate%3a%2220210318_0700%22", 
+                "wp": true, 
+                "enddate": "20210319", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
