@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210319", 
+                "urlbase": "/th?id=OHR.ParnidisSundial_ZH-CN9575177836", 
+                "fullstartdate": "202103191600", 
+                "copyright": "帕尼迪斯沙丘上的日晷，立陶宛库尔斯沙嘴 (© amoklv/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.ParnidisSundial_ZH-CN9575177836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3670f7d6b089c40b7a7f3db7f689e210", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210319_ParnidisSundial%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%BA%93%E5%B0%94%E6%96%AF%E6%B2%99%E5%98%B4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210320", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210319", 
+                "urlbase": "/th?id=OHR.MagneticIsland_EN-US9412695841", 
+                "fullstartdate": "202103190700", 
+                "copyright": "Aerial view of the City of Adelaide shipwreck with trees growing on it, Magnetic Island, Queensland, Australia (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "Life carries on, rising from a ship's skeleton", 
+                "url": "/th?id=OHR.MagneticIsland_EN-US9412695841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "dcc8e01a6dc6ddb333f323619e967345", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210319_MagneticIsland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=The+City+of+Adelaide+shipwreck+magnetic+island&form=hpcapt&filters=HpDate%3a%2220210319_0700%22", 
+                "wp": true, 
+                "enddate": "20210320", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
