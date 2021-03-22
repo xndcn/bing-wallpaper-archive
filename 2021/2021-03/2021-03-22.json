@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210321", 
+                "urlbase": "/th?id=OHR.JouxFog_ZH-CN9947036409", 
+                "fullstartdate": "202103211600", 
+                "copyright": "汝拉山中的Chateau de Joux堡，法国 (© Ivoha/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.JouxFog_ZH-CN9947036409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c198241fc305118af64a6d2b9c3437e5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210321_JouxFog%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B1%9D%E6%8B%89%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210322", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210321", 
+                "urlbase": "/th?id=OHR.HallesWood_EN-US9545891830", 
+                "fullstartdate": "202103210700", 
+                "copyright": "Bluebell flowers carpet the Hallerbos forest floor, Flanders, Belgium (© Jason Langley/plainpicture)", 
+                "title": "A glimpse of the 'Blue Forest'", 
+                "url": "/th?id=OHR.HallesWood_EN-US9545891830_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fc61ddfa5b63890907524cb4276c1c58", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210321_HallesWood%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=hallerbos+forest&FORM=hpcapt&filters=HpDate%3a%2220210321_0700%22", 
+                "wp": true, 
+                "enddate": "20210322", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
