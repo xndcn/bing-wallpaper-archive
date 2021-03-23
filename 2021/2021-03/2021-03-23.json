@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210322", 
+                "urlbase": "/th?id=OHR.LoftedMadagascar_ZH-CN0062899981", 
+                "fullstartdate": "202103221600", 
+                "copyright": "马尼亚河的卫星图像，马达加斯加 (© NASA Earth Observatory image by Joshua Stevens, using Landsat data from the US Geological Survey)", 
+                "title": "", 
+                "url": "/th?id=OHR.LoftedMadagascar_ZH-CN0062899981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2da97986d9a29e1fcd3c0f007bf710a3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210322_LoftedMadagascar%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E5%B0%BC%E4%BA%9A%E6%B2%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210323", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210322", 
+                "urlbase": "/th?id=OHR.TuskegeeAirmen_EN-US9643365119", 
+                "fullstartdate": "202103220700", 
+                "copyright": "Tuskegee Airmen reading a map (© Bettmann/Getty Images)", 
+                "title": "Honoring some real heroes of World War II", 
+                "url": "/th?id=OHR.TuskegeeAirmen_EN-US9643365119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7d215c597d17767fa521a8de68e7ce8d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210322_TuskegeeAirmen%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=tuskegee+airmen&form=hpcapt&filters=HpDate%3a%2220210322_0700%22", 
+                "wp": false, 
+                "enddate": "20210323", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
