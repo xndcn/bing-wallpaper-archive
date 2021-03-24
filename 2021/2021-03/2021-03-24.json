@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210323", 
+                "urlbase": "/th?id=OHR.HumpbackMom_ZH-CN0218207583", 
+                "fullstartdate": "202103231600", 
+                "copyright": "座头鲸妈妈将她熟睡的幼鲸推到水面，夏威夷毛伊岛 (© Ralph Pace/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.HumpbackMom_ZH-CN0218207583_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "67688ecf139dd4205a1382767845c156", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210323_HumpbackMom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%BA%A7%E5%A4%B4%E9%B2%B8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210324", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210323", 
+                "urlbase": "/th?id=OHR.LoftedMadagascar_EN-US9720623596", 
+                "fullstartdate": "202103230700", 
+                "copyright": "Satellite image of the Mania River in Madagascar (© NASA Earth Observatory image by Joshua Stevens, using Landsat data from the US Geological Survey)", 
+                "title": "Uncommon clouds are gathering", 
+                "url": "/th?id=OHR.LoftedMadagascar_EN-US9720623596_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "6de13fea1ea0839076f15b6618428eca", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210323_LoftedMadagascar%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=meteorology&form=hpcapt&filters=HpDate%3a%2220210323_0700%22", 
+                "wp": true, 
+                "enddate": "20210324", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
