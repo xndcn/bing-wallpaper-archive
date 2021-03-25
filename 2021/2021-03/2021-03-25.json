@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210324", 
+                "urlbase": "/th?id=OHR.LakeWinnipeg_ZH-CN0984485385", 
+                "fullstartdate": "202103241600", 
+                "copyright": "温尼伯湖沿岸的春日冰雪，曼尼托巴 (© Mike Grandmaison/Jaynes Gallery/DanitaDelimont.com)", 
+                "title": "", 
+                "url": "/th?id=OHR.LakeWinnipeg_ZH-CN0984485385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3ac5fccde0eecbb58cb563642ae4c797", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210324_LakeWinnipeg%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%B8%A9%E5%B0%BC%E4%BC%AF%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210325", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210324", 
+                "urlbase": "/th?id=OHR.HumpbackMom_EN-US9862782184", 
+                "fullstartdate": "202103240700", 
+                "copyright": "Humpback whale mother pushes her sleeping calf to the surface, Maui, Hawaii (© Ralph Pace/Minden Pictures)", 
+                "title": "A whale of a picture", 
+                "url": "/th?id=OHR.HumpbackMom_EN-US9862782184_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "94399ab29021e44a4ad16964fb4b748e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210324_HumpbackMom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=humpback+whale&form=hpcapt&filters=HpDate%3a%2220210324_0700%22", 
+                "wp": true, 
+                "enddate": "20210325", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
