@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210325", 
+                "urlbase": "/th?id=OHR.MTCradle_ZH-CN1573998424", 
+                "fullstartdate": "202103251600", 
+                "copyright": "摇篮山-圣克莱尔湖国家公园，澳大利亚塔斯马尼亚州 (© Paparwin Tanupatarachai/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MTCradle_ZH-CN1573998424_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f777aa8601b31318c2d74b744b65e070", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210325_MTCradle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%91%87%E7%AF%AE%E5%B1%B1-%E5%9C%A3%E5%85%8B%E8%8E%B1%E5%B0%94%E6%B9%96%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210326", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210325", 
+                "urlbase": "/th?id=OHR.GoldMine_EN-US9932494168", 
+                "fullstartdate": "202103250700", 
+                "copyright": "Ancient Roman gold mining site of Las Médulas, León province, Spain (© David Santiago Garcia/Getty Images)", 
+                "title": "There was gold in them there hills…", 
+                "url": "/th?id=OHR.GoldMine_EN-US9932494168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ad7805db60c5487c2b2b2cd1fff6b58e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210325_GoldMine%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=las+medulas&form=hpcapt&filters=HpDate%3a%2220210325_0700%22", 
+                "wp": true, 
+                "enddate": "20210326", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
