@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210326", 
+                "urlbase": "/th?id=OHR.MadHares_ZH-CN1754336550", 
+                "fullstartdate": "202103261600", 
+                "copyright": "在白雪覆盖的高地上奔跑的雪兔，苏格兰 (© SCOTLAND: The Big Picture/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.MadHares_ZH-CN1754336550_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "06f0aab429a3e771a888d8b8e50cd3be", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210326_MadHares%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%9B%AA%E5%85%94&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210327", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210326", 
+                "urlbase": "/th?id=OHR.MTCradle_EN-US6777988781", 
+                "fullstartdate": "202103260700", 
+                "copyright": "Cradle Mountain-Lake St. Clair National Park, Tasmania, Australia (© Paparwin Tanupatarachai/Getty Images)", 
+                "title": "The wild heart of Tasmania", 
+                "url": "/th?id=OHR.MTCradle_EN-US6777988781_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b6091160d0d57066dd6315b8fdadc502", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210326_MTCradle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=cradle+mountain-lake+st+clair+national+park&form=hpcapt&filters=HpDate%3a%2220210326_0700%22", 
+                "wp": true, 
+                "enddate": "20210327", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
