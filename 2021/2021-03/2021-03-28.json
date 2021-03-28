@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210327", 
+                "urlbase": "/th?id=OHR.LlanberisSlate_ZH-CN1977606783", 
+                "fullstartdate": "202103271600", 
+                "copyright": "斯诺登山与兰贝里斯山口，英国史诺多尼亚国家公园 (© Alan Novelli/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.LlanberisSlate_ZH-CN1977606783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f1c4c9941b13920effa40b7c21cf1318", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210327_LlanberisSlate%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%8B%B1%E5%9B%BD%E5%8F%B2%E8%AF%BA%E5%A4%9A%E5%B0%BC%E4%BA%9A%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210328", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210327", 
+                "urlbase": "/th?id=OHR.MadHares_EN-US7045432576", 
+                "fullstartdate": "202103270700", 
+                "copyright": "Mountain hare running across snow-covered upland, Scotland (© SCOTLAND: The Big Picture/Minden Pictures)", 
+                "title": "Blink and you'll miss it", 
+                "url": "/th?id=OHR.MadHares_EN-US7045432576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8b2409d18e928866cd703ac6dbb25f0d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210327_MadHares%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mountain+hare+Lepus+timidus&FORM=hpcapt&filters=HpDate%3a%2220210327_0700%22", 
+                "wp": true, 
+                "enddate": "20210328", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
