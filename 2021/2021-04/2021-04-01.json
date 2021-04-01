@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210331", 
+                "urlbase": "/th?id=OHR.FooledYa_ZH-CN1264990804", 
+                "fullstartdate": "202103311600", 
+                "copyright": "卡格拉格帝边境公园中一对正在求偶的鸵鸟，南非 (© Tina Malfilatre/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.FooledYa_ZH-CN1264990804_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "58ce6c472def75a58cc8d6fa1bb66ef0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210331_FooledYa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%B8%B5%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210401", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210331", 
+                "urlbase": "/th?id=OHR.RajaAmpat_EN-US7737563013", 
+                "fullstartdate": "202103310700", 
+                "copyright": "Raja Ampat, an archipelago in Indonesia (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "Paradise, found", 
+                "url": "/th?id=OHR.RajaAmpat_EN-US7737563013_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "20b041412f1659ca66e8dda409d27c52", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210331_RajaAmpat%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=raja+ampat+indonesia&form=hpcapt&filters=HpDate%3a%2220210331_0700%22", 
+                "wp": true, 
+                "enddate": "20210401", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
