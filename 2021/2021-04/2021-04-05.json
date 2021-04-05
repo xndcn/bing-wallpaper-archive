@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210404", 
+                "urlbase": "/th?id=OHR.SautduBrot_ZH-CN3361866139", 
+                "fullstartdate": "202104041600", 
+                "copyright": "Areuse峡谷的Saut du Brot石桥，瑞士纳沙泰尔 (© Andreas Gerth/eStock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.SautduBrot_ZH-CN3361866139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1aca6ec3ce60501ce332fe8e3aecbae3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210404_SautduBrot%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Areuse%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210405", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210404", 
+                "urlbase": "/th?id=OHR.EggTree_EN-US8284116541", 
+                "fullstartdate": "202104040700", 
+                "copyright": "An Ostereierbaum (Easter egg tree) in Saalfeld, Germany (© Rudi Sebastian/Alamy)", 
+                "title": "A yearly sign that spring has sprung", 
+                "url": "/th?id=OHR.EggTree_EN-US8284116541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7e89d8fc0c184774c601aca8ef087e8c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210404_EggTree%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=osterbaum+easter+egg+tree&form=hpcapt&filters=HpDate%3a%2220210404_0700%22", 
+                "wp": true, 
+                "enddate": "20210405", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
