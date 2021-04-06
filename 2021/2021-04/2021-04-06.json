@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210405", 
+                "urlbase": "/th?id=OHR.Olympics125_ZH-CN3521721828", 
+                "fullstartdate": "202104051600", 
+                "copyright": "雅典卫城的帕特农神庙，希腊 (© Lucky-photographer/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.Olympics125_ZH-CN3521721828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a67ce6827213029f6a90c2419e208a5d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210405_Olympics125%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B8%95%E7%89%B9%E5%86%9C%E7%A5%9E%E5%BA%99&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210406", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210405", 
+                "urlbase": "/th?id=OHR.SautduBrot_EN-US8410506080", 
+                "fullstartdate": "202104050700", 
+                "copyright": "Saut du Brot stone bridge in the Areuse Gorge, Neuchâtel, Switzerland (© Andreas Gerth/eStock Photo)", 
+                "title": "Once upon a time there was a bridge…", 
+                "url": "/th?id=OHR.SautduBrot_EN-US8410506080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ddf3d0dc6b9acc1fd5bb7c31961f7681", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210405_SautduBrot%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Brot-Dessous%2c+Switzerland&form=hpcapt&filters=HpDate%3a%2220210405_0700%22", 
+                "wp": true, 
+                "enddate": "20210406", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
