@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210406", 
+                "urlbase": "/th?id=OHR.WillowNewGrowth_ZH-CN3104122677", 
+                "fullstartdate": "202104061600", 
+                "copyright": "早春里的柳枝，明尼苏达州 (© Jim Brandenburg/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.WillowNewGrowth_ZH-CN3104122677_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "319496ce69afb02b1106c0fb52f3ece8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210406_WillowNewGrowth%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%9F%B3%E6%9E%9D&form=hpcapt&mkt=zh-cn", 
+                "wp": false, 
+                "enddate": "20210407", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210406", 
+                "urlbase": "/th?id=OHR.Olympics125_EN-US8602188549", 
+                "fullstartdate": "202104060700", 
+                "copyright": "The Acropolis of Athens, Greece (© Lucky-photographer/Shutterstock)", 
+                "title": "On the rebirth of the Olympic Games", 
+                "url": "/th?id=OHR.Olympics125_EN-US8602188549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9a09d90d8373c47ec1400fba48f9f70a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210406_Olympics125%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=modern+olympic+games+greece&FORM=hpcapt&filters=HpDate%3a%2220210406_0700%22", 
+                "wp": true, 
+                "enddate": "20210407", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
