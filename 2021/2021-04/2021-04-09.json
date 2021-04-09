@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210408", 
+                "urlbase": "/th?id=OHR.HovenweepDarkSky_ZH-CN5264718531", 
+                "fullstartdate": "202104081600", 
+                "copyright": "Hovenweep国家纪念碑的方塔，犹他州 (© Brad McGinley Photography/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.HovenweepDarkSky_ZH-CN5264718531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f296eaa3f2d15f04ab0f7ee1b52e32d0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210408_HovenweepDarkSky%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Hovenweep%E5%9B%BD%E5%AE%B6%E7%BA%AA%E5%BF%B5%E7%A2%91&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210409", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210408", 
+                "urlbase": "/th?id=OHR.TetraoTetrix_EN-US8933698445", 
+                "fullstartdate": "202104080700", 
+                "copyright": "Black grouse male calling at a lek site in Kuusamo, Finland (© Oliver Smart/Alamy)", 
+                "title": "I'm here! Take a look at me!", 
+                "url": "/th?id=OHR.TetraoTetrix_EN-US8933698445_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e6a16600eeeb41854905f5bc93901585", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210408_TetraoTetrix%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=black+grouse+lekking&form=hpcapt&filters=HpDate%3a%2220210408_0700%22", 
+                "wp": true, 
+                "enddate": "20210409", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
