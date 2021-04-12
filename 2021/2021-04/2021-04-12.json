@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210411", 
+                "urlbase": "/th?id=OHR.YurisNight_ZH-CN5738817931", 
+                "fullstartdate": "202104111600", 
+                "copyright": "宇航员杰夫·威廉姆斯在国际空间站拍摄到的地球 (© Jeff Williams/NASA)", 
+                "title": "", 
+                "url": "/th?id=OHR.YurisNight_ZH-CN5738817931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a758a1e966ec9798cf9e8b0a8145eddc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210411_YurisNight%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9C%B0%E7%90%83&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210412", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210411", 
+                "urlbase": "/th?id=OHR.YoshinoyamaSpring_EN-US6772406506", 
+                "fullstartdate": "202104110700", 
+                "copyright": "Mount Yoshino, Nara Prefecture, Japan (© Sean Pavone/iStock/Getty Images Plus)", 
+                "title": "The mountain of 30,000 sakura", 
+                "url": "/th?id=OHR.YoshinoyamaSpring_EN-US6772406506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ed7cb672a41c8f9e6d9b463e436b0e18", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210411_YoshinoyamaSpring%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Mount+Yoshino+sakura&form=hpcapt&filters=HpDate%3a%2220210411_0700%22", 
+                "wp": true, 
+                "enddate": "20210412", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
