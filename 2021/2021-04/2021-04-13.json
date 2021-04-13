@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210412", 
+                "urlbase": "/th?id=OHR.WatPhraSiSanphet_ZH-CN5830557189", 
+                "fullstartdate": "202104121600", 
+                "copyright": "大城历史公园中的帕喜善佩寺，泰国大城府 (© travelstock44/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.WatPhraSiSanphet_ZH-CN5830557189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9784abdbb50de2999ea47f5b4a795583", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210412_WatPhraSiSanphet%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B8%95%E5%96%9C%E5%96%84%E4%BD%A9%E5%AF%BA&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210413", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210412", 
+                "urlbase": "/th?id=OHR.YurisNight_EN-US6858652982", 
+                "fullstartdate": "202104120700", 
+                "copyright": "Earth viewed from the International Space Station, photographed by astronaut Jeff Williams (© Jeff Williams/NASA)", 
+                "title": "In orbit for Yuri's Night", 
+                "url": "/th?id=OHR.YurisNight_EN-US6858652982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ffb31d1613055c01c900e8fc53993f26", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210412_YurisNight%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=space+exploration+history&FORM=hpcapt&filters=HpDate%3a%2220210412_0700%22", 
+                "wp": true, 
+                "enddate": "20210413", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
