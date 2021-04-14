@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210413", 
+                "urlbase": "/th?id=OHR.CarrizoPlain_ZH-CN5933565493", 
+                "fullstartdate": "202104131600", 
+                "copyright": "卡里佐平原国家纪念区的野花，加利福尼亚 (© Dennis Frates/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.CarrizoPlain_ZH-CN5933565493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "55322b3b9619434ffa658c6cf8b2233e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210413_CarrizoPlain%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210414", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210413", 
+                "urlbase": "/th?id=OHR.WatPhraSiSanphet_EN-US6931344989", 
+                "fullstartdate": "202104130700", 
+                "copyright": "Wat Phra Si Sanphet, Ayutthaya Historical Park, Ayutthaya, Thailand (© travelstock44/Alamy)", 
+                "title": "Ruins of a royal temple", 
+                "url": "/th?id=OHR.WatPhraSiSanphet_EN-US6931344989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "dfe011348c4a3a7c9215476b5600903e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210413_WatPhraSiSanphet%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=wat+phra+si+sanphet&form=hpcapt&filters=HpDate%3a%2220210413_0700%22", 
+                "wp": true, 
+                "enddate": "20210414", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
