@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210416", 
+                "urlbase": "/th?id=OHR.NewRiverGorge_ZH-CN6951411872", 
+                "fullstartdate": "202104161600", 
+                "copyright": "新河峡国家公园中的新河峡大桥，西弗吉尼亚州 (© Entropy Workshop/iStock/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.NewRiverGorge_ZH-CN6951411872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5acfc6c1181f8f0e8f61251dc1c4172d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210416_NewRiverGorge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%96%B0%E6%B2%B3%E5%B3%A1%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210417", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210416", 
+                "urlbase": "/th?id=OHR.DaliMuseum_EN-US9901160892", 
+                "fullstartdate": "202104160700", 
+                "copyright": "Dalí Theatre-Museum in Figueres, Spain (© Valerija Polakovska/Shutterstock)", 
+                "title": "'A theatrical dream'", 
+                "url": "/th?id=OHR.DaliMuseum_EN-US9901160892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "56e4b7d1cbe398f485b728b26b9bb371", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210416_DaliMuseum%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%2bdali+theater-museum&form=hpcapt&filters=HpDate%3a%2220210416_0700%22", 
+                "wp": false, 
+                "enddate": "20210417", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
