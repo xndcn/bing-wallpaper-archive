@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210417", 
+                "urlbase": "/th?id=OHR.MontalbanoElicona_ZH-CN7061762890", 
+                "fullstartdate": "202104171600", 
+                "copyright": "蒙塔尔巴诺埃利科纳，意大利西西里岛 (© Antonino Bartuccio/SOPA Collection/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.MontalbanoElicona_ZH-CN7061762890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "656a17abb9de29535f3fb3d39c00fb09", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210417_MontalbanoElicona%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%92%99%E5%A1%94%E5%B0%94%E5%B7%B4%E8%AF%BA%E5%9F%83%E5%88%A9%E7%A7%91%E7%BA%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210418", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210417", 
+                "urlbase": "/th?id=OHR.NewRiverGorge_EN-US7524399883", 
+                "fullstartdate": "202104170700", 
+                "copyright": "New River Gorge Bridge in the New River Gorge National Park and Preserve, West Virginia (© Entropy Workshop/iStock/Getty Images Plus)", 
+                "title": "A river runs through it", 
+                "url": "/th?id=OHR.NewRiverGorge_EN-US7524399883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "124ff68d0befd3fe7d0fd4879c0b1ab3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210417_NewRiverGorge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=New+River+Gorge+National+Park&form=hpcapt&filters=HpDate%3a%2220210417_0700%22", 
+                "wp": true, 
+                "enddate": "20210418", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
