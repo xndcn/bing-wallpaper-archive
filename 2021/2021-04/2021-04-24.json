@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210423", 
+                "urlbase": "/th?id=OHR.ChollaGarden_ZH-CN8015525891", 
+                "fullstartdate": "202104231600", 
+                "copyright": "约书亚树国家公园中的仙人掌花园，加利福尼亚 (© Bryan Jolley/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.ChollaGarden_ZH-CN8015525891_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "08445e477def0cbdc544ab56e74778f7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210423_ChollaGarden%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A6%E4%B9%A6%E4%BA%9A%E6%A0%91%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210424", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210423", 
+                "urlbase": "/th?id=OHR.BatlloJordi_EN-US0619227174", 
+                "fullstartdate": "202104230700", 
+                "copyright": "Casa Batlló in Barcelona, Catalonia, Spain (© Marco Arduino/Sime/eStock Photo)", 
+                "title": "A house of grand scale(s)", 
+                "url": "/th?id=OHR.BatlloJordi_EN-US0619227174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d71b17bec2abdc2edf01686dd6aed048", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210423_BatlloJordi%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=casa+batllo&form=hpcapt&filters=HpDate%3a%2220210423_0700%22", 
+                "wp": false, 
+                "enddate": "20210424", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
