@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210424", 
+                "urlbase": "/th?id=OHR.AdelieDiving_ZH-CN8185853655", 
+                "fullstartdate": "202104241600", 
+                "copyright": "从冰山跃入水中的阿德利企鹅，南极 (© Mike Hill/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.AdelieDiving_ZH-CN8185853655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "275cfdbb98ab7d9b616c7f54adcfce02", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210424_AdelieDiving%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%BE%B7%E5%88%A9%E4%BC%81%E9%B9%85&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210425", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210424", 
+                "urlbase": "/th?id=OHR.ChollaGarden_EN-US0706816050", 
+                "fullstartdate": "202104240700", 
+                "copyright": "The Cholla Cactus Garden in Joshua Tree National Park, California (© Bryan Jolley/Tandem Stills + Motion)", 
+                "title": "A garden of prickly delights", 
+                "url": "/th?id=OHR.ChollaGarden_EN-US0706816050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5140cd40f0f4326aceb67696d4e3f7f0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210424_ChollaGarden%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=cholla+garden+joshua+tree+national+park&form=hpcapt&filters=HpDate%3a%2220210424_0700%22", 
+                "wp": true, 
+                "enddate": "20210425", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
