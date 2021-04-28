@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210427", 
+                "urlbase": "/th?id=OHR.GannetsSaltee_ZH-CN8581602122", 
+                "fullstartdate": "202104271600", 
+                "copyright": "大萨尔提岛上的北方塘鹅，爱尔兰 (© Danny Green/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.GannetsSaltee_ZH-CN8581602122_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "aa240c8242c7a840fa37dc7f6555fb77", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210427_GannetsSaltee%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A1%98%E9%B9%85&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210428", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210427", 
+                "urlbase": "/th?id=OHR.KusamaPumpkin_EN-US1211132220", 
+                "fullstartdate": "202104270700", 
+                "copyright": "Yayoi Kusama's 'Pumpkin' artwork on Naoshima Island, Japan, in August 2018 (© Wirestock/Alamy)", 
+                "title": "'Design for Each and All'", 
+                "url": "/th?id=OHR.KusamaPumpkin_EN-US1211132220_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8696946f1330f32617a9ebfa72e2a99f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210427_KusamaPumpkin%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=yayoi+kusama+art&form=hpcapt&filters=HpDate%3a%2220210427_0700%22", 
+                "wp": false, 
+                "enddate": "20210428", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
