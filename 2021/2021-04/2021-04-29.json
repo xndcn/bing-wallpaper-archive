@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210428", 
+                "urlbase": "/th?id=OHR.Mockhorn_ZH-CN8692203286", 
+                "fullstartdate": "202104281600", 
+                "copyright": "鸟瞰Mockhorn岛野生动植物管理区沼泽地内的潮汐通道，弗吉尼亚 (© Shane Gross/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.Mockhorn_ZH-CN8692203286_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7d78207846cdd9a05a02110617e53559", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210428_Mockhorn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%BD%AE%E6%B1%90%E9%80%9A%E9%81%93&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210429", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210428", 
+                "urlbase": "/th?id=OHR.GannetsSaltee_EN-US1285648780", 
+                "fullstartdate": "202104280700", 
+                "copyright": "Northern gannets on Great Saltee Island, Ireland (© Danny Green/Minden Pictures)", 
+                "title": "Coming home to roost", 
+                "url": "/th?id=OHR.GannetsSaltee_EN-US1285648780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "227e83d1d34eec7bb67674523570d895", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210428_GannetsSaltee%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Northern+gannet&form=hpcapt&filters=HpDate%3a%2220210428_0700%22", 
+                "wp": true, 
+                "enddate": "20210429", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
