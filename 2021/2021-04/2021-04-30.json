@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210429", 
+                "urlbase": "/th?id=OHR.MontStMich_ZH-CN8844280566", 
+                "fullstartdate": "202104291600", 
+                "copyright": "处于美轮美奂的光影中的圣米歇尔山 (© Mathieu Rivrin/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MontStMich_ZH-CN8844280566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "abe2608d0eda3f5cce9f0830a636a706", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210429_MontStMich%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E7%B1%B3%E6%AD%87%E5%B0%94%E5%B1%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210430", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210429", 
+                "urlbase": "/th?id=OHR.Mockhorn_EN-US1360987065", 
+                "fullstartdate": "202104290700", 
+                "copyright": "Aerial view of tidal channels in marshland of the Mockhorn Island State Wildlife Management Area, Virginia (© Shane Gross/Minden Pictures)", 
+                "title": "When does the tide come in?", 
+                "url": "/th?id=OHR.Mockhorn_EN-US1360987065_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "81066650e5c171340f83ec6ebe9673c5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210429_Mockhorn%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mockhorn+island+state+wildlife+management+area&form=hpcapt&filters=HpDate%3a%2220210429_0700%22", 
+                "wp": true, 
+                "enddate": "20210430", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
