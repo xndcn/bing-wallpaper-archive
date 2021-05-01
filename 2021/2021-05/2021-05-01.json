@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210430", 
+                "urlbase": "/th?id=OHR.GGTeaGarden_ZH-CN8933043250", 
+                "fullstartdate": "202104301600", 
+                "copyright": "金门公园中日本茶园里盛开的樱花，加州旧金山  (© luisascanio/iStock/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.GGTeaGarden_ZH-CN8933043250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "cebdd5d0b7a8869c8628d4a57f8801c8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210430_GGTeaGarden%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%87%91%E9%97%A8%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210501", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210430", 
+                "urlbase": "/th?id=OHR.SpiritHarlem_EN-US1474494856", 
+                "fullstartdate": "202104300700", 
+                "copyright": "'The Spirit of Harlem' mural by Louis Delsarte in Harlem, New York City (© Pietro Scozzari/agefotostock)", 
+                "title": "'The Spirit of Harlem' by Louis Delsarte", 
+                "url": "/th?id=OHR.SpiritHarlem_EN-US1474494856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ab6fe66f26a5dca681eae672fc2febc3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210430_SpiritHarlem%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=international+jazz+day&form=hpcapt&filters=HpDate%3a%2220210430_0700%22", 
+                "wp": false, 
+                "enddate": "20210501", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
