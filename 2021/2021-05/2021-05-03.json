@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210502", 
+                "urlbase": "/th?id=OHR.InselMainauAerial_ZH-CN9105248103", 
+                "fullstartdate": "202105021600", 
+                "copyright": "鸟瞰博登湖上的迈瑙岛，德国 (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.InselMainauAerial_ZH-CN9105248103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "dba4bc9237a74de01da4efb58265da44", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210502_InselMainauAerial%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%BF%88%E7%91%99%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210503", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210502", 
+                "urlbase": "/th?id=OHR.LaughingZebras_EN-US1800178960", 
+                "fullstartdate": "202105020700", 
+                "copyright": "Burchell's zebra stallions, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)", 
+                "title": "Happy World Laughter Day", 
+                "url": "/th?id=OHR.LaughingZebras_EN-US1800178960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b9fca2595a02764d03365d0b3df5876c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210502_LaughingZebras%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=world+laughter+day&form=hpcapt&filters=HpDate%3a%2220210502_0700%22", 
+                "wp": true, 
+                "enddate": "20210503", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
