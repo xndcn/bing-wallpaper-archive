@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210506", 
+                "urlbase": "/th?id=OHR.MaineWetland_ZH-CN7884780461", 
+                "fullstartdate": "202105061600", 
+                "copyright": "穆斯黑德湖附近的Norcross Brook河与湿地，缅因州皮斯卡特奎斯 (© Aaron Black-Schmidt/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.MaineWetland_ZH-CN7884780461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "561406c72bf868779a206a26e93ad259", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210506_MaineWetland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%A9%86%E6%96%AF%E9%BB%91%E5%BE%B7%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210507", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210506", 
+                "urlbase": "/th?id=OHR.NurseMask_EN-US2085492290", 
+                "fullstartdate": "202105060700", 
+                "copyright": "'Now & Forever,' a mural by Tristan Eaton honoring health care workers, May 11, 2020, in New York City (© Timothy A. Clary/AFP via Getty Images)", 
+                "title": "Why you should thank a nurse today", 
+                "url": "/th?id=OHR.NurseMask_EN-US2085492290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "66b8aa041c8a31b9fc672d66d2ca3486", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210506_NurseMask%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=national+nurses+week&form=hpcapt&filters=HpDate%3a%2220210506_0700%22", 
+                "wp": false, 
+                "enddate": "20210507", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
