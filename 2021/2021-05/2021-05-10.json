@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210509", 
+                "urlbase": "/th?id=OHR.TulpenMiesbach_ZH-CN8593652929", 
+                "fullstartdate": "202105091600", 
+                "copyright": "米斯巴赫的郁金香田，德国巴伐利亚州 (© Rüdiger Hess/geo-select FotoArt)", 
+                "title": "", 
+                "url": "/th?id=OHR.TulpenMiesbach_ZH-CN8593652929_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f6dcca1a0c4af911aa69a3dda148f3b9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210509_TulpenMiesbach%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%83%81%E9%87%91%E9%A6%99&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210510", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210509", 
+                "urlbase": "/th?id=OHR.OtterMom_EN-US8059433484", 
+                "fullstartdate": "202105090700", 
+                "copyright": "Sea otter mother and newborn pup, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)", 
+                "title": "Happy Mother's Day!", 
+                "url": "/th?id=OHR.OtterMom_EN-US8059433484_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c1b66c95ae09b245e5931513cf785dea", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210509_OtterMom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=mother%27s+day&form=hpcapt&filters=HpDate%3a%2220210509_0700%22", 
+                "wp": true, 
+                "enddate": "20210510", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
