@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210511", 
+                "urlbase": "/th?id=OHR.LimerickDay_ZH-CN8991034176", 
+                "fullstartdate": "202105111600", 
+                "copyright": "香浓河对岸的景色，爱尔兰利默里克 (© Piotr Machowczyk/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.LimerickDay_ZH-CN8991034176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d8b275a253c0418502bc8ffff5b9da87", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210511_LimerickDay%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%A6%99%E5%86%9C%E6%B2%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210512", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210511", 
+                "urlbase": "/th?id=OHR.GrinnellGlacier_EN-US4427090483", 
+                "fullstartdate": "202105110700", 
+                "copyright": "Grinnell Lake, Glacier National Park, Montana (© Pung/Shutterstock)", 
+                "title": "'The Crown of the Continent'", 
+                "url": "/th?id=OHR.GrinnellGlacier_EN-US4427090483_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5b9515f0469e0acb7c89d9a5512fb0c8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210511_GrinnellGlacier%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Glacier+National+Park&form=hpcapt&filters=HpDate%3a%2220210511_0700%22", 
+                "wp": true, 
+                "enddate": "20210512", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
