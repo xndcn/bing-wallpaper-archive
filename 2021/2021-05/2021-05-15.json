@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210514", 
+                "urlbase": "/th?id=OHR.ParanalStars_ZH-CN9247250519", 
+                "fullstartdate": "202105141600", 
+                "copyright": "帕瑞纳天文台的望远镜和星迹，智利阿塔卡马沙漠 (© Matteo Omied/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.ParanalStars_ZH-CN9247250519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c64fd7daaf655438ec3d32e6bdbf98c6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210514_ParanalStars%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%B8%95%E7%91%9E%E7%BA%B3%E5%A4%A9%E6%96%87%E5%8F%B0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210515", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210514", 
+                "urlbase": "/th?id=OHR.AltaFloresta_EN-US4736416258", 
+                "fullstartdate": "202105140700", 
+                "copyright": "Amazon rainforest with morning fog near Alta Floresta, Mato Grosso, Brazil (© Pulsar Imagens/Alamy)", 
+                "title": "A misty morning in Brazil", 
+                "url": "/th?id=OHR.AltaFloresta_EN-US4736416258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "69ac50eb336f9af0ab3b2f6af61ac32c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210514_AltaFloresta%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=amazon+rainforest&form=hpcapt&filters=HpDate%3a%2220210514_0700%22", 
+                "wp": true, 
+                "enddate": "20210515", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
