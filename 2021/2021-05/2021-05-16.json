@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210515", 
+                "urlbase": "/th?id=OHR.Guatape_ZH-CN9344556154", 
+                "fullstartdate": "202105151600", 
+                "copyright": "鸟瞰瓜塔佩巨岩，哥伦比亚瓜塔佩 (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.Guatape_ZH-CN9344556154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "97199fcfe82c354aaa8c630a1f7ec280", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210515_Guatape%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%93%9C%E5%A1%94%E4%BD%A9%E5%B7%A8%E5%B2%A9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210516", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210515", 
+                "urlbase": "/th?id=OHR.ParanalStars_EN-US4851647464", 
+                "fullstartdate": "202105150700", 
+                "copyright": "Telescopes and star trails at Paranal Observatory, Atacama Desert, Chile (© Matteo Omied/Alamy)", 
+                "title": "Happy Astronomy Day!", 
+                "url": "/th?id=OHR.ParanalStars_EN-US4851647464_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "275f8d65294633746f23c6f57d54877e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210515_ParanalStars%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=astronomy+day&form=hpcapt&filters=HpDate%3a%2220210515_0700%22", 
+                "wp": true, 
+                "enddate": "20210516", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
