@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210517", 
+                "urlbase": "/th?id=OHR.GreatHornbill_ZH-CN9550236034", 
+                "fullstartdate": "202105171600", 
+                "copyright": "西孟加拉邦的双角犀鸟，印度 (© Debapratim Saha/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.GreatHornbill_ZH-CN9550236034_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a9e23aebcca3ab9fe480a10f7911c0a5", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210517_GreatHornbill%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8F%8C%E8%A7%92%E7%8A%80%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210518", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210517", 
+                "urlbase": "/th?id=OHR.Alesund_EN-US7597098434", 
+                "fullstartdate": "202105170700", 
+                "copyright": "Ålesund, Norway (© AWL Images/Offset by Shutterstock)", 
+                "title": "Happy Syttende Mai!", 
+                "url": "/th?id=OHR.Alesund_EN-US7597098434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0c18630b043a1213e087740dbf69e4f6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210517_Alesund%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%C3%85lesund%2c+Norway&form=hpcapt&filters=HpDate%3a%2220210517_0700%22", 
+                "wp": true, 
+                "enddate": "20210518", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
