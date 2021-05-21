@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210520", 
+                "urlbase": "/th?id=OHR.WhoopingCranes_ZH-CN1637048842", 
+                "fullstartdate": "202105201600", 
+                "copyright": "春季迁徙时正准备起飞的美洲鹤，南达科他州 (© Gerrit Vyn/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.WhoopingCranes_ZH-CN1637048842_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "85ed0801046126adb3e8f3be565db715", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210520_WhoopingCranes%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%BE%8E%E6%B4%B2%E9%B9%A4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210521", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210520", 
+                "urlbase": "/th?id=OHR.BeeLotus_EN-US7861856689", 
+                "fullstartdate": "202105200700", 
+                "copyright": "A bee dives into a lotus flower at Kenilworth Park and Aquatic Gardens in Washington, DC (© Linda Davidson/The Washington Post via Getty Images)", 
+                "title": "Happy Bee Day to you", 
+                "url": "/th?id=OHR.BeeLotus_EN-US7861856689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "69b9f78d3e57ced15880a2918ea79684", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210520_BeeLotus%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=honey+bee&form=hpcapt&filters=HpDate%3a%2220210520_0700%22", 
+                "wp": false, 
+                "enddate": "20210521", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
