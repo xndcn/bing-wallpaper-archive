@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210521", 
+                "urlbase": "/th?id=OHR.CapeofTossa_ZH-CN1743321499", 
+                "fullstartdate": "202105211600", 
+                "copyright": "由中世纪的城墙包围着的市镇，西班牙滨海托萨 (© dleiva/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.CapeofTossa_ZH-CN1743321499_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ee707d2949471628cfa293f0fc336d80", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210521_CapeofTossa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%BB%A8%E6%B5%B7%E6%89%98%E8%90%A8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210522", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210521", 
+                "urlbase": "/th?id=OHR.WhoopingCranes_EN-US5576295451", 
+                "fullstartdate": "202105210700", 
+                "copyright": "Whooping cranes taking off during spring migration in South Dakota (© Gerrit Vyn/Minden Pictures)", 
+                "title": "Whoopin' it up!", 
+                "url": "/th?id=OHR.WhoopingCranes_EN-US5576295451_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bb2f46015cfec96651fcdaab2e579c83", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210521_WhoopingCranes%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=whooping+crane&FORM=hpcapt&filters=HpDate%3a%2220210521_0700%22", 
+                "wp": true, 
+                "enddate": "20210522", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
