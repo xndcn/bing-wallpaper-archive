@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210522", 
+                "urlbase": "/th?id=OHR.RoseRoom_ZH-CN1841119971", 
+                "fullstartdate": "202105221600", 
+                "copyright": "纽约公共图书馆总部翻新后的玫瑰主阅览室，纽约市 (© Sascha Kilmer/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.RoseRoom_ZH-CN1841119971_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "bc02ed00c2115e248d4067ae4012a608", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210522_RoseRoom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%BA%BD%E7%BA%A6%E5%85%AC%E5%85%B1%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%80%BB%E9%83%A8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210523", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210522", 
+                "urlbase": "/th?id=OHR.CapeofTossa_EN-US6969132211", 
+                "fullstartdate": "202105220700", 
+                "copyright": "The medieval walled town in Tossa de Mar, Catalonia, Spain (© dleiva/Alamy)", 
+                "title": "Blue paradise on the Costa Brava", 
+                "url": "/th?id=OHR.CapeofTossa_EN-US6969132211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ed987bfd4ad70481d0597abcf55658cd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210522_CapeofTossa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=tossa+de+mar+spain&form=hpcapt&filters=HpDate%3a%2220210522_0700%22", 
+                "wp": true, 
+                "enddate": "20210523", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
