@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210523", 
+                "urlbase": "/th?id=OHR.AarhusInfinite_ZH-CN1981168082", 
+                "fullstartdate": "202105231600", 
+                "copyright": "由丹麦建筑师Niels Povlsgaard和JohanGjødes设计的无限桥，丹麦奥胡斯 (© Kosmaj/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.AarhusInfinite_ZH-CN1981168082_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "62add9fdda3c24c7ad68f5dd10b65414", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210523_AarhusInfinite%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%97%A0%E9%99%90%E6%A1%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210524", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210523", 
+                "urlbase": "/th?id=OHR.RoseRoom_EN-US7194472524", 
+                "fullstartdate": "202105230700", 
+                "copyright": "The renovated Rose Main Reading Room, New York Public Library Main Branch, New York City (© Sascha Kilmer/Getty Images)", 
+                "title": "A palace for the public", 
+                "url": "/th?id=OHR.RoseRoom_EN-US7194472524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "faf14103c99d6c7ec526ef977b7ecd71", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210523_RoseRoom%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=new+york+public+library+main+branch&form=hpcapt&filters=HpDate%3a%2220210523_0700%22", 
+                "wp": true, 
+                "enddate": "20210524", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
