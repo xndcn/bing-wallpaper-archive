@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210528", 
+                "urlbase": "/th?id=OHR.RedAlley_ZH-CN2795378972", 
+                "fullstartdate": "202105281600", 
+                "copyright": "武侯祠内红墙和竹林掩映下的小巷，中国成都 (© Eastimages/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.RedAlley_ZH-CN2795378972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9f73b9bc98c10707f7e5e36a90c518c3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210528_RedAlley%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%AD%A6%E4%BE%AF%E7%A5%A0&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210529", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210528", 
+                "urlbase": "/th?id=OHR.CowbirdsEgg_EN-US8103879720", 
+                "fullstartdate": "202105280700", 
+                "copyright": "Robin's nest with a brown-headed cowbird egg (© Edward Kinsman/Science Photo Library)", 
+                "title": "Freeloaders of the avian world", 
+                "url": "/th?id=OHR.CowbirdsEgg_EN-US8103879720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b03f5571bba1ae7c996afb9a46b4300a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210528_CowbirdsEgg%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=brown-headed+cowbird&form=hpcapt&filters=HpDate%3a%2220210528_0700%22", 
+                "wp": true, 
+                "enddate": "20210529", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
