@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210529", 
+                "urlbase": "/th?id=OHR.SeaDog_ZH-CN2900177328", 
+                "fullstartdate": "202105291600", 
+                "copyright": "海峡群岛附近巨藻林中的加利福尼亚海狮 (© Nature Picture Library/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.SeaDog_ZH-CN2900177328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fe981bfe597737b7af3181c958996e18", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210529_SeaDog%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E6%B5%B7%E7%8B%AE&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210530", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210529", 
+                "urlbase": "/th?id=OHR.RedAlley_EN-US8215991251", 
+                "fullstartdate": "202105290700", 
+                "copyright": "Alley and bamboo grove in Wuhou Temple, Chengdu, Sichuan province, China (© Eastimages/Getty Images)", 
+                "title": "A path into history", 
+                "url": "/th?id=OHR.RedAlley_EN-US8215991251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "35d97e55676efbbca8db862ec90f724d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210529_RedAlley%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=wuhou+temple+chengdu+china&FORM=hpcapt&filters=HpDate%3a%2220210529_0700%22", 
+                "wp": true, 
+                "enddate": "20210530", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
