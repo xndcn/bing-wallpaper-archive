@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210531", 
+                "urlbase": "/th?id=OHR.PoetrysCave_ZH-CN3196193909", 
+                "fullstartdate": "202105311600", 
+                "copyright": "鸟瞰罗卡附近的Grotta della Poesia，意大利莱切 (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.PoetrysCave_ZH-CN3196193909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "32f3df9b3fdd14f268778f6bf7ae7ff6", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210531_PoetrysCave%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%8E%B1%E5%88%87&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210601", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210531", 
+                "urlbase": "/th?id=OHR.WomensMemorial_EN-US8561851319", 
+                "fullstartdate": "202105310700", 
+                "copyright": "Military Women's Memorial, located at the gateway to Arlington National Cemetery, Virginia (© Brycia James/Getty Images)", 
+                "title": "Here we honor the women who've served", 
+                "url": "/th?id=OHR.WomensMemorial_EN-US8561851319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "0055218cb10fe0c1d7854badb69ff93e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210531_WomensMemorial%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=military+women%27s+memorial+washington+dc&form=hpcapt&filters=HpDate%3a%2220210531_0700%22", 
+                "wp": true, 
+                "enddate": "20210601", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
