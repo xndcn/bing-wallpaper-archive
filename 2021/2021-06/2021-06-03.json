@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210602", 
+                "urlbase": "/th?id=OHR.SocaCycles_ZH-CN3583247274", 
+                "fullstartdate": "202106021600", 
+                "copyright": "斯洛文尼亚索奇河上的木制吊桥上骑自行车的人的鸟瞰图 (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.SocaCycles_ZH-CN3583247274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5513d5d3780c9384df197b465f048d5a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210602_SocaCycles%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E7%B4%A2%E5%A5%87%E6%B2%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210603", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210602", 
+                "urlbase": "/th?id=OHR.EstoshaSpringbok_EN-US8878416660", 
+                "fullstartdate": "202106020700", 
+                "copyright": "Springboks near a waterhole in Etosha National Park, Namibia (© Charlie Summers/Minden Pictures)", 
+                "title": "The dry days of winter in Etosha", 
+                "url": "/th?id=OHR.EstoshaSpringbok_EN-US8878416660_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8cd75e725d3346caf19849f7e474a779", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210602_EstoshaSpringbok%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=springbok+antelope&form=hpcapt&filters=HpDate%3a%2220210602_0700%22", 
+                "wp": true, 
+                "enddate": "20210603", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
