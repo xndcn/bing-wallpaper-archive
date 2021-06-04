@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210603", 
+                "urlbase": "/th?id=OHR.Pilat_ZH-CN0091553547", 
+                "fullstartdate": "202106031600", 
+                "copyright": "法国西南部阿卡雄湾的皮拉沙丘 (© aluxum/iStock/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.Pilat_ZH-CN0091553547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b300c5c02e592cd186aa4d5821438c50", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210603_Pilat%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%9A%AE%E6%8B%89%E6%B2%99%E4%B8%98&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210604", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210603", 
+                "urlbase": "/th?id=OHR.SocaCycles_EN-US8987262585", 
+                "fullstartdate": "202106030700", 
+                "copyright": "Cyclists on a wooden suspension bridge over the Soča River in Slovenia (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "Get on your bike and ride", 
+                "url": "/th?id=OHR.SocaCycles_EN-US8987262585_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a8a7b6f8f8a93a918c0703b572fde6e7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210603_SocaCycles%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=world+bicycle+day&FORM=hpcapt&filters=HpDate%3a%2220210603_0700%22", 
+                "wp": true, 
+                "enddate": "20210604", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
