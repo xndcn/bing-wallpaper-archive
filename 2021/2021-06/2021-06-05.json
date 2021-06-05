@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210604", 
+                "urlbase": "/th?id=OHR.ToucanRainforest_ZH-CN0522556036", 
+                "fullstartdate": "202106041600", 
+                "copyright": "La Selva生物站热带雨林树冠上的黑嘴巨嘴鸟，哥斯达黎加 (© Greg Basco/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.ToucanRainforest_ZH-CN0522556036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "3353f3cd7e17220aff550ada2af315df", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210604_ToucanRainforest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=canopy&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210605", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210604", 
+                "urlbase": "/th?id=OHR.EasternIsland_EN-US7992088058", 
+                "fullstartdate": "202106040700", 
+                "copyright": "Eastern Island and Spit Island, Midway Atoll (© Ian Shive/Tandem Stills + Motion)", 
+                "title": "Islands that turned the tide", 
+                "url": "/th?id=OHR.EasternIsland_EN-US7992088058_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "69330591ce5f1cab5618069990cf3b1e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210604_EasternIsland%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=midway+atoll&form=hpcapt&filters=HpDate%3a%2220210604_0700%22", 
+                "wp": true, 
+                "enddate": "20210605", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
