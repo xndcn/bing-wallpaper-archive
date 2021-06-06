@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210605", 
+                "urlbase": "/th?id=OHR.ArromanchesLesBains_ZH-CN0631947158", 
+                "fullstartdate": "202106051600", 
+                "copyright": "阿罗芒什莱班的桑树港，法国诺曼底 (© agefotostock/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.ArromanchesLesBains_ZH-CN0631947158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9018a30e1b018a3b5c104b96b0f28da7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210605_ArromanchesLesBains%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Normandy&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210606", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210605", 
+                "urlbase": "/th?id=OHR.ToucanRainforest_EN-US8174584515", 
+                "fullstartdate": "202106050700", 
+                "copyright": "Black-mandibled toucan in the rainforest canopy of La Selva Biological Station in Costa Rica (© Greg Basco/Minden Pictures)", 
+                "title": "Bird's-eye view on World Environment Day", 
+                "url": "/th?id=OHR.ToucanRainforest_EN-US8174584515_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4ff354ccc8ffb4ca821a864f3330be33", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210605_ToucanRainforest%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=world+environment+day&form=hpcapt&filters=HpDate%3a%2220210605_0700%22", 
+                "wp": true, 
+                "enddate": "20210606", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
