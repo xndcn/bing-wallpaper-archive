@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210606", 
+                "urlbase": "/th?id=OHR.BuntingBird_ZH-CN0707942842", 
+                "fullstartdate": "202106061600", 
+                "copyright": "向日葵上的靛蓝彩旗鸟 (© William Krumpelman/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.BuntingBird_ZH-CN0707942842_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4e112e2afeb9a77a18d0fb69457781ab", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210606_BuntingBird%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%9D%9B%E8%93%9D%E5%BD%A9%E6%97%97%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210607", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210606", 
+                "urlbase": "/th?id=OHR.ArromanchesLesBains_EN-US8268306845", 
+                "fullstartdate": "202106060700", 
+                "copyright": "Mulberry harbour at Arromanches-les-Bains, Normandy, France (© agefotostock/Alamy)", 
+                "title": "On this shore, history was made", 
+                "url": "/th?id=OHR.ArromanchesLesBains_EN-US8268306845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c8f0bf9db1f2b33833188661cad82263", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210606_ArromanchesLesBains%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=arromanches-les-bains+normandy&form=hpcapt&filters=HpDate%3a%2220210606_0700%22", 
+                "wp": true, 
+                "enddate": "20210607", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
