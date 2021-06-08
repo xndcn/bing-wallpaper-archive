@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210607", 
+                "urlbase": "/th?id=OHR.CortezJacks_ZH-CN1619906832", 
+                "fullstartdate": "202106071600", 
+                "copyright": "加利福尼亚湾中数千条杰克鱼成群游动，墨西哥普尔莫角国家公园 (© Christian Vizl/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.CortezJacks_ZH-CN1619906832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "df23ae3b359e7cf2306cb1c2a3ab3101", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210607_CortezJacks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%9D%B0%E5%85%8B%E9%B1%BC&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210608", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210607", 
+                "urlbase": "/th?id=OHR.BuntingBird_EN-US8373607335", 
+                "fullstartdate": "202106070700", 
+                "copyright": "An indigo bunting on a sunflower (© William Krumpelman/Getty Images)", 
+                "title": "Dressed to impress", 
+                "url": "/th?id=OHR.BuntingBird_EN-US8373607335_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b5d21044f47619da0628734cd7a5cb30", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210607_BuntingBird%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=indigo+bunting&form=hpcapt&filters=HpDate%3a%2220210607_0700%22", 
+                "wp": true, 
+                "enddate": "20210608", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
