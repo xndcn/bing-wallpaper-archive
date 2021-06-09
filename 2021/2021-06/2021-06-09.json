@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210608", 
+                "urlbase": "/th?id=OHR.ForteNossa_ZH-CN2163490377", 
+                "fullstartdate": "202106081600", 
+                "copyright": "埃尔瓦什附近的格拉萨圣母堡，葡萄牙 (© Luis Pina Photography/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.ForteNossa_ZH-CN2163490377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "71c150c4c32365ecc5b44c3af9b6a7df", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210608_ForteNossa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%9F%83%E5%B0%94%E7%93%A6%E4%BB%80&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210609", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210608", 
+                "urlbase": "/th?id=OHR.CortezJacks_EN-US4025428525", 
+                "fullstartdate": "202106080700", 
+                "copyright": "Thousands of jack fish swimming together at Cabo Pulmo National Park, Sea of Cortez, Baja California, Mexico (© Christian Vizl/Tandem Stills + Motion)", 
+                "title": "A day for our oceans", 
+                "url": "/th?id=OHR.CortezJacks_EN-US4025428525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b534843e6471dd544462255a25b4c3d9", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210608_CortezJacks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=world+oceans+day&form=hpcapt&filters=HpDate%3a%2220210608_0700%22", 
+                "wp": true, 
+                "enddate": "20210609", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
