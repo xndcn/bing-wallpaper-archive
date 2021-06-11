@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210610", 
+                "urlbase": "/th?id=OHR.GlenEtive_ZH-CN2562811591", 
+                "fullstartdate": "202106101600", 
+                "copyright": "格伦·埃蒂夫盛开着石南花的小湖，苏格兰 (© Oliver Hellowell/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.GlenEtive_ZH-CN2562811591_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f4ff927c0b60d9fb8b9033da2900019e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210610_GlenEtive%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%9F%B3%E5%8D%97%E8%8A%B1&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210611", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210610", 
+                "urlbase": "/th?id=OHR.ForteNossa_EN-US8946379841", 
+                "fullstartdate": "202106100700", 
+                "copyright": "Nossa Senhora da Graça Fort near Elvas, Portugal (© Luis Pina Photography/Shutterstock)", 
+                "title": "A Portuguese fort takes a star turn", 
+                "url": "/th?id=OHR.ForteNossa_EN-US8946379841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ebb0fee7b5070a95cc8dd7ad73655c59", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210610_ForteNossa%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=nossa+senhora+da+graca+fort&form=hpcapt&filters=HpDate%3a%2220210610_0700%22", 
+                "wp": true, 
+                "enddate": "20210611", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
