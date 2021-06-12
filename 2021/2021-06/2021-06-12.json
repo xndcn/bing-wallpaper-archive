@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210611", 
+                "urlbase": "/th?id=OHR.BBNPGrande_ZH-CN4071551965", 
+                "fullstartdate": "202106111600", 
+                "copyright": "大弯国家公园中里奥格兰德河的景色，德克萨斯州 (© Ian Shive/Tandem Stills + Motion)", 
+                "title": "", 
+                "url": "/th?id=OHR.BBNPGrande_ZH-CN4071551965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "5763036769148e191592dbbd8b6c8400", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210611_BBNPGrande%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A0%BC%E5%85%B0%E5%BE%B7%E6%B2%B3&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210612", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210611", 
+                "urlbase": "/th?id=OHR.GlenEtive_EN-US8902001915", 
+                "fullstartdate": "202106110700", 
+                "copyright": "Small loch in Glen Etive, Scotland (© Oliver Hellowell/Minden Pictures)", 
+                "title": "An island in the Highlands", 
+                "url": "/th?id=OHR.GlenEtive_EN-US8902001915_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "77ab43ce96a7d3a18ae83fdc17dd9d93", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210611_GlenEtive%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=glen+etive+highlands+scotland&form=hpcapt&filters=HpDate%3a%2220210611_0700%22", 
+                "wp": true, 
+                "enddate": "20210612", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
