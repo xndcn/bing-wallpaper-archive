@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210613", 
+                "urlbase": "/th?id=OHR.DragonBoatFestival2021_ZH-CN2761776128", 
+                "fullstartdate": "202106131600", 
+                "copyright": "【端午安康】 （ © \tShutterstock ）", 
+                "title": "", 
+                "url": "/th?id=OHR.DragonBoatFestival2021_ZH-CN2761776128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "15319dd78c2c3645dd3ceb8a942e418e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210613_DragonBoatFestival2021%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%AB%AF%E5%8D%88&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210614", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210613", 
+                "urlbase": "/th?id=OHR.FinlandBrownBear_EN-US9193102113", 
+                "fullstartdate": "202106130700", 
+                "copyright": "Eurasian brown bear cub in the taiga forest, Finland (© Jules Cox/Minden Pictures)", 
+                "title": "Bear watching in the Finnish forest", 
+                "url": "/th?id=OHR.FinlandBrownBear_EN-US9193102113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "4475f35eed40383c5ff4a1deb2052f4d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210613_FinlandBrownBear%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=brown+bear+ursus+arctos&form=hpcapt&filters=HpDate%3a%2220210613_0700%22", 
+                "wp": true, 
+                "enddate": "20210614", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
