@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210617", 
+                "urlbase": "/th?id=OHR.ReussRiver_ZH-CN5897721217", 
+                "fullstartdate": "202106171600", 
+                "copyright": "Aerial view of Chapel Bridge over the river Reuss in Lucerne, Switzerland (© Neleman Initiative/Gallery Stock)", 
+                "title": "", 
+                "url": "/th?id=OHR.ReussRiver_ZH-CN5897721217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ab169d8c206fe825a9aa3afaaf1825d8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210617_ReussRiver%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Chapel&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210618", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210617", 
+                "urlbase": "/th?id=OHR.BrightEye_EN-US9581825024", 
+                "fullstartdate": "202106170700", 
+                "copyright": "Bright Eye sea cave on the Nā Pali Coast, Kauai, Hawaii (© jimkruger/Getty Images)", 
+                "title": "Just another day in paradise", 
+                "url": "/th?id=OHR.BrightEye_EN-US9581825024_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7ba83099e08f11e1c729e8bf7f26f6fa", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210617_BrightEye%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Na+Pali+Coast+State+Park&form=hpcapt&filters=HpDate%3a%2220210617_0700%22", 
+                "wp": true, 
+                "enddate": "20210618", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
