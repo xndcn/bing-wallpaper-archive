@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210621", 
+                "urlbase": "/th?id=OHR.SouthCoast_ZH-CN9438294266", 
+                "fullstartdate": "202106211600", 
+                "copyright": "塞里雅兰瀑布后的午夜太阳，冰岛南海岸附近 (© Tom Mackie/plainpicture)", 
+                "title": "", 
+                "url": "/th?id=OHR.SouthCoast_ZH-CN9438294266_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "dafea17cce0bcccf6e3dc63379188bbd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210621_SouthCoast%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A1%9E%E9%87%8C%E9%9B%85%E5%85%B0%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210622", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210621", 
+                "urlbase": "/th?id=OHR.RothschildGiraffe_EN-US4621962761", 
+                "fullstartdate": "202106210700", 
+                "copyright": "Rothschild's giraffe in Lake Nakuru National Park, Kenya (© Theo Allofs/Minden Pictures)", 
+                "title": "Stretching into a new season", 
+                "url": "/th?id=OHR.RothschildGiraffe_EN-US4621962761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "f61d5886a32298c740a020d81535ec1a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210621_RothschildGiraffe%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=World+Giraffe+Day&form=hpcapt&filters=HpDate%3a%2220210621_0700%22", 
+                "wp": true, 
+                "enddate": "20210622", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
