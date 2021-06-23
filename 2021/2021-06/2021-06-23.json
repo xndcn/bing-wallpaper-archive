@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210622", 
+                "urlbase": "/th?id=OHR.Nichinan_ZH-CN9549208263", 
+                "fullstartdate": "202106221600", 
+                "copyright": "日南市的萤火虫，日本鸟取县 (© north-tail/Getty Images Plus)", 
+                "title": "", 
+                "url": "/th?id=OHR.Nichinan_ZH-CN9549208263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "02ed121258ce8979db1516cadffab1b2", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210622_Nichinan%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%90%A4%E7%81%AB%E8%99%AB&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210623", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210622", 
+                "urlbase": "/th?id=OHR.SouthCoast_EN-US4824290612", 
+                "fullstartdate": "202106220700", 
+                "copyright": "Seljalandsfoss waterfall in the South Region of Iceland (© Tom Mackie/plainpicture)", 
+                "title": "Land of the midnight sun", 
+                "url": "/th?id=OHR.SouthCoast_EN-US4824290612_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "b304310622b908d06766aeeae5dda413", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210622_SouthCoast%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Seljalandsfoss+waterfall&form=hpcapt&filters=HpDate%3a%2220210622_0700%22", 
+                "wp": true, 
+                "enddate": "20210623", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
