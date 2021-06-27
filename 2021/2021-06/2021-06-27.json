@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210626", 
+                "urlbase": "/th?id=OHR.GreaterFlamingosIndia_ZH-CN5655181892", 
+                "fullstartdate": "202106261600", 
+                "copyright": "大型火烈鸟迁徙到淡水区，印度 (© Amresh Mishra/500px/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.GreaterFlamingosIndia_ZH-CN5655181892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "1a1fe284d8699bbd460b75f4991b3877", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210626_GreaterFlamingosIndia%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%81%AB%E7%83%88%E9%B8%9F&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210627", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210626", 
+                "urlbase": "/th?id=OHR.Shilinxia_EN-US5445196689", 
+                "fullstartdate": "202106260700", 
+                "copyright": "Glass sightseeing platform in Shilinxia Scenic Area, Pinggu District of Beijing, China (© STR/AFP via Getty Images)", 
+                "title": "Spectacular views below!", 
+                "url": "/th?id=OHR.Shilinxia_EN-US5445196689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "fc9a4a2a13e1d937e0757c85f8e92a53", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210626_Shilinxia%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=shilinxia+china&FORM=hpcapt&filters=HpDate%3a%2220210626_0700%22", 
+                "wp": false, 
+                "enddate": "20210627", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
