@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210627", 
+                "urlbase": "/th?id=OHR.Cittadella_ZH-CN0039969121", 
+                "fullstartdate": "202106271600", 
+                "copyright": "戈佐岛上的Cittadella城堡,马耳他 (© Davide Seddio/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.Cittadella_ZH-CN0039969121_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ce25aaa4cc096876545dec6e240abc33", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210627_Cittadella%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E8%80%B3%E4%BB%96%E6%88%88%E4%BD%90%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210628", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210627", 
+                "urlbase": "/th?id=OHR.LCPAPride_EN-US5979726065", 
+                "fullstartdate": "202106270700", 
+                "copyright": "Lincoln Center for the Performing Arts lit in Pride colors on June 18, 2020 in New York City (© Alexi Rosenfeld/Getty Images)", 
+                "title": "Bathing in the light of Pride", 
+                "url": "/th?id=OHR.LCPAPride_EN-US5979726065_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a59fcafdf72c36b0d9ba3f1abec1ef5d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210627_LCPAPride%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=pride+day&form=hpcapt&filters=HpDate%3a%2220210627_0700%22", 
+                "wp": false, 
+                "enddate": "20210628", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
