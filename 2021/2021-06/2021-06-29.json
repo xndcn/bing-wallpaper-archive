@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210628", 
+                "urlbase": "/th?id=OHR.RocksSeychelles_ZH-CN0105602892", 
+                "fullstartdate": "202106281600", 
+                "copyright": "拉迪格岛德阿让海滩上的岩石，塞舌尔 (© Roland Gerth/eStock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.RocksSeychelles_ZH-CN0105602892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a714a0f52c81373b127f900be85fe339", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210628_RocksSeychelles%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%8B%89%E8%BF%AA%E6%A0%BC%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210629", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210628", 
+                "urlbase": "/th?id=OHR.Cittadella_EN-US6067516722", 
+                "fullstartdate": "202106280700", 
+                "copyright": "The Cittadella on the island of Gozo, Malta (© Davide Seddio/Getty Images)", 
+                "title": "A medieval celebration in the Mediterranean", 
+                "url": "/th?id=OHR.Cittadella_EN-US6067516722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "9051de18ec16cfc75684140ba3e12f38", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210628_Cittadella%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=gozo+malta&form=hpcapt&filters=HpDate%3a%2220210628_0700%22", 
+                "wp": true, 
+                "enddate": "20210629", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
