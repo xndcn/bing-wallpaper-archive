@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210629", 
+                "urlbase": "/th?id=OHR.LavenderBlooms_ZH-CN5541892943", 
+                "fullstartdate": "202106291600", 
+                "copyright": "薰衣草田，英国牛津 (© Peter Greenway/EyeEm/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.LavenderBlooms_ZH-CN5541892943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8610ceb1048cfd535ee220f9505d8200", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210629_LavenderBlooms%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%96%B0%E8%A1%A3%E8%8D%89&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210630", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210629", 
+                "urlbase": "/th?id=OHR.RocksSeychelles_EN-US7406548278", 
+                "fullstartdate": "202106290700", 
+                "copyright": "Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)", 
+                "title": "An island hopper's paradise", 
+                "url": "/th?id=OHR.RocksSeychelles_EN-US7406548278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a68dfdac5afdc70597915ff4573af91a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210629_RocksSeychelles%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=la+digue+island&form=hpcapt&filters=HpDate%3a%2220210629_0700%22", 
+                "wp": true, 
+                "enddate": "20210630", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
