@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210701", 
+                "urlbase": "/th?id=OHR.ShyFive_ZH-CN0542113860", 
+                "fullstartdate": "202107011600", 
+                "copyright": "翘首眺望远方的狐獴，纳米比亚 (© Danita Delimont/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.ShyFive_ZH-CN0542113860_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "948e796e385971d2b616938b934648a3", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210701_ShyFive%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E7%8B%90%E7%8D%B4&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210702", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210701", 
+                "urlbase": "/th?id=OHR.HangingCanoes_EN-US0235160370", 
+                "fullstartdate": "202107010700", 
+                "copyright": "'Passage migratoire' ('Migratory Passage'), an art installation by Giorgia Volpe in Old Québec City, Québec, Canada (© Lucbouch/Getty Images)", 
+                "title": "Celebrating migrations", 
+                "url": "/th?id=OHR.HangingCanoes_EN-US0235160370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ace4e7a91621ee5644864220795d9c24", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210701_HangingCanoes%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=canada+day&form=hpcapt&filters=HpDate%3a%2220210701_0700%22", 
+                "wp": false, 
+                "enddate": "20210702", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
