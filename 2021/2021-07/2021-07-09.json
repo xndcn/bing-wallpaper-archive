@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210708", 
+                "urlbase": "/th?id=OHR.Ortygia_ZH-CN5237934114", 
+                "fullstartdate": "202107081600", 
+                "copyright": "奥提伽，西西里岛锡拉库萨海岸附近的小岛，意大利 (© DaLiu/Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.Ortygia_ZH-CN5237934114_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "31b79f3fb1911e0d1dd8f61ebbe7680f", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210708_Ortygia%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A5%A5%E6%8F%90%E4%BC%BD%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210709", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210708", 
+                "urlbase": "/th?id=OHR.AppalachianTrail_EN-US5662298732", 
+                "fullstartdate": "202107080700", 
+                "copyright": "The Appalachian Trail in Stokes State Forest, New Jersey (© Frank DeBonis/Getty Images)", 
+                "title": "A storied trail marks a century", 
+                "url": "/th?id=OHR.AppalachianTrail_EN-US5662298732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8494c3247ede3911e11504839be6d4bd", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210708_AppalachianTrail%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=appalachian+trail&form=hpcapt&filters=HpDate%3a%2220210708_0700%22", 
+                "wp": true, 
+                "enddate": "20210709", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
