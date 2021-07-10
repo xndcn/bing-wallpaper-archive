@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210709", 
+                "urlbase": "/th?id=OHR.MonfragueNationalPark_ZH-CN5421553314", 
+                "fullstartdate": "202107091600", 
+                "copyright": "塔霍河上空的银河，西班牙蒙弗拉圭国家公园 (© Miguel Angel Muñoz Ruiz/Cavan Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MonfragueNationalPark_ZH-CN5421553314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "02068d19ce063479c765f314295467f7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210709_MonfragueNationalPark%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A1%94%E9%9C%8D%E6%B2%B3%C3%BCe&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210710", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210709", 
+                "urlbase": "/th?id=OHR.Ortygia_EN-US5940165843", 
+                "fullstartdate": "202107090700", 
+                "copyright": "Ortygia, a small island off the coast of Syracuse, Sicily, Italy (© DaLiu/Shutterstock)", 
+                "title": "A center of antiquity on the Mediterranean", 
+                "url": "/th?id=OHR.Ortygia_EN-US5940165843_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ff42e06b42589f623246c96fd2e3c3a8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210709_Ortygia%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%2bOrtygia+syracuse&form=hpcapt&filters=HpDate%3a%2220210709_0700%22", 
+                "wp": true, 
+                "enddate": "20210710", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
