@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210717", 
+                "urlbase": "/th?id=OHR.ZinnowitzSeebruecke_ZH-CN6706198565", 
+                "fullstartdate": "202107171600", 
+                "copyright": "Zinnowitz pier on Usedom island in the Baltic Sea, Germany (© Frank Günther/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.ZinnowitzSeebruecke_ZH-CN6706198565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "a7d02275d1936064fb4c055476d5d5ee", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210717_ZinnowitzSeebruecke%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=zzzz&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210718", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210717", 
+                "urlbase": "/th?id=OHR.LoepaOberthuri_EN-US7208560265", 
+                "fullstartdate": "202107170700", 
+                "copyright": "A Loepa oberthuri moth (© Robert Thompson/Minden Pictures)", 
+                "title": "Pretty, pretty…butterfly?", 
+                "url": "/th?id=OHR.LoepaOberthuri_EN-US7208560265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "42d0b27bf27343fc8b4111fb1fa0e97c", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210717_LoepaOberthuri%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Moth+Week&form=hpcapt&filters=HpDate%3a%2220210717_0700%22", 
+                "wp": true, 
+                "enddate": "20210718", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
