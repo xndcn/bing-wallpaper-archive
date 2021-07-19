@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210718", 
+                "urlbase": "/th?id=OHR.Tetouan_ZH-CN6795834080", 
+                "fullstartdate": "202107181600", 
+                "copyright": "麦地那的彩色小巷， 摩洛哥得土安市 (© Jan Wlodarczyk/eStock Photo)", 
+                "title": "", 
+                "url": "/th?id=OHR.Tetouan_ZH-CN6795834080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e9f6497bacfb3ed5984b3a2611ae95d0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210718_Tetouan%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%91%A9%E6%B4%9B%E5%93%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210719", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210718", 
+                "urlbase": "/th?id=OHR.LouvreRiders_EN-US7293709223", 
+                "fullstartdate": "202107180700", 
+                "copyright": "Tour de France riders in front of the Louvre Pyramid and Museum in Paris, France, during the 2020 race (© Martin Bureau/AFP via Getty Images)", 
+                "title": "Grand finish of Le Tour", 
+                "url": "/th?id=OHR.LouvreRiders_EN-US7293709223_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "7ee1f2d93af7cf7d62eed3389978dc18", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210718_LouvreRiders%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=tour+de+france&form=hpcapt&filters=HpDate%3a%2220210718_0700%22", 
+                "wp": false, 
+                "enddate": "20210719", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
