@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210720", 
+                "urlbase": "/th?id=OHR.VermilionLakes_ZH-CN3446257764", 
+                "fullstartdate": "202107201600", 
+                "copyright": "山脉中的朱砂湖，加拿大落基山脉 (© Glowing Earth Photography/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.VermilionLakes_ZH-CN3446257764_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "8899cb70496a4b2b82395521324391c8", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210720_VermilionLakes%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%9C%B1%E7%A0%82%E6%B9%96&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210721", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210720", 
+                "urlbase": "/th?id=OHR.PrathameshJaju_EN-US8876008160", 
+                "fullstartdate": "202107200700", 
+                "copyright": "Composite image of the moon (© Prathamesh Jaju)", 
+                "title": "Fly me to the moon", 
+                "url": "/th?id=OHR.PrathameshJaju_EN-US8876008160_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c0df29a194ad0239ca9bbb3bed0892bc", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210720_PrathameshJaju%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=moon&form=hpcapt&filters=HpDate%3a%2220210720_0700%22", 
+                "wp": true, 
+                "enddate": "20210721", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
