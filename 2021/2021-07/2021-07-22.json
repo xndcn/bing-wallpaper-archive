@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210721", 
+                "urlbase": "/th?id=OHR.MinokakeRocks_ZH-CN2474262090", 
+                "fullstartdate": "202107211600", 
+                "copyright": "伊豆半岛海岸附近的 Minokake-Iwa 奇岩群，日本 (© Krzysztof Baranowski/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.MinokakeRocks_ZH-CN2474262090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d299be0e45392b906671bca863d74126", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210721_MinokakeRocks%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%BC%8A%E8%B1%86%E5%8D%8A%E5%B2%9B&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210722", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210721", 
+                "urlbase": "/th?id=OHR.CasteldelMonte_EN-US0394527485", 
+                "fullstartdate": "202107210700", 
+                "copyright": "Castel del Monte, Apulia, Italy (© Toni Spagone/Alamy)", 
+                "title": "An octagonal architectural treasure", 
+                "url": "/th?id=OHR.CasteldelMonte_EN-US0394527485_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "48e91f8c4b8b7987edf6f3c379196873", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210721_CasteldelMonte%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=castel+del+monte+apulia+italy&form=hpcapt&filters=HpDate%3a%2220210721_0700%22", 
+                "wp": true, 
+                "enddate": "20210722", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
