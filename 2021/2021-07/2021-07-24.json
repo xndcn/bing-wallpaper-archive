@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210723", 
+                "urlbase": "/th?id=OHR.JavanCousins_ZH-CN2694602511", 
+                "fullstartdate": "202107231600", 
+                "copyright": "四只爪哇树蛙趴在树茎上，印度尼西亚 (© SnapRapid/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.JavanCousins_ZH-CN2694602511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "11613e8fe5bcaad824e1cc432f42cfa4", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210723_JavanCousins%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E6%A0%91%E8%9B%99&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210724", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210723", 
+                "urlbase": "/th?id=OHR.TokyoMetropolis_EN-US9112375652", 
+                "fullstartdate": "202107230700", 
+                "copyright": "Tokyo Tower in Minato City, Tokyo, Japan (© Yukinori Hasumi/Getty Images)", 
+                "title": "Let the games (finally) begin!", 
+                "url": "/th?id=OHR.TokyoMetropolis_EN-US9112375652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "2040494810d137ad6437b4e6b404937b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210723_TokyoMetropolis%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=tokyo&FORM=HPCAPT&filters=HpDate%3a%2220210723_0700%22", 
+                "wp": true, 
+                "enddate": "20210724", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
