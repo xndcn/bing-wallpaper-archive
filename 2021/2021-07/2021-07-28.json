@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210727", 
+                "urlbase": "/th?id=OHR.SeaGoldie_ZH-CN3208818667", 
+                "fullstartdate": "202107271600", 
+                "copyright": "珊瑚礁周围的丝鳍拟花鮨鱼群，澳大利亚昆士兰大堡礁 (© Gary Bell/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.SeaGoldie_ZH-CN3208818667_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c2f1f76600bd4c707dadc4d21cab3d0e", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210727_SeaGoldie%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%B8%9D%E9%B3%8D%E6%8B%9F%E8%8A%B1%E9%AE%A8&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210728", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210727", 
+                "urlbase": "/th?id=OHR.AdlerPlanetarium_EN-US9558785232", 
+                "fullstartdate": "202107270700", 
+                "copyright": "Adler Planetarium near Lake Michigan, Chicago, Illinois (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "Maybe we should be looking up", 
+                "url": "/th?id=OHR.AdlerPlanetarium_EN-US9558785232_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "475c200e6cb708bed8a45c1a0703d2d1", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210727_AdlerPlanetarium%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=adler+planetarium&form=hpcapt&filters=HpDate%3a%2220210727_0700%22", 
+                "wp": true, 
+                "enddate": "20210728", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
