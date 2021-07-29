@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210728", 
+                "urlbase": "/th?id=OHR.PantheraTigris_ZH-CN3331361509", 
+                "fullstartdate": "202107281600", 
+                "copyright": "隐藏在高草丛中的老虎，印度阿萨姆邦 (© Sandesh Kadur/Minden Pictures)", 
+                "title": "", 
+                "url": "/th?id=OHR.PantheraTigris_ZH-CN3331361509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ed4ae72db9f8c398b0cdc99e7a4be92b", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210728_PantheraTigris%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%AD%9F%E5%8A%A0%E6%8B%89%E8%99%8E&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210729", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210728", 
+                "urlbase": "/th?id=OHR.SeaGoldie_EN-US9625167980", 
+                "fullstartdate": "202107280700", 
+                "copyright": "School of sea goldies with feather stars, Great Barrier Reef, Queensland, Australia (© Gary Bell/Minden Pictures)", 
+                "title": "A goldie gala", 
+                "url": "/th?id=OHR.SeaGoldie_EN-US9625167980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "96cda611c61f2e361b79a8edd910f3ab", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210728_SeaGoldie%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=great+barrier+reef&form=hpcapt&filters=HpDate%3a%2220210728_0700%22", 
+                "wp": true, 
+                "enddate": "20210729", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
