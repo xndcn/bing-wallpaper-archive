@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210803", 
+                "urlbase": "/th?id=OHR.Neofelis_ZH-CN4637223865", 
+                "fullstartdate": "202108031600", 
+                "copyright": "云豹 (© Dhritiman Mukherjee/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.Neofelis_ZH-CN4637223865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "c11d48b3a49d97e307f974fc9e844943", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210803_Neofelis%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%B6%B4%E5%9C%A8%E6%A0%91%E6%9E%9D%E4%B8%8A%E7%9A%84%E4%BA%91%E8%B1%B9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210804", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210803", 
+                "urlbase": "/th?id=OHR.WachsenburgCastle_EN-US0450745616", 
+                "fullstartdate": "202108030700", 
+                "copyright": "Wachsenburg Castle near Erfurt, Germany (© Radius Images/Offset by Shutterstock)", 
+                "title": "A reflection of Europe's past", 
+                "url": "/th?id=OHR.WachsenburgCastle_EN-US0450745616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "93c8da95b68be93d750116f9debc84f7", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210803_WachsenburgCastle%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Wachsenburg+Castle+Germany&form=hpcapt&filters=HpDate%3a%2220210803_0700%22", 
+                "wp": true, 
+                "enddate": "20210804", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
