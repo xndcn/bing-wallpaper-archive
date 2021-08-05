@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210804", 
+                "urlbase": "/th?id=OHR.DorsetPinnacles_ZH-CN2764578102", 
+                "fullstartdate": "202108041600", 
+                "copyright": "波白克岛的小尖塔岩石，英格兰多塞特 (© James Osmond/Alamy)", 
+                "title": "", 
+                "url": "/th?id=OHR.DorsetPinnacles_ZH-CN2764578102_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "11c37bf7de851c60567adcfa40cfef4d", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210804_DorsetPinnacles%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E5%A4%9A%E5%A1%9E%E7%89%B9&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210805", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210804", 
+                "urlbase": "/th?id=OHR.Neofelis_EN-US8038280591", 
+                "fullstartdate": "202108040700", 
+                "copyright": "Clouded leopard (© Dhritiman Mukherjee/Alamy)", 
+                "title": "A special day for a special cat", 
+                "url": "/th?id=OHR.Neofelis_EN-US8038280591_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "93e3392092d8c50e6dbee3a002138e0a", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210804_Neofelis%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=Clouded+leopard&form=hpcapt&filters=HpDate%3a%2220210804_0700%22", 
+                "wp": true, 
+                "enddate": "20210805", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
