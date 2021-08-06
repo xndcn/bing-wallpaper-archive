@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210805", 
+                "urlbase": "/th?id=OHR.SalisburyCrags_ZH-CN4712204475", 
+                "fullstartdate": "202108051600", 
+                "copyright": "从索尔兹伯里的峭壁上俯瞰爱丁堡，苏格兰荷里路德公园 (© Andrew Merry/Getty Images)", 
+                "title": "", 
+                "url": "/th?id=OHR.SalisburyCrags_ZH-CN4712204475_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "e5323e99de79bc8b6a98abf3e6aa1847", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210805_SalisburyCrags%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E8%8D%B7%E9%87%8C%E8%B7%AF%E5%BE%B7%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210806", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210805", 
+                "urlbase": "/th?id=OHR.SkyPool_EN-US8327769804", 
+                "fullstartdate": "202108050700", 
+                "copyright": "The Sky Pool at Embassy Gardens in London, England (© Xinhua News Agency/Getty Images)", 
+                "title": "A swim in the sky", 
+                "url": "/th?id=OHR.SkyPool_EN-US8327769804_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "025aadc2d47b90907a38fce90d06fa78", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210805_SkyPool%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=london+england&form=hpcapt&filters=HpDate%3a%2220210805_0700%22", 
+                "wp": false, 
+                "enddate": "20210806", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
