@@ -1,0 +1,62 @@
+{
+    "zh-CN": {
+        "images": [
+            {
+                "startdate": "20210807", 
+                "urlbase": "/th?id=OHR.QuayBridge_ZH-CN4900551209", 
+                "fullstartdate": "202108071600", 
+                "copyright": "伊丽莎白女皇码头桥，澳大利亚珀斯 (© Amazing Aerial Agency/Offset by Shutterstock)", 
+                "title": "", 
+                "url": "/th?id=OHR.QuayBridge_ZH-CN4900551209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "ddcbcd988e759346c4b5c18843eaeca0", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210807_QuayBridge%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%E5%A5%B3%E7%9A%87%E7%A0%81%E5%A4%B4%E6%A1%A5&form=hpcapt&mkt=zh-cn", 
+                "wp": true, 
+                "enddate": "20210808", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "播放视频", 
+            "loading": "正在加载...", 
+            "walle": "此图片不能下载用作壁纸。", 
+            "next": "下一个图像", 
+            "walls": "下载今日美图。仅限用作桌面壁纸。", 
+            "pause": "暂停视频", 
+            "previous": "上一个图像"
+        }
+    }, 
+    "en-US": {
+        "images": [
+            {
+                "startdate": "20210807", 
+                "urlbase": "/th?id=OHR.SaltCones_EN-US8727302779", 
+                "fullstartdate": "202108070700", 
+                "copyright": "Salt cones on Salar de Uyuni, Bolivia (© John Shaw/Minden Pictures)", 
+                "title": "Salt of the earth", 
+                "url": "/th?id=OHR.SaltCones_EN-US8727302779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp", 
+                "hs": [], 
+                "hsh": "d23b0fd476510b9ffc3a07e7af3afc93", 
+                "bot": 1, 
+                "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210807_SaltCones%22&FORM=HPQUIZ", 
+                "drk": 1, 
+                "copyrightlink": "https://www.bing.com/search?q=salar+de+uyuni&form=hpcapt&filters=HpDate%3a%2220210807_0700%22", 
+                "wp": true, 
+                "enddate": "20210808", 
+                "top": 1
+            }
+        ], 
+        "tooltips": {
+            "play": "Play video", 
+            "loading": "Loading...", 
+            "walle": "This image is not available to download as wallpaper.", 
+            "next": "Next image", 
+            "walls": "Download this image. Use of this image is restricted to wallpaper only.", 
+            "pause": "Pause video", 
+            "previous": "Previous image"
+        }
+    }
+}
